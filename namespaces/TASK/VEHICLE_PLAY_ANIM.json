@@ -8,11 +8,11 @@
                 "name": "vehicle"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animationSet"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animationName"
             }
         ],

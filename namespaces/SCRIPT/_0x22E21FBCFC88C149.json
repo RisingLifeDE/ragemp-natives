@@ -8,7 +8,7 @@
                 "name": "scriptIndex"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p1"
             }
         ],

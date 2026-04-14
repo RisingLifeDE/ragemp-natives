@@ -8,15 +8,15 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "speechName"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "voiceName"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "speechParam"
             },
             {

@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "labelTitle"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "labelMessage"
             },
             {
@@ -20,7 +20,7 @@
                 "name": "p3"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "labelMessage2"
             },
             {
@@ -36,11 +36,11 @@
                 "name": "p7"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p8"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p9"
             },
             {

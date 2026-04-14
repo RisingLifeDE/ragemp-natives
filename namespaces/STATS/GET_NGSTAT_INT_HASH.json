@@ -20,7 +20,7 @@
                 "name": "character"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "section"
             }
         ],

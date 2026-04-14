@@ -8,11 +8,11 @@
                 "name": "entity"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animDictionary"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animName"
             },
             {

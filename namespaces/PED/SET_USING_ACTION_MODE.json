@@ -16,7 +16,7 @@
                 "name": "p2"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "action"
             }
         ],

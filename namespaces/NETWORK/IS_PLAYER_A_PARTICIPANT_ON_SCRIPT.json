@@ -8,7 +8,7 @@
                 "name": "player1"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "script"
             },
             {

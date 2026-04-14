@@ -12,7 +12,7 @@
                 "name": "latestVersion"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "contentTypeName"
             }
         ],

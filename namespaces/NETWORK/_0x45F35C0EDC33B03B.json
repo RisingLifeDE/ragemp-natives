@@ -28,7 +28,7 @@
                 "name": "p5"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p6"
             },
             {

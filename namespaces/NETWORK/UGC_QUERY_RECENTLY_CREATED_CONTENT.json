@@ -12,7 +12,7 @@
                 "name": "count"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "contentTypeName"
             },
             {

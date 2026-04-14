@@ -8,11 +8,11 @@
                 "name": "type"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "button"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "text"
             }
         ],

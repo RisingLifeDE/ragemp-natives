@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "tunableContext"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "tunableName"
             }
         ],

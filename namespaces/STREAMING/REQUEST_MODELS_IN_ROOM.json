@@ -8,7 +8,7 @@
                 "name": "interior"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "roomName"
             }
         ],

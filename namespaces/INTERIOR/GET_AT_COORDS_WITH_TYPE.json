@@ -16,7 +16,7 @@
                 "name": "z"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "interiorType"
             }
         ],

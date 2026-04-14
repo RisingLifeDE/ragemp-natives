@@ -40,7 +40,7 @@
                 "name": "fadeIn"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "decalName"
             }
         ],

@@ -8,27 +8,27 @@
                 "name": "scaleform"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "methodName"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "param1"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "param2"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "param3"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "param4"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "param5"
             }
         ],

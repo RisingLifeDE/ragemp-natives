@@ -12,11 +12,11 @@
                 "name": "netScene"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animDict"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animName"
             },
             {

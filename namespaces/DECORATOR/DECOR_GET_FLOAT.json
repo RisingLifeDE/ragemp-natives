@@ -8,7 +8,7 @@
                 "name": "entity"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "propertyName"
             }
         ],

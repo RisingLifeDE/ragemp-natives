@@ -12,7 +12,7 @@
                 "name": "vehicle"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "WPRecording"
             },
             {

@@ -8,7 +8,7 @@
                 "name": "gamerTagId"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "string"
             }
         ],

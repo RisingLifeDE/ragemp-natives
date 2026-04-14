@@ -12,11 +12,11 @@
                 "name": "p1"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animName"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animDictionary"
             }
         ],

@@ -8,11 +8,11 @@
                 "name": "contentId"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "srcPlatform"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "srcGamerHandle"
             }
         ],

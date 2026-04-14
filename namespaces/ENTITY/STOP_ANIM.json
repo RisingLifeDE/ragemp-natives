@@ -8,11 +8,11 @@
                 "name": "entity"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animation"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animGroup"
             },
             {

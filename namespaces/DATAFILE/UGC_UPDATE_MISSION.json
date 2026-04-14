@@ -4,23 +4,23 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "contentId"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "contentName"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "description"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "tagsCsv"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "contentTypeName"
             }
         ],

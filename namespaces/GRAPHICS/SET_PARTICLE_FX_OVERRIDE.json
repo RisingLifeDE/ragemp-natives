@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "oldAsset"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "newAsset"
             }
         ],

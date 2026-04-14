@@ -8,27 +8,27 @@
                 "name": "p0"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "windowTitle"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p2"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "defaultText"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "defaultConcat1"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "defaultConcat2"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "defaultConcat3"
             },
             {

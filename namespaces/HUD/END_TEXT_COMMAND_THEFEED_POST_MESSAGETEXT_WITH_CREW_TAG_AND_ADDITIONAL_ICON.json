@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "txdName"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "textureName"
             },
             {
@@ -20,11 +20,11 @@
                 "name": "iconType1"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "sender"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "subject"
             },
             {
@@ -32,7 +32,7 @@
                 "name": "duration"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "clanTag"
             },
             {

@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "contentId"
             },
             {
@@ -12,7 +12,7 @@
                 "name": "rating"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "contentTypeName"
             }
         ],

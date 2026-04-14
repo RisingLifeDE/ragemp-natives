@@ -8,7 +8,7 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "damagePack"
             },
             {

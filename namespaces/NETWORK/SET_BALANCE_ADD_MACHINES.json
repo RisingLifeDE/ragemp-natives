@@ -8,7 +8,7 @@
                 "name": "dataCount"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "contentTypeName"
             }
         ],

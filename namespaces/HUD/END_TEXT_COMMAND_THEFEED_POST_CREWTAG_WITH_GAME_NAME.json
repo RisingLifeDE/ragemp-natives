@@ -28,7 +28,7 @@
                 "name": "clanDesc"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "playerName"
             },
             {

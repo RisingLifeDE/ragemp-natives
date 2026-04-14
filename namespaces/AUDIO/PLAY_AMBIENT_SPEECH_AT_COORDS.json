@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "speechName"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "voiceName"
             },
             {
@@ -24,7 +24,7 @@
                 "name": "z"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "speechParam"
             }
         ],

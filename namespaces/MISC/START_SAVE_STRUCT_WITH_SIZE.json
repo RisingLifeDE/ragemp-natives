@@ -8,7 +8,7 @@
                 "name": "size"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "structName"
             }
         ],

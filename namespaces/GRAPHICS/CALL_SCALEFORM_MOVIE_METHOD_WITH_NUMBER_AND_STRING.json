@@ -8,7 +8,7 @@
                 "name": "scaleform"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "methodName"
             },
             {
@@ -32,23 +32,23 @@
                 "name": "floatParam5"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "stringParam1"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "stringParam2"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "stringParam3"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "stringParam4"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "stringParam5"
             }
         ],

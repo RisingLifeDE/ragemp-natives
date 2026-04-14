@@ -4,15 +4,15 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "contentId"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "baseContentId"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "contentTypeName"
             }
         ],

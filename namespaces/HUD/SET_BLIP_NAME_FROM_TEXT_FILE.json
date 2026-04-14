@@ -8,7 +8,7 @@
                 "name": "blip"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "gxtEntry"
             }
         ],

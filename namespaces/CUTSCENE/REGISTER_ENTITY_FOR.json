@@ -8,7 +8,7 @@
                 "name": "cutscenePed"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "cutsceneEntName"
             },
             {

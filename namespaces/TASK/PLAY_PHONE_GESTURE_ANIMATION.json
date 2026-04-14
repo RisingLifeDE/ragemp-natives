@@ -8,15 +8,15 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animDict"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animation"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "boneMaskType"
             },
             {

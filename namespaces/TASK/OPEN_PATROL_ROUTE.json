@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "patrolRoute"
             }
         ],

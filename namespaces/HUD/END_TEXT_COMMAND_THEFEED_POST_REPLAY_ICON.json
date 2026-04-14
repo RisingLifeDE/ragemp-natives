@@ -12,7 +12,7 @@
                 "name": "image"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "text"
             }
         ],

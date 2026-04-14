@@ -56,11 +56,11 @@
                 "name": "alpha"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "textureDict"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "textureName"
             },
             {

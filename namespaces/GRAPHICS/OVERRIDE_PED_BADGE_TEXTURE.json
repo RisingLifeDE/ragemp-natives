@@ -8,11 +8,11 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "txd"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "txn"
             }
         ],

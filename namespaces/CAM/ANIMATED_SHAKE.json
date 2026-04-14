@@ -8,15 +8,15 @@
                 "name": "cam"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p1"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p2"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p3"
             },
             {

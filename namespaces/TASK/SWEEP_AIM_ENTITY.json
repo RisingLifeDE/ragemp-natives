@@ -8,19 +8,19 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "anim"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p2"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p3"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p4"
             },
             {

@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animDict"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animName"
             }
         ],

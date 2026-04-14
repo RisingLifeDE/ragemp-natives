@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "entryHeader"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "entryLine1"
             },
             {
@@ -16,7 +16,7 @@
                 "name": "instructionalKey"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "entryLine2"
             },
             {

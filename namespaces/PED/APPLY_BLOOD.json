@@ -24,7 +24,7 @@
                 "name": "zRot"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "woundType"
             }
         ],

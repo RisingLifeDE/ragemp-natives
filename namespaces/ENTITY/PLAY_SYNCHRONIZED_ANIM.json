@@ -12,11 +12,11 @@
                 "name": "syncedScene"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animation"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "propName"
             },
             {

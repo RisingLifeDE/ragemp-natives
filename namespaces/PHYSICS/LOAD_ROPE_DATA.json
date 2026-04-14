@@ -8,7 +8,7 @@
                 "name": "ropeId"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "rope_preset"
             }
         ],

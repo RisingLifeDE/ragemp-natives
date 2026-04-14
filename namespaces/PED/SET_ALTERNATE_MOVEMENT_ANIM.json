@@ -12,11 +12,11 @@
                 "name": "stance"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animDictionary"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animationName"
             },
             {

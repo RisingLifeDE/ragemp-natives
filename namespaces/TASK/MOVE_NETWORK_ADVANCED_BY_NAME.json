@@ -8,7 +8,7 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "p1"
             },
             {
@@ -48,7 +48,7 @@
                 "name": "p10"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animDict"
             },
             {

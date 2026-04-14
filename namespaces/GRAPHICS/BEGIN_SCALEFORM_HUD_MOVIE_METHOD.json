@@ -8,7 +8,7 @@
                 "name": "hudComponent"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "methodName"
             }
         ],

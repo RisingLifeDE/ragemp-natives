@@ -8,7 +8,7 @@
                 "name": "statName"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "str"
             }
         ],

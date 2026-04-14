@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "char*",
+                "type": "char",
                 "name": "iplName1"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "iplName2"
             }
         ],

@@ -24,7 +24,7 @@
                 "name": "heading"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "scenarioName"
             }
         ],

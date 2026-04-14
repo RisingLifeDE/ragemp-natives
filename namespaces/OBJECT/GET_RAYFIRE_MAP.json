@@ -20,7 +20,7 @@
                 "name": "radius"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "name"
             }
         ],
