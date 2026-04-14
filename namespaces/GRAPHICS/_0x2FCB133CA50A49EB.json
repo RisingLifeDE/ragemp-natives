@@ -1,0 +1,13 @@
+{
+    "0x2FCB133CA50A49EB": {
+        "name": "_0x2FCB133CA50A49EB",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "val"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

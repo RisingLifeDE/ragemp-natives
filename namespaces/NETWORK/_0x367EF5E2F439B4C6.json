@@ -1,0 +1,13 @@
+{
+    "0x367EF5E2F439B4C6": {
+        "name": "_0x367EF5E2F439B4C6",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

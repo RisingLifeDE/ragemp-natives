@@ -1,0 +1,21 @@
+{
+    "0x66972397E0757E7A": {
+        "name": "_0x66972397E0757E7A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

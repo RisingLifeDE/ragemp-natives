@@ -1,0 +1,13 @@
+{
+    "0xF1A1803D3476F215": {
+        "name": "_0xF1A1803D3476F215",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

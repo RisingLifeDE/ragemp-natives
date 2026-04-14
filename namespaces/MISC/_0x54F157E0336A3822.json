@@ -1,0 +1,21 @@
+{
+    "0x54F157E0336A3822": {
+        "name": "_0x54F157E0336A3822",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

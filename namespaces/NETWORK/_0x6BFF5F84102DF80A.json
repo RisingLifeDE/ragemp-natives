@@ -1,0 +1,13 @@
+{
+    "0x6BFF5F84102DF80A": {
+        "name": "_0x6BFF5F84102DF80A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void"
+    }
+}

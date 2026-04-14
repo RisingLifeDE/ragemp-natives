@@ -1,0 +1,13 @@
+{
+    "0x14EDA9EE27BD1626": {
+        "name": "_0x14EDA9EE27BD1626",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

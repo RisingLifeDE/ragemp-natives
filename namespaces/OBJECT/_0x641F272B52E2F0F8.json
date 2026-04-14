@@ -1,0 +1,17 @@
+{
+    "0x641F272B52E2F0F8": {
+        "name": "_0x641F272B52E2F0F8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

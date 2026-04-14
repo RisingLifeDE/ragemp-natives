@@ -1,0 +1,17 @@
+{
+    "0x0B3E35AC043707D9": {
+        "name": "_0x0B3E35AC043707D9",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

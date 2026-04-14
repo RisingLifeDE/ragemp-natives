@@ -1,0 +1,17 @@
+{
+    "0x2B51EDBEFC301339": {
+        "name": "_0x2B51EDBEFC301339",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

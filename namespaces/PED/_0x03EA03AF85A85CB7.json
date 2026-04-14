@@ -1,0 +1,45 @@
+{
+    "0x03EA03AF85A85CB7": {
+        "name": "_0x03EA03AF85A85CB7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

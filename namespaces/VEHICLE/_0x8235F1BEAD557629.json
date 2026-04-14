@@ -1,0 +1,17 @@
+{
+    "0x8235F1BEAD557629": {
+        "name": "_0x8235F1BEAD557629",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

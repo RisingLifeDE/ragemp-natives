@@ -1,0 +1,17 @@
+{
+    "0x110F526AB784111F": {
+        "name": "_0x110F526AB784111F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

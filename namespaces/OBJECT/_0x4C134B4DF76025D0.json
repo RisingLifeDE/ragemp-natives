@@ -1,0 +1,17 @@
+{
+    "0x4C134B4DF76025D0": {
+        "name": "_0x4C134B4DF76025D0",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

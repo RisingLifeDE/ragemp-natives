@@ -1,0 +1,17 @@
+{
+    "0x661B5C8654ADD825": {
+        "name": "_0x661B5C8654ADD825",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x64D779659BC37B19": {
+        "name": "_0x64D779659BC37B19",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

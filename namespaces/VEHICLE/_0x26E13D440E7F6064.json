@@ -1,0 +1,17 @@
+{
+    "0x26E13D440E7F6064": {
+        "name": "_0x26E13D440E7F6064",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

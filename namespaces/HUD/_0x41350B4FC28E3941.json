@@ -1,0 +1,13 @@
+{
+    "0x41350B4FC28E3941": {
+        "name": "_0x41350B4FC28E3941",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

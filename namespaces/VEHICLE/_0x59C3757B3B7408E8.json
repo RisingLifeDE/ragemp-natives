@@ -1,0 +1,21 @@
+{
+    "0x59C3757B3B7408E8": {
+        "name": "_0x59C3757B3B7408E8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

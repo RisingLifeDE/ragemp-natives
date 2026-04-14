@@ -1,0 +1,21 @@
+{
+    "0x10144267DD22866C": {
+        "name": "_0x10144267DD22866C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "overlayHash"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "character"
+            }
+        ],
+        "return_type": "float"
+    }
+}

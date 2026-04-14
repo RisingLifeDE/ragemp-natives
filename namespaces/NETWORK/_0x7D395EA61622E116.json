@@ -1,0 +1,13 @@
+{
+    "0x7D395EA61622E116": {
+        "name": "_0x7D395EA61622E116",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

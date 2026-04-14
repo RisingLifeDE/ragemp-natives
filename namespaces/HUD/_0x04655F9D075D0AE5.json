@@ -1,0 +1,13 @@
+{
+    "0x04655F9D075D0AE5": {
+        "name": "_0x04655F9D075D0AE5",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

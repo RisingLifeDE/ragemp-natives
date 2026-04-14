@@ -1,0 +1,13 @@
+{
+    "0xCFD16F0DB5A3535C": {
+        "name": "_0xCFD16F0DB5A3535C",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

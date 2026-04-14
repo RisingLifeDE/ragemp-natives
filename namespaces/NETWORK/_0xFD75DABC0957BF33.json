@@ -1,0 +1,13 @@
+{
+    "0xFD75DABC0957BF33": {
+        "name": "_0xFD75DABC0957BF33",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

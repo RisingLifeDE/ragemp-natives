@@ -1,0 +1,17 @@
+{
+    "0x7E2BD3EF6C205F09": {
+        "name": "_0x7E2BD3EF6C205F09",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

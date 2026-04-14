@@ -1,0 +1,13 @@
+{
+    "0x9245E81072704B8A": {
+        "name": "_0x9245E81072704B8A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

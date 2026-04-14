@@ -1,0 +1,17 @@
+{
+    "0x35BB21DE06784373": {
+        "name": "_0x35BB21DE06784373",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

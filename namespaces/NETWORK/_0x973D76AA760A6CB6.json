@@ -1,0 +1,13 @@
+{
+    "0x973D76AA760A6CB6": {
+        "name": "_0x973D76AA760A6CB6",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

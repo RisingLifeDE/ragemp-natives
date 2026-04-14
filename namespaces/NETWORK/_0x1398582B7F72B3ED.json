@@ -1,0 +1,13 @@
+{
+    "0x1398582B7F72B3ED": {
+        "name": "_0x1398582B7F72B3ED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

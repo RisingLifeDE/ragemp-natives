@@ -1,0 +1,13 @@
+{
+    "0xE3E2C1B4C59DBC77": {
+        "name": "_0xE3E2C1B4C59DBC77",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "unk"
+            }
+        ],
+        "return_type": "void"
+    }
+}

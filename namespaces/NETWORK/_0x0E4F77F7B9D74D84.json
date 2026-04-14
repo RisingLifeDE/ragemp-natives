@@ -1,0 +1,13 @@
+{
+    "0x0E4F77F7B9D74D84": {
+        "name": "_0x0E4F77F7B9D74D84",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

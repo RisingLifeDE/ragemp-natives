@@ -1,0 +1,13 @@
+{
+    "0xCAC57395B151135F": {
+        "name": "_0xCAC57395B151135F",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

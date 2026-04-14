@@ -1,0 +1,17 @@
+{
+    "0x32F34FF7F617643B": {
+        "name": "_0x32F34FF7F617643B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

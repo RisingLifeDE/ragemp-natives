@@ -1,0 +1,17 @@
+{
+    "0x49E50BDB8BA4DAB2": {
+        "name": "_0x49E50BDB8BA4DAB2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "0x0419B167EE128F33": {
+        "name": "_0x0419B167EE128F33",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

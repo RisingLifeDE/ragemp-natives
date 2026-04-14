@@ -1,0 +1,17 @@
+{
+    "0x78CEEE41F49F421F": {
+        "name": "_0x78CEEE41F49F421F",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x20C6C7E4EB082A7F": {
+        "name": "_0x20C6C7E4EB082A7F",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

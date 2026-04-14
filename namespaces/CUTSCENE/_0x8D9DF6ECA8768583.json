@@ -1,0 +1,13 @@
+{
+    "0x8D9DF6ECA8768583": {
+        "name": "_0x8D9DF6ECA8768583",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

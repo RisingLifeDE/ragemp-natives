@@ -1,0 +1,13 @@
+{
+    "0x247ACBC4ABBC9D1C": {
+        "name": "_0x247ACBC4ABBC9D1C",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

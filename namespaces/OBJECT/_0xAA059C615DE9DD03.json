@@ -1,0 +1,17 @@
+{
+    "0xAA059C615DE9DD03": {
+        "name": "_0xAA059C615DE9DD03",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

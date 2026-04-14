@@ -1,0 +1,17 @@
+{
+    "0x3FA36981311FA4FF": {
+        "name": "_0x3FA36981311FA4FF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void"
+    }
+}

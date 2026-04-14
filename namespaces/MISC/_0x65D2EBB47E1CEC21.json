@@ -1,0 +1,13 @@
+{
+    "0x65D2EBB47E1CEC21": {
+        "name": "_0x65D2EBB47E1CEC21",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

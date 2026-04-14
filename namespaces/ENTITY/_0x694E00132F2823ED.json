@@ -1,0 +1,17 @@
+{
+    "0x694E00132F2823ED": {
+        "name": "_0x694E00132F2823ED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

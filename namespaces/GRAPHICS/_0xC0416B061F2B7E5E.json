@@ -1,0 +1,13 @@
+{
+    "0xC0416B061F2B7E5E": {
+        "name": "_0xC0416B061F2B7E5E",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

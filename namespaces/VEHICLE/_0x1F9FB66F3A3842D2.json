@@ -1,0 +1,17 @@
+{
+    "0x1F9FB66F3A3842D2": {
+        "name": "_0x1F9FB66F3A3842D2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

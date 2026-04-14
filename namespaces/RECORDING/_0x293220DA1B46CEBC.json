@@ -1,0 +1,21 @@
+{
+    "0x293220DA1B46CEBC": {
+        "name": "_0x293220DA1B46CEBC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

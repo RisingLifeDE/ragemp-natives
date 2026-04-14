@@ -1,0 +1,13 @@
+{
+    "0x5B73C77D9EB66E24": {
+        "name": "_0x5B73C77D9EB66E24",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

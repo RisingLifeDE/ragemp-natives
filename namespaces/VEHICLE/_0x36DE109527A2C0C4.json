@@ -1,0 +1,13 @@
+{
+    "0x36DE109527A2C0C4": {
+        "name": "_0x36DE109527A2C0C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

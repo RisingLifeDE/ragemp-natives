@@ -1,0 +1,13 @@
+{
+    "0x9D30687C57BAA0BB": {
+        "name": "_0x9D30687C57BAA0BB",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

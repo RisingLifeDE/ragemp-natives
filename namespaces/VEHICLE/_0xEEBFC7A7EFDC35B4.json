@@ -1,0 +1,13 @@
+{
+    "0xEEBFC7A7EFDC35B4": {
+        "name": "_0xEEBFC7A7EFDC35B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

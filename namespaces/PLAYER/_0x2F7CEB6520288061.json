@@ -1,0 +1,13 @@
+{
+    "0x2F7CEB6520288061": {
+        "name": "_0x2F7CEB6520288061",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

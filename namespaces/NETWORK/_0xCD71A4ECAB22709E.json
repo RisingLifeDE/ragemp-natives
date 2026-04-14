@@ -1,0 +1,13 @@
+{
+    "0xCD71A4ECAB22709E": {
+        "name": "_0xCD71A4ECAB22709E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

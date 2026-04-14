@@ -1,0 +1,17 @@
+{
+    "0x0F1A4B45B7693B95": {
+        "name": "_0x0F1A4B45B7693B95",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

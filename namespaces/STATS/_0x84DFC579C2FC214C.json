@@ -1,0 +1,13 @@
+{
+    "0x84DFC579C2FC214C": {
+        "name": "_0x84DFC579C2FC214C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

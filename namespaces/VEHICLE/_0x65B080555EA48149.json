@@ -1,0 +1,13 @@
+{
+    "0x65B080555EA48149": {
+        "name": "_0x65B080555EA48149",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

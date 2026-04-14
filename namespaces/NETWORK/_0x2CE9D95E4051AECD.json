@@ -1,0 +1,13 @@
+{
+    "0x2CE9D95E4051AECD": {
+        "name": "_0x2CE9D95E4051AECD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

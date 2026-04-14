@@ -1,0 +1,13 @@
+{
+    "0xEBD3205A207939ED": {
+        "name": "_0xEBD3205A207939ED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

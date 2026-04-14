@@ -1,0 +1,13 @@
+{
+    "0x6A51F78772175A51": {
+        "name": "_0x6A51F78772175A51",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

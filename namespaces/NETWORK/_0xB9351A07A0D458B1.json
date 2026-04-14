@@ -1,0 +1,13 @@
+{
+    "0xB9351A07A0D458B1": {
+        "name": "_0xB9351A07A0D458B1",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

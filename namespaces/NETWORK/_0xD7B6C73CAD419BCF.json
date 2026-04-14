@@ -1,0 +1,13 @@
+{
+    "0xD7B6C73CAD419BCF": {
+        "name": "_0xD7B6C73CAD419BCF",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

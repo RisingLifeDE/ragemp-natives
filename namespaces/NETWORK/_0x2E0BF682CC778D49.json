@@ -1,0 +1,13 @@
+{
+    "0x2E0BF682CC778D49": {
+        "name": "_0x2E0BF682CC778D49",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

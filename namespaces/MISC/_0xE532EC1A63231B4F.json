@@ -1,0 +1,17 @@
+{
+    "0xE532EC1A63231B4F": {
+        "name": "_0xE532EC1A63231B4F",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

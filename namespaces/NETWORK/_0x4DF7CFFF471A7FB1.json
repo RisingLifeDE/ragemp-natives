@@ -1,0 +1,13 @@
+{
+    "0x4DF7CFFF471A7FB1": {
+        "name": "_0x4DF7CFFF471A7FB1",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

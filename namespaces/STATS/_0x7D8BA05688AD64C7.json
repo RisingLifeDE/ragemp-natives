@@ -1,0 +1,13 @@
+{
+    "0x7D8BA05688AD64C7": {
+        "name": "_0x7D8BA05688AD64C7",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

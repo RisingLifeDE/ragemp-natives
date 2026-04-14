@@ -1,0 +1,13 @@
+{
+    "0xBA91D045575699AD": {
+        "name": "_0xBA91D045575699AD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

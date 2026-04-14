@@ -1,0 +1,13 @@
+{
+    "0xDFE68C4B787E1BFB": {
+        "name": "_0xDFE68C4B787E1BFB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

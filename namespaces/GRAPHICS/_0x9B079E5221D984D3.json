@@ -1,0 +1,13 @@
+{
+    "0x9B079E5221D984D3": {
+        "name": "_0x9B079E5221D984D3",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

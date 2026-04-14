@@ -1,0 +1,17 @@
+{
+    "0x0205F5365292D2EB": {
+        "name": "_0x0205F5365292D2EB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

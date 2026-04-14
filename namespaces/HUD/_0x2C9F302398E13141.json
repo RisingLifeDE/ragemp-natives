@@ -1,0 +1,17 @@
+{
+    "0x2C9F302398E13141": {
+        "name": "_0x2C9F302398E13141",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

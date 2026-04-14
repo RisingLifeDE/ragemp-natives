@@ -1,0 +1,13 @@
+{
+    "0x77F16B447824DA6C": {
+        "name": "_0x77F16B447824DA6C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

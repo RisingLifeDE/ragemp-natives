@@ -1,0 +1,13 @@
+{
+    "0xD33DAA36272177C4": {
+        "name": "_0xD33DAA36272177C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

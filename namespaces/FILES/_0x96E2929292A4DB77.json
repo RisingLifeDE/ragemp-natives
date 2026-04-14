@@ -1,0 +1,13 @@
+{
+    "0x96E2929292A4DB77": {
+        "name": "_0x96E2929292A4DB77",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

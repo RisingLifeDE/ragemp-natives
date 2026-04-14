@@ -1,0 +1,17 @@
+{
+    "0x2C4A1590ABF43E8B": {
+        "name": "_0x2C4A1590ABF43E8B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

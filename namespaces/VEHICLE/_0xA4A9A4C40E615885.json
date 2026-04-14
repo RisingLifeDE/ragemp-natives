@@ -1,0 +1,13 @@
+{
+    "0xA4A9A4C40E615885": {
+        "name": "_0xA4A9A4C40E615885",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

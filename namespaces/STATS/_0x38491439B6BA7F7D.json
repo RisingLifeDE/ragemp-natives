@@ -1,0 +1,17 @@
+{
+    "0x38491439B6BA7F7D": {
+        "name": "_0x38491439B6BA7F7D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

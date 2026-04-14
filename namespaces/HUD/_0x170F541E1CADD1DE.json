@@ -1,0 +1,13 @@
+{
+    "0x170F541E1CADD1DE": {
+        "name": "_0x170F541E1CADD1DE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

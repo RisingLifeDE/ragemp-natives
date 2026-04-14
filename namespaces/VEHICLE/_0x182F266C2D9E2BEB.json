@@ -1,0 +1,17 @@
+{
+    "0x182F266C2D9E2BEB": {
+        "name": "_0x182F266C2D9E2BEB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

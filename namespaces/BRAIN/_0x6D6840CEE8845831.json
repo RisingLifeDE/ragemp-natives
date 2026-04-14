@@ -1,0 +1,13 @@
+{
+    "0x6D6840CEE8845831": {
+        "name": "_0x6D6840CEE8845831",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "action"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x3DE51E9C80B116CF": {
+        "name": "_0x3DE51E9C80B116CF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xC2EE020F5FB4DB53": {
+        "name": "_0xC2EE020F5FB4DB53",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

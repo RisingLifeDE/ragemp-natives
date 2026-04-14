@@ -1,0 +1,17 @@
+{
+    "0x88BC673CA9E0AE99": {
+        "name": "_0x88BC673CA9E0AE99",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

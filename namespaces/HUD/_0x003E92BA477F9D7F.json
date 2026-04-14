@@ -1,0 +1,13 @@
+{
+    "0x003E92BA477F9D7F": {
+        "name": "_0x003E92BA477F9D7F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "float"
+    }
+}

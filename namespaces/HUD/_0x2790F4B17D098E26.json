@@ -1,0 +1,13 @@
+{
+    "0x2790F4B17D098E26": {
+        "name": "_0x2790F4B17D098E26",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

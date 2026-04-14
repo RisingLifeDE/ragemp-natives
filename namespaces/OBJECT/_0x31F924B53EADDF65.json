@@ -1,0 +1,13 @@
+{
+    "0x31F924B53EADDF65": {
+        "name": "_0x31F924B53EADDF65",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

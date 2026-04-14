@@ -1,0 +1,13 @@
+{
+    "0xCC6E963682533882": {
+        "name": "_0xCC6E963682533882",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void"
+    }
+}

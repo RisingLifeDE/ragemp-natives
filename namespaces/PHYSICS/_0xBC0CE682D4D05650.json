@@ -1,0 +1,65 @@
+{
+    "0xBC0CE682D4D05650": {
+        "name": "_0xBC0CE682D4D05650",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "float",
+                "name": "p11"
+            },
+            {
+                "type": "float",
+                "name": "p12"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void"
+    }
+}

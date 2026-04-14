@@ -1,0 +1,17 @@
+{
+    "0xCA6B2F7CE32AB653": {
+        "name": "_0xCA6B2F7CE32AB653",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

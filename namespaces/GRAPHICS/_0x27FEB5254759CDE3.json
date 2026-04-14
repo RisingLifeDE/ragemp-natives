@@ -1,0 +1,17 @@
+{
+    "0x27FEB5254759CDE3": {
+        "name": "_0x27FEB5254759CDE3",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

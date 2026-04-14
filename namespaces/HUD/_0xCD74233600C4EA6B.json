@@ -1,0 +1,13 @@
+{
+    "0xCD74233600C4EA6B": {
+        "name": "_0xCD74233600C4EA6B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

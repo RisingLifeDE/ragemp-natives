@@ -1,0 +1,17 @@
+{
+    "0x858EC9FD25DE04AA": {
+        "name": "_0x858EC9FD25DE04AA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

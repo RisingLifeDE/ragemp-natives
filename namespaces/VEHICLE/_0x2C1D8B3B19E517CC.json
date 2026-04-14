@@ -1,0 +1,17 @@
+{
+    "0x2C1D8B3B19E517CC": {
+        "name": "_0x2C1D8B3B19E517CC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

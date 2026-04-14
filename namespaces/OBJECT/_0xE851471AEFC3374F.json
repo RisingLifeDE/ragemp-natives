@@ -1,0 +1,13 @@
+{
+    "0xE851471AEFC3374F": {
+        "name": "_0xE851471AEFC3374F",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

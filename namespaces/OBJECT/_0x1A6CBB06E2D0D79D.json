@@ -1,0 +1,17 @@
+{
+    "0x1A6CBB06E2D0D79D": {
+        "name": "_0x1A6CBB06E2D0D79D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

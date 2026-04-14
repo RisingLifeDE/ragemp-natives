@@ -1,0 +1,13 @@
+{
+    "0x511F1A683387C7E2": {
+        "name": "_0x511F1A683387C7E2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

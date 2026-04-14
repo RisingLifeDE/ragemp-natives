@@ -1,0 +1,17 @@
+{
+    "0xD7B80E7C3BEFC396": {
+        "name": "_0xD7B80E7C3BEFC396",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

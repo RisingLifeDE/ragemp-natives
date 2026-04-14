@@ -1,0 +1,21 @@
+{
+    "0xAA525DFF66BB82F5": {
+        "name": "_0xAA525DFF66BB82F5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

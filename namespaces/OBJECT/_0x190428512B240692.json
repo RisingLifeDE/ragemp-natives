@@ -1,0 +1,29 @@
+{
+    "0x190428512B240692": {
+        "name": "_0x190428512B240692",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "garageHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "vehicles"
+            },
+            {
+                "type": "BOOL",
+                "name": "peds"
+            },
+            {
+                "type": "BOOL",
+                "name": "objects"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            }
+        ],
+        "return_type": "void"
+    }
+}

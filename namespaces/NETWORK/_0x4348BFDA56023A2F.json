@@ -1,0 +1,17 @@
+{
+    "0x4348BFDA56023A2F": {
+        "name": "_0x4348BFDA56023A2F",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

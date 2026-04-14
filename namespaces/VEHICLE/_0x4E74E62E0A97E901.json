@@ -1,0 +1,17 @@
+{
+    "0x4E74E62E0A97E901": {
+        "name": "_0x4E74E62E0A97E901",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

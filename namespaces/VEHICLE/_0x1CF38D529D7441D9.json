@@ -1,0 +1,17 @@
+{
+    "0x1CF38D529D7441D9": {
+        "name": "_0x1CF38D529D7441D9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

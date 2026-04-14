@@ -1,0 +1,17 @@
+{
+    "0x2F41A3BAE005E5FA": {
+        "name": "_0x2F41A3BAE005E5FA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

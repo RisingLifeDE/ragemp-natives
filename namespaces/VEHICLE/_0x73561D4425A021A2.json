@@ -1,0 +1,17 @@
+{
+    "0x73561D4425A021A2": {
+        "name": "_0x73561D4425A021A2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

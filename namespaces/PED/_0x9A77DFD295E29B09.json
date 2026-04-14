@@ -1,0 +1,17 @@
+{
+    "0x9A77DFD295E29B09": {
+        "name": "_0x9A77DFD295E29B09",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

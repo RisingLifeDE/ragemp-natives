@@ -1,0 +1,21 @@
+{
+    "0x7D6F9A3EF26136A0": {
+        "name": "_0x7D6F9A3EF26136A0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

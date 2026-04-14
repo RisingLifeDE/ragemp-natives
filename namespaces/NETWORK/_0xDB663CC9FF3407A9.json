@@ -1,0 +1,13 @@
+{
+    "0xDB663CC9FF3407A9": {
+        "name": "_0xDB663CC9FF3407A9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float"
+    }
+}

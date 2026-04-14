@@ -1,0 +1,13 @@
+{
+    "0x76D26A22750E849E": {
+        "name": "_0x76D26A22750E849E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

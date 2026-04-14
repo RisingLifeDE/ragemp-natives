@@ -1,0 +1,17 @@
+{
+    "0x1A330D297AAC6BC1": {
+        "name": "_0x1A330D297AAC6BC1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

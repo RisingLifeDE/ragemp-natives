@@ -1,0 +1,13 @@
+{
+    "0xCA4AE345A153D573": {
+        "name": "_0xCA4AE345A153D573",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

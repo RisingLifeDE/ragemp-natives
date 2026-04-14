@@ -1,0 +1,13 @@
+{
+    "0xF10B44FD479D69F3": {
+        "name": "_0xF10B44FD479D69F3",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

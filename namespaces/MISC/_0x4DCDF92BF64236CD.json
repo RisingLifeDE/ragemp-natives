@@ -1,0 +1,17 @@
+{
+    "0x4DCDF92BF64236CD": {
+        "name": "_0x4DCDF92BF64236CD",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

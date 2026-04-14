@@ -1,0 +1,13 @@
+{
+    "0x5BBCF35BF6E456F7": {
+        "name": "_0x5BBCF35BF6E456F7",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

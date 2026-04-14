@@ -1,0 +1,13 @@
+{
+    "0x9EBD751E5787BAF2": {
+        "name": "_0x9EBD751E5787BAF2",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

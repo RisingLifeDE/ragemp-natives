@@ -1,0 +1,13 @@
+{
+    "0x57D760D55F54E071": {
+        "name": "_0x57D760D55F54E071",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

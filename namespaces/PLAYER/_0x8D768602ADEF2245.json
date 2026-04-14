@@ -1,0 +1,13 @@
+{
+    "0x8D768602ADEF2245": {
+        "name": "_0x8D768602ADEF2245",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

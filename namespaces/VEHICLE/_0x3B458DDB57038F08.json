@@ -1,0 +1,21 @@
+{
+    "0x3B458DDB57038F08": {
+        "name": "_0x3B458DDB57038F08",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "doorIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

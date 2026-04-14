@@ -1,0 +1,21 @@
+{
+    "0xFAE628F1E9ADB239": {
+        "name": "_0xFAE628F1E9ADB239",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

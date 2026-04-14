@@ -1,0 +1,17 @@
+{
+    "0xA85A21582451E951": {
+        "name": "_0xA85A21582451E951",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xFDC07C58E8AAB715": {
+        "name": "_0xFDC07C58E8AAB715",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

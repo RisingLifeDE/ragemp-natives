@@ -1,0 +1,17 @@
+{
+    "0x4D9D109F63FEE1D4": {
+        "name": "_0x4D9D109F63FEE1D4",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

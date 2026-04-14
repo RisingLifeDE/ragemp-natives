@@ -1,0 +1,17 @@
+{
+    "0x2016C603D6B8987C": {
+        "name": "_0x2016C603D6B8987C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

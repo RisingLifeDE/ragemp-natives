@@ -1,0 +1,13 @@
+{
+    "0x5F6DF3D92271E8A1": {
+        "name": "_0x5F6DF3D92271E8A1",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

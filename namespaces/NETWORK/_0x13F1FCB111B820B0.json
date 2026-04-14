@@ -1,0 +1,13 @@
+{
+    "0x13F1FCB111B820B0": {
+        "name": "_0x13F1FCB111B820B0",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

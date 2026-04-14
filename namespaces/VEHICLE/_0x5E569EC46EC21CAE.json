@@ -1,0 +1,17 @@
+{
+    "0x5E569EC46EC21CAE": {
+        "name": "_0x5E569EC46EC21CAE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

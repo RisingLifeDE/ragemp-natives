@@ -1,0 +1,13 @@
+{
+    "0xCF9159024555488C": {
+        "name": "_0xCF9159024555488C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

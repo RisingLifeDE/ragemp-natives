@@ -1,0 +1,17 @@
+{
+    "0x271401846BD26E92": {
+        "name": "_0x271401846BD26E92",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

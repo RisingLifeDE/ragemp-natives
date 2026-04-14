@@ -1,0 +1,13 @@
+{
+    "0x5ECD378EE64450AB": {
+        "name": "_0x5ECD378EE64450AB",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

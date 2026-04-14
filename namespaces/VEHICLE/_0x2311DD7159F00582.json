@@ -1,0 +1,17 @@
+{
+    "0x2311DD7159F00582": {
+        "name": "_0x2311DD7159F00582",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

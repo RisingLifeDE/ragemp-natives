@@ -1,0 +1,13 @@
+{
+    "0x4008EDF7D6E48175": {
+        "name": "_0x4008EDF7D6E48175",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

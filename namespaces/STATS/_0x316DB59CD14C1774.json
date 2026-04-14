@@ -1,0 +1,13 @@
+{
+    "0x316DB59CD14C1774": {
+        "name": "_0x316DB59CD14C1774",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

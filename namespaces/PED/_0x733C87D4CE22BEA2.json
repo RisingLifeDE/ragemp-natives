@@ -1,0 +1,13 @@
+{
+    "0x733C87D4CE22BEA2": {
+        "name": "_0x733C87D4CE22BEA2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

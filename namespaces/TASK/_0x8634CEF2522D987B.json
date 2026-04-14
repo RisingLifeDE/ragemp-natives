@@ -1,0 +1,21 @@
+{
+    "0x8634CEF2522D987B": {
+        "name": "_0x8634CEF2522D987B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

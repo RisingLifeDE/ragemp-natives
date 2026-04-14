@@ -1,0 +1,17 @@
+{
+    "0x41062318F23ED854": {
+        "name": "_0x41062318F23ED854",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

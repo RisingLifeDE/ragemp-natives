@@ -1,0 +1,13 @@
+{
+    "0xE4DCEC7FD5B739A5": {
+        "name": "_0xE4DCEC7FD5B739A5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

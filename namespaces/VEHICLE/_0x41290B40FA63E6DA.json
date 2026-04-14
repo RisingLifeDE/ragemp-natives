@@ -1,0 +1,13 @@
+{
+    "0x41290B40FA63E6DA": {
+        "name": "_0x41290B40FA63E6DA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

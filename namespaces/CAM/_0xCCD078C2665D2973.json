@@ -1,0 +1,13 @@
+{
+    "0xCCD078C2665D2973": {
+        "name": "_0xCCD078C2665D2973",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

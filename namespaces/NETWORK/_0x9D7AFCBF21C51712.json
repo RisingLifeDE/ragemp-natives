@@ -1,0 +1,13 @@
+{
+    "0x9D7AFCBF21C51712": {
+        "name": "_0x9D7AFCBF21C51712",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "0xC34BC448DA29F5E9": {
+        "name": "_0xC34BC448DA29F5E9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

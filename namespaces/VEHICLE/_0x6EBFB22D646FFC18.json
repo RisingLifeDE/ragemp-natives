@@ -1,0 +1,17 @@
+{
+    "0x6EBFB22D646FFC18": {
+        "name": "_0x6EBFB22D646FFC18",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "0x208784099002BC30": {
+        "name": "_0x208784099002BC30",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "missionNameLabel"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

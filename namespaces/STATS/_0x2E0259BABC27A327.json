@@ -1,0 +1,13 @@
+{
+    "0x2E0259BABC27A327": {
+        "name": "_0x2E0259BABC27A327",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

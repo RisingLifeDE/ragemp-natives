@@ -1,0 +1,17 @@
+{
+    "0xEC4B4B3B9908052A": {
+        "name": "_0xEC4B4B3B9908052A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "unk"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xCFEB46DCD7D8D5EB": {
+        "name": "_0xCFEB46DCD7D8D5EB",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

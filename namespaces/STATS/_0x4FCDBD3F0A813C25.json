@@ -1,0 +1,17 @@
+{
+    "0x4FCDBD3F0A813C25": {
+        "name": "_0x4FCDBD3F0A813C25",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

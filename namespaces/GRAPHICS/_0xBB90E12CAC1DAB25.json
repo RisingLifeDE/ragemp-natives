@@ -1,0 +1,13 @@
+{
+    "0xBB90E12CAC1DAB25": {
+        "name": "_0xBB90E12CAC1DAB25",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

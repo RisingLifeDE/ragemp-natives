@@ -1,0 +1,13 @@
+{
+    "0xD66C9E72B3CC4982": {
+        "name": "_0xD66C9E72B3CC4982",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "_0xD66C9E72B3CC4982Result"
+    }
+}

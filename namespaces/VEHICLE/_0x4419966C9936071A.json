@@ -1,0 +1,13 @@
+{
+    "0x4419966C9936071A": {
+        "name": "_0x4419966C9936071A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

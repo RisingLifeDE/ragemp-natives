@@ -1,0 +1,13 @@
+{
+    "0x4C2330E61D3DEB56": {
+        "name": "_0x4C2330E61D3DEB56",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "float"
+    }
+}

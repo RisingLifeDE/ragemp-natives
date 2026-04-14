@@ -1,0 +1,17 @@
+{
+    "0x82EBB79E258FA2B7": {
+        "name": "_0x82EBB79E258FA2B7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "void"
+    }
+}

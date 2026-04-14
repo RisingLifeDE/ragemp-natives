@@ -1,0 +1,25 @@
+{
+    "0x25361A96E0F7E419": {
+        "name": "_0x25361A96E0F7E419",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "float"
+    }
+}

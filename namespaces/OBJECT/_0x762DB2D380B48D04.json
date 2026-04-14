@@ -1,0 +1,13 @@
+{
+    "0x762DB2D380B48D04": {
+        "name": "_0x762DB2D380B48D04",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

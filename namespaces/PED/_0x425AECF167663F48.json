@@ -1,0 +1,17 @@
+{
+    "0x425AECF167663F48": {
+        "name": "_0x425AECF167663F48",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

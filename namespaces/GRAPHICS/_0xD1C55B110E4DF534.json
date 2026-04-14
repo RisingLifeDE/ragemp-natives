@@ -1,0 +1,13 @@
+{
+    "0xD1C55B110E4DF534": {
+        "name": "_0xD1C55B110E4DF534",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

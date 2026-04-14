@@ -1,0 +1,13 @@
+{
+    "0x9911F4A24485F653": {
+        "name": "_0x9911F4A24485F653",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

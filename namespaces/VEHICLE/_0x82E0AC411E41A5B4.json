@@ -1,0 +1,13 @@
+{
+    "0x82E0AC411E41A5B4": {
+        "name": "_0x82E0AC411E41A5B4",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

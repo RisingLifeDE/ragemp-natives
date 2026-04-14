@@ -1,0 +1,13 @@
+{
+    "0x02369D5C8A51FDCF": {
+        "name": "_0x02369D5C8A51FDCF",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

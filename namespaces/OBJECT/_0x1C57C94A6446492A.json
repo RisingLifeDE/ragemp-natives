@@ -1,0 +1,17 @@
+{
+    "0x1C57C94A6446492A": {
+        "name": "_0x1C57C94A6446492A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

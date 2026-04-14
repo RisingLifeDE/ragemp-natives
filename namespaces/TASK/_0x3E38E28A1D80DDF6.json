@@ -1,0 +1,13 @@
+{
+    "0x3E38E28A1D80DDF6": {
+        "name": "_0x3E38E28A1D80DDF6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xFB80AB299D2EE1BD": {
+        "name": "_0xFB80AB299D2EE1BD",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

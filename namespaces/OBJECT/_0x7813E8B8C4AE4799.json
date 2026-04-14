@@ -1,0 +1,13 @@
+{
+    "0x7813E8B8C4AE4799": {
+        "name": "_0x7813E8B8C4AE4799",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "void"
+    }
+}

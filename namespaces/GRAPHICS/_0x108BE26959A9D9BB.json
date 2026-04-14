@@ -1,0 +1,13 @@
+{
+    "0x108BE26959A9D9BB": {
+        "name": "_0x108BE26959A9D9BB",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "0x76B3F29D3F967692": {
+        "name": "_0x76B3F29D3F967692",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

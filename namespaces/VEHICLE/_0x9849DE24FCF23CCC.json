@@ -1,0 +1,17 @@
+{
+    "0x9849DE24FCF23CCC": {
+        "name": "_0x9849DE24FCF23CCC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

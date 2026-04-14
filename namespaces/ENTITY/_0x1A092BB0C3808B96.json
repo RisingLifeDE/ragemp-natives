@@ -1,0 +1,17 @@
+{
+    "0x1A092BB0C3808B96": {
+        "name": "_0x1A092BB0C3808B96",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

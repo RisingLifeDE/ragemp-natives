@@ -1,0 +1,33 @@
+{
+    "0x98C4FE6EC34154CA": {
+        "name": "_0x98C4FE6EC34154CA",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "presetName"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

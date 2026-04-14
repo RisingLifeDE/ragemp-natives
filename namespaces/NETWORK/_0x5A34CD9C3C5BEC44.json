@@ -1,0 +1,13 @@
+{
+    "0x5A34CD9C3C5BEC44": {
+        "name": "_0x5A34CD9C3C5BEC44",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

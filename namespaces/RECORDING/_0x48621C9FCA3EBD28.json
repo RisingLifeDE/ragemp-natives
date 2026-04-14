@@ -1,0 +1,13 @@
+{
+    "0x48621C9FCA3EBD28": {
+        "name": "_0x48621C9FCA3EBD28",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

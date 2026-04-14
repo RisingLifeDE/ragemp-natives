@@ -1,0 +1,13 @@
+{
+    "0x908311265D42A820": {
+        "name": "_0x908311265D42A820",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

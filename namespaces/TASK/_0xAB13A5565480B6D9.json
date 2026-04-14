@@ -1,0 +1,17 @@
+{
+    "0xAB13A5565480B6D9": {
+        "name": "_0xAB13A5565480B6D9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

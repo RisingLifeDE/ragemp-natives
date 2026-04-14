@@ -1,0 +1,21 @@
+{
+    "0xC0ED6438E6D39BA8": {
+        "name": "_0xC0ED6438E6D39BA8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

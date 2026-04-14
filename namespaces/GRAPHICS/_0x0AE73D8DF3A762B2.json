@@ -1,0 +1,13 @@
+{
+    "0x0AE73D8DF3A762B2": {
+        "name": "_0x0AE73D8DF3A762B2",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

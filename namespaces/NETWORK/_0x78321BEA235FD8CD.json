@@ -1,0 +1,17 @@
+{
+    "0x78321BEA235FD8CD": {
+        "name": "_0x78321BEA235FD8CD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

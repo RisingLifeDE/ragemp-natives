@@ -1,0 +1,17 @@
+{
+    "0xE906EC930F5FE7C8": {
+        "name": "_0xE906EC930F5FE7C8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

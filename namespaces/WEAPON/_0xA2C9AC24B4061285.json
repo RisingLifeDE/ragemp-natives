@@ -1,0 +1,17 @@
+{
+    "0xA2C9AC24B4061285": {
+        "name": "_0xA2C9AC24B4061285",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

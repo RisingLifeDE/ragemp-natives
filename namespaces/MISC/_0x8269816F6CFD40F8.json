@@ -1,0 +1,13 @@
+{
+    "0x8269816F6CFD40F8": {
+        "name": "_0x8269816F6CFD40F8",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "float"
+    }
+}

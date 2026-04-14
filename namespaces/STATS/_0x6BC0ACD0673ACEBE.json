@@ -1,0 +1,21 @@
+{
+    "0x6BC0ACD0673ACEBE": {
+        "name": "_0x6BC0ACD0673ACEBE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

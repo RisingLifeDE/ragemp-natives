@@ -1,0 +1,13 @@
+{
+    "0x887FA38787DE8C72": {
+        "name": "_0x887FA38787DE8C72",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

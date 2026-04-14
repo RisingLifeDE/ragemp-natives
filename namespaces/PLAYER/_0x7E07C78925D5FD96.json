@@ -1,0 +1,13 @@
+{
+    "0x7E07C78925D5FD96": {
+        "name": "_0x7E07C78925D5FD96",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

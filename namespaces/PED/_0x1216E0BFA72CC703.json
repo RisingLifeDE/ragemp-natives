@@ -1,0 +1,17 @@
+{
+    "0x1216E0BFA72CC703": {
+        "name": "_0x1216E0BFA72CC703",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

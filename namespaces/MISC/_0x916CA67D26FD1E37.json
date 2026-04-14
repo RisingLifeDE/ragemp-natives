@@ -1,0 +1,13 @@
+{
+    "0x916CA67D26FD1E37": {
+        "name": "_0x916CA67D26FD1E37",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

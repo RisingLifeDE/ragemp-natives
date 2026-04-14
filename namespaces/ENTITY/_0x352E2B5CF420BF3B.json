@@ -1,0 +1,17 @@
+{
+    "0x352E2B5CF420BF3B": {
+        "name": "_0x352E2B5CF420BF3B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

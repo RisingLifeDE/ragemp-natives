@@ -1,0 +1,13 @@
+{
+    "0x504DFE62A1692296": {
+        "name": "_0x504DFE62A1692296",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

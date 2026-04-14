@@ -1,0 +1,13 @@
+{
+    "0x3A9128352EAC9E85": {
+        "name": "_0x3A9128352EAC9E85",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x742B58F723233ED9": {
+        "name": "_0x742B58F723233ED9",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

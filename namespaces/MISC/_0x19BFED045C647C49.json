@@ -1,0 +1,13 @@
+{
+    "0x19BFED045C647C49": {
+        "name": "_0x19BFED045C647C49",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

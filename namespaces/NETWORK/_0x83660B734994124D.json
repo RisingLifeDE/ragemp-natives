@@ -1,0 +1,21 @@
+{
+    "0x83660B734994124D": {
+        "name": "_0x83660B734994124D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

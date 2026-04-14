@@ -1,0 +1,13 @@
+{
+    "0xC594B315EDF2D4AF": {
+        "name": "_0xC594B315EDF2D4AF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

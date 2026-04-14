@@ -1,0 +1,17 @@
+{
+    "0xCD018C591F94CB43": {
+        "name": "_0xCD018C591F94CB43",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

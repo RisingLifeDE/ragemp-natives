@@ -1,0 +1,17 @@
+{
+    "0xC361AA040D6637A8": {
+        "name": "_0xC361AA040D6637A8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "0x55FCC0C390620314": {
+        "name": "_0x55FCC0C390620314",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

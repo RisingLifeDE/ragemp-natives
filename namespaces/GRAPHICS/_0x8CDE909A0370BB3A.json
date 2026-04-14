@@ -1,0 +1,13 @@
+{
+    "0x8CDE909A0370BB3A": {
+        "name": "_0x8CDE909A0370BB3A",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x80054D7FCC70EEC6": {
+        "name": "_0x80054D7FCC70EEC6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

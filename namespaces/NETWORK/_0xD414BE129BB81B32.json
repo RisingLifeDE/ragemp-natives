@@ -1,0 +1,13 @@
+{
+    "0xD414BE129BB81B32": {
+        "name": "_0xD414BE129BB81B32",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float"
+    }
+}

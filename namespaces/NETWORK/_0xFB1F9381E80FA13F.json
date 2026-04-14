@@ -1,0 +1,17 @@
+{
+    "0xFB1F9381E80FA13F": {
+        "name": "_0xFB1F9381E80FA13F",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "0x734E1714D077DA9A": {
+        "name": "_0x734E1714D077DA9A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "0x8821196D91FA2DE5": {
+        "name": "_0x8821196D91FA2DE5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

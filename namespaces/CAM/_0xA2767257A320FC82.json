@@ -1,0 +1,17 @@
+{
+    "0xA2767257A320FC82": {
+        "name": "_0xA2767257A320FC82",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

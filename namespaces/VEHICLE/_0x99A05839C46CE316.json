@@ -1,0 +1,13 @@
+{
+    "0x99A05839C46CE316": {
+        "name": "_0x99A05839C46CE316",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

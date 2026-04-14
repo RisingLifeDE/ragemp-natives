@@ -1,0 +1,17 @@
+{
+    "0xDBC631F109350B8C": {
+        "name": "_0xDBC631F109350B8C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xE67C6DFD386EA5E7": {
+        "name": "_0xE67C6DFD386EA5E7",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

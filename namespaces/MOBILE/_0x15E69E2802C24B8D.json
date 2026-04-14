@@ -1,0 +1,13 @@
+{
+    "0x15E69E2802C24B8D": {
+        "name": "_0x15E69E2802C24B8D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0x451D05012CCEC234": {
+        "name": "_0x451D05012CCEC234",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

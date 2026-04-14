@@ -1,0 +1,13 @@
+{
+    "0x38BAAA5DD4C9D19F": {
+        "name": "_0x38BAAA5DD4C9D19F",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

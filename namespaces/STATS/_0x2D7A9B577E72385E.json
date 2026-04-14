@@ -1,0 +1,13 @@
+{
+    "0x2D7A9B577E72385E": {
+        "name": "_0x2D7A9B577E72385E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

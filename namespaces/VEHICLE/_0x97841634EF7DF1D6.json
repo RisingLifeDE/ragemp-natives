@@ -1,0 +1,17 @@
+{
+    "0x97841634EF7DF1D6": {
+        "name": "_0x97841634EF7DF1D6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

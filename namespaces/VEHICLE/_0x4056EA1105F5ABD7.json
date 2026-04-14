@@ -1,0 +1,17 @@
+{
+    "0x4056EA1105F5ABD7": {
+        "name": "_0x4056EA1105F5ABD7",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

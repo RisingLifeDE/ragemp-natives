@@ -1,0 +1,17 @@
+{
+    "0x8664170EF165C4A6": {
+        "name": "_0x8664170EF165C4A6",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

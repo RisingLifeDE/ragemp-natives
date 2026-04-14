@@ -1,0 +1,13 @@
+{
+    "0x33DE49EDF4DDE77A": {
+        "name": "_0x33DE49EDF4DDE77A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

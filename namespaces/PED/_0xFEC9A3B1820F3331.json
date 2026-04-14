@@ -1,0 +1,13 @@
+{
+    "0xFEC9A3B1820F3331": {
+        "name": "_0xFEC9A3B1820F3331",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

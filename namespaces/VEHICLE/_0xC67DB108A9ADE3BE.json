@@ -1,0 +1,17 @@
+{
+    "0xC67DB108A9ADE3BE": {
+        "name": "_0xC67DB108A9ADE3BE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

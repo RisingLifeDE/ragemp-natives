@@ -1,0 +1,17 @@
+{
+    "0xB2D0BDE54F0E8E5A": {
+        "name": "_0xB2D0BDE54F0E8E5A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

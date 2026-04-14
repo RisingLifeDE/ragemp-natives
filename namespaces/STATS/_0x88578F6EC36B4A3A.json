@@ -1,0 +1,17 @@
+{
+    "0x88578F6EC36B4A3A": {
+        "name": "_0x88578F6EC36B4A3A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

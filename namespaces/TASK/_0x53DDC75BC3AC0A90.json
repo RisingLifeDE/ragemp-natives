@@ -1,0 +1,13 @@
+{
+    "0x53DDC75BC3AC0A90": {
+        "name": "_0x53DDC75BC3AC0A90",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

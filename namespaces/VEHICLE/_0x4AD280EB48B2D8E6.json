@@ -1,0 +1,17 @@
+{
+    "0x4AD280EB48B2D8E6": {
+        "name": "_0x4AD280EB48B2D8E6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "togle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

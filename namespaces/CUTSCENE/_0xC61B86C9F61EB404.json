@@ -1,0 +1,13 @@
+{
+    "0xC61B86C9F61EB404": {
+        "name": "_0xC61B86C9F61EB404",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

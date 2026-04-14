@@ -1,0 +1,13 @@
+{
+    "0x5BD5F255321C4AAF": {
+        "name": "_0x5BD5F255321C4AAF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

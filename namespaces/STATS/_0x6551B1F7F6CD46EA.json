@@ -1,0 +1,13 @@
+{
+    "0x6551B1F7F6CD46EA": {
+        "name": "_0x6551B1F7F6CD46EA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

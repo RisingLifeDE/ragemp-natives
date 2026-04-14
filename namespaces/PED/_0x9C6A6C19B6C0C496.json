@@ -1,0 +1,13 @@
+{
+    "0x9C6A6C19B6C0C496": {
+        "name": "_0x9C6A6C19B6C0C496",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

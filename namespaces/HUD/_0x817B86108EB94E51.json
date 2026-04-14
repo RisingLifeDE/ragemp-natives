@@ -1,0 +1,13 @@
+{
+    "0x817B86108EB94E51": {
+        "name": "_0x817B86108EB94E51",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "_0x817B86108EB94E51Result"
+    }
+}

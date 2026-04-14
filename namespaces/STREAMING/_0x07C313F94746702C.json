@@ -1,0 +1,13 @@
+{
+    "0x07C313F94746702C": {
+        "name": "_0x07C313F94746702C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

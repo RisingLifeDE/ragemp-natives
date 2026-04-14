@@ -1,0 +1,17 @@
+{
+    "0x36CCB9BE67B970FD": {
+        "name": "_0x36CCB9BE67B970FD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

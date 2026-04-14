@@ -1,0 +1,13 @@
+{
+    "0x78E8E3A640178255": {
+        "name": "_0x78E8E3A640178255",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}
