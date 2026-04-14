@@ -1,0 +1,13 @@
+{
+    "0xA46B73FAA3460AE1": {
+        "name": "0xA46B73FAA3460AE1",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

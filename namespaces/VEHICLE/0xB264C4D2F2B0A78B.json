@@ -1,0 +1,13 @@
+{
+    "0xB264C4D2F2B0A78B": {
+        "name": "0xB264C4D2F2B0A78B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

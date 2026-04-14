@@ -1,0 +1,17 @@
+{
+    "0xB9562064627FF9DB": {
+        "name": "0xB9562064627FF9DB",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

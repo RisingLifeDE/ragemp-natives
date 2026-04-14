@@ -1,0 +1,13 @@
+{
+    "0xE36A98D8AB3D3C66": {
+        "name": "0xE36A98D8AB3D3C66",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

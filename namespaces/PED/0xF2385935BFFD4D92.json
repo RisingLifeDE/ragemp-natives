@@ -1,0 +1,13 @@
+{
+    "0xF2385935BFFD4D92": {
+        "name": "0xF2385935BFFD4D92",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

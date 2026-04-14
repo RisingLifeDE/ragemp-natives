@@ -1,0 +1,13 @@
+{
+    "0xAA5FAFCD2C5F5E47": {
+        "name": "0xAA5FAFCD2C5F5E47",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

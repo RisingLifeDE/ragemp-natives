@@ -1,0 +1,13 @@
+{
+    "0xDFBD93BF2943E29B": {
+        "name": "0xDFBD93BF2943E29B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

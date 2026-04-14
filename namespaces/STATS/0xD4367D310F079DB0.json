@@ -1,0 +1,25 @@
+{
+    "0xD4367D310F079DB0": {
+        "name": "0xD4367D310F079DB0",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

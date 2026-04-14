@@ -1,0 +1,13 @@
+{
+    "0xB569F41F3E7E83A4": {
+        "name": "0xB569F41F3E7E83A4",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "0xB2E0C0D6922D31F2": {
+        "name": "0xB2E0C0D6922D31F2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

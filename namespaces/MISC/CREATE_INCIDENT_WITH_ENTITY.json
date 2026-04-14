@@ -8,7 +8,7 @@
                 "name": "dispatchService"
             },
             {
-                "type": "float",
+                "type": "Ped",
                 "name": "ped"
             },
             {

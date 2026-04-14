@@ -1,0 +1,13 @@
+{
+    "0xD1C7CB175E012964": {
+        "name": "0xD1C7CB175E012964",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleformHandle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

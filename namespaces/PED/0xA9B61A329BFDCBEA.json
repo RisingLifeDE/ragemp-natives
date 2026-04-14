@@ -1,0 +1,17 @@
+{
+    "0xA9B61A329BFDCBEA": {
+        "name": "0xA9B61A329BFDCBEA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

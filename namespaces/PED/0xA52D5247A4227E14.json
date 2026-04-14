@@ -1,0 +1,13 @@
+{
+    "0xA52D5247A4227E14": {
+        "name": "0xA52D5247A4227E14",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

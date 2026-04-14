@@ -1,0 +1,13 @@
+{
+    "0xED3C76ADFA6D07C4": {
+        "name": "0xED3C76ADFA6D07C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xDAF87174BE7454FF": {
+        "name": "0xDAF87174BE7454FF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

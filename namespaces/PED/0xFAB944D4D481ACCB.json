@@ -1,0 +1,17 @@
+{
+    "0xFAB944D4D481ACCB": {
+        "name": "0xFAB944D4D481ACCB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

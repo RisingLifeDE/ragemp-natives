@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "float",
+                "type": "Vehicle",
                 "name": "vehicle"
             },
             {
-                "type": "float",
+                "type": "Entity",
                 "name": "entity"
             }
         ],

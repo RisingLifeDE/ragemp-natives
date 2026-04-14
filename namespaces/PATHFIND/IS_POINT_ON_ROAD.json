@@ -16,7 +16,7 @@
                 "name": "z"
             },
             {
-                "type": "float",
+                "type": "Vehicle",
                 "name": "vehicle"
             }
         ],

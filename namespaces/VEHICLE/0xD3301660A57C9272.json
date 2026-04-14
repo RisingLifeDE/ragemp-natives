@@ -1,0 +1,13 @@
+{
+    "0xD3301660A57C9272": {
+        "name": "0xD3301660A57C9272",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "0xAD27D957598E49E9": {
+        "name": "0xAD27D957598E49E9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "hash"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void"
+    }
+}

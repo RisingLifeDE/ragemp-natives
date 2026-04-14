@@ -1,0 +1,13 @@
+{
+    "0xEC72C258667BE5EA": {
+        "name": "0xEC72C258667BE5EA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

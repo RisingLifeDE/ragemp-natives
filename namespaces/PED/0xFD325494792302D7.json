@@ -1,0 +1,17 @@
+{
+    "0xFD325494792302D7": {
+        "name": "0xFD325494792302D7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

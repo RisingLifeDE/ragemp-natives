@@ -1,0 +1,17 @@
+{
+    "0xBC0753C9CA14B506": {
+        "name": "0xBC0753C9CA14B506",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

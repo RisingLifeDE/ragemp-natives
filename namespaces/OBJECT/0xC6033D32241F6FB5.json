@@ -1,0 +1,17 @@
+{
+    "0xC6033D32241F6FB5": {
+        "name": "0xC6033D32241F6FB5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

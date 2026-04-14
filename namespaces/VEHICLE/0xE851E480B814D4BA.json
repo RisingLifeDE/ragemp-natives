@@ -1,0 +1,17 @@
+{
+    "0xE851E480B814D4BA": {
+        "name": "0xE851E480B814D4BA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

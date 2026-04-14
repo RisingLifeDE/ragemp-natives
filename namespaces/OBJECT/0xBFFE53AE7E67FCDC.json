@@ -1,0 +1,17 @@
+{
+    "0xBFFE53AE7E67FCDC": {
+        "name": "0xBFFE53AE7E67FCDC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

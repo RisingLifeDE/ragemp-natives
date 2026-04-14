@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "float",
+                "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "float",
+                "type": "Entity",
                 "name": "entity"
             }
         ],

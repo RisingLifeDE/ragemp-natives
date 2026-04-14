@@ -8,7 +8,7 @@
                 "name": "weaponObject"
             },
             {
-                "type": "float",
+                "type": "Ped",
                 "name": "ped"
             }
         ],

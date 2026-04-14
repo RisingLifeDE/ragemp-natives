@@ -20,7 +20,7 @@
                 "name": "radius"
             },
             {
-                "type": "float",
+                "type": "Object",
                 "name": "object"
             }
         ],

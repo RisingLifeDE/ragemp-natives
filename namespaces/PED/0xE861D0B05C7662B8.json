@@ -1,0 +1,21 @@
+{
+    "0xE861D0B05C7662B8": {
+        "name": "0xE861D0B05C7662B8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

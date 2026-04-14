@@ -1,0 +1,13 @@
+{
+    "0xBA4B8D83BDC75551": {
+        "name": "0xBA4B8D83BDC75551",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

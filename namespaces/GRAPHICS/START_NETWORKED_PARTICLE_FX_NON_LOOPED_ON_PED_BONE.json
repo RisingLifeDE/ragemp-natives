@@ -8,7 +8,7 @@
                 "name": "effectName"
             },
             {
-                "type": "float",
+                "type": "Ped",
                 "name": "ped"
             },
             {

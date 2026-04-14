@@ -1,0 +1,17 @@
+{
+    "0xE6717E652B8C8D8A": {
+        "name": "0xE6717E652B8C8D8A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

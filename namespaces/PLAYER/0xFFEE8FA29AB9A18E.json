@@ -1,0 +1,13 @@
+{
+    "0xFFEE8FA29AB9A18E": {
+        "name": "0xFFEE8FA29AB9A18E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

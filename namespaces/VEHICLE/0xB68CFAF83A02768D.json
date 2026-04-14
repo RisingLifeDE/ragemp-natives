@@ -1,0 +1,17 @@
+{
+    "0xB68CFAF83A02768D": {
+        "name": "0xB68CFAF83A02768D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

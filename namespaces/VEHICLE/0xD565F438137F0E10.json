@@ -1,0 +1,17 @@
+{
+    "0xD565F438137F0E10": {
+        "name": "0xD565F438137F0E10",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

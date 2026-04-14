@@ -1,0 +1,13 @@
+{
+    "0xEE778F8C7E1142E2": {
+        "name": "0xEE778F8C7E1142E2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

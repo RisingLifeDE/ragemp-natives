@@ -1,0 +1,13 @@
+{
+    "0xFCF6788FC4860CD4": {
+        "name": "0xFCF6788FC4860CD4",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "checkpoint"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xA0CEFCEA390AAB9B": {
+        "name": "0xA0CEFCEA390AAB9B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

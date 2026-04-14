@@ -8,7 +8,7 @@
                 "name": "eventType"
             },
             {
-                "type": "float",
+                "type": "Entity",
                 "name": "entity"
             },
             {

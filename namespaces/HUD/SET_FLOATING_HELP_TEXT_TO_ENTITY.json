@@ -8,7 +8,7 @@
                 "name": "hudIndex"
             },
             {
-                "type": "float",
+                "type": "Entity",
                 "name": "entity"
             },
             {

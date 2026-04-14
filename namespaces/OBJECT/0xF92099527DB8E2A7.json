@@ -1,0 +1,17 @@
+{
+    "0xF92099527DB8E2A7": {
+        "name": "0xF92099527DB8E2A7",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

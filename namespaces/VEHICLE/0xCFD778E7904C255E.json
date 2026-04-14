@@ -1,0 +1,13 @@
+{
+    "0xCFD778E7904C255E": {
+        "name": "0xCFD778E7904C255E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

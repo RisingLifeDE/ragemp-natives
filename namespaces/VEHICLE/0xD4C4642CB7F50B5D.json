@@ -1,0 +1,13 @@
+{
+    "0xD4C4642CB7F50B5D": {
+        "name": "0xD4C4642CB7F50B5D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

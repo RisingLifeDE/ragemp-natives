@@ -8,7 +8,7 @@
                 "name": "toggle"
             },
             {
-                "type": "float",
+                "type": "Ped",
                 "name": "ped"
             }
         ],

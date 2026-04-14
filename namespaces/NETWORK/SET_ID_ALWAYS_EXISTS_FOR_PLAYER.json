@@ -8,7 +8,7 @@
                 "name": "netId"
             },
             {
-                "type": "float",
+                "type": "Player",
                 "name": "player"
             },
             {

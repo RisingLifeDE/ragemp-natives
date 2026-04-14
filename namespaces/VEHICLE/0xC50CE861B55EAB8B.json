@@ -1,0 +1,17 @@
+{
+    "0xC50CE861B55EAB8B": {
+        "name": "0xC50CE861B55EAB8B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "0xDFCDB14317A9B361": {
+        "name": "0xDFCDB14317A9B361",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

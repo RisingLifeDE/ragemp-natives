@@ -1,0 +1,13 @@
+{
+    "0xF06EBB91A81E09E3": {
+        "name": "0xF06EBB91A81E09E3",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

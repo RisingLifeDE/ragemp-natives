@@ -1,0 +1,13 @@
+{
+    "0xD1032E482629049E": {
+        "name": "0xD1032E482629049E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

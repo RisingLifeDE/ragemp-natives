@@ -1,0 +1,13 @@
+{
+    "0xCB0360EFEFB2580D": {
+        "name": "0xCB0360EFEFB2580D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

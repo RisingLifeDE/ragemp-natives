@@ -1,0 +1,13 @@
+{
+    "0xC8B5C4A79CC18B94": {
+        "name": "0xC8B5C4A79CC18B94",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "void"
+    }
+}

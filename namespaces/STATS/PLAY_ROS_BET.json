@@ -12,7 +12,7 @@
                 "name": "act"
             },
             {
-                "type": "float",
+                "type": "Player",
                 "name": "player"
             },
             {

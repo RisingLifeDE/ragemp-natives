@@ -1,0 +1,17 @@
+{
+    "0xB93B2867F7B479D1": {
+        "name": "0xB93B2867F7B479D1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "index"
+            }
+        ],
+        "return_type": "void"
+    }
+}

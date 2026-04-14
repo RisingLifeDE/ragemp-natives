@@ -8,7 +8,7 @@
                 "name": "sceneID"
             },
             {
-                "type": "float",
+                "type": "Entity",
                 "name": "entity"
             },
             {

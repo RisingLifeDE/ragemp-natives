@@ -1,0 +1,17 @@
+{
+    "0xA2A707979FE754DC": {
+        "name": "0xA2A707979FE754DC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

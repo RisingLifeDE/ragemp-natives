@@ -1,0 +1,17 @@
+{
+    "0xEDBC8405B3895CC9": {
+        "name": "0xEDBC8405B3895CC9",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

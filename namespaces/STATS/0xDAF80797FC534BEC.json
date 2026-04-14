@@ -1,0 +1,13 @@
+{
+    "0xDAF80797FC534BEC": {
+        "name": "0xDAF80797FC534BEC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

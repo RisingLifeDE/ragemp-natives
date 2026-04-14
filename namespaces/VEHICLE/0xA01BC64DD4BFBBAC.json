@@ -1,0 +1,17 @@
+{
+    "0xA01BC64DD4BFBBAC": {
+        "name": "0xA01BC64DD4BFBBAC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

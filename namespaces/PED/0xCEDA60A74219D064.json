@@ -1,0 +1,17 @@
+{
+    "0xCEDA60A74219D064": {
+        "name": "0xCEDA60A74219D064",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

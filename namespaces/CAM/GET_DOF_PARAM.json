@@ -4,7 +4,7 @@
         "comment": "To use the adaptive DOF, make sure to set setUseHiDof(false) and adjust FocusDistanceGridScaling to lower values, such as [0.001, 0.001]",
         "params": [
             {
-                "type": "float",
+                "type": "Cam",
                 "name": "cam"
             },
             {

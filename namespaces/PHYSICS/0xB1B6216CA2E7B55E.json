@@ -1,0 +1,21 @@
+{
+    "0xB1B6216CA2E7B55E": {
+        "name": "0xB1B6216CA2E7B55E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

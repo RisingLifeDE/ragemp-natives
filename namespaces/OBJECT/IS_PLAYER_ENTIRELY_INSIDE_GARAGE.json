@@ -8,7 +8,7 @@
                 "name": "garageHash"
             },
             {
-                "type": "float",
+                "type": "Player",
                 "name": "player"
             },
             {

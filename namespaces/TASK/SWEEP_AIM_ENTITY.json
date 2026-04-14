@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "float",
+                "type": "Ped",
                 "name": "ped"
             },
             {
@@ -28,7 +28,7 @@
                 "name": "p5"
             },
             {
-                "type": "float",
+                "type": "Vehicle",
                 "name": "vehicle"
             },
             {

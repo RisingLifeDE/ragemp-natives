@@ -32,7 +32,7 @@
                 "name": "flags"
             },
             {
-                "type": "float",
+                "type": "Entity",
                 "name": "entity"
             },
             {

@@ -1,0 +1,13 @@
+{
+    "0xCAE55F48D3D7875C": {
+        "name": "0xCAE55F48D3D7875C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}
