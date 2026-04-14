@@ -1,0 +1,17 @@
+{
+    "GET_EVENT_EXISTS": {
+        "name": "GET_EVENT_EXISTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "eventGroup"
+            },
+            {
+                "type": "float",
+                "name": "eventIndex"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

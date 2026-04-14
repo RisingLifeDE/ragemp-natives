@@ -1,0 +1,13 @@
+{
+    "HAS_SCALEFORM_SCRIPT_HUD_MOVIE_LOADED": {
+        "name": "HAS_SCALEFORM_SCRIPT_HUD_MOVIE_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudComponent"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "CLOUD_DID_REQUEST_SUCCEED": {
+        "name": "CLOUD_DID_REQUEST_SUCCEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "handle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

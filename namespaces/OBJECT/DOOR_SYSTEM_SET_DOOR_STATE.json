@@ -1,0 +1,25 @@
+{
+    "DOOR_SYSTEM_SET_DOOR_STATE": {
+        "name": "DOOR_SYSTEM_SET_DOOR_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            },
+            {
+                "type": "float",
+                "name": "state"
+            },
+            {
+                "type": "BOOL",
+                "name": "requestDoor"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceUpdate"
+            }
+        ],
+        "return_type": "void"
+    }
+}

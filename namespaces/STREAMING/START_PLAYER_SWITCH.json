@@ -1,0 +1,25 @@
+{
+    "START_PLAYER_SWITCH": {
+        "name": "START_PLAYER_SWITCH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "from"
+            },
+            {
+                "type": "float",
+                "name": "to"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "switchType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

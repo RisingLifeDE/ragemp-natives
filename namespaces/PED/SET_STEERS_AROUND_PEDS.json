@@ -1,0 +1,17 @@
+{
+    "SET_STEERS_AROUND_PEDS": {
+        "name": "SET_STEERS_AROUND_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

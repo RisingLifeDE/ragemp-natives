@@ -1,0 +1,8 @@
+{
+    "FORCE_CLOSE_TEXT_INPUT_BOX": {
+        "name": "FORCE_CLOSE_TEXT_INPUT_BOX",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

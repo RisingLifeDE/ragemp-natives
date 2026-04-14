@@ -1,0 +1,41 @@
+{
+    "CREATE_INCIDENT": {
+        "name": "CREATE_INCIDENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dispatchService"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "numUnits"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            }
+        ],
+        "return_type": "float"
+    }
+}

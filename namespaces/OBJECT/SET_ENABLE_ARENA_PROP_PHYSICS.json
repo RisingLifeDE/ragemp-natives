@@ -1,0 +1,21 @@
+{
+    "SET_ENABLE_ARENA_PROP_PHYSICS": {
+        "name": "SET_ENABLE_ARENA_PROP_PHYSICS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

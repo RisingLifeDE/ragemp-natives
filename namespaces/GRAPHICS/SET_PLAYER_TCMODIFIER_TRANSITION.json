@@ -1,0 +1,13 @@
+{
+    "SET_PLAYER_TCMODIFIER_TRANSITION": {
+        "name": "SET_PLAYER_TCMODIFIER_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

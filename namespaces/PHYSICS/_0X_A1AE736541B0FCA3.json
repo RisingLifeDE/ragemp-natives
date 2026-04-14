@@ -1,0 +1,13 @@
+{
+    "_0X_A1AE736541B0FCA3": {
+        "name": "_0X_A1AE736541B0FCA3",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

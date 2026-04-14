@@ -1,0 +1,13 @@
+{
+    "GET_PHONE_ROTATION": {
+        "name": "GET_PHONE_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

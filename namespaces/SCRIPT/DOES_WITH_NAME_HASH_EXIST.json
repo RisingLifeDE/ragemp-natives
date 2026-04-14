@@ -1,0 +1,13 @@
+{
+    "DOES_WITH_NAME_HASH_EXIST": {
+        "name": "DOES_WITH_NAME_HASH_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

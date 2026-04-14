@@ -1,0 +1,8 @@
+{
+    "IS_READY_FOR_CUTSCENE": {
+        "name": "IS_READY_FOR_CUTSCENE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

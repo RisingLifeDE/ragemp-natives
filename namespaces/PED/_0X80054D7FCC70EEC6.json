@@ -1,0 +1,13 @@
+{
+    "_0X80054D7FCC70EEC6": {
+        "name": "_0X80054D7FCC70EEC6",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

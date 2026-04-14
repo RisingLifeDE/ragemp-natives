@@ -1,0 +1,13 @@
+{
+    "FIND_GAMERS_IN_CREW": {
+        "name": "FIND_GAMERS_IN_CREW",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

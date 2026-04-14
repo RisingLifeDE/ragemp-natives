@@ -1,0 +1,65 @@
+{
+    "DRAW_DEBUG_LINE_WITH_TWO_COLOURS": {
+        "name": "DRAW_DEBUG_LINE_WITH_TWO_COLOURS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "r1"
+            },
+            {
+                "type": "float",
+                "name": "g1"
+            },
+            {
+                "type": "float",
+                "name": "b1"
+            },
+            {
+                "type": "float",
+                "name": "r2"
+            },
+            {
+                "type": "float",
+                "name": "g2"
+            },
+            {
+                "type": "float",
+                "name": "b2"
+            },
+            {
+                "type": "float",
+                "name": "alpha1"
+            },
+            {
+                "type": "float",
+                "name": "alpha2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

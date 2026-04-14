@@ -1,0 +1,17 @@
+{
+    "SPECIAL_ABILITY_FILL_METER": {
+        "name": "SPECIAL_ABILITY_FILL_METER",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

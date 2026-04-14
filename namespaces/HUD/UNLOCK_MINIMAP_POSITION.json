@@ -1,0 +1,8 @@
+{
+    "UNLOCK_MINIMAP_POSITION": {
+        "name": "UNLOCK_MINIMAP_POSITION",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

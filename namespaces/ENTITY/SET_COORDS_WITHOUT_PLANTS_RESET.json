@@ -1,0 +1,41 @@
+{
+    "SET_COORDS_WITHOUT_PLANTS_RESET": {
+        "name": "SET_COORDS_WITHOUT_PLANTS_RESET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "BOOL",
+                "name": "alive"
+            },
+            {
+                "type": "BOOL",
+                "name": "deadFlag"
+            },
+            {
+                "type": "BOOL",
+                "name": "ragdollFlag"
+            },
+            {
+                "type": "BOOL",
+                "name": "clearArea"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_DAY_OF_MONTH": {
+        "name": "GET_DAY_OF_MONTH",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

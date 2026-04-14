@@ -1,0 +1,13 @@
+{
+    "REQUEST_CONTROL_OF_DOOR": {
+        "name": "REQUEST_CONTROL_OF_DOOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorID"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

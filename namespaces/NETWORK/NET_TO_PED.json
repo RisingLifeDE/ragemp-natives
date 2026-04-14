@@ -1,0 +1,13 @@
+{
+    "NET_TO_PED": {
+        "name": "NET_TO_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netHandle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_AS_MINIMAL_ON_EDGE": {
+        "name": "SET_BLIP_AS_MINIMAL_ON_EDGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

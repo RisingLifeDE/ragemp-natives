@@ -1,0 +1,8 @@
+{
+    "DISPLAY_SNIPER_SCOPE_THIS_FRAME": {
+        "name": "DISPLAY_SNIPER_SCOPE_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "HAS_HEADSET": {
+        "name": "HAS_HEADSET",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_PED_SCRIPT_INDEX": {
+        "name": "GET_PED_SCRIPT_INDEX",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

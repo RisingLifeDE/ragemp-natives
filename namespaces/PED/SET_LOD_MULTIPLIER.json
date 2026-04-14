@@ -1,0 +1,17 @@
+{
+    "SET_LOD_MULTIPLIER": {
+        "name": "SET_LOD_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

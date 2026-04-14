@@ -1,0 +1,17 @@
+{
+    "SET_WANTED_LEVEL": {
+        "name": "SET_WANTED_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "wantedLevel"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableNoMission"
+            }
+        ],
+        "return_type": "void"
+    }
+}

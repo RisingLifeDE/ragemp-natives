@@ -1,0 +1,57 @@
+{
+    "ATTACH_ENTITIES_TO_ROPE": {
+        "name": "ATTACH_ENTITIES_TO_ROPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "ent1"
+            },
+            {
+                "type": "float",
+                "name": "ent2"
+            },
+            {
+                "type": "float",
+                "name": "ent1_x"
+            },
+            {
+                "type": "float",
+                "name": "ent1_y"
+            },
+            {
+                "type": "float",
+                "name": "ent1_z"
+            },
+            {
+                "type": "float",
+                "name": "ent2_x"
+            },
+            {
+                "type": "float",
+                "name": "ent2_y"
+            },
+            {
+                "type": "float",
+                "name": "ent2_z"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            }
+        ],
+        "return_type": "AttachEntitiesToRopeResult"
+    }
+}

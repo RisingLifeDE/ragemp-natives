@@ -1,0 +1,17 @@
+{
+    "SET_NEVER_LEAVES_GROUP": {
+        "name": "SET_NEVER_LEAVES_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

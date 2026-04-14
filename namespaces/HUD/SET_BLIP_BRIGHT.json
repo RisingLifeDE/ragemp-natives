@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_BRIGHT": {
+        "name": "SET_BLIP_BRIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

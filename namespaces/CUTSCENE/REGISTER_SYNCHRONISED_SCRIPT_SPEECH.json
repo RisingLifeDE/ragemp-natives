@@ -1,0 +1,8 @@
+{
+    "REGISTER_SYNCHRONISED_SCRIPT_SPEECH": {
+        "name": "REGISTER_SYNCHRONISED_SCRIPT_SPEECH",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

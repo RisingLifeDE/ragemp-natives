@@ -1,0 +1,13 @@
+{
+    "SET_AS_NO_LONGER_NEEDED": {
+        "name": "SET_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "ATTACH_TO_VEHICLE_BONE": {
+        "name": "ATTACH_TO_VEHICLE_BONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "relativeRotation"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "fixedDirection"
+            }
+        ],
+        "return_type": "void"
+    }
+}

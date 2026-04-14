@@ -1,0 +1,8 @@
+{
+    "HAS_INVITED_GAMER_TO_TRANSITION": {
+        "name": "HAS_INVITED_GAMER_TO_TRANSITION",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

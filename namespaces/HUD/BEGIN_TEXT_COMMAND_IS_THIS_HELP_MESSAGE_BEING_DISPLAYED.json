@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_IS_THIS_HELP_MESSAGE_BEING_DISPLAYED": {
+        "name": "BEGIN_TEXT_COMMAND_IS_THIS_HELP_MESSAGE_BEING_DISPLAYED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "labelName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

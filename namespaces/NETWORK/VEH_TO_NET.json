@@ -1,0 +1,13 @@
+{
+    "VEH_TO_NET": {
+        "name": "VEH_TO_NET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

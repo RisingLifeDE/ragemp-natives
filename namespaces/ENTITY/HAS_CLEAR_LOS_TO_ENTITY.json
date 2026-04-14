@@ -1,0 +1,21 @@
+{
+    "HAS_CLEAR_LOS_TO_ENTITY": {
+        "name": "HAS_CLEAR_LOS_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity1"
+            },
+            {
+                "type": "float",
+                "name": "entity2"
+            },
+            {
+                "type": "float",
+                "name": "traceType"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

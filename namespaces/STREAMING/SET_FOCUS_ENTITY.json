@@ -1,0 +1,13 @@
+{
+    "SET_FOCUS_ENTITY": {
+        "name": "SET_FOCUS_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

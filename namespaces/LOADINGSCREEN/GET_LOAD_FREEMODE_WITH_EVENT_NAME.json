@@ -1,0 +1,8 @@
+{
+    "GET_LOAD_FREEMODE_WITH_EVENT_NAME": {
+        "name": "GET_LOAD_FREEMODE_WITH_EVENT_NAME",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

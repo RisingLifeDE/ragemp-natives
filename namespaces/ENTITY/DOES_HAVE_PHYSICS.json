@@ -1,0 +1,13 @@
+{
+    "DOES_HAVE_PHYSICS": {
+        "name": "DOES_HAVE_PHYSICS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

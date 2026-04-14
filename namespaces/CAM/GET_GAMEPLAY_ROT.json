@@ -1,0 +1,13 @@
+{
+    "GET_GAMEPLAY_ROT": {
+        "name": "GET_GAMEPLAY_ROT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

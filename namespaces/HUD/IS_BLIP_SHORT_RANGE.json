@@ -1,0 +1,13 @@
+{
+    "IS_BLIP_SHORT_RANGE": {
+        "name": "IS_BLIP_SHORT_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

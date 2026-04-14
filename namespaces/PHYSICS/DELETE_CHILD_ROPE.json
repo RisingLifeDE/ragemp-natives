@@ -1,0 +1,13 @@
+{
+    "DELETE_CHILD_ROPE": {
+        "name": "DELETE_CHILD_ROPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "OVERRIDE_INTERIOR_SMOKE_NAME": {
+        "name": "OVERRIDE_INTERIOR_SMOKE_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

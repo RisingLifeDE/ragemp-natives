@@ -1,0 +1,13 @@
+{
+    "SET_AS_NO_LONGER_NEEDED": {
+        "name": "SET_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

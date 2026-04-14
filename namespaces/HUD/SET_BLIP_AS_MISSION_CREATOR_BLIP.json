@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_AS_MISSION_CREATOR_BLIP": {
+        "name": "SET_BLIP_AS_MISSION_CREATOR_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_LENGTH_OF_STRING_WITH_THIS_TEXT_LABEL": {
+        "name": "GET_LENGTH_OF_STRING_WITH_THIS_TEXT_LABEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "gxt"
+            }
+        ],
+        "return_type": "float"
+    }
+}

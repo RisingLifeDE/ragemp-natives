@@ -1,0 +1,13 @@
+{
+    "SET_MINIMAP_GOLF_COURSE": {
+        "name": "SET_MINIMAP_GOLF_COURSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hole"
+            }
+        ],
+        "return_type": "void"
+    }
+}

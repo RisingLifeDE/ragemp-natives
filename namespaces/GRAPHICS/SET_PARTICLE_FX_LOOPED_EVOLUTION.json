@@ -1,0 +1,25 @@
+{
+    "SET_PARTICLE_FX_LOOPED_EVOLUTION": {
+        "name": "SET_PARTICLE_FX_LOOPED_EVOLUTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "noNetwork"
+            }
+        ],
+        "return_type": "void"
+    }
+}

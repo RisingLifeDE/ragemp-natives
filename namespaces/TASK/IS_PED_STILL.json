@@ -1,0 +1,13 @@
+{
+    "IS_PED_STILL": {
+        "name": "IS_PED_STILL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

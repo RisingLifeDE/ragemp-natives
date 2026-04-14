@@ -1,0 +1,13 @@
+{
+    "GET_SPEED": {
+        "name": "GET_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

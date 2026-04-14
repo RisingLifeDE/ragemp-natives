@@ -1,0 +1,13 @@
+{
+    "SET_EVERYONE_IGNORE": {
+        "name": "SET_EVERYONE_IGNORE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

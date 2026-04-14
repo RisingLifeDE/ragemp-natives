@@ -1,0 +1,13 @@
+{
+    "GET_ANIM_CURRENT_PHASE": {
+        "name": "GET_ANIM_CURRENT_PHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "float"
+    }
+}

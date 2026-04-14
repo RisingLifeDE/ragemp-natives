@@ -1,0 +1,13 @@
+{
+    "SET_POLICE_RADAR_BLIPS": {
+        "name": "SET_POLICE_RADAR_BLIPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

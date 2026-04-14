@@ -1,0 +1,17 @@
+{
+    "SET_VEHICLE_WHEELS_DESTRUCTIBLE": {
+        "name": "SET_VEHICLE_WHEELS_DESTRUCTIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_AS_COP": {
+        "name": "SET_AS_COP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

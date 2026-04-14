@@ -1,0 +1,13 @@
+{
+    "GET_SUBMERGED_LEVEL": {
+        "name": "GET_SUBMERGED_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

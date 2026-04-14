@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_SCALE": {
+        "name": "SET_BLIP_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

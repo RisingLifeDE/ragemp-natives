@@ -1,0 +1,8 @@
+{
+    "THEFEED_CLEAR_FROZEN_POST": {
+        "name": "THEFEED_CLEAR_FROZEN_POST",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

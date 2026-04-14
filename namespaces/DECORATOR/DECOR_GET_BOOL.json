@@ -1,0 +1,17 @@
+{
+    "DECOR_GET_BOOL": {
+        "name": "DECOR_GET_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

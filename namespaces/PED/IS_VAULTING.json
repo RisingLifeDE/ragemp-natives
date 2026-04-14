@@ -1,0 +1,13 @@
+{
+    "IS_VAULTING": {
+        "name": "IS_VAULTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

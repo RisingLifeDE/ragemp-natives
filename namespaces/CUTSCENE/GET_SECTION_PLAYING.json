@@ -1,0 +1,8 @@
+{
+    "GET_SECTION_PLAYING": {
+        "name": "GET_SECTION_PLAYING",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

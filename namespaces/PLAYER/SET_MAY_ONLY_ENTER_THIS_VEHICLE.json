@@ -1,0 +1,13 @@
+{
+    "SET_MAY_ONLY_ENTER_THIS_VEHICLE": {
+        "name": "SET_MAY_ONLY_ENTER_THIS_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

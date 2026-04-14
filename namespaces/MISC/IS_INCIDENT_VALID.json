@@ -1,0 +1,13 @@
+{
+    "IS_INCIDENT_VALID": {
+        "name": "IS_INCIDENT_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "incidentId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

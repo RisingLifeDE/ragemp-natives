@@ -1,0 +1,8 @@
+{
+    "IS_SCRIPT_GLOBAL_SHAKING": {
+        "name": "IS_SCRIPT_GLOBAL_SHAKING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

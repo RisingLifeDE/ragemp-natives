@@ -1,0 +1,13 @@
+{
+    "RELEASE_PRELOAD_VARIATION_DATA": {
+        "name": "RELEASE_PRELOAD_VARIATION_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "SWITCH_OUT_PLAYER": {
+        "name": "SWITCH_OUT_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "switchType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

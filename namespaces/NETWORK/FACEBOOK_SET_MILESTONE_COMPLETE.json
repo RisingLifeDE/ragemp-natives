@@ -1,0 +1,13 @@
+{
+    "FACEBOOK_SET_MILESTONE_COMPLETE": {
+        "name": "FACEBOOK_SET_MILESTONE_COMPLETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "milestoneId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

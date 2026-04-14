@@ -1,0 +1,13 @@
+{
+    "SESSION_VOICE_SET_TIMEOUT": {
+        "name": "SESSION_VOICE_SET_TIMEOUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "timeout"
+            }
+        ],
+        "return_type": "void"
+    }
+}

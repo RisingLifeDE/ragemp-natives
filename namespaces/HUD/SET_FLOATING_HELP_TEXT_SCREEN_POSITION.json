@@ -1,0 +1,21 @@
+{
+    "SET_FLOATING_HELP_TEXT_SCREEN_POSITION": {
+        "name": "SET_FLOATING_HELP_TEXT_SCREEN_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudIndex"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            }
+        ],
+        "return_type": "void"
+    }
+}

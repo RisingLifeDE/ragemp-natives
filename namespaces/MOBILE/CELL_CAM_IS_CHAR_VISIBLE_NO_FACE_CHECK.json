@@ -1,0 +1,13 @@
+{
+    "CELL_CAM_IS_CHAR_VISIBLE_NO_FACE_CHECK": {
+        "name": "CELL_CAM_IS_CHAR_VISIBLE_NO_FACE_CHECK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

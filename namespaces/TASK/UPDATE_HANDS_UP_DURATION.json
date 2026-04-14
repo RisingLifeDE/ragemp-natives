@@ -1,0 +1,17 @@
+{
+    "UPDATE_HANDS_UP_DURATION": {
+        "name": "UPDATE_HANDS_UP_DURATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

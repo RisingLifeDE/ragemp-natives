@@ -1,0 +1,13 @@
+{
+    "ROPE_CONVERT_TO_SIMPLE": {
+        "name": "ROPE_CONVERT_TO_SIMPLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

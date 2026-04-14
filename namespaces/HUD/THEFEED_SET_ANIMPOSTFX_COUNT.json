@@ -1,0 +1,13 @@
+{
+    "THEFEED_SET_ANIMPOSTFX_COUNT": {
+        "name": "THEFEED_SET_ANIMPOSTFX_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "count"
+            }
+        ],
+        "return_type": "void"
+    }
+}

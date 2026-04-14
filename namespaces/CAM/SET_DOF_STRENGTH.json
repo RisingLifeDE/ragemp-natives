@@ -1,0 +1,17 @@
+{
+    "SET_DOF_STRENGTH": {
+        "name": "SET_DOF_STRENGTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "dofStrength"
+            }
+        ],
+        "return_type": "void"
+    }
+}

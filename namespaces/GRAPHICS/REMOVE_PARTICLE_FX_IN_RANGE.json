@@ -1,0 +1,25 @@
+{
+    "REMOVE_PARTICLE_FX_IN_RANGE": {
+        "name": "REMOVE_PARTICLE_FX_IN_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "X"
+            },
+            {
+                "type": "float",
+                "name": "Y"
+            },
+            {
+                "type": "float",
+                "name": "Z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void"
+    }
+}

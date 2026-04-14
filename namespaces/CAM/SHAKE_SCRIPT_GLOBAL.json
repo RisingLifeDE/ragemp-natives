@@ -1,0 +1,17 @@
+{
+    "SHAKE_SCRIPT_GLOBAL": {
+        "name": "SHAKE_SCRIPT_GLOBAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "DESTROY": {
+        "name": "DESTROY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "bScriptHostCam"
+            }
+        ],
+        "return_type": "void"
+    }
+}

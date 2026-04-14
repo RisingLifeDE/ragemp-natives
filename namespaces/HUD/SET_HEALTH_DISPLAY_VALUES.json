@@ -1,0 +1,21 @@
+{
+    "SET_HEALTH_DISPLAY_VALUES": {
+        "name": "SET_HEALTH_DISPLAY_VALUES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "health"
+            },
+            {
+                "type": "float",
+                "name": "capacity"
+            },
+            {
+                "type": "BOOL",
+                "name": "wasAdded"
+            }
+        ],
+        "return_type": "void"
+    }
+}

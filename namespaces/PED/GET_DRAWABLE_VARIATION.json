@@ -1,0 +1,17 @@
+{
+    "GET_DRAWABLE_VARIATION": {
+        "name": "GET_DRAWABLE_VARIATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "componentId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

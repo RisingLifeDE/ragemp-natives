@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_ROTATION": {
+        "name": "SET_BLIP_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "rotation"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SCRIPT_IS_MOVING_PHONE_OFFSCREEN": {
+        "name": "SCRIPT_IS_MOVING_PHONE_OFFSCREEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

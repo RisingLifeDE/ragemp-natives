@@ -1,0 +1,17 @@
+{
+    "GET_NEARBY_PEDS": {
+        "name": "GET_NEARBY_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "ignore"
+            }
+        ],
+        "return_type": "GetPedNearbyPedsResult"
+    }
+}

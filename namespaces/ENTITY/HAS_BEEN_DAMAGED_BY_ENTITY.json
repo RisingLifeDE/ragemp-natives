@@ -1,0 +1,21 @@
+{
+    "HAS_BEEN_DAMAGED_BY_ENTITY": {
+        "name": "HAS_BEEN_DAMAGED_BY_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity1"
+            },
+            {
+                "type": "float",
+                "name": "entity2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

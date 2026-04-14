@@ -1,0 +1,13 @@
+{
+    "SET_HEALTH_RECHARGE_MULTIPLIER": {
+        "name": "SET_HEALTH_RECHARGE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "regenRate"
+            }
+        ],
+        "return_type": "void"
+    }
+}

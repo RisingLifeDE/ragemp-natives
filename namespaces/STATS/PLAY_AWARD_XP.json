@@ -1,0 +1,21 @@
+{
+    "PLAY_AWARD_XP": {
+        "name": "PLAY_AWARD_XP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "float",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "category"
+            }
+        ],
+        "return_type": "void"
+    }
+}

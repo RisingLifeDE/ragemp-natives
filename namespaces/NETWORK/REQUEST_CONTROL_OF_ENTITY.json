@@ -1,0 +1,13 @@
+{
+    "REQUEST_CONTROL_OF_ENTITY": {
+        "name": "REQUEST_CONTROL_OF_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

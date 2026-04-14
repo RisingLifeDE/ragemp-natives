@@ -1,0 +1,45 @@
+{
+    "ADD_EXPLOSION_WITH_USER_VFX": {
+        "name": "ADD_EXPLOSION_WITH_USER_VFX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "explosionType"
+            },
+            {
+                "type": "float",
+                "name": "explosionFx"
+            },
+            {
+                "type": "float",
+                "name": "damageScale"
+            },
+            {
+                "type": "BOOL",
+                "name": "isAudible"
+            },
+            {
+                "type": "BOOL",
+                "name": "isInvisible"
+            },
+            {
+                "type": "float",
+                "name": "cameraShake"
+            }
+        ],
+        "return_type": "void"
+    }
+}

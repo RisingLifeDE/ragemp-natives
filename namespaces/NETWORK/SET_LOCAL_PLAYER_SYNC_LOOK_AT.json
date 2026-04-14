@@ -1,0 +1,13 @@
+{
+    "SET_LOCAL_PLAYER_SYNC_LOOK_AT": {
+        "name": "SET_LOCAL_PLAYER_SYNC_LOOK_AT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

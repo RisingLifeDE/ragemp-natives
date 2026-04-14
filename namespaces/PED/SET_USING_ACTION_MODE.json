@@ -1,0 +1,25 @@
+{
+    "SET_USING_ACTION_MODE": {
+        "name": "SET_USING_ACTION_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "char*",
+                "name": "action"
+            }
+        ],
+        "return_type": "void"
+    }
+}

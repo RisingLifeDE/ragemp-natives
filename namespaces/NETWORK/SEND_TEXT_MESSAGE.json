@@ -1,0 +1,13 @@
+{
+    "SEND_TEXT_MESSAGE": {
+        "name": "SEND_TEXT_MESSAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "message"
+            }
+        ],
+        "return_type": "float"
+    }
+}

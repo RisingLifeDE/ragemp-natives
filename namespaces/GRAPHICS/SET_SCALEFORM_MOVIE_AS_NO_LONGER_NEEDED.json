@@ -1,0 +1,13 @@
+{
+    "SET_SCALEFORM_MOVIE_AS_NO_LONGER_NEEDED": {
+        "name": "SET_SCALEFORM_MOVIE_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleformHandle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

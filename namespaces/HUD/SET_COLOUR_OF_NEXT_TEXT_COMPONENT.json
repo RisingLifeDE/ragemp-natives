@@ -1,0 +1,13 @@
+{
+    "SET_COLOUR_OF_NEXT_TEXT_COMPONENT": {
+        "name": "SET_COLOUR_OF_NEXT_TEXT_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudColor"
+            }
+        ],
+        "return_type": "void"
+    }
+}

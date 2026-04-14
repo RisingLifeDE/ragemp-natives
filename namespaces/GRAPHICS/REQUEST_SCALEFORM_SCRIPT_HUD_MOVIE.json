@@ -1,0 +1,13 @@
+{
+    "REQUEST_SCALEFORM_SCRIPT_HUD_MOVIE": {
+        "name": "REQUEST_SCALEFORM_SCRIPT_HUD_MOVIE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudComponent"
+            }
+        ],
+        "return_type": "void"
+    }
+}

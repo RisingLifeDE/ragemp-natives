@@ -1,0 +1,13 @@
+{
+    "SET_THREAD_PRIORITY": {
+        "name": "SET_THREAD_PRIORITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "priority"
+            }
+        ],
+        "return_type": "void"
+    }
+}

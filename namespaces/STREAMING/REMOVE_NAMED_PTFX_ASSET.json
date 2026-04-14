@@ -1,0 +1,13 @@
+{
+    "REMOVE_NAMED_PTFX_ASSET": {
+        "name": "REMOVE_NAMED_PTFX_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "fxName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

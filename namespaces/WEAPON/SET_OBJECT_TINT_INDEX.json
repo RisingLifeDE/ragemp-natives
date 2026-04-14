@@ -1,0 +1,17 @@
+{
+    "SET_OBJECT_TINT_INDEX": {
+        "name": "SET_OBJECT_TINT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weapon"
+            },
+            {
+                "type": "float",
+                "name": "tintIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

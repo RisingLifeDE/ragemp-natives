@@ -1,0 +1,13 @@
+{
+    "SET_DISPATCH_IDEAL_SPAWN_DISTANCE": {
+        "name": "SET_DISPATCH_IDEAL_SPAWN_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

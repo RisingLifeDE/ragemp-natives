@@ -1,0 +1,13 @@
+{
+    "IS_RELOADING": {
+        "name": "IS_RELOADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

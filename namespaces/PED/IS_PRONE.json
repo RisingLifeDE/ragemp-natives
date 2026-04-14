@@ -1,0 +1,13 @@
+{
+    "IS_PRONE": {
+        "name": "IS_PRONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

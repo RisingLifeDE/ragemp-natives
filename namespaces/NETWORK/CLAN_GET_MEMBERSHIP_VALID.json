@@ -1,0 +1,13 @@
+{
+    "CLAN_GET_MEMBERSHIP_VALID": {
+        "name": "CLAN_GET_MEMBERSHIP_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

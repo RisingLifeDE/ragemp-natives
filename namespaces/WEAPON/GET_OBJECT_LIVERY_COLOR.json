@@ -1,0 +1,17 @@
+{
+    "GET_OBJECT_LIVERY_COLOR": {
+        "name": "GET_OBJECT_LIVERY_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponObject"
+            },
+            {
+                "type": "float",
+                "name": "camoComponentHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_PED_READY_TO_SHOOT": {
+        "name": "IS_PED_READY_TO_SHOOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

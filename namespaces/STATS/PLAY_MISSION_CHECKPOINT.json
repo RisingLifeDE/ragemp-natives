@@ -1,0 +1,21 @@
+{
+    "PLAY_MISSION_CHECKPOINT": {
+        "name": "PLAY_MISSION_CHECKPOINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_ENTITY_IS_FREE_AIMING_AT_RAW": {
+        "name": "GET_ENTITY_IS_FREE_AIMING_AT_RAW",
+        "comment": "",
+        "params": [],
+        "return_type": "Handle | undefined"
+    }
+}

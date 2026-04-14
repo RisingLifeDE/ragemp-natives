@@ -1,0 +1,17 @@
+{
+    "GET_COMMERCE_ITEM_CAT": {
+        "name": "GET_COMMERCE_ITEM_CAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "index"
+            },
+            {
+                "type": "float",
+                "name": "index2"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

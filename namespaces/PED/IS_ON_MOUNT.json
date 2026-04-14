@@ -1,0 +1,13 @@
+{
+    "IS_ON_MOUNT": {
+        "name": "IS_ON_MOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

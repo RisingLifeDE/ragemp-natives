@@ -1,0 +1,13 @@
+{
+    "STAT_CLEAR_SLOT_FOR_RELOAD": {
+        "name": "STAT_CLEAR_SLOT_FOR_RELOAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statSlot"
+            }
+        ],
+        "return_type": "float"
+    }
+}

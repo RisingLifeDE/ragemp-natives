@@ -1,0 +1,13 @@
+{
+    "REMOVE_COVER_POINT": {
+        "name": "REMOVE_COVER_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "coverpoint"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "HAS_TIME_STARTED": {
+        "name": "HAS_TIME_STARTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

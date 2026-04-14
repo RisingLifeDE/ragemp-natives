@@ -1,0 +1,13 @@
+{
+    "GET_STATUS_OF_TEXTURE_DOWNLOAD": {
+        "name": "GET_STATUS_OF_TEXTURE_DOWNLOAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

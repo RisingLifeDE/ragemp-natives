@@ -1,0 +1,8 @@
+{
+    "GET_FINAL_RENDERED_NEAR_CLIP": {
+        "name": "GET_FINAL_RENDERED_NEAR_CLIP",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

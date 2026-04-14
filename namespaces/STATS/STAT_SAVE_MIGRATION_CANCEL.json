@@ -1,0 +1,8 @@
+{
+    "STAT_SAVE_MIGRATION_CANCEL": {
+        "name": "STAT_SAVE_MIGRATION_CANCEL",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

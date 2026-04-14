@@ -1,0 +1,137 @@
+{
+    "DRAW_SPRITE_POLY2": {
+        "name": "DRAW_SPRITE_POLY2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "x3"
+            },
+            {
+                "type": "float",
+                "name": "y3"
+            },
+            {
+                "type": "float",
+                "name": "z3"
+            },
+            {
+                "type": "float",
+                "name": "red1"
+            },
+            {
+                "type": "float",
+                "name": "green1"
+            },
+            {
+                "type": "float",
+                "name": "blue1"
+            },
+            {
+                "type": "float",
+                "name": "alpha1"
+            },
+            {
+                "type": "float",
+                "name": "red2"
+            },
+            {
+                "type": "float",
+                "name": "green2"
+            },
+            {
+                "type": "float",
+                "name": "blue2"
+            },
+            {
+                "type": "float",
+                "name": "alpha2"
+            },
+            {
+                "type": "float",
+                "name": "red3"
+            },
+            {
+                "type": "float",
+                "name": "green3"
+            },
+            {
+                "type": "float",
+                "name": "blue3"
+            },
+            {
+                "type": "float",
+                "name": "alpha3"
+            },
+            {
+                "type": "char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "char*",
+                "name": "textureName"
+            },
+            {
+                "type": "float",
+                "name": "u1"
+            },
+            {
+                "type": "float",
+                "name": "v1"
+            },
+            {
+                "type": "float",
+                "name": "w1"
+            },
+            {
+                "type": "float",
+                "name": "u2"
+            },
+            {
+                "type": "float",
+                "name": "v2"
+            },
+            {
+                "type": "float",
+                "name": "w2"
+            },
+            {
+                "type": "float",
+                "name": "u3"
+            },
+            {
+                "type": "float",
+                "name": "v3"
+            },
+            {
+                "type": "float",
+                "name": "w3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

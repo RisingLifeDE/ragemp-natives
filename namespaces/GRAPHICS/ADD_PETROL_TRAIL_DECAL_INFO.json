@@ -1,0 +1,25 @@
+{
+    "ADD_PETROL_TRAIL_DECAL_INFO": {
+        "name": "ADD_PETROL_TRAIL_DECAL_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

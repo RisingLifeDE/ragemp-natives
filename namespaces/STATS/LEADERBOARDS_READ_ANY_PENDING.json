@@ -1,0 +1,8 @@
+{
+    "LEADERBOARDS_READ_ANY_PENDING": {
+        "name": "LEADERBOARDS_READ_ANY_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

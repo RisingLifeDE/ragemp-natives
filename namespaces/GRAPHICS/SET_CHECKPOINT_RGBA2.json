@@ -1,0 +1,29 @@
+{
+    "SET_CHECKPOINT_RGBA2": {
+        "name": "SET_CHECKPOINT_RGBA2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "checkpoint"
+            },
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

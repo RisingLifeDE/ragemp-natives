@@ -1,0 +1,8 @@
+{
+    "SET_HAS_RESERVE_PARACHUTE": {
+        "name": "SET_HAS_RESERVE_PARACHUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

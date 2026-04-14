@@ -1,0 +1,17 @@
+{
+    "SET_DEBUG_NAME": {
+        "name": "SET_DEBUG_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "camera"
+            },
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

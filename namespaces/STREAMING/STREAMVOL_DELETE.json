@@ -1,0 +1,13 @@
+{
+    "STREAMVOL_DELETE": {
+        "name": "STREAMVOL_DELETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "handle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

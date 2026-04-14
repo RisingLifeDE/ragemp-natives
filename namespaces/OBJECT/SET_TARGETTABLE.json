@@ -1,0 +1,17 @@
+{
+    "SET_TARGETTABLE": {
+        "name": "SET_TARGETTABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "targettable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

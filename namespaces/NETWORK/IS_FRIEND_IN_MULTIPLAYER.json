@@ -1,0 +1,13 @@
+{
+    "IS_FRIEND_IN_MULTIPLAYER": {
+        "name": "IS_FRIEND_IN_MULTIPLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "friendName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

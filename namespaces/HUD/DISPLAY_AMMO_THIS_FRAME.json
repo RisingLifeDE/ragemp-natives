@@ -1,0 +1,13 @@
+{
+    "DISPLAY_AMMO_THIS_FRAME": {
+        "name": "DISPLAY_AMMO_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "display"
+            }
+        ],
+        "return_type": "void"
+    }
+}

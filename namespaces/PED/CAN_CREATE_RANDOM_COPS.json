@@ -1,0 +1,8 @@
+{
+    "CAN_CREATE_RANDOM_COPS": {
+        "name": "CAN_CREATE_RANDOM_COPS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_HOST": {
+        "name": "IS_HOST",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

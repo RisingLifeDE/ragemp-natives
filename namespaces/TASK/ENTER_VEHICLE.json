@@ -1,0 +1,37 @@
+{
+    "ENTER_VEHICLE": {
+        "name": "ENTER_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "timeout"
+            },
+            {
+                "type": "float",
+                "name": "seat"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void"
+    }
+}

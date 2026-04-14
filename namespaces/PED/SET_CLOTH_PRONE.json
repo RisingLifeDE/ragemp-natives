@@ -1,0 +1,17 @@
+{
+    "SET_CLOTH_PRONE": {
+        "name": "SET_CLOTH_PRONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

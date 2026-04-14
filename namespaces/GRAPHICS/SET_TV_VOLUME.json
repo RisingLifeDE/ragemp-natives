@@ -1,0 +1,13 @@
+{
+    "SET_TV_VOLUME": {
+        "name": "SET_TV_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void"
+    }
+}

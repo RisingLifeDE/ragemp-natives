@@ -1,0 +1,17 @@
+{
+    "ADD_TEXT_COMPONENT_SUBSTRING_PHONE_NUMBER": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_PHONE_NUMBER",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

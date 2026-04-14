@@ -1,0 +1,13 @@
+{
+    "SET_INSTANCE_PRIORITY_HINT": {
+        "name": "SET_INSTANCE_PRIORITY_HINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_PED_IN_WRITHE": {
+        "name": "IS_PED_IN_WRITHE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

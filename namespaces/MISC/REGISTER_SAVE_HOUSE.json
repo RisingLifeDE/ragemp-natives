@@ -1,0 +1,33 @@
+{
+    "REGISTER_SAVE_HOUSE": {
+        "name": "REGISTER_SAVE_HOUSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            }
+        ],
+        "return_type": "RegisterSaveHouseResult"
+    }
+}

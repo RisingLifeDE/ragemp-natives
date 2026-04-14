@@ -1,0 +1,8 @@
+{
+    "CAN_GAMER_PLAY_MULTIPLAYER_WITH_ME": {
+        "name": "CAN_GAMER_PLAY_MULTIPLAYER_WITH_ME",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

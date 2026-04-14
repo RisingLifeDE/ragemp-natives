@@ -1,0 +1,13 @@
+{
+    "THEFEED_SET_ANIMPOSTFX_SOUND": {
+        "name": "THEFEED_SET_ANIMPOSTFX_SOUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

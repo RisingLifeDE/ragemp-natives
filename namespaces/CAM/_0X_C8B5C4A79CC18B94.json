@@ -1,0 +1,13 @@
+{
+    "_0X_C8B5C4A79CC18B94": {
+        "name": "_0X_C8B5C4A79CC18B94",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "SET_STATE_OF_CLOSEST_DOOR_OF_TYPE": {
+        "name": "SET_STATE_OF_CLOSEST_DOOR_OF_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "locked"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "DECOR_SET_TIME": {
+        "name": "DECOR_SET_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "float",
+                "name": "timestamp"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

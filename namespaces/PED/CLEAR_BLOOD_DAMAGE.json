@@ -1,0 +1,13 @@
+{
+    "CLEAR_BLOOD_DAMAGE": {
+        "name": "CLEAR_BLOOD_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

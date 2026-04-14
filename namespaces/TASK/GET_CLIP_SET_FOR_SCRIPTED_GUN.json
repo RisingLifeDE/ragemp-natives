@@ -1,0 +1,13 @@
+{
+    "GET_CLIP_SET_FOR_SCRIPTED_GUN": {
+        "name": "GET_CLIP_SET_FOR_SCRIPTED_GUN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "SET_TIME": {
+        "name": "SET_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hour"
+            },
+            {
+                "type": "float",
+                "name": "minute"
+            },
+            {
+                "type": "float",
+                "name": "second"
+            }
+        ],
+        "return_type": "void"
+    }
+}

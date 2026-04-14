@@ -1,0 +1,33 @@
+{
+    "CREATE_MONEY_PICKUPS": {
+        "name": "CREATE_MONEY_PICKUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "float",
+                "name": "model"
+            }
+        ],
+        "return_type": "void"
+    }
+}

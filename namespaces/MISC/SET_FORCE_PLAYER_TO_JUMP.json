@@ -1,0 +1,13 @@
+{
+    "SET_FORCE_PLAYER_TO_JUMP": {
+        "name": "SET_FORCE_PLAYER_TO_JUMP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "void"
+    }
+}

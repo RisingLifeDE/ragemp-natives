@@ -1,0 +1,41 @@
+{
+    "GOTO_ENTITY_OFFSET_XY": {
+        "name": "GOTO_ENTITY_OFFSET_XY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "oed"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void"
+    }
+}

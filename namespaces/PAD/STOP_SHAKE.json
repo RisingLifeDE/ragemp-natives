@@ -1,0 +1,13 @@
+{
+    "STOP_SHAKE": {
+        "name": "STOP_SHAKE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

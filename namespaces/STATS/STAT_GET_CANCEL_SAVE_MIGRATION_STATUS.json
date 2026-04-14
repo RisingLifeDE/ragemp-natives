@@ -1,0 +1,8 @@
+{
+    "STAT_GET_CANCEL_SAVE_MIGRATION_STATUS": {
+        "name": "STAT_GET_CANCEL_SAVE_MIGRATION_STATUS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

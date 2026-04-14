@@ -1,0 +1,21 @@
+{
+    "FORCE_ROOM_FOR_ENTITY": {
+        "name": "FORCE_ROOM_FOR_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "interior"
+            },
+            {
+                "type": "float",
+                "name": "roomHashKey"
+            }
+        ],
+        "return_type": "void"
+    }
+}

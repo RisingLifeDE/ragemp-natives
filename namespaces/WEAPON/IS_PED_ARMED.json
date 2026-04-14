@@ -1,0 +1,17 @@
+{
+    "IS_PED_ARMED": {
+        "name": "IS_PED_ARMED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "typeFlags"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

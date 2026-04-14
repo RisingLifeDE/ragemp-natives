@@ -1,0 +1,8 @@
+{
+    "ACTION_FOLLOW_INVITE": {
+        "name": "ACTION_FOLLOW_INVITE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

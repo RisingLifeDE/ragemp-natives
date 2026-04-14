@@ -1,0 +1,8 @@
+{
+    "GET_FROM_GAMEPLAY_CAM": {
+        "name": "GET_FROM_GAMEPLAY_CAM",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

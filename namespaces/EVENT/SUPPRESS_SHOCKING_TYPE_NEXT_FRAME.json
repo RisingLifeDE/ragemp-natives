@@ -1,0 +1,13 @@
+{
+    "SUPPRESS_SHOCKING_TYPE_NEXT_FRAME": {
+        "name": "SUPPRESS_SHOCKING_TYPE_NEXT_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "eventType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

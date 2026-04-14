@@ -1,0 +1,8 @@
+{
+    "IS_DEAD": {
+        "name": "IS_DEAD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

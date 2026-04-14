@@ -1,0 +1,21 @@
+{
+    "SET_MP_GAMER_TAG_COLOUR": {
+        "name": "SET_MP_GAMER_TAG_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "float",
+                "name": "component"
+            },
+            {
+                "type": "float",
+                "name": "hudColorIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

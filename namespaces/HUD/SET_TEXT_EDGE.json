@@ -1,0 +1,29 @@
+{
+    "SET_TEXT_EDGE": {
+        "name": "SET_TEXT_EDGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "edge"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            },
+            {
+                "type": "float",
+                "name": "a"
+            }
+        ],
+        "return_type": "void"
+    }
+}

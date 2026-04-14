@@ -1,0 +1,17 @@
+{
+    "REMOVE_ALL_STICKY_BOMBS_FROM_ENTITY": {
+        "name": "REMOVE_ALL_STICKY_BOMBS_FROM_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_ROPE_VERTEX_COUNT": {
+        "name": "GET_ROPE_VERTEX_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

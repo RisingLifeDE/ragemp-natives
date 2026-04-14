@@ -1,0 +1,13 @@
+{
+    "ADD_REPLAY_STAT_VALUE": {
+        "name": "ADD_REPLAY_STAT_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

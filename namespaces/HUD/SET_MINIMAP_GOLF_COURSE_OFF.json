@@ -1,0 +1,8 @@
+{
+    "SET_MINIMAP_GOLF_COURSE_OFF": {
+        "name": "SET_MINIMAP_GOLF_COURSE_OFF",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

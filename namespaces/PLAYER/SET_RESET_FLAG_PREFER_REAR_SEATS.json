@@ -1,0 +1,13 @@
+{
+    "SET_RESET_FLAG_PREFER_REAR_SEATS": {
+        "name": "SET_RESET_FLAG_PREFER_REAR_SEATS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

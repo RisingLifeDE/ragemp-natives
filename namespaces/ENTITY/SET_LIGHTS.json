@@ -1,0 +1,17 @@
+{
+    "SET_LIGHTS": {
+        "name": "SET_LIGHTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

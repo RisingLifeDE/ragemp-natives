@@ -1,0 +1,8 @@
+{
+    "GET_PICKUP_GENERATION_RANGE_MULTIPLIER": {
+        "name": "GET_PICKUP_GENERATION_RANGE_MULTIPLIER",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

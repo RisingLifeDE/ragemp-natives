@@ -1,0 +1,13 @@
+{
+    "ABSF": {
+        "name": "ABSF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_PLAYING_PHONE_GESTURE_ANIM": {
+        "name": "IS_PLAYING_PHONE_GESTURE_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

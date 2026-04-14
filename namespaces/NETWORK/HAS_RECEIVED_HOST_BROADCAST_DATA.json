@@ -1,0 +1,8 @@
+{
+    "HAS_RECEIVED_HOST_BROADCAST_DATA": {
+        "name": "HAS_RECEIVED_HOST_BROADCAST_DATA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

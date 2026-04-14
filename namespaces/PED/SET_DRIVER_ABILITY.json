@@ -1,0 +1,17 @@
+{
+    "SET_DRIVER_ABILITY": {
+        "name": "SET_DRIVER_ABILITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "ability"
+            }
+        ],
+        "return_type": "void"
+    }
+}

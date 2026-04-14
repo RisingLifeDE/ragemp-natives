@@ -1,0 +1,13 @@
+{
+    "GET_OBJECT_INDEX_FROM_INDEX": {
+        "name": "GET_OBJECT_INDEX_FROM_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

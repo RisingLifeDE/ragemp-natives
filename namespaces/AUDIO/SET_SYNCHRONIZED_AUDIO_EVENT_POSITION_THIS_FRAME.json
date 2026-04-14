@@ -1,0 +1,17 @@
+{
+    "SET_SYNCHRONIZED_AUDIO_EVENT_POSITION_THIS_FRAME": {
+        "name": "SET_SYNCHRONIZED_AUDIO_EVENT_POSITION_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

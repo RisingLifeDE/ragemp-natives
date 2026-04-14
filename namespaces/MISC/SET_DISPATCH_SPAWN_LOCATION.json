@@ -1,0 +1,21 @@
+{
+    "SET_DISPATCH_SPAWN_LOCATION": {
+        "name": "SET_DISPATCH_SPAWN_LOCATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

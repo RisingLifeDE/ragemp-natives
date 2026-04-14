@@ -1,0 +1,17 @@
+{
+    "SET_CLEANUP_BY_ENGINE": {
+        "name": "SET_CLEANUP_BY_ENGINE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

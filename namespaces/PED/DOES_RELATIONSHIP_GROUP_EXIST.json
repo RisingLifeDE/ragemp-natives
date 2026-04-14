@@ -1,0 +1,13 @@
+{
+    "DOES_RELATIONSHIP_GROUP_EXIST": {
+        "name": "DOES_RELATIONSHIP_GROUP_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "groupHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

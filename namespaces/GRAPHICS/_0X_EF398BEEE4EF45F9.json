@@ -1,0 +1,13 @@
+{
+    "_0X_EF398BEEE4EF45F9": {
+        "name": "_0X_EF398BEEE4EF45F9",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

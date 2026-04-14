@@ -1,0 +1,17 @@
+{
+    "SET_MP_GAMER_TAG_WANTED_LEVEL": {
+        "name": "SET_MP_GAMER_TAG_WANTED_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "float",
+                "name": "wantedlvl"
+            }
+        ],
+        "return_type": "void"
+    }
+}

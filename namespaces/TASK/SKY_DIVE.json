@@ -1,0 +1,17 @@
+{
+    "SKY_DIVE": {
+        "name": "SKY_DIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_PICKUP_HIDDEN_WHEN_UNCOLLECTABLE": {
+        "name": "SET_PICKUP_HIDDEN_WHEN_UNCOLLECTABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

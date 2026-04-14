@@ -1,0 +1,29 @@
+{
+    "CLEAR_AREA_OF_PROJECTILES": {
+        "name": "CLEAR_AREA_OF_PROJECTILES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

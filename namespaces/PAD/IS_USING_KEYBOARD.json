@@ -1,0 +1,13 @@
+{
+    "IS_USING_KEYBOARD": {
+        "name": "IS_USING_KEYBOARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

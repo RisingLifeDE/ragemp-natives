@@ -1,0 +1,25 @@
+{
+    "VEHICLE_DRIVE_WANDER": {
+        "name": "VEHICLE_DRIVE_WANDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "drivingStyle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

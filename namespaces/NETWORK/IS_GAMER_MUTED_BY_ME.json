@@ -1,0 +1,8 @@
+{
+    "IS_GAMER_MUTED_BY_ME": {
+        "name": "IS_GAMER_MUTED_BY_ME",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

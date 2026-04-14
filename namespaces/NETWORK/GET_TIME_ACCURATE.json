@@ -1,0 +1,8 @@
+{
+    "GET_TIME_ACCURATE": {
+        "name": "GET_TIME_ACCURATE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

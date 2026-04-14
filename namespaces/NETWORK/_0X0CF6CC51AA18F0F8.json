@@ -1,0 +1,21 @@
+{
+    "_0X0CF6CC51AA18F0F8": {
+        "name": "_0X0CF6CC51AA18F0F8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

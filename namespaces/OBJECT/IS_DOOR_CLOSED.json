@@ -1,0 +1,13 @@
+{
+    "IS_DOOR_CLOSED": {
+        "name": "IS_DOOR_CLOSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

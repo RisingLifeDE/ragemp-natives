@@ -1,0 +1,25 @@
+{
+    "SET_FLOATING_HELP_TEXT_TO_ENTITY": {
+        "name": "SET_FLOATING_HELP_TEXT_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudIndex"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            }
+        ],
+        "return_type": "void"
+    }
+}

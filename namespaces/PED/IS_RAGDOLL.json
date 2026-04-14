@@ -1,0 +1,13 @@
+{
+    "IS_RAGDOLL": {
+        "name": "IS_RAGDOLL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

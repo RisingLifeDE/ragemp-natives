@@ -1,0 +1,17 @@
+{
+    "REQUEST_STREAMED_TEXTURE_DICT": {
+        "name": "REQUEST_STREAMED_TEXTURE_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

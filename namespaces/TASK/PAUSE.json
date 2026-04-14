@@ -1,0 +1,17 @@
+{
+    "PAUSE": {
+        "name": "PAUSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "ms"
+            }
+        ],
+        "return_type": "void"
+    }
+}

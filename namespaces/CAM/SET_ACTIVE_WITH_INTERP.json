@@ -1,0 +1,29 @@
+{
+    "SET_ACTIVE_WITH_INTERP": {
+        "name": "SET_ACTIVE_WITH_INTERP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "camTo"
+            },
+            {
+                "type": "float",
+                "name": "camFrom"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "easeLocation"
+            },
+            {
+                "type": "float",
+                "name": "easeRotation"
+            }
+        ],
+        "return_type": "void"
+    }
+}

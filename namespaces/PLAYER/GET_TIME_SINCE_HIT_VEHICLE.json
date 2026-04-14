@@ -1,0 +1,8 @@
+{
+    "GET_TIME_SINCE_HIT_VEHICLE": {
+        "name": "GET_TIME_SINCE_HIT_VEHICLE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_USINGSEETHROUGH": {
+        "name": "GET_USINGSEETHROUGH",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

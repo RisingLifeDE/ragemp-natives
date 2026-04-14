@@ -1,0 +1,21 @@
+{
+    "FORCE_AI_AND_ANIMATION_UPDATE": {
+        "name": "FORCE_AI_AND_ANIMATION_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

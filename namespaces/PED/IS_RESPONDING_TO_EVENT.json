@@ -1,0 +1,17 @@
+{
+    "IS_RESPONDING_TO_EVENT": {
+        "name": "IS_RESPONDING_TO_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "event"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

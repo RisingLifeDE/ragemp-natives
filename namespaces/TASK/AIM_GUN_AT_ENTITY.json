@@ -1,0 +1,25 @@
+{
+    "AIM_GUN_AT_ENTITY": {
+        "name": "AIM_GUN_AT_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

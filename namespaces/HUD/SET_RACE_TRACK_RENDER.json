@@ -1,0 +1,13 @@
+{
+    "SET_RACE_TRACK_RENDER": {
+        "name": "SET_RACE_TRACK_RENDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

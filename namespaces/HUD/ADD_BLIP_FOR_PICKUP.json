@@ -1,0 +1,13 @@
+{
+    "ADD_BLIP_FOR_PICKUP": {
+        "name": "ADD_BLIP_FOR_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "float"
+    }
+}

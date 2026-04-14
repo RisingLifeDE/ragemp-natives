@@ -1,0 +1,21 @@
+{
+    "TOGGLE_USE_PICKUPS_FOR_PLAYER": {
+        "name": "TOGGLE_USE_PICKUPS_FOR_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "pickupHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

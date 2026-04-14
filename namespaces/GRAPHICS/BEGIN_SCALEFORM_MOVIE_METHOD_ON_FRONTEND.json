@@ -1,0 +1,13 @@
+{
+    "BEGIN_SCALEFORM_MOVIE_METHOD_ON_FRONTEND": {
+        "name": "BEGIN_SCALEFORM_MOVIE_METHOD_ON_FRONTEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "methodName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

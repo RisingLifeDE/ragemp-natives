@@ -1,0 +1,13 @@
+{
+    "GET_COMPONENT_POSITION": {
+        "name": "GET_COMPONENT_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

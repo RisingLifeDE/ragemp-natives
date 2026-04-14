@@ -1,0 +1,17 @@
+{
+    "SET_SCALEFORM_FIT_RENDERTARGET": {
+        "name": "SET_SCALEFORM_FIT_RENDERTARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleformHandle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_VALID_MP_GAMER_TAG_MOVIE": {
+        "name": "IS_VALID_MP_GAMER_TAG_MOVIE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

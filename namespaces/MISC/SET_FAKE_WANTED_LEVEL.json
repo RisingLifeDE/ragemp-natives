@@ -1,0 +1,13 @@
+{
+    "SET_FAKE_WANTED_LEVEL": {
+        "name": "SET_FAKE_WANTED_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "fakeWantedLevel"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "INVALIDATE_VEHICLE_IDLE": {
+        "name": "INVALIDATE_VEHICLE_IDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

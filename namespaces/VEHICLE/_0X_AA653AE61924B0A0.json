@@ -1,0 +1,17 @@
+{
+    "_0X_AA653AE61924B0A0": {
+        "name": "_0X_AA653AE61924B0A0",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "_0X7EF7649B64D7FF10": {
+        "name": "_0X7EF7649B64D7FF10",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

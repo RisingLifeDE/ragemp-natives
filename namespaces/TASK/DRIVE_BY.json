@@ -1,0 +1,49 @@
+{
+    "DRIVE_BY": {
+        "name": "DRIVE_BY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "driverPed"
+            },
+            {
+                "type": "float",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "float",
+                "name": "targetX"
+            },
+            {
+                "type": "float",
+                "name": "targetY"
+            },
+            {
+                "type": "float",
+                "name": "targetZ"
+            },
+            {
+                "type": "float",
+                "name": "distanceToShoot"
+            },
+            {
+                "type": "float",
+                "name": "pedAccuracy"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "firingPattern"
+            }
+        ],
+        "return_type": "void"
+    }
+}

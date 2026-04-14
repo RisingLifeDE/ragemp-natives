@@ -1,0 +1,17 @@
+{
+    "REQUEST_ADDITIONAL_TEXT": {
+        "name": "REQUEST_ADDITIONAL_TEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "gxt"
+            },
+            {
+                "type": "float",
+                "name": "slot"
+            }
+        ],
+        "return_type": "void"
+    }
+}

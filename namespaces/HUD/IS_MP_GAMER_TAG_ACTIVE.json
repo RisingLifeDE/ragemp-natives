@@ -1,0 +1,13 @@
+{
+    "IS_MP_GAMER_TAG_ACTIVE": {
+        "name": "IS_MP_GAMER_TAG_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

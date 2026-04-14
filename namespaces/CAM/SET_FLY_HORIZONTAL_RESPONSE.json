@@ -1,0 +1,25 @@
+{
+    "SET_FLY_HORIZONTAL_RESPONSE": {
+        "name": "SET_FLY_HORIZONTAL_RESPONSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

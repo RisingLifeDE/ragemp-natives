@@ -1,0 +1,8 @@
+{
+    "CLEAR_RACE_GALLERY_BLIPS": {
+        "name": "CLEAR_RACE_GALLERY_BLIPS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

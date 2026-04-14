@@ -1,0 +1,17 @@
+{
+    "SET_DRIVE_DRIVING_STYLE": {
+        "name": "SET_DRIVE_DRIVING_STYLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "drivingStyle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

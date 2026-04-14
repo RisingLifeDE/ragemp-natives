@@ -1,0 +1,8 @@
+{
+    "GET_LOCAL_PLAYER_AIM_STATE2": {
+        "name": "GET_LOCAL_PLAYER_AIM_STATE2",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

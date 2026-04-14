@@ -1,0 +1,13 @@
+{
+    "_0X94538037EE44F5CF": {
+        "name": "_0X94538037EE44F5CF",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

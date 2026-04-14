@@ -1,0 +1,13 @@
+{
+    "SET_FORCE_SKIP_AIM_INTRO": {
+        "name": "SET_FORCE_SKIP_AIM_INTRO",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

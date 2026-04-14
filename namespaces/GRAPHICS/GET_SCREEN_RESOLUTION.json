@@ -1,0 +1,8 @@
+{
+    "GET_SCREEN_RESOLUTION": {
+        "name": "GET_SCREEN_RESOLUTION",
+        "comment": "",
+        "params": [],
+        "return_type": "GetScreenResolutionResult"
+    }
+}

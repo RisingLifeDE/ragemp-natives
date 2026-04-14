@@ -1,0 +1,13 @@
+{
+    "GET_TINT_COUNT": {
+        "name": "GET_TINT_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "_0X_A7DCDF4DED40A8F4": {
+        "name": "_0X_A7DCDF4DED40A8F4",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

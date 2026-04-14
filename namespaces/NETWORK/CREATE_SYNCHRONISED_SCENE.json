@@ -1,0 +1,57 @@
+{
+    "CREATE_SYNCHRONISED_SCENE": {
+        "name": "CREATE_SYNCHRONISED_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "float",
+                "name": "rotationOrder"
+            },
+            {
+                "type": "BOOL",
+                "name": "useOcclusionPortal"
+            },
+            {
+                "type": "BOOL",
+                "name": "looped"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "animTime"
+            },
+            {
+                "type": "float",
+                "name": "p11"
+            }
+        ],
+        "return_type": "float"
+    }
+}

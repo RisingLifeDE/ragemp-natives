@@ -1,0 +1,17 @@
+{
+    "_0X7241CCB7D020DB69": {
+        "name": "_0X7241CCB7D020DB69",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

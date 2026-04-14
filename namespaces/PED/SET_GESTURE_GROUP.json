@@ -1,0 +1,17 @@
+{
+    "SET_GESTURE_GROUP": {
+        "name": "SET_GESTURE_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "animGroupGesture"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "DOOR_CONTROL": {
+        "name": "DOOR_CONTROL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "locked"
+            },
+            {
+                "type": "float",
+                "name": "xRotMult"
+            },
+            {
+                "type": "float",
+                "name": "yRotMult"
+            },
+            {
+                "type": "float",
+                "name": "zRotMult"
+            }
+        ],
+        "return_type": "void"
+    }
+}

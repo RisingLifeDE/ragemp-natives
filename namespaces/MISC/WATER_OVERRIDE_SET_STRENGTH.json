@@ -1,0 +1,13 @@
+{
+    "WATER_OVERRIDE_SET_STRENGTH": {
+        "name": "WATER_OVERRIDE_SET_STRENGTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void"
+    }
+}

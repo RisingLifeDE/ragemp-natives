@@ -1,0 +1,25 @@
+{
+    "SET_HELMET_UNK": {
+        "name": "SET_HELMET_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

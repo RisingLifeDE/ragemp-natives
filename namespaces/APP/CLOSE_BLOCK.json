@@ -1,0 +1,8 @@
+{
+    "CLOSE_BLOCK": {
+        "name": "CLOSE_BLOCK",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

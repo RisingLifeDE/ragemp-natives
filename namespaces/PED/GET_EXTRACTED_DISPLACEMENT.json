@@ -1,0 +1,17 @@
+{
+    "GET_EXTRACTED_DISPLACEMENT": {
+        "name": "GET_EXTRACTED_DISPLACEMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "worldSpace"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

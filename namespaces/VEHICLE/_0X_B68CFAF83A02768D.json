@@ -1,0 +1,17 @@
+{
+    "_0X_B68CFAF83A02768D": {
+        "name": "_0X_B68CFAF83A02768D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_NEAR_DOF": {
+        "name": "SET_NEAR_DOF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "nearDOF"
+            }
+        ],
+        "return_type": "void"
+    }
+}

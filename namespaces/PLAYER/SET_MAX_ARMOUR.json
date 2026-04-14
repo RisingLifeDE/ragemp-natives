@@ -1,0 +1,13 @@
+{
+    "SET_MAX_ARMOUR": {
+        "name": "SET_MAX_ARMOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

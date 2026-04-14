@@ -1,0 +1,17 @@
+{
+    "SET_IN_VEHICLE_CONTEXT": {
+        "name": "SET_IN_VEHICLE_CONTEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "context"
+            }
+        ],
+        "return_type": "void"
+    }
+}

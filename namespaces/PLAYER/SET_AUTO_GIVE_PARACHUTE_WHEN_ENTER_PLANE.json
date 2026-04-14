@@ -1,0 +1,13 @@
+{
+    "SET_AUTO_GIVE_PARACHUTE_WHEN_ENTER_PLANE": {
+        "name": "SET_AUTO_GIVE_PARACHUTE_WHEN_ENTER_PLANE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

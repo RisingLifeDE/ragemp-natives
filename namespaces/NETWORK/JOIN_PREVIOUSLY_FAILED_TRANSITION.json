@@ -1,0 +1,8 @@
+{
+    "JOIN_PREVIOUSLY_FAILED_TRANSITION": {
+        "name": "JOIN_PREVIOUSLY_FAILED_TRANSITION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

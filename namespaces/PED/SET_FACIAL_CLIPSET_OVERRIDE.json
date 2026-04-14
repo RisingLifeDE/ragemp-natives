@@ -1,0 +1,17 @@
+{
+    "SET_FACIAL_CLIPSET_OVERRIDE": {
+        "name": "SET_FACIAL_CLIPSET_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "void"
+    }
+}

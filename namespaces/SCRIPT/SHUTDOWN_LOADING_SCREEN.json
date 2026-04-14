@@ -1,0 +1,8 @@
+{
+    "SHUTDOWN_LOADING_SCREEN": {
+        "name": "SHUTDOWN_LOADING_SCREEN",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "RELEASE_NAMED_RENDERTARGET": {
+        "name": "RELEASE_NAMED_RENDERTARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

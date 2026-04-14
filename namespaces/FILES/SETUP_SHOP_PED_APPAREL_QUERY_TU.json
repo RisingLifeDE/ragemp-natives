@@ -1,0 +1,33 @@
+{
+    "SETUP_SHOP_PED_APPAREL_QUERY_TU": {
+        "name": "SETUP_SHOP_PED_APPAREL_QUERY_TU",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "character"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "componentId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

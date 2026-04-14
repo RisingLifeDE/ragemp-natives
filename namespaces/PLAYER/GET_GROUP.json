@@ -1,0 +1,8 @@
+{
+    "GET_GROUP": {
+        "name": "GET_GROUP",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

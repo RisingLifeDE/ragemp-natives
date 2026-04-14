@@ -1,0 +1,13 @@
+{
+    "UNREGISTER_HEADSHOT": {
+        "name": "UNREGISTER_HEADSHOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "void"
+    }
+}

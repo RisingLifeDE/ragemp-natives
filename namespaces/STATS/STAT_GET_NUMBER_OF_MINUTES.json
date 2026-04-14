@@ -1,0 +1,13 @@
+{
+    "STAT_GET_NUMBER_OF_MINUTES": {
+        "name": "STAT_GET_NUMBER_OF_MINUTES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

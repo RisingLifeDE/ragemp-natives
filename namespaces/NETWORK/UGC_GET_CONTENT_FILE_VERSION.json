@@ -1,0 +1,17 @@
+{
+    "UGC_GET_CONTENT_FILE_VERSION": {
+        "name": "UGC_GET_CONTENT_FILE_VERSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

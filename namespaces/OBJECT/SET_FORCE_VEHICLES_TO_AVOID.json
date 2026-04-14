@@ -1,0 +1,17 @@
+{
+    "SET_FORCE_VEHICLES_TO_AVOID": {
+        "name": "SET_FORCE_VEHICLES_TO_AVOID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

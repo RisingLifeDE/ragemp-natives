@@ -1,0 +1,8 @@
+{
+    "IS_COMMERCE_STORE_OPEN": {
+        "name": "IS_COMMERCE_STORE_OPEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

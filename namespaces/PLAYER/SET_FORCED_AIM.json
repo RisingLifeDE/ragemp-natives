@@ -1,0 +1,13 @@
+{
+    "SET_FORCED_AIM": {
+        "name": "SET_FORCED_AIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

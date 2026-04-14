@@ -1,0 +1,13 @@
+{
+    "IS_PLANTING_BOMB": {
+        "name": "IS_PLANTING_BOMB",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

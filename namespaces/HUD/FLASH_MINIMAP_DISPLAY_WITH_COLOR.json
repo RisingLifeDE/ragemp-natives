@@ -1,0 +1,13 @@
+{
+    "FLASH_MINIMAP_DISPLAY_WITH_COLOR": {
+        "name": "FLASH_MINIMAP_DISPLAY_WITH_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudColorIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

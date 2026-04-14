@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_PRINT": {
+        "name": "BEGIN_TEXT_COMMAND_PRINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "GxtEntry"
+            }
+        ],
+        "return_type": "void"
+    }
+}

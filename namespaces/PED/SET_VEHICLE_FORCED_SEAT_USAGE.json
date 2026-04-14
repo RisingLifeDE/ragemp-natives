@@ -1,0 +1,29 @@
+{
+    "SET_VEHICLE_FORCED_SEAT_USAGE": {
+        "name": "SET_VEHICLE_FORCED_SEAT_USAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "seatIndex"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

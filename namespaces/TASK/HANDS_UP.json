@@ -1,0 +1,29 @@
+{
+    "HANDS_UP": {
+        "name": "HANDS_UP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "facingPed"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

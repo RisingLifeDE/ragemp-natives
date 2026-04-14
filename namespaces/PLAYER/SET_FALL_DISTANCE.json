@@ -1,0 +1,17 @@
+{
+    "SET_FALL_DISTANCE": {
+        "name": "SET_FALL_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

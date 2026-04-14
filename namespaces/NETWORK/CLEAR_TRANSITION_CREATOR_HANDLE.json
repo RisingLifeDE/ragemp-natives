@@ -1,0 +1,8 @@
+{
+    "CLEAR_TRANSITION_CREATOR_HANDLE": {
+        "name": "CLEAR_TRANSITION_CREATOR_HANDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

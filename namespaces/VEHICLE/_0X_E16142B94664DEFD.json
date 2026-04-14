@@ -1,0 +1,17 @@
+{
+    "_0X_E16142B94664DEFD": {
+        "name": "_0X_E16142B94664DEFD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

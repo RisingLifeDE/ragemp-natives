@@ -1,0 +1,17 @@
+{
+    "GET_IS_ARENA_PROP_PHYSICS_DISABLED": {
+        "name": "GET_IS_ARENA_PROP_PHYSICS_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

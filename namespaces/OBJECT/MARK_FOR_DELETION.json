@@ -1,0 +1,13 @@
+{
+    "MARK_FOR_DELETION": {
+        "name": "MARK_FOR_DELETION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_ENTITY_INVISIBLE_TO_NETWORK": {
+        "name": "SET_ENTITY_INVISIBLE_TO_NETWORK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

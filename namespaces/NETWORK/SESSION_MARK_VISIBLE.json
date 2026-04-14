@@ -1,0 +1,13 @@
+{
+    "SESSION_MARK_VISIBLE": {
+        "name": "SESSION_MARK_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

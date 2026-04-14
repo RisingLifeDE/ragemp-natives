@@ -1,0 +1,13 @@
+{
+    "GET_AI_BLIP2": {
+        "name": "GET_AI_BLIP2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

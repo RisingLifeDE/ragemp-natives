@@ -1,0 +1,17 @@
+{
+    "SET_SCRIPT_GFX_ALIGN": {
+        "name": "SET_SCRIPT_GFX_ALIGN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "horizontalAlign"
+            },
+            {
+                "type": "float",
+                "name": "verticalAlign"
+            }
+        ],
+        "return_type": "void"
+    }
+}

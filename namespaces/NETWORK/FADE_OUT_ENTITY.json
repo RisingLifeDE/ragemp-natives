@@ -1,0 +1,21 @@
+{
+    "FADE_OUT_ENTITY": {
+        "name": "FADE_OUT_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "normal"
+            },
+            {
+                "type": "BOOL",
+                "name": "slow"
+            }
+        ],
+        "return_type": "void"
+    }
+}

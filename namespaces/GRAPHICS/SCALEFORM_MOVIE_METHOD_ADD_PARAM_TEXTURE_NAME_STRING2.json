@@ -1,0 +1,13 @@
+{
+    "SCALEFORM_MOVIE_METHOD_ADD_PARAM_TEXTURE_NAME_STRING2": {
+        "name": "SCALEFORM_MOVIE_METHOD_ADD_PARAM_TEXTURE_NAME_STRING2",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "void"
+    }
+}

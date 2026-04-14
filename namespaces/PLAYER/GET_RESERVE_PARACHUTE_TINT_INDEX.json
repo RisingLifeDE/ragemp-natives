@@ -1,0 +1,8 @@
+{
+    "GET_RESERVE_PARACHUTE_TINT_INDEX": {
+        "name": "GET_RESERVE_PARACHUTE_TINT_INDEX",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

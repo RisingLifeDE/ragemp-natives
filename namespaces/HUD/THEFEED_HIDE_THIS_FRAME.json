@@ -1,0 +1,8 @@
+{
+    "THEFEED_HIDE_THIS_FRAME": {
+        "name": "THEFEED_HIDE_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

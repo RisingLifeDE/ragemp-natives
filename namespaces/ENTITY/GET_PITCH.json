@@ -1,0 +1,13 @@
+{
+    "GET_PITCH": {
+        "name": "GET_PITCH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CREATE": {
+        "name": "CREATE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

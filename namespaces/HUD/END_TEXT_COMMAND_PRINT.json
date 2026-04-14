@@ -1,0 +1,17 @@
+{
+    "END_TEXT_COMMAND_PRINT": {
+        "name": "END_TEXT_COMMAND_PRINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "drawImmediately"
+            }
+        ],
+        "return_type": "void"
+    }
+}

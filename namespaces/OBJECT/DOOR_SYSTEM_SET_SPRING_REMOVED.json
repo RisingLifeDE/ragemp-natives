@@ -1,0 +1,25 @@
+{
+    "DOOR_SYSTEM_SET_SPRING_REMOVED": {
+        "name": "DOOR_SYSTEM_SET_SPRING_REMOVED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "removed"
+            },
+            {
+                "type": "BOOL",
+                "name": "requestDoor"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceUpdate"
+            }
+        ],
+        "return_type": "void"
+    }
+}

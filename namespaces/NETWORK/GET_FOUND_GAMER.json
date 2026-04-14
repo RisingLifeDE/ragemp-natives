@@ -1,0 +1,13 @@
+{
+    "GET_FOUND_GAMER": {
+        "name": "GET_FOUND_GAMER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

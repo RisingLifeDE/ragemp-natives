@@ -1,0 +1,13 @@
+{
+    "SET_TIMECYCLE_MODIFIER_STRENGTH": {
+        "name": "SET_TIMECYCLE_MODIFIER_STRENGTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void"
+    }
+}

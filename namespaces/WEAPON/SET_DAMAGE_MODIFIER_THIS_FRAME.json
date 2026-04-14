@@ -1,0 +1,17 @@
+{
+    "SET_DAMAGE_MODIFIER_THIS_FRAME": {
+        "name": "SET_DAMAGE_MODIFIER_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "damageMultiplier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

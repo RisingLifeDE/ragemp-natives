@@ -1,0 +1,21 @@
+{
+    "SET_PARTICLE_FX_NON_LOOPED_COLOUR": {
+        "name": "SET_PARTICLE_FX_NON_LOOPED_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            }
+        ],
+        "return_type": "void"
+    }
+}

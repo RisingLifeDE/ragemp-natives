@@ -1,0 +1,13 @@
+{
+    "ENABLE_ALIEN_BLOOD_VFX": {
+        "name": "ENABLE_ALIEN_BLOOD_VFX",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

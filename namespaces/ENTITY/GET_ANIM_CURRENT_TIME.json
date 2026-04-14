@@ -1,0 +1,21 @@
+{
+    "GET_ANIM_CURRENT_TIME": {
+        "name": "GET_ANIM_CURRENT_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

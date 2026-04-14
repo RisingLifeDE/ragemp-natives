@@ -1,0 +1,13 @@
+{
+    "SET_LOCAL_PLAYER_INVINCIBLE_TIME": {
+        "name": "SET_LOCAL_PLAYER_INVINCIBLE_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "void"
+    }
+}

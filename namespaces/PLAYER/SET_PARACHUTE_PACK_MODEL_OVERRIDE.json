@@ -1,0 +1,13 @@
+{
+    "SET_PARACHUTE_PACK_MODEL_OVERRIDE": {
+        "name": "SET_PARACHUTE_PACK_MODEL_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "model"
+            }
+        ],
+        "return_type": "void"
+    }
+}

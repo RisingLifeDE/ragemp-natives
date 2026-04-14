@@ -1,0 +1,17 @@
+{
+    "SET_LEG_IK_MODE": {
+        "name": "SET_LEG_IK_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "mode"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "THEFEED_IS_PAUSED": {
+        "name": "THEFEED_IS_PAUSED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

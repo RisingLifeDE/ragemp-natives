@@ -1,0 +1,8 @@
+{
+    "IS": {
+        "name": "IS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

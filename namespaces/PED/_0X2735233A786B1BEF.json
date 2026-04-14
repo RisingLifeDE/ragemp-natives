@@ -1,0 +1,17 @@
+{
+    "_0X2735233A786B1BEF": {
+        "name": "_0X2735233A786B1BEF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

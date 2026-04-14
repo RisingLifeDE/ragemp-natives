@@ -1,0 +1,17 @@
+{
+    "SEETHROUGH_SET_HEATSCALE": {
+        "name": "SEETHROUGH_SET_HEATSCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "index"
+            },
+            {
+                "type": "float",
+                "name": "heatScale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

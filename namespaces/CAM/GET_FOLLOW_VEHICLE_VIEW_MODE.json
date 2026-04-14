@@ -1,0 +1,8 @@
+{
+    "GET_FOLLOW_VEHICLE_VIEW_MODE": {
+        "name": "GET_FOLLOW_VEHICLE_VIEW_MODE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

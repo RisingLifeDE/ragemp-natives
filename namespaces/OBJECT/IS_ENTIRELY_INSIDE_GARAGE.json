@@ -1,0 +1,25 @@
+{
+    "IS_ENTIRELY_INSIDE_GARAGE": {
+        "name": "IS_ENTIRELY_INSIDE_GARAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "garageHash"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

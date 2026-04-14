@@ -1,0 +1,17 @@
+{
+    "IS_TIME_EQUAL_TO": {
+        "name": "IS_TIME_EQUAL_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "timeA"
+            },
+            {
+                "type": "float",
+                "name": "timeB"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

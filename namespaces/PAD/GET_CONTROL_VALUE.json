@@ -1,0 +1,17 @@
+{
+    "GET_CONTROL_VALUE": {
+        "name": "GET_CONTROL_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            },
+            {
+                "type": "float",
+                "name": "control"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REMOVE_PREFERRED_COVER_SET": {
+        "name": "REMOVE_PREFERRED_COVER_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

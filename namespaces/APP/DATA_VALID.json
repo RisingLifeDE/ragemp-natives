@@ -1,0 +1,8 @@
+{
+    "DATA_VALID": {
+        "name": "DATA_VALID",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

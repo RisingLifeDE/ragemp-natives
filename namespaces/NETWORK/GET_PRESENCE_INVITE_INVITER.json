@@ -1,0 +1,13 @@
+{
+    "GET_PRESENCE_INVITE_INVITER": {
+        "name": "GET_PRESENCE_INVITE_INVITER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

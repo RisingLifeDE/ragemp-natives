@@ -1,0 +1,13 @@
+{
+    "GET_CURRENT_MOVEMENT_SPEED": {
+        "name": "GET_CURRENT_MOVEMENT_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "GetPedCurrentMovementSpeedResult"
+    }
+}

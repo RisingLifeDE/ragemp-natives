@@ -1,0 +1,21 @@
+{
+    "SET_AUDIO_SCENE_VARIABLE": {
+        "name": "SET_AUDIO_SCENE_VARIABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scene"
+            },
+            {
+                "type": "char*",
+                "name": "variable"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

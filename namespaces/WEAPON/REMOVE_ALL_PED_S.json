@@ -1,0 +1,17 @@
+{
+    "REMOVE_ALL_PED_S": {
+        "name": "REMOVE_ALL_PED_S",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

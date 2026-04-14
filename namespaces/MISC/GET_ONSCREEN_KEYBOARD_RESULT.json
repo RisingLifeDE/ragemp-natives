@@ -1,0 +1,8 @@
+{
+    "GET_ONSCREEN_KEYBOARD_RESULT": {
+        "name": "GET_ONSCREEN_KEYBOARD_RESULT",
+        "comment": "",
+        "params": [],
+        "return_type": "char*"
+    }
+}

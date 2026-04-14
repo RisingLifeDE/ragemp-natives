@@ -1,0 +1,8 @@
+{
+    "CLEAR_BLOCK": {
+        "name": "CLEAR_BLOCK",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

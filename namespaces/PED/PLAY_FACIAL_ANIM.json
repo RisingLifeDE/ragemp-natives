@@ -1,0 +1,21 @@
+{
+    "PLAY_FACIAL_ANIM": {
+        "name": "PLAY_FACIAL_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "SET_SCRIPT_VARIABLE_COLOUR": {
+        "name": "SET_SCRIPT_VARIABLE_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            },
+            {
+                "type": "float",
+                "name": "a"
+            }
+        ],
+        "return_type": "void"
+    }
+}

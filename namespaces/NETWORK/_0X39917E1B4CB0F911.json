@@ -1,0 +1,13 @@
+{
+    "_0X39917E1B4CB0F911": {
+        "name": "_0X39917E1B4CB0F911",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

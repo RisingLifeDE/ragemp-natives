@@ -1,0 +1,13 @@
+{
+    "CAN_KNOCK_OFF_VEHICLE": {
+        "name": "CAN_KNOCK_OFF_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

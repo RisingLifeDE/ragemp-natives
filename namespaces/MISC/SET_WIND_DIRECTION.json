@@ -1,0 +1,13 @@
+{
+    "SET_WIND_DIRECTION": {
+        "name": "SET_WIND_DIRECTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "direction"
+            }
+        ],
+        "return_type": "void"
+    }
+}

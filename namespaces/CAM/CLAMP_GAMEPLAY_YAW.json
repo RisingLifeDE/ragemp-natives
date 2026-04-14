@@ -1,0 +1,17 @@
+{
+    "CLAMP_GAMEPLAY_YAW": {
+        "name": "CLAMP_GAMEPLAY_YAW",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "minimum"
+            },
+            {
+                "type": "float",
+                "name": "maximum"
+            }
+        ],
+        "return_type": "void"
+    }
+}

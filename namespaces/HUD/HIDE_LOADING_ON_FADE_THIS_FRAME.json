@@ -1,0 +1,8 @@
+{
+    "HIDE_LOADING_ON_FADE_THIS_FRAME": {
+        "name": "HIDE_LOADING_ON_FADE_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

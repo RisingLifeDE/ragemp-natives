@@ -1,0 +1,8 @@
+{
+    "IS_HEADSHOT_IMG_UPLOAD_AVAILABLE": {
+        "name": "IS_HEADSHOT_IMG_UPLOAD_AVAILABLE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

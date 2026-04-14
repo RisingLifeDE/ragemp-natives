@@ -1,0 +1,8 @@
+{
+    "CLEAR_GET_GAMER_STATUS": {
+        "name": "CLEAR_GET_GAMER_STATUS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

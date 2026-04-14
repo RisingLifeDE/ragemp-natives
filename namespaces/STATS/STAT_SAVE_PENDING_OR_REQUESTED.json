@@ -1,0 +1,8 @@
+{
+    "STAT_SAVE_PENDING_OR_REQUESTED": {
+        "name": "STAT_SAVE_PENDING_OR_REQUESTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

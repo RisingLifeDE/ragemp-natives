@@ -1,0 +1,8 @@
+{
+    "GET_PAUSE_MENU_SELECTION_DATA": {
+        "name": "GET_PAUSE_MENU_SELECTION_DATA",
+        "comment": "",
+        "params": [],
+        "return_type": "GetPauseMenuSelectionDataResult"
+    }
+}

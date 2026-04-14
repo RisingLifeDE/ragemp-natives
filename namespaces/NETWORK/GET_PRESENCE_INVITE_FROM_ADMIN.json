@@ -1,0 +1,13 @@
+{
+    "GET_PRESENCE_INVITE_FROM_ADMIN": {
+        "name": "GET_PRESENCE_INVITE_FROM_ADMIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

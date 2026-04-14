@@ -1,0 +1,13 @@
+{
+    "HAS_CONTROL_OF_PICKUP": {
+        "name": "HAS_CONTROL_OF_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

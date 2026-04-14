@@ -1,0 +1,13 @@
+{
+    "GET_LAST_DAMAGE_BONE": {
+        "name": "GET_LAST_DAMAGE_BONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

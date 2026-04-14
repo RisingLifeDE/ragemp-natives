@@ -1,0 +1,17 @@
+{
+    "_0X_C34BC448DA29F5E9": {
+        "name": "_0X_C34BC448DA29F5E9",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

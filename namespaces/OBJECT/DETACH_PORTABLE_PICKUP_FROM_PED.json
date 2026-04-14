@@ -1,0 +1,13 @@
+{
+    "DETACH_PORTABLE_PICKUP_FROM_PED": {
+        "name": "DETACH_PORTABLE_PICKUP_FROM_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupObject"
+            }
+        ],
+        "return_type": "void"
+    }
+}

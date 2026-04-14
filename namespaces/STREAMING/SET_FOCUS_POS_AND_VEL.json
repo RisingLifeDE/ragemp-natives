@@ -1,0 +1,33 @@
+{
+    "SET_FOCUS_POS_AND_VEL": {
+        "name": "SET_FOCUS_POS_AND_VEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            }
+        ],
+        "return_type": "void"
+    }
+}

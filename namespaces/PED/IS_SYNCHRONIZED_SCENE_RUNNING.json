@@ -1,0 +1,13 @@
+{
+    "IS_SYNCHRONIZED_SCENE_RUNNING": {
+        "name": "IS_SYNCHRONIZED_SCENE_RUNNING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "sceneId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

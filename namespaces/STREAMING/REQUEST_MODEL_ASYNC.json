@@ -1,0 +1,18 @@
+{
+    "REQUEST_MODEL_ASYNC": {
+        "name": "REQUEST_MODEL_ASYNC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "nameHash"
+            },
+            {
+                "type": "float",
+                "name": "timeout",
+                "description": "5000 default"
+            }
+        ],
+        "return_type": "Promise<boolean>"
+    }
+}

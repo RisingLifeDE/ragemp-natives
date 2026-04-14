@@ -1,0 +1,37 @@
+{
+    "FIND_SPAWN_POINT_IN_DIRECTION": {
+        "name": "FIND_SPAWN_POINT_IN_DIRECTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "DOES_EXIST": {
+        "name": "DOES_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

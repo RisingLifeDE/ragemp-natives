@@ -1,0 +1,17 @@
+{
+    "START_NEW_SCRIPT": {
+        "name": "START_NEW_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "float",
+                "name": "stackSize"
+            }
+        ],
+        "return_type": "float"
+    }
+}

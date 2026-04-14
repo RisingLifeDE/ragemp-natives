@@ -1,0 +1,13 @@
+{
+    "DISABLE_LEAVE_REMOTE_PED_BEHIND": {
+        "name": "DISABLE_LEAVE_REMOTE_PED_BEHIND",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

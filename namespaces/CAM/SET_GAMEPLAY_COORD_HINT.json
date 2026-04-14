@@ -1,0 +1,37 @@
+{
+    "SET_GAMEPLAY_COORD_HINT": {
+        "name": "SET_GAMEPLAY_COORD_HINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "blendOutDuration"
+            },
+            {
+                "type": "float",
+                "name": "blendInDuration"
+            },
+            {
+                "type": "float",
+                "name": "unk"
+            }
+        ],
+        "return_type": "void"
+    }
+}

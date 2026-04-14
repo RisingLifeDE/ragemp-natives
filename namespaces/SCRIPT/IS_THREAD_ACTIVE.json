@@ -1,0 +1,13 @@
+{
+    "IS_THREAD_ACTIVE": {
+        "name": "IS_THREAD_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

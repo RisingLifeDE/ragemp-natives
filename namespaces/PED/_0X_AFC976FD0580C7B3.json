@@ -1,0 +1,17 @@
+{
+    "_0X_AFC976FD0580C7B3": {
+        "name": "_0X_AFC976FD0580C7B3",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

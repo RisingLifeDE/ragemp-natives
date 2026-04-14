@@ -1,0 +1,8 @@
+{
+    "CLEAR_VOICE_PROXIMITY_OVERRIDE": {
+        "name": "CLEAR_VOICE_PROXIMITY_OVERRIDE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

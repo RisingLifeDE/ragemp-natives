@@ -1,0 +1,8 @@
+{
+    "GET_PRIMARY_CLAN_DATA_SUCCESS": {
+        "name": "GET_PRIMARY_CLAN_DATA_SUCCESS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

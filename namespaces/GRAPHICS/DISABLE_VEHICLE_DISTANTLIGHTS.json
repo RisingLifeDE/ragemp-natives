@@ -1,0 +1,13 @@
+{
+    "DISABLE_VEHICLE_DISTANTLIGHTS": {
+        "name": "DISABLE_VEHICLE_DISTANTLIGHTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLEAR_GPS_RACE_TRACK": {
+        "name": "CLEAR_GPS_RACE_TRACK",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

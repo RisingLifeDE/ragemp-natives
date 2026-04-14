@@ -1,0 +1,21 @@
+{
+    "GET_DEAD_PICKUP_COORDS": {
+        "name": "GET_DEAD_PICKUP_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

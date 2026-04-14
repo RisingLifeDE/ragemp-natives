@@ -1,0 +1,13 @@
+{
+    "GET_NAVMESH_ROUTE_DISTANCE_REMAINING": {
+        "name": "GET_NAVMESH_ROUTE_DISTANCE_REMAINING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "GetNavmeshRouteDistanceRemainingResult"
+    }
+}

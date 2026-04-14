@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_RAW_PITCH": {
+        "name": "SET_GAMEPLAY_RAW_PITCH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pitch"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "ARE_HANDLES_THE_SAME": {
+        "name": "ARE_HANDLES_THE_SAME",
+        "comment": "",
+        "params": [],
+        "return_type": "NetworkAreHandlesTheSameResult"
+    }
+}

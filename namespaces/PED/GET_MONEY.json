@@ -1,0 +1,13 @@
+{
+    "GET_MONEY": {
+        "name": "GET_MONEY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

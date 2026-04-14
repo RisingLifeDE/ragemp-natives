@@ -1,0 +1,17 @@
+{
+    "ACCESS_TUNABLE_BOOL": {
+        "name": "ACCESS_TUNABLE_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "tunableContext"
+            },
+            {
+                "type": "char*",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

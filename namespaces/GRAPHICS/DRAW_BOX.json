@@ -1,0 +1,49 @@
+{
+    "DRAW_BOX": {
+        "name": "DRAW_BOX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

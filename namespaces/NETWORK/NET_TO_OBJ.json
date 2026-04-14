@@ -1,0 +1,13 @@
+{
+    "NET_TO_OBJ": {
+        "name": "NET_TO_OBJ",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netHandle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

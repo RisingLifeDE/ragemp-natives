@@ -1,0 +1,13 @@
+{
+    "CAN_PED_HEAR": {
+        "name": "CAN_PED_HEAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

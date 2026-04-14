@@ -1,0 +1,13 @@
+{
+    "SET_EXCLUSIVE_SCENARIO_GROUP": {
+        "name": "SET_EXCLUSIVE_SCENARIO_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scenarioGroup"
+            }
+        ],
+        "return_type": "void"
+    }
+}

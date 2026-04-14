@@ -1,0 +1,8 @@
+{
+    "GET_PARACHUTE_SMOKE_TRAIL_COLOR": {
+        "name": "GET_PARACHUTE_SMOKE_TRAIL_COLOR",
+        "comment": "",
+        "params": [],
+        "return_type": "GetPlayerParachuteSmokeTrailColorResult"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "GET_DAMAGE": {
+        "name": "GET_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "SUPPRESS_SHOCKING_EVENTS_NEXT_FRAME": {
+        "name": "SUPPRESS_SHOCKING_EVENTS_NEXT_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

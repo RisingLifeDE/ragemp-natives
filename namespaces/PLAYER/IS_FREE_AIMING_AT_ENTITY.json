@@ -1,0 +1,13 @@
+{
+    "IS_FREE_AIMING_AT_ENTITY": {
+        "name": "IS_FREE_AIMING_AT_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

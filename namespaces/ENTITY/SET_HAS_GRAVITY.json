@@ -1,0 +1,17 @@
+{
+    "SET_HAS_GRAVITY": {
+        "name": "SET_HAS_GRAVITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

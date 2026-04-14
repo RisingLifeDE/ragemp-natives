@@ -1,0 +1,17 @@
+{
+    "SET_NAME_DEBUG": {
+        "name": "SET_NAME_DEBUG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

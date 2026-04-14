@@ -1,0 +1,13 @@
+{
+    "_0X_C594B315EDF2D4AF": {
+        "name": "_0X_C594B315EDF2D4AF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

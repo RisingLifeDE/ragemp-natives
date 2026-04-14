@@ -1,0 +1,21 @@
+{
+    "SET_SPLINE_NODE_EXTRA_FLAGS": {
+        "name": "SET_SPLINE_NODE_EXTRA_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

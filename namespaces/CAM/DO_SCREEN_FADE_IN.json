@@ -1,0 +1,13 @@
+{
+    "DO_SCREEN_FADE_IN": {
+        "name": "DO_SCREEN_FADE_IN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

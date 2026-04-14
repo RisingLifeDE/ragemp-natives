@@ -1,0 +1,8 @@
+{
+    "CLOSE_TRANSITION_MATCHMAKING": {
+        "name": "CLOSE_TRANSITION_MATCHMAKING",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

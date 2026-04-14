@@ -1,0 +1,25 @@
+{
+    "SET_TEXT_COLOUR": {
+        "name": "SET_TEXT_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

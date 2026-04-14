@@ -1,0 +1,25 @@
+{
+    "VEHICLE_TEMP_ACTION": {
+        "name": "VEHICLE_TEMP_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "action"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "void"
+    }
+}

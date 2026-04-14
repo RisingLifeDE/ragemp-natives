@@ -1,0 +1,13 @@
+{
+    "_0X79C0E43EB9B944E2": {
+        "name": "_0X79C0E43EB9B944E2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

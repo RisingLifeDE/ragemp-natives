@@ -1,0 +1,13 @@
+{
+    "ENABLE_STUNT_JUMP_SET": {
+        "name": "ENABLE_STUNT_JUMP_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

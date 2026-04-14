@@ -1,0 +1,13 @@
+{
+    "_0X_BA91D045575699AD": {
+        "name": "_0X_BA91D045575699AD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

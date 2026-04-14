@@ -1,0 +1,21 @@
+{
+    "SET_GPS_CUSTOM_ROUTE_RENDER": {
+        "name": "SET_GPS_CUSTOM_ROUTE_RENDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "radarThickness"
+            },
+            {
+                "type": "float",
+                "name": "mapThickness"
+            }
+        ],
+        "return_type": "void"
+    }
+}

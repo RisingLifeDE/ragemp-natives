@@ -1,0 +1,13 @@
+{
+    "IS_SCENARIO_TYPE_ENABLED": {
+        "name": "IS_SCENARIO_TYPE_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scenarioType"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

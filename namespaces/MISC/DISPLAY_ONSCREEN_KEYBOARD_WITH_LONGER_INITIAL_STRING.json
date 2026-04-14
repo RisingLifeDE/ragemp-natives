@@ -1,0 +1,53 @@
+{
+    "DISPLAY_ONSCREEN_KEYBOARD_WITH_LONGER_INITIAL_STRING": {
+        "name": "DISPLAY_ONSCREEN_KEYBOARD_WITH_LONGER_INITIAL_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "windowTitle"
+            },
+            {
+                "type": "char*",
+                "name": "defaultText"
+            },
+            {
+                "type": "char*",
+                "name": "defaultConcat1"
+            },
+            {
+                "type": "char*",
+                "name": "defaultConcat2"
+            },
+            {
+                "type": "char*",
+                "name": "defaultConcat3"
+            },
+            {
+                "type": "char*",
+                "name": "defaultConcat4"
+            },
+            {
+                "type": "char*",
+                "name": "defaultConcat5"
+            },
+            {
+                "type": "char*",
+                "name": "defaultConcat6"
+            },
+            {
+                "type": "char*",
+                "name": "defaultConcat7"
+            },
+            {
+                "type": "float",
+                "name": "maxInputLength"
+            }
+        ],
+        "return_type": "float"
+    }
+}

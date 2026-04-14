@@ -1,0 +1,13 @@
+{
+    "RELEASE_HEADSHOT_IMG_UPLOAD": {
+        "name": "RELEASE_HEADSHOT_IMG_UPLOAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "void"
+    }
+}

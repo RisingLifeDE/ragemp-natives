@@ -1,0 +1,8 @@
+{
+    "END_TUTORIAL_SESSION": {
+        "name": "END_TUTORIAL_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

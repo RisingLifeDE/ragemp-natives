@@ -1,0 +1,17 @@
+{
+    "SET_DISPATCH_TIME_BETWEEN_SPAWN_ATTEMPTS": {
+        "name": "SET_DISPATCH_TIME_BETWEEN_SPAWN_ATTEMPTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_PLAYER_INDEX_FROM_PED": {
+        "name": "GET_PLAYER_INDEX_FROM_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

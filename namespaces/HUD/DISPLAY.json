@@ -1,0 +1,13 @@
+{
+    "DISPLAY": {
+        "name": "DISPLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

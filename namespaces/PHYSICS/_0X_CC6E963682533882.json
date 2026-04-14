@@ -1,0 +1,13 @@
+{
+    "_0X_CC6E963682533882": {
+        "name": "_0X_CC6E963682533882",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "void"
+    }
+}

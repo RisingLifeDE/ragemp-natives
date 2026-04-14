@@ -1,0 +1,8 @@
+{
+    "HAS_RESUMED_FROM_SUSPEND": {
+        "name": "HAS_RESUMED_FROM_SUSPEND",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

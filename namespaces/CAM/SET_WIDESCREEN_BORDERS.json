@@ -1,0 +1,17 @@
+{
+    "SET_WIDESCREEN_BORDERS": {
+        "name": "SET_WIDESCREEN_BORDERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

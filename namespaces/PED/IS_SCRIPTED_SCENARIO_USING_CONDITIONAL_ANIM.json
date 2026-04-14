@@ -1,0 +1,21 @@
+{
+    "IS_SCRIPTED_SCENARIO_USING_CONDITIONAL_ANIM": {
+        "name": "IS_SCRIPTED_SCENARIO_USING_CONDITIONAL_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            },
+            {
+                "type": "char*",
+                "name": "anim"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

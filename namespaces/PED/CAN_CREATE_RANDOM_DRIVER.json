@@ -1,0 +1,8 @@
+{
+    "CAN_CREATE_RANDOM_DRIVER": {
+        "name": "CAN_CREATE_RANDOM_DRIVER",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

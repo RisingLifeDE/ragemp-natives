@@ -1,0 +1,17 @@
+{
+    "SHAKE_CINEMATIC": {
+        "name": "SHAKE_CINEMATIC",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

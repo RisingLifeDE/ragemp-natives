@@ -1,0 +1,13 @@
+{
+    "REQUEST_CUT_FILE": {
+        "name": "REQUEST_CUT_FILE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_INCIDENT_UNK": {
+        "name": "SET_INCIDENT_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "incidentId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

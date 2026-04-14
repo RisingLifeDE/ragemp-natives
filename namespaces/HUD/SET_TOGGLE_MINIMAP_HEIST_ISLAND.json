@@ -1,0 +1,13 @@
+{
+    "SET_TOGGLE_MINIMAP_HEIST_ISLAND": {
+        "name": "SET_TOGGLE_MINIMAP_HEIST_ISLAND",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_RESERVE_PARACHUTE_TINT_INDEX": {
+        "name": "SET_RESERVE_PARACHUTE_TINT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

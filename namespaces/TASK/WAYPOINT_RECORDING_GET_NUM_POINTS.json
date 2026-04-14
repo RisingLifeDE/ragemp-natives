@@ -1,0 +1,13 @@
+{
+    "WAYPOINT_RECORDING_GET_NUM_POINTS": {
+        "name": "WAYPOINT_RECORDING_GET_NUM_POINTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "float"
+    }
+}

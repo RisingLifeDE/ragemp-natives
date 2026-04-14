@@ -1,0 +1,65 @@
+{
+    "DRAW_SCALEFORM_MOVIE3D": {
+        "name": "DRAW_SCALEFORM_MOVIE3D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleform"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "scaleX"
+            },
+            {
+                "type": "float",
+                "name": "scaleY"
+            },
+            {
+                "type": "float",
+                "name": "scaleZ"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void"
+    }
+}

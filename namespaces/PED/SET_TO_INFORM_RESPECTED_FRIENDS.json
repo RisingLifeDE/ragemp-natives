@@ -1,0 +1,21 @@
+{
+    "SET_TO_INFORM_RESPECTED_FRIENDS": {
+        "name": "SET_TO_INFORM_RESPECTED_FRIENDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "maxFriends"
+            }
+        ],
+        "return_type": "void"
+    }
+}

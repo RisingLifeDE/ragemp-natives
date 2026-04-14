@@ -1,0 +1,13 @@
+{
+    "SET_TEXT_JUSTIFICATION": {
+        "name": "SET_TEXT_JUSTIFICATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "justifyType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

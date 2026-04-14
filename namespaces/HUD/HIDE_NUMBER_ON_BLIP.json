@@ -1,0 +1,13 @@
+{
+    "HIDE_NUMBER_ON_BLIP": {
+        "name": "HIDE_NUMBER_ON_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "void"
+    }
+}

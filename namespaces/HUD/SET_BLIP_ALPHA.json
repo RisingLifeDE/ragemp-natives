@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_ALPHA": {
+        "name": "SET_BLIP_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

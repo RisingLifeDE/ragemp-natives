@@ -1,0 +1,25 @@
+{
+    "SHOOT_AT_ENTITY": {
+        "name": "SHOOT_AT_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "target"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "firingPattern"
+            }
+        ],
+        "return_type": "void"
+    }
+}

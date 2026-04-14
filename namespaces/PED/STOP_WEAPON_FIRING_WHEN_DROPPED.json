@@ -1,0 +1,13 @@
+{
+    "STOP_WEAPON_FIRING_WHEN_DROPPED": {
+        "name": "STOP_WEAPON_FIRING_WHEN_DROPPED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

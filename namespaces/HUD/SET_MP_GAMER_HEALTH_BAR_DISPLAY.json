@@ -1,0 +1,17 @@
+{
+    "SET_MP_GAMER_HEALTH_BAR_DISPLAY": {
+        "name": "SET_MP_GAMER_HEALTH_BAR_DISPLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

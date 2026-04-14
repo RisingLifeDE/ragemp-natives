@@ -1,0 +1,21 @@
+{
+    "GET_CONTROL_INSTRUCTIONAL_BUTTON": {
+        "name": "GET_CONTROL_INSTRUCTIONAL_BUTTON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            },
+            {
+                "type": "float",
+                "name": "control"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

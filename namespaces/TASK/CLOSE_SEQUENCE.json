@@ -1,0 +1,13 @@
+{
+    "CLOSE_SEQUENCE": {
+        "name": "CLOSE_SEQUENCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "taskSequenceId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

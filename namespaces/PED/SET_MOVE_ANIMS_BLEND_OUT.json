@@ -1,0 +1,13 @@
+{
+    "SET_MOVE_ANIMS_BLEND_OUT": {
+        "name": "SET_MOVE_ANIMS_BLEND_OUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

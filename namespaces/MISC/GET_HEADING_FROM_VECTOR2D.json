@@ -1,0 +1,17 @@
+{
+    "GET_HEADING_FROM_VECTOR2D": {
+        "name": "GET_HEADING_FROM_VECTOR2D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dx"
+            },
+            {
+                "type": "float",
+                "name": "dy"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_RELATIONSHIP_GROUP_DONT_AFFECT_WANTED_LEVEL": {
+        "name": "SET_RELATIONSHIP_GROUP_DONT_AFFECT_WANTED_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "group"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

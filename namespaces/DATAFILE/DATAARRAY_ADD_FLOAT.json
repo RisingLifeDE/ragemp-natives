@@ -1,0 +1,13 @@
+{
+    "DATAARRAY_ADD_FLOAT": {
+        "name": "DATAARRAY_ADD_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

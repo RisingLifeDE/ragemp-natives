@@ -1,0 +1,13 @@
+{
+    "GET_CGOFFSET": {
+        "name": "GET_CGOFFSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

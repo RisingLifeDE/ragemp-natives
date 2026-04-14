@@ -1,0 +1,13 @@
+{
+    "STOP_ROPE_UNWINDING_FRONT": {
+        "name": "STOP_ROPE_UNWINDING_FRONT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

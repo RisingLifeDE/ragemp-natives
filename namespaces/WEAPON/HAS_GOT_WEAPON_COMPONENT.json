@@ -1,0 +1,17 @@
+{
+    "HAS_GOT_WEAPON_COMPONENT": {
+        "name": "HAS_GOT_WEAPON_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weapon"
+            },
+            {
+                "type": "float",
+                "name": "addonHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

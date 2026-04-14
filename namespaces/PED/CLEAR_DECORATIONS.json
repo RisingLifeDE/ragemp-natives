@@ -1,0 +1,13 @@
+{
+    "CLEAR_DECORATIONS": {
+        "name": "CLEAR_DECORATIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

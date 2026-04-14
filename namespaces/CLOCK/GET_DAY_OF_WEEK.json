@@ -1,0 +1,8 @@
+{
+    "GET_DAY_OF_WEEK": {
+        "name": "GET_DAY_OF_WEEK",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GIVE_RAGDOLL_CONTROL": {
+        "name": "GIVE_RAGDOLL_CONTROL",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "INVITE_GAMERS_TO_TRANSITION": {
+        "name": "INVITE_GAMERS_TO_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

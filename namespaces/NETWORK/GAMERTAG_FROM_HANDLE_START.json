@@ -1,0 +1,8 @@
+{
+    "GAMERTAG_FROM_HANDLE_START": {
+        "name": "GAMERTAG_FROM_HANDLE_START",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

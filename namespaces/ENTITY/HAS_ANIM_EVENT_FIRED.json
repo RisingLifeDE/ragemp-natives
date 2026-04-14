@@ -1,0 +1,17 @@
+{
+    "HAS_ANIM_EVENT_FIRED": {
+        "name": "HAS_ANIM_EVENT_FIRED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "actionHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_IN_POWER_SAVING_MODE": {
+        "name": "IS_IN_POWER_SAVING_MODE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

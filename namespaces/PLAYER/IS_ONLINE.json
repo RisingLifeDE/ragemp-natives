@@ -1,0 +1,8 @@
+{
+    "IS_ONLINE": {
+        "name": "IS_ONLINE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

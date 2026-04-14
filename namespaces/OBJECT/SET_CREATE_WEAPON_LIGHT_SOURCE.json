@@ -1,0 +1,17 @@
+{
+    "SET_CREATE_WEAPON_LIGHT_SOURCE": {
+        "name": "SET_CREATE_WEAPON_LIGHT_SOURCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

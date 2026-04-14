@@ -1,0 +1,13 @@
+{
+    "IS_ATTACHED": {
+        "name": "IS_ATTACHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

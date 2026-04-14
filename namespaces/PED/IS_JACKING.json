@@ -1,0 +1,13 @@
+{
+    "IS_JACKING": {
+        "name": "IS_JACKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

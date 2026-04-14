@@ -1,0 +1,8 @@
+{
+    "SAVE_CLIP": {
+        "name": "SAVE_CLIP",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

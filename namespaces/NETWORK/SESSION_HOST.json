@@ -1,0 +1,21 @@
+{
+    "SESSION_HOST": {
+        "name": "SESSION_HOST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "maxPlayers"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

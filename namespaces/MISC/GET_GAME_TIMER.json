@@ -1,0 +1,8 @@
+{
+    "GET_GAME_TIMER": {
+        "name": "GET_GAME_TIMER",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

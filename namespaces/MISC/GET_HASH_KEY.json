@@ -1,0 +1,13 @@
+{
+    "GET_HASH_KEY": {
+        "name": "GET_HASH_KEY",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "float"
+    }
+}

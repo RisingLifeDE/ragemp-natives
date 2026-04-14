@@ -1,0 +1,13 @@
+{
+    "GET_BLIP_ALPHA": {
+        "name": "GET_BLIP_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "float"
+    }
+}

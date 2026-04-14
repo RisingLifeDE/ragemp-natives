@@ -1,0 +1,13 @@
+{
+    "START_SAVE_TO_CLOUD": {
+        "name": "START_SAVE_TO_CLOUD",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "filename"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

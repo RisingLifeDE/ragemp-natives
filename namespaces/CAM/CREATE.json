@@ -1,0 +1,17 @@
+{
+    "CREATE": {
+        "name": "CREATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "camName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

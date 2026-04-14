@@ -1,0 +1,8 @@
+{
+    "GET_SYSTEM_DATE_FORMAT": {
+        "name": "GET_SYSTEM_DATE_FORMAT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

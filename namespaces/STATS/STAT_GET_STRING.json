@@ -1,0 +1,17 @@
+{
+    "STAT_GET_STRING": {
+        "name": "STAT_GET_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statHash"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

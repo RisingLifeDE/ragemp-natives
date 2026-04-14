@@ -1,0 +1,13 @@
+{
+    "BG_END_CONTEXT_HASH": {
+        "name": "BG_END_CONTEXT_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "contextHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

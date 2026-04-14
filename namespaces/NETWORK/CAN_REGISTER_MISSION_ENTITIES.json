@@ -1,0 +1,25 @@
+{
+    "CAN_REGISTER_MISSION_ENTITIES": {
+        "name": "CAN_REGISTER_MISSION_ENTITIES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped_amt"
+            },
+            {
+                "type": "float",
+                "name": "vehicle_amt"
+            },
+            {
+                "type": "float",
+                "name": "object_amt"
+            },
+            {
+                "type": "float",
+                "name": "pickup_amt"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

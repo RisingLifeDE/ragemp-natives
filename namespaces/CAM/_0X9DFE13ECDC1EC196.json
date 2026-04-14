@@ -1,0 +1,17 @@
+{
+    "_0X9DFE13ECDC1EC196": {
+        "name": "_0X9DFE13ECDC1EC196",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

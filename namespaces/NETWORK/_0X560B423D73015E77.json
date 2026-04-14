@@ -1,0 +1,13 @@
+{
+    "_0X560B423D73015E77": {
+        "name": "_0X560B423D73015E77",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_FLASHES": {
+        "name": "SET_BLIP_FLASHES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

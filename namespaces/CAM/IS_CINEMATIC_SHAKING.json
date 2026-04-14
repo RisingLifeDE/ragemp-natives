@@ -1,0 +1,8 @@
+{
+    "IS_CINEMATIC_SHAKING": {
+        "name": "IS_CINEMATIC_SHAKING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

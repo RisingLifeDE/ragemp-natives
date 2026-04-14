@@ -1,0 +1,13 @@
+{
+    "SET_IGNORE_NO_GPS_FLAG": {
+        "name": "SET_IGNORE_NO_GPS_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

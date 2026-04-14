@@ -1,0 +1,13 @@
+{
+    "DELETE_CHECKPOINT": {
+        "name": "DELETE_CHECKPOINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "checkpoint"
+            }
+        ],
+        "return_type": "void"
+    }
+}

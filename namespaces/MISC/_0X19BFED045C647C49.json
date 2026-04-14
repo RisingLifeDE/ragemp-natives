@@ -1,0 +1,13 @@
+{
+    "_0X19BFED045C647C49": {
+        "name": "_0X19BFED045C647C49",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

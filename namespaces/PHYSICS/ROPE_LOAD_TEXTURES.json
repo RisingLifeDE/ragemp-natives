@@ -1,0 +1,8 @@
+{
+    "ROPE_LOAD_TEXTURES": {
+        "name": "ROPE_LOAD_TEXTURES",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

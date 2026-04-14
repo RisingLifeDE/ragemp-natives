@@ -1,0 +1,13 @@
+{
+    "GET_ROPE_LAST_VERTEX_COORD": {
+        "name": "GET_ROPE_LAST_VERTEX_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

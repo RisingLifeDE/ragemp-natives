@@ -1,0 +1,45 @@
+{
+    "ADD_PATROL_ROUTE_NODE": {
+        "name": "ADD_PATROL_ROUTE_NODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void"
+    }
+}

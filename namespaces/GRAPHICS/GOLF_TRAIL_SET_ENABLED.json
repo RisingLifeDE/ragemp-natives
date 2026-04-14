@@ -1,0 +1,13 @@
+{
+    "GOLF_TRAIL_SET_ENABLED": {
+        "name": "GOLF_TRAIL_SET_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

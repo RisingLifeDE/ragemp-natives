@@ -1,0 +1,17 @@
+{
+    "SET_HELMET": {
+        "name": "SET_HELMET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "canWearHelmet"
+            }
+        ],
+        "return_type": "void"
+    }
+}

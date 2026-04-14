@@ -1,0 +1,13 @@
+{
+    "TO_FLOAT": {
+        "name": "TO_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

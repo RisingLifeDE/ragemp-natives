@@ -1,0 +1,17 @@
+{
+    "_0X3441CAD2F2231923": {
+        "name": "_0X3441CAD2F2231923",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

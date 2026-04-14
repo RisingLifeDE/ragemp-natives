@@ -1,0 +1,8 @@
+{
+    "IS_COMMAND_LINE_BENCHMARK_VALUE_SET": {
+        "name": "IS_COMMAND_LINE_BENCHMARK_VALUE_SET",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

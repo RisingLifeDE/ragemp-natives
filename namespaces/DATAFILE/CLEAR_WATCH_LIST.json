@@ -1,0 +1,8 @@
+{
+    "CLEAR_WATCH_LIST": {
+        "name": "CLEAR_WATCH_LIST",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_EXTRA_TIMECYCLE_MODIFIER_INDEX": {
+        "name": "GET_EXTRA_TIMECYCLE_MODIFIER_INDEX",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

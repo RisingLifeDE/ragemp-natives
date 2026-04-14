@@ -1,0 +1,8 @@
+{
+    "PLAY_RECOVER_CONTRABAND": {
+        "name": "PLAY_RECOVER_CONTRABAND",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

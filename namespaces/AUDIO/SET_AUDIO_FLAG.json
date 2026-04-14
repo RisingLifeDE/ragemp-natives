@@ -1,0 +1,17 @@
+{
+    "SET_AUDIO_FLAG": {
+        "name": "SET_AUDIO_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "flagName"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "EVERYONE_LEAVE_VEHICLE": {
+        "name": "EVERYONE_LEAVE_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

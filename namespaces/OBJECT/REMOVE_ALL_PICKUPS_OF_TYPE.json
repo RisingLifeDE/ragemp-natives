@@ -1,0 +1,13 @@
+{
+    "REMOVE_ALL_PICKUPS_OF_TYPE": {
+        "name": "REMOVE_ALL_PICKUPS_OF_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

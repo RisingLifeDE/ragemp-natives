@@ -1,0 +1,21 @@
+{
+    "CONCEAL_PLAYER": {
+        "name": "CONCEAL_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_TEAM": {
+        "name": "SET_TEAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "team"
+            }
+        ],
+        "return_type": "void"
+    }
+}

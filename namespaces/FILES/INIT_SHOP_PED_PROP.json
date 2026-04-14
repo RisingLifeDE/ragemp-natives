@@ -1,0 +1,8 @@
+{
+    "INIT_SHOP_PED_PROP": {
+        "name": "INIT_SHOP_PED_PROP",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

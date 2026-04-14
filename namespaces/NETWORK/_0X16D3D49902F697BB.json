@@ -1,0 +1,13 @@
+{
+    "_0X16D3D49902F697BB": {
+        "name": "_0X16D3D49902F697BB",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

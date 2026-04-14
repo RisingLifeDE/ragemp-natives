@@ -1,0 +1,17 @@
+{
+    "CAN_SEE_HATED_PED": {
+        "name": "CAN_SEE_HATED_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped1"
+            },
+            {
+                "type": "float",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

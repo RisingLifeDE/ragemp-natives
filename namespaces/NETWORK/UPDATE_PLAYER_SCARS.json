@@ -1,0 +1,8 @@
+{
+    "UPDATE_PLAYER_SCARS": {
+        "name": "UPDATE_PLAYER_SCARS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

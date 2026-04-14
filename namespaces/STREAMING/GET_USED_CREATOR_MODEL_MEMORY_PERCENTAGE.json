@@ -1,0 +1,8 @@
+{
+    "GET_USED_CREATOR_MODEL_MEMORY_PERCENTAGE": {
+        "name": "GET_USED_CREATOR_MODEL_MEMORY_PERCENTAGE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_ENABLE_WEAPON_BLOCKING": {
+        "name": "SET_ENABLE_WEAPON_BLOCKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

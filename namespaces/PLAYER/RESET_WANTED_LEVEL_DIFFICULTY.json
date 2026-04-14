@@ -1,0 +1,8 @@
+{
+    "RESET_WANTED_LEVEL_DIFFICULTY": {
+        "name": "RESET_WANTED_LEVEL_DIFFICULTY",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

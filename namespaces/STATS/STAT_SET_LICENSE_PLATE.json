@@ -1,0 +1,17 @@
+{
+    "STAT_SET_LICENSE_PLATE": {
+        "name": "STAT_SET_LICENSE_PLATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statName"
+            },
+            {
+                "type": "char*",
+                "name": "str"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

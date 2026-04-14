@@ -1,0 +1,8 @@
+{
+    "GET_CURRENT_LANGUAGE": {
+        "name": "GET_CURRENT_LANGUAGE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "STOP_CINEMATIC_SHOT": {
+        "name": "STOP_CINEMATIC_SHOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

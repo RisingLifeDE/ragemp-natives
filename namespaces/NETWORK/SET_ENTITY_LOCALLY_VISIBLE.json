@@ -1,0 +1,13 @@
+{
+    "SET_ENTITY_LOCALLY_VISIBLE": {
+        "name": "SET_ENTITY_LOCALLY_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "GET_DLC_WEAPON_COMPONENT_DATA": {
+        "name": "GET_DLC_WEAPON_COMPONENT_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dlcWeaponIndex"
+            },
+            {
+                "type": "float",
+                "name": "dlcWeapCompIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

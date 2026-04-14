@@ -1,0 +1,17 @@
+{
+    "ACTIVATE_ENTITY_SET": {
+        "name": "ACTIVATE_ENTITY_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            },
+            {
+                "type": "char*",
+                "name": "entitySetName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

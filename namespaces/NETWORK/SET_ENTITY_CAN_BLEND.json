@@ -1,0 +1,17 @@
+{
+    "SET_ENTITY_CAN_BLEND": {
+        "name": "SET_ENTITY_CAN_BLEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

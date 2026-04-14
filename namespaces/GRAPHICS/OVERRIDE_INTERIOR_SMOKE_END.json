@@ -1,0 +1,8 @@
+{
+    "OVERRIDE_INTERIOR_SMOKE_END": {
+        "name": "OVERRIDE_INTERIOR_SMOKE_END",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

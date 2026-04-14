@@ -1,0 +1,17 @@
+{
+    "STOP_PARTICLE_FX_LOOPED": {
+        "name": "STOP_PARTICLE_FX_LOOPED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

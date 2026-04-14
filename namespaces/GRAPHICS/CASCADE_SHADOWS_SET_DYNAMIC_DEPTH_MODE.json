@@ -1,0 +1,13 @@
+{
+    "CASCADE_SHADOWS_SET_DYNAMIC_DEPTH_MODE": {
+        "name": "CASCADE_SHADOWS_SET_DYNAMIC_DEPTH_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

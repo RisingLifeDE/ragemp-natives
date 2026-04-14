@@ -1,0 +1,21 @@
+{
+    "CLEAR_ALTERNATE_MOVEMENT_ANIM": {
+        "name": "CLEAR_ALTERNATE_MOVEMENT_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "stance"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

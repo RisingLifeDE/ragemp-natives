@@ -1,0 +1,13 @@
+{
+    "SET_INVINCIBLE": {
+        "name": "SET_INVINCIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

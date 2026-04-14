@@ -1,0 +1,17 @@
+{
+    "SET_CHECKPOINT_SCALE": {
+        "name": "SET_CHECKPOINT_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "checkpoint"
+            },
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "HAS_CONTROL_OF_ENTITY": {
+        "name": "HAS_CONTROL_OF_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

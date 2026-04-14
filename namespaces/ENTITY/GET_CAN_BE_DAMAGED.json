@@ -1,0 +1,13 @@
+{
+    "GET_CAN_BE_DAMAGED": {
+        "name": "GET_CAN_BE_DAMAGED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

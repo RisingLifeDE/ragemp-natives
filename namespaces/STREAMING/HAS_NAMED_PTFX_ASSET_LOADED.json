@@ -1,0 +1,13 @@
+{
+    "HAS_NAMED_PTFX_ASSET_LOADED": {
+        "name": "HAS_NAMED_PTFX_ASSET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "fxName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

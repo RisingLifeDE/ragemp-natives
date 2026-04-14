@@ -1,0 +1,8 @@
+{
+    "GET_TIME_SINCE_LAST_DEATH": {
+        "name": "GET_TIME_SINCE_LAST_DEATH",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

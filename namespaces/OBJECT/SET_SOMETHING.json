@@ -1,0 +1,17 @@
+{
+    "SET_SOMETHING": {
+        "name": "SET_SOMETHING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

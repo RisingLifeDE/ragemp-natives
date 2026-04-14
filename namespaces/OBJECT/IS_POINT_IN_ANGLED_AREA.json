@@ -1,0 +1,57 @@
+{
+    "IS_POINT_IN_ANGLED_AREA": {
+        "name": "IS_POINT_IN_ANGLED_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "BOOL",
+                "name": "debug"
+            },
+            {
+                "type": "BOOL",
+                "name": "includeZ"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

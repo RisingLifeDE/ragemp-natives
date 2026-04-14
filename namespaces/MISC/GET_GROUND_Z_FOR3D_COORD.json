@@ -1,0 +1,29 @@
+{
+    "GET_GROUND_Z_FOR3D_COORD": {
+        "name": "GET_GROUND_Z_FOR3D_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "ignoreWater"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "float"
+    }
+}

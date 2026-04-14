@@ -1,0 +1,25 @@
+{
+    "THEFEED_SET_ANIMPOSTFX_COLOR": {
+        "name": "THEFEED_SET_ANIMPOSTFX_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

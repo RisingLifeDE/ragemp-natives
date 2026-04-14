@@ -1,0 +1,17 @@
+{
+    "SET_MOVEMENT_MODE_OVERRIDE": {
+        "name": "SET_MOVEMENT_MODE_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

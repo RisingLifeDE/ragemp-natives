@@ -1,0 +1,17 @@
+{
+    "GET_DESTROYER_OF_ENTITY": {
+        "name": "GET_DESTROYER_OF_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

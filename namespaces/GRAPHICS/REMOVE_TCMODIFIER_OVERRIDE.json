@@ -1,0 +1,13 @@
+{
+    "REMOVE_TCMODIFIER_OVERRIDE": {
+        "name": "REMOVE_TCMODIFIER_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

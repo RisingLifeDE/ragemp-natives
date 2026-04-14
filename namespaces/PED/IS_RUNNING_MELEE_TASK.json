@@ -1,0 +1,13 @@
+{
+    "IS_RUNNING_MELEE_TASK": {
+        "name": "IS_RUNNING_MELEE_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

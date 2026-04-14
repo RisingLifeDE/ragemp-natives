@@ -1,0 +1,17 @@
+{
+    "SET_BINK_MOVIE_TIME": {
+        "name": "SET_BINK_MOVIE_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "binkMovie"
+            },
+            {
+                "type": "float",
+                "name": "progress"
+            }
+        ],
+        "return_type": "void"
+    }
+}

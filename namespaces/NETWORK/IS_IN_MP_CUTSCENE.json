@@ -1,0 +1,8 @@
+{
+    "IS_IN_MP_CUTSCENE": {
+        "name": "IS_IN_MP_CUTSCENE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

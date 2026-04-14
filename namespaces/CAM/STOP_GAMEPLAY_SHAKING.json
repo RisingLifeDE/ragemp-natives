@@ -1,0 +1,13 @@
+{
+    "STOP_GAMEPLAY_SHAKING": {
+        "name": "STOP_GAMEPLAY_SHAKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

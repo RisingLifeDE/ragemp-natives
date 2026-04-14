@@ -1,0 +1,21 @@
+{
+    "GET_CLOSEST_POS": {
+        "name": "GET_CLOSEST_POS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

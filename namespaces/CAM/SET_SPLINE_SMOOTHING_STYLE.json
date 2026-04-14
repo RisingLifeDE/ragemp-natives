@@ -1,0 +1,17 @@
+{
+    "SET_SPLINE_SMOOTHING_STYLE": {
+        "name": "SET_SPLINE_SMOOTHING_STYLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "smoothingStyle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

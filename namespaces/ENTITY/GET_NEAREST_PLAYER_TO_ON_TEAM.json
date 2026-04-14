@@ -1,0 +1,17 @@
+{
+    "GET_NEAREST_PLAYER_TO_ON_TEAM": {
+        "name": "GET_NEAREST_PLAYER_TO_ON_TEAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "team"
+            }
+        ],
+        "return_type": "float"
+    }
+}

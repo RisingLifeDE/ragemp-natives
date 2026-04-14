@@ -1,0 +1,13 @@
+{
+    "IS_TAKING_OFF_HELMET": {
+        "name": "IS_TAKING_OFF_HELMET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

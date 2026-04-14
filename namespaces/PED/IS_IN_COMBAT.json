@@ -1,0 +1,17 @@
+{
+    "IS_IN_COMBAT": {
+        "name": "IS_IN_COMBAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "target"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

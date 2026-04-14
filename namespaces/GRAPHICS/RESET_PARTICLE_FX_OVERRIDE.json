@@ -1,0 +1,13 @@
+{
+    "RESET_PARTICLE_FX_OVERRIDE": {
+        "name": "RESET_PARTICLE_FX_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

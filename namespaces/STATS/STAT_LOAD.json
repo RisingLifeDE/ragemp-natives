@@ -1,0 +1,13 @@
+{
+    "STAT_LOAD": {
+        "name": "STAT_LOAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

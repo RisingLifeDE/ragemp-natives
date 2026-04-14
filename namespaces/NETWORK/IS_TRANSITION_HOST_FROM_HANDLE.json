@@ -1,0 +1,8 @@
+{
+    "IS_TRANSITION_HOST_FROM_HANDLE": {
+        "name": "IS_TRANSITION_HOST_FROM_HANDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

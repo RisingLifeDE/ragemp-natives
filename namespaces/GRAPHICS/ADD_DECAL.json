@@ -1,0 +1,89 @@
+{
+    "ADD_DECAL": {
+        "name": "ADD_DECAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "decalType"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            },
+            {
+                "type": "float",
+                "name": "rCoef"
+            },
+            {
+                "type": "float",
+                "name": "gCoef"
+            },
+            {
+                "type": "float",
+                "name": "bCoef"
+            },
+            {
+                "type": "float",
+                "name": "opacity"
+            },
+            {
+                "type": "float",
+                "name": "timeout"
+            },
+            {
+                "type": "BOOL",
+                "name": "p17"
+            },
+            {
+                "type": "BOOL",
+                "name": "p18"
+            },
+            {
+                "type": "BOOL",
+                "name": "p19"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_SCREEN_FADED_IN": {
+        "name": "IS_SCREEN_FADED_IN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

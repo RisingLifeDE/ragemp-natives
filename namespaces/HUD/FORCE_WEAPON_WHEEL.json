@@ -1,0 +1,13 @@
+{
+    "FORCE_WEAPON_WHEEL": {
+        "name": "FORCE_WEAPON_WHEEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "show"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "PLAY_WEBSITE_VISITED": {
+        "name": "PLAY_WEBSITE_VISITED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleformHash"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_SEAT_IS_TRYING_TO_ENTER": {
+        "name": "GET_SEAT_IS_TRYING_TO_ENTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_SHOP_PED_OUTFIT": {
+        "name": "GET_SHOP_PED_OUTFIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

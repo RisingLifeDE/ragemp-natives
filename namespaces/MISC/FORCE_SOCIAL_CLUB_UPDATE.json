@@ -1,0 +1,8 @@
+{
+    "FORCE_SOCIAL_CLUB_UPDATE": {
+        "name": "FORCE_SOCIAL_CLUB_UPDATE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

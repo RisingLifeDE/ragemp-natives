@@ -1,0 +1,13 @@
+{
+    "IS_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_READY": {
+        "name": "IS_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_READY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "methodReturn"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

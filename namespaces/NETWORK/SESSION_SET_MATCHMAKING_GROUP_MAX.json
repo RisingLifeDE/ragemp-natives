@@ -1,0 +1,17 @@
+{
+    "SESSION_SET_MATCHMAKING_GROUP_MAX": {
+        "name": "SESSION_SET_MATCHMAKING_GROUP_MAX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "playerType"
+            },
+            {
+                "type": "float",
+                "name": "playerCount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

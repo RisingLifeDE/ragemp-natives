@@ -1,0 +1,13 @@
+{
+    "SET_RADAR_ZOOM": {
+        "name": "SET_RADAR_ZOOM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoomLevel"
+            }
+        ],
+        "return_type": "void"
+    }
+}

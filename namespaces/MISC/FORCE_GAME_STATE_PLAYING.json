@@ -1,0 +1,8 @@
+{
+    "FORCE_GAME_STATE_PLAYING": {
+        "name": "FORCE_GAME_STATE_PLAYING",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

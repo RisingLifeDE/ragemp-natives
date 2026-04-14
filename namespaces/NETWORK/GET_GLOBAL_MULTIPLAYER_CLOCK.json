@@ -1,0 +1,8 @@
+{
+    "GET_GLOBAL_MULTIPLAYER_CLOCK": {
+        "name": "GET_GLOBAL_MULTIPLAYER_CLOCK",
+        "comment": "",
+        "params": [],
+        "return_type": "NetworkGetGlobalMultiplayerClockResult"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_SHRINK": {
+        "name": "SET_BLIP_SHRINK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

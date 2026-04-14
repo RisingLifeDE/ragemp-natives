@@ -1,0 +1,37 @@
+{
+    "SET_PARTICLE_FX_LOOPED_OFFSETS": {
+        "name": "SET_PARTICLE_FX_LOOPED_OFFSETS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            }
+        ],
+        "return_type": "void"
+    }
+}

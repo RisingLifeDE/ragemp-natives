@@ -1,0 +1,25 @@
+{
+    "_0X_AFE24E4D29249E4A": {
+        "name": "_0X_AFE24E4D29249E4A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

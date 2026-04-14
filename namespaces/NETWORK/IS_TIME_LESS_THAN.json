@@ -1,0 +1,17 @@
+{
+    "IS_TIME_LESS_THAN": {
+        "name": "IS_TIME_LESS_THAN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "timeA"
+            },
+            {
+                "type": "float",
+                "name": "timeB"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

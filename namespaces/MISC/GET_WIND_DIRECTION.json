@@ -1,0 +1,8 @@
+{
+    "GET_WIND_DIRECTION": {
+        "name": "GET_WIND_DIRECTION",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "USE_PARTICLE_FX_ASSET": {
+        "name": "USE_PARTICLE_FX_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

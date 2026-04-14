@@ -1,0 +1,8 @@
+{
+    "GET_HAS_RESERVE_PARACHUTE": {
+        "name": "GET_HAS_RESERVE_PARACHUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

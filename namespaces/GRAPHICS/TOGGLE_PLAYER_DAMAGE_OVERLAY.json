@@ -1,0 +1,13 @@
+{
+    "TOGGLE_PLAYER_DAMAGE_OVERLAY": {
+        "name": "TOGGLE_PLAYER_DAMAGE_OVERLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

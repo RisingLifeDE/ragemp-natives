@@ -1,0 +1,8 @@
+{
+    "SESSION_VOICE_HOST": {
+        "name": "SESSION_VOICE_HOST",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "IS_PLAYLIST_UNK": {
+        "name": "IS_PLAYLIST_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "tvChannel"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

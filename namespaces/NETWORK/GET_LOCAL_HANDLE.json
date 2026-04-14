@@ -1,0 +1,13 @@
+{
+    "GET_LOCAL_HANDLE": {
+        "name": "GET_LOCAL_HANDLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "bufferSize"
+            }
+        ],
+        "return_type": "float"
+    }
+}

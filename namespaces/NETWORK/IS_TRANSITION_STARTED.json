@@ -1,0 +1,8 @@
+{
+    "IS_TRANSITION_STARTED": {
+        "name": "IS_TRANSITION_STARTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

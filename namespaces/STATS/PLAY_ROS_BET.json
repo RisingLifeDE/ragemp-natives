@@ -1,0 +1,25 @@
+{
+    "PLAY_ROS_BET": {
+        "name": "PLAY_ROS_BET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "float",
+                "name": "act"
+            },
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "cm"
+            }
+        ],
+        "return_type": "void"
+    }
+}

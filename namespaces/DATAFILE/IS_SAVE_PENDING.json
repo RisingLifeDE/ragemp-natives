@@ -1,0 +1,8 @@
+{
+    "IS_SAVE_PENDING": {
+        "name": "IS_SAVE_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

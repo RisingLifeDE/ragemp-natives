@@ -1,0 +1,13 @@
+{
+    "IS_ENTITY_GHOSTED_TO_LOCAL_PLAYER": {
+        "name": "IS_ENTITY_GHOSTED_TO_LOCAL_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

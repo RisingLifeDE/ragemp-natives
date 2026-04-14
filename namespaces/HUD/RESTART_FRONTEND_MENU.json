@@ -1,0 +1,17 @@
+{
+    "RESTART_FRONTEND_MENU": {
+        "name": "RESTART_FRONTEND_MENU",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "menuHash"
+            },
+            {
+                "type": "float",
+                "name": "highlightTab"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REMOVE_MP_GAMER_TAG": {
+        "name": "REMOVE_MP_GAMER_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "FLASH_ABILITY_BAR": {
+        "name": "FLASH_ABILITY_BAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "millisecondsToFlash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "STAT_SET_CURRENT_POSIX_TIME": {
+        "name": "STAT_SET_CURRENT_POSIX_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

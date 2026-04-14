@@ -1,0 +1,17 @@
+{
+    "SET_DRIVER_AGGRESSIVENESS": {
+        "name": "SET_DRIVER_AGGRESSIVENESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "aggressiveness"
+            }
+        ],
+        "return_type": "void"
+    }
+}

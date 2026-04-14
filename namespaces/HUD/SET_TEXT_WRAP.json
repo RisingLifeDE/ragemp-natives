@@ -1,0 +1,17 @@
+{
+    "SET_TEXT_WRAP": {
+        "name": "SET_TEXT_WRAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "start"
+            },
+            {
+                "type": "float",
+                "name": "end"
+            }
+        ],
+        "return_type": "void"
+    }
+}

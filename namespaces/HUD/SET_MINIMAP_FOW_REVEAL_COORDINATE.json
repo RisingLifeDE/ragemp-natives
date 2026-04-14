@@ -1,0 +1,21 @@
+{
+    "SET_MINIMAP_FOW_REVEAL_COORDINATE": {
+        "name": "SET_MINIMAP_FOW_REVEAL_COORDINATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

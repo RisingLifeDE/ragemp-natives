@@ -1,0 +1,8 @@
+{
+    "CLOUD_GET_AVAILABILITY_CHECK_RESULT": {
+        "name": "CLOUD_GET_AVAILABILITY_CHECK_RESULT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

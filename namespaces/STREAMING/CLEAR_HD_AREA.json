@@ -1,0 +1,8 @@
+{
+    "CLEAR_HD_AREA": {
+        "name": "CLEAR_HD_AREA",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

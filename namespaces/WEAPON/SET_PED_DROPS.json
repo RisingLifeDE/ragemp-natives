@@ -1,0 +1,13 @@
+{
+    "SET_PED_DROPS": {
+        "name": "SET_PED_DROPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

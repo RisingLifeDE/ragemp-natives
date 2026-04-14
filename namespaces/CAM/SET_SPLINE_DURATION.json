@@ -1,0 +1,17 @@
+{
+    "SET_SPLINE_DURATION": {
+        "name": "SET_SPLINE_DURATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "timeDuration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

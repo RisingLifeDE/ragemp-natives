@@ -1,0 +1,8 @@
+{
+    "CREATE_TRACKED_POINT": {
+        "name": "CREATE_TRACKED_POINT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

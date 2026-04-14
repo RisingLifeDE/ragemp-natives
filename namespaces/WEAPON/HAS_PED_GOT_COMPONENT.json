@@ -1,0 +1,21 @@
+{
+    "HAS_PED_GOT_COMPONENT": {
+        "name": "HAS_PED_GOT_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "_0X_C2EE020F5FB4DB53": {
+        "name": "_0X_C2EE020F5FB4DB53",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

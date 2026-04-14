@@ -1,0 +1,13 @@
+{
+    "GET_POPSCHEDULE": {
+        "name": "GET_POPSCHEDULE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoneId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

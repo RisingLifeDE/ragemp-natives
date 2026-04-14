@@ -1,0 +1,13 @@
+{
+    "GET_PRESENCE_INVITE_CONTENT_ID": {
+        "name": "GET_PRESENCE_INVITE_CONTENT_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "ENABLE_UNK": {
+        "name": "ENABLE_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

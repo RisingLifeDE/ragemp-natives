@@ -1,0 +1,14 @@
+{
+    "GET_ALL_MODEL_HASHES": {
+        "name": "GET_ALL_MODEL_HASHES",
+        "comment": "Gets all model hashes given by p1",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1",
+                "description": "p1 seems to be entity type (unsure tho, use 5 to get all vehicle hashes as array)"
+            }
+        ],
+        "return_type": "number[]"
+    }
+}

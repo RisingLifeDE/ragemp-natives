@@ -1,0 +1,13 @@
+{
+    "IS_IN_ANY_SUB": {
+        "name": "IS_IN_ANY_SUB",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

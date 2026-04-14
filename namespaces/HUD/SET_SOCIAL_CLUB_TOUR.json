@@ -1,0 +1,13 @@
+{
+    "SET_SOCIAL_CLUB_TOUR": {
+        "name": "SET_SOCIAL_CLUB_TOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

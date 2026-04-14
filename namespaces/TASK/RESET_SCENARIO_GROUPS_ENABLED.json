@@ -1,0 +1,8 @@
+{
+    "RESET_SCENARIO_GROUPS_ENABLED": {
+        "name": "RESET_SCENARIO_GROUPS_ENABLED",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

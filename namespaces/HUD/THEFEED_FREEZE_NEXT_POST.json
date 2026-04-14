@@ -1,0 +1,8 @@
+{
+    "THEFEED_FREEZE_NEXT_POST": {
+        "name": "THEFEED_FREEZE_NEXT_POST",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

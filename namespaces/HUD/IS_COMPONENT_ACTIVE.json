@@ -1,0 +1,13 @@
+{
+    "IS_COMPONENT_ACTIVE": {
+        "name": "IS_COMPONENT_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

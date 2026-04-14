@@ -1,0 +1,8 @@
+{
+    "FACEBOOK_SET_CREATE_CHARACTER_COMPLETE": {
+        "name": "FACEBOOK_SET_CREATE_CHARACTER_COMPLETE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

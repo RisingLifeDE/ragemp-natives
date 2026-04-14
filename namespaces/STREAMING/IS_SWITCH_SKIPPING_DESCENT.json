@@ -1,0 +1,8 @@
+{
+    "IS_SWITCH_SKIPPING_DESCENT": {
+        "name": "IS_SWITCH_SKIPPING_DESCENT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

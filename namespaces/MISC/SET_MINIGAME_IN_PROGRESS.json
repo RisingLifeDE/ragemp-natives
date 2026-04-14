@@ -1,0 +1,13 @@
+{
+    "SET_MINIGAME_IN_PROGRESS": {
+        "name": "SET_MINIGAME_IN_PROGRESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

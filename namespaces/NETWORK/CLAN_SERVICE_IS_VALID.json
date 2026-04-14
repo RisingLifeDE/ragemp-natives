@@ -1,0 +1,8 @@
+{
+    "CLAN_SERVICE_IS_VALID": {
+        "name": "CLAN_SERVICE_IS_VALID",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

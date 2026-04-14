@@ -1,0 +1,13 @@
+{
+    "GET_NUMBER_OF_REFERENCES_OF_WITH_NAME_HASH": {
+        "name": "GET_NUMBER_OF_REFERENCES_OF_WITH_NAME_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

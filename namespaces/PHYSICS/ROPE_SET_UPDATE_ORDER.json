@@ -1,0 +1,17 @@
+{
+    "ROPE_SET_UPDATE_ORDER": {
+        "name": "ROPE_SET_UPDATE_ORDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

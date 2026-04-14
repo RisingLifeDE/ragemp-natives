@@ -1,0 +1,21 @@
+{
+    "SET_WEATHER_TYPE_TRANSITION": {
+        "name": "SET_WEATHER_TYPE_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weatherType1"
+            },
+            {
+                "type": "float",
+                "name": "weatherType2"
+            },
+            {
+                "type": "float",
+                "name": "percentWeather2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

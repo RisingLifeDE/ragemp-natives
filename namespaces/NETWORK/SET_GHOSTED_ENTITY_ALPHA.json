@@ -1,0 +1,13 @@
+{
+    "SET_GHOSTED_ENTITY_ALPHA": {
+        "name": "SET_GHOSTED_ENTITY_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

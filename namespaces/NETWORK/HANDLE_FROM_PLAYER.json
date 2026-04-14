@@ -1,0 +1,17 @@
+{
+    "HANDLE_FROM_PLAYER": {
+        "name": "HANDLE_FROM_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "bufferSize"
+            }
+        ],
+        "return_type": "float"
+    }
+}

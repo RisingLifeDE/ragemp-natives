@@ -1,0 +1,17 @@
+{
+    "SET_MODEL_IS_SUPPRESSED": {
+        "name": "SET_MODEL_IS_SUPPRESSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

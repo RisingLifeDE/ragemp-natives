@@ -1,0 +1,17 @@
+{
+    "GET_HEAD_OVERLAY_VALUE": {
+        "name": "GET_HEAD_OVERLAY_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "overlayID"
+            }
+        ],
+        "return_type": "float"
+    }
+}

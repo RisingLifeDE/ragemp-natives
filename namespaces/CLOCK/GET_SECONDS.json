@@ -1,0 +1,8 @@
+{
+    "GET_SECONDS": {
+        "name": "GET_SECONDS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

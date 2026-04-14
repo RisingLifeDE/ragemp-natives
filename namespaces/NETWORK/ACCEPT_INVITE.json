@@ -1,0 +1,8 @@
+{
+    "ACCEPT_INVITE": {
+        "name": "ACCEPT_INVITE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

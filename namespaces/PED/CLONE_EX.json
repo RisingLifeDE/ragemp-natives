@@ -1,0 +1,29 @@
+{
+    "CLONE_EX": {
+        "name": "CLONE_EX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            },
+            {
+                "type": "BOOL",
+                "name": "bScriptHostPed"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "float"
+    }
+}

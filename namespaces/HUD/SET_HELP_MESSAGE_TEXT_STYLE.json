@@ -1,0 +1,29 @@
+{
+    "SET_HELP_MESSAGE_TEXT_STYLE": {
+        "name": "SET_HELP_MESSAGE_TEXT_STYLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "style"
+            },
+            {
+                "type": "float",
+                "name": "hudColor"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            },
+            {
+                "type": "RageEnums.Hud.ArrowDirection",
+                "name": "direction"
+            },
+            {
+                "type": "float",
+                "name": "offset"
+            }
+        ],
+        "return_type": "void"
+    }
+}

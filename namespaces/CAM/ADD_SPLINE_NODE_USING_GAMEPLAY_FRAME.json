@@ -1,0 +1,21 @@
+{
+    "ADD_SPLINE_NODE_USING_GAMEPLAY_FRAME": {
+        "name": "ADD_SPLINE_NODE_USING_GAMEPLAY_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

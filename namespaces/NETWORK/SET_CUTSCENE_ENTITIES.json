@@ -1,0 +1,13 @@
+{
+    "SET_CUTSCENE_ENTITIES": {
+        "name": "SET_CUTSCENE_ENTITIES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

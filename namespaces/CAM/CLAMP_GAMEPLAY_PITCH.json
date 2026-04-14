@@ -1,0 +1,17 @@
+{
+    "CLAMP_GAMEPLAY_PITCH": {
+        "name": "CLAMP_GAMEPLAY_PITCH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "minimum"
+            },
+            {
+                "type": "float",
+                "name": "maximum"
+            }
+        ],
+        "return_type": "void"
+    }
+}

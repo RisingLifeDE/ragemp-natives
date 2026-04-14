@@ -1,0 +1,13 @@
+{
+    "GET_NUMBER_OF_EVENTS": {
+        "name": "GET_NUMBER_OF_EVENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "eventGroup"
+            }
+        ],
+        "return_type": "float"
+    }
+}

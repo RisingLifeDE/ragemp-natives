@@ -1,0 +1,13 @@
+{
+    "GET_ENTITY_NET_SCRIPT_ID": {
+        "name": "GET_ENTITY_NET_SCRIPT_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

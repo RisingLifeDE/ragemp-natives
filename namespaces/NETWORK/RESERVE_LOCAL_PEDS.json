@@ -1,0 +1,13 @@
+{
+    "RESERVE_LOCAL_PEDS": {
+        "name": "RESERVE_LOCAL_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "HAS_HEADSHOT_IMG_UPLOAD_FAILED": {
+        "name": "HAS_HEADSHOT_IMG_UPLOAD_FAILED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

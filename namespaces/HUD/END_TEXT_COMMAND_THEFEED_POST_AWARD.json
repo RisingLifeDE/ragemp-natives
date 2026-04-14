@@ -1,0 +1,29 @@
+{
+    "END_TEXT_COMMAND_THEFEED_POST_AWARD": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_AWARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "char*",
+                "name": "textureName"
+            },
+            {
+                "type": "float",
+                "name": "rpBonus"
+            },
+            {
+                "type": "float",
+                "name": "colorOverlay"
+            },
+            {
+                "type": "char*",
+                "name": "titleLabel"
+            }
+        ],
+        "return_type": "float"
+    }
+}

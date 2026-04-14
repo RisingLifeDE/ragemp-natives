@@ -1,0 +1,8 @@
+{
+    "IS_SCREEN_FADED_OUT": {
+        "name": "IS_SCREEN_FADED_OUT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

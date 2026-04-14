@@ -1,0 +1,8 @@
+{
+    "IS_LOGGING_IN_NP": {
+        "name": "IS_LOGGING_IN_NP",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

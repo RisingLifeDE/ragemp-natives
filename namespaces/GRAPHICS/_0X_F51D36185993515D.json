@@ -1,0 +1,37 @@
+{
+    "_0X_F51D36185993515D": {
+        "name": "_0X_F51D36185993515D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "checkpoint"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "unkX"
+            },
+            {
+                "type": "float",
+                "name": "unkY"
+            },
+            {
+                "type": "float",
+                "name": "unkZ"
+            }
+        ],
+        "return_type": "void"
+    }
+}

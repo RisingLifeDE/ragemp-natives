@@ -1,0 +1,17 @@
+{
+    "IS_UPRIGHT": {
+        "name": "IS_UPRIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

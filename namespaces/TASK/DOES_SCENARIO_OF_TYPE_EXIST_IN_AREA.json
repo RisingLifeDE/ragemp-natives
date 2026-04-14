@@ -1,0 +1,29 @@
+{
+    "DOES_SCENARIO_OF_TYPE_EXIST_IN_AREA": {
+        "name": "DOES_SCENARIO_OF_TYPE_EXIST_IN_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "float"
+    }
+}

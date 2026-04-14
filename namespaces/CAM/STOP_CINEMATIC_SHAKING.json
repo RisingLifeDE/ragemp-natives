@@ -1,0 +1,13 @@
+{
+    "STOP_CINEMATIC_SHAKING": {
+        "name": "STOP_CINEMATIC_SHAKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

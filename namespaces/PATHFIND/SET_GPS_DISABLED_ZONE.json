@@ -1,0 +1,33 @@
+{
+    "SET_GPS_DISABLED_ZONE": {
+        "name": "SET_GPS_DISABLED_ZONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

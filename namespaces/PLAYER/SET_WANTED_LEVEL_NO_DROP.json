@@ -1,0 +1,17 @@
+{
+    "SET_WANTED_LEVEL_NO_DROP": {
+        "name": "SET_WANTED_LEVEL_NO_DROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "wantedLevel"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "REFRESH_WAYPOINT": {
+        "name": "REFRESH_WAYPOINT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

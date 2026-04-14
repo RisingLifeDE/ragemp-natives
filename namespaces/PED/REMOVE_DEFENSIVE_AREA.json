@@ -1,0 +1,17 @@
+{
+    "REMOVE_DEFENSIVE_AREA": {
+        "name": "REMOVE_DEFENSIVE_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

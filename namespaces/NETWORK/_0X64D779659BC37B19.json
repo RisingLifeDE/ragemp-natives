@@ -1,0 +1,13 @@
+{
+    "_0X64D779659BC37B19": {
+        "name": "_0X64D779659BC37B19",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

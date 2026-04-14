@@ -1,0 +1,17 @@
+{
+    "SET_ACTIVATE_PHYSICS_AS_SOON_AS_IT_IS_UNFROZEN": {
+        "name": "SET_ACTIVATE_PHYSICS_AS_SOON_AS_IT_IS_UNFROZEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

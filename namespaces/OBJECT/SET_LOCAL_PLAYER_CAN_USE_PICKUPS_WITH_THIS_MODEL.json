@@ -1,0 +1,17 @@
+{
+    "SET_LOCAL_PLAYER_CAN_USE_PICKUPS_WITH_THIS_MODEL": {
+        "name": "SET_LOCAL_PLAYER_CAN_USE_PICKUPS_WITH_THIS_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

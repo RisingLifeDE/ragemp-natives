@@ -1,0 +1,13 @@
+{
+    "DOES_ANIM_DICT_EXIST": {
+        "name": "DOES_ANIM_DICT_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

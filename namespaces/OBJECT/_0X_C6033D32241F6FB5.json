@@ -1,0 +1,17 @@
+{
+    "_0X_C6033D32241F6FB5": {
+        "name": "_0X_C6033D32241F6FB5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

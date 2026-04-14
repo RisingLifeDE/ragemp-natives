@@ -1,0 +1,13 @@
+{
+    "PAUSE_MENU_DEACTIVATE_CONTEXT": {
+        "name": "PAUSE_MENU_DEACTIVATE_CONTEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "contextHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

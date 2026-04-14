@@ -1,0 +1,8 @@
+{
+    "END_SCALEFORM_MOVIE_METHOD_RETURN_VALUE": {
+        "name": "END_SCALEFORM_MOVIE_METHOD_RETURN_VALUE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

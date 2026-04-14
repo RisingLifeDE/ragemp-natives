@@ -1,0 +1,13 @@
+{
+    "SET_POLICE_IGNORE": {
+        "name": "SET_POLICE_IGNORE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

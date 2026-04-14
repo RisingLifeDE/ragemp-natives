@@ -1,0 +1,13 @@
+{
+    "GET_PLAYER_INDEX": {
+        "name": "GET_PLAYER_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "float"
+    }
+}

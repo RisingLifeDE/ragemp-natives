@@ -1,0 +1,13 @@
+{
+    "GET_ROLL": {
+        "name": "GET_ROLL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

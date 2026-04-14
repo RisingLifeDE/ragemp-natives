@@ -1,0 +1,13 @@
+{
+    "RELEASE_MOVIE_MESH_SET": {
+        "name": "RELEASE_MOVIE_MESH_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "movieMeshSet"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "HAS_ASYNC_INSTALL_FINISHED": {
+        "name": "HAS_ASYNC_INSTALL_FINISHED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

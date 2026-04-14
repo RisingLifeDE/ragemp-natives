@@ -1,0 +1,13 @@
+{
+    "REQUEST_WAYPOINT_RECORDING": {
+        "name": "REQUEST_WAYPOINT_RECORDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

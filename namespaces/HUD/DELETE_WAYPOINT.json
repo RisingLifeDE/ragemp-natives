@@ -1,0 +1,8 @@
+{
+    "DELETE_WAYPOINT": {
+        "name": "DELETE_WAYPOINT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_MILLISECONDS_PER_GAME_MINUTE": {
+        "name": "GET_MILLISECONDS_PER_GAME_MINUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

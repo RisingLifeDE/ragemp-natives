@@ -1,0 +1,8 @@
+{
+    "GET_MAX_NUM_PICKUPS": {
+        "name": "GET_MAX_NUM_PICKUPS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

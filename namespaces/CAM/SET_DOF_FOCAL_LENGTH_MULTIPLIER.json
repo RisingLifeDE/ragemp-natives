@@ -1,0 +1,17 @@
+{
+    "SET_DOF_FOCAL_LENGTH_MULTIPLIER": {
+        "name": "SET_DOF_FOCAL_LENGTH_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "camera"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

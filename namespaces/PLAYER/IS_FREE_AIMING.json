@@ -1,0 +1,8 @@
+{
+    "IS_FREE_AIMING": {
+        "name": "IS_FREE_AIMING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

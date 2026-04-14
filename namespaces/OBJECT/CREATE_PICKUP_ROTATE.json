@@ -1,0 +1,57 @@
+{
+    "CREATE_PICKUP_ROTATE": {
+        "name": "CREATE_PICKUP_ROTATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupHash"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

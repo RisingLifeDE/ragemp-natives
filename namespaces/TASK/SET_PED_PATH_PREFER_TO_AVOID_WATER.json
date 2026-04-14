@@ -1,0 +1,17 @@
+{
+    "SET_PED_PATH_PREFER_TO_AVOID_WATER": {
+        "name": "SET_PED_PATH_PREFER_TO_AVOID_WATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "avoidWater"
+            }
+        ],
+        "return_type": "void"
+    }
+}

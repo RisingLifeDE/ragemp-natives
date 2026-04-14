@@ -1,0 +1,13 @@
+{
+    "GET_POPULATION_TYPE": {
+        "name": "GET_POPULATION_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

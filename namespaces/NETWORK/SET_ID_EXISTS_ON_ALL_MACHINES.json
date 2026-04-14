@@ -1,0 +1,17 @@
+{
+    "SET_ID_EXISTS_ON_ALL_MACHINES": {
+        "name": "SET_ID_EXISTS_ON_ALL_MACHINES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

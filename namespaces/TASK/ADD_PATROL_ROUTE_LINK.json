@@ -1,0 +1,17 @@
+{
+    "ADD_PATROL_ROUTE_LINK": {
+        "name": "ADD_PATROL_ROUTE_LINK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "SET_PLAYER_AIR_DEFENSE_ZONE_FLAG": {
+        "name": "SET_PLAYER_AIR_DEFENSE_ZONE_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "zoneId"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

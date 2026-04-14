@@ -1,0 +1,13 @@
+{
+    "SWITCH_TO_INPUT_MAPPING_SCHEME": {
+        "name": "SWITCH_TO_INPUT_MAPPING_SCHEME",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

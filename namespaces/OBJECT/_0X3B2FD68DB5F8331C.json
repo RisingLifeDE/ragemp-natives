@@ -1,0 +1,17 @@
+{
+    "_0X3B2FD68DB5F8331C": {
+        "name": "_0X3B2FD68DB5F8331C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

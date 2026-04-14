@@ -1,0 +1,29 @@
+{
+    "OPEN_VEHICLE_DOOR": {
+        "name": "OPEN_VEHICLE_DOOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "timeOut"
+            },
+            {
+                "type": "float",
+                "name": "seat"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void"
+    }
+}

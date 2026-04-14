@@ -1,0 +1,8 @@
+{
+    "IS_AIM_THIRD_PERSON_ACTIVE": {
+        "name": "IS_AIM_THIRD_PERSON_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

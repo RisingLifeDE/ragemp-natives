@@ -1,0 +1,13 @@
+{
+    "HAS_SCALEFORM_CONTAINER_MOVIE_LOADED_INTO_PARENT": {
+        "name": "HAS_SCALEFORM_CONTAINER_MOVIE_LOADED_INTO_PARENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleformHandle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IS_SCRIPT_ACTIVE_BY_HASH": {
+        "name": "IS_SCRIPT_ACTIVE_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scriptHash"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

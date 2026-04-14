@@ -1,0 +1,13 @@
+{
+    "SET_PARTICLE_FX_BULLET_IMPACT_SCALE": {
+        "name": "SET_PARTICLE_FX_BULLET_IMPACT_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

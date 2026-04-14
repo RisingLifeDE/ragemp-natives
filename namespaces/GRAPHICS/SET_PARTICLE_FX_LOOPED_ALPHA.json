@@ -1,0 +1,17 @@
+{
+    "SET_PARTICLE_FX_LOOPED_ALPHA": {
+        "name": "SET_PARTICLE_FX_LOOPED_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

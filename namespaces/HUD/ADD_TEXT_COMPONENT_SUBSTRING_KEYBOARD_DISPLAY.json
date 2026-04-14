@@ -1,0 +1,13 @@
+{
+    "ADD_TEXT_COMPONENT_SUBSTRING_KEYBOARD_DISPLAY": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_KEYBOARD_DISPLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "void"
+    }
+}

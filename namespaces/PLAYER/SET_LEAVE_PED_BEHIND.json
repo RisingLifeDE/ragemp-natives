@@ -1,0 +1,13 @@
+{
+    "SET_LEAVE_PED_BEHIND": {
+        "name": "SET_LEAVE_PED_BEHIND",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

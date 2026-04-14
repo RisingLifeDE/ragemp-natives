@@ -1,0 +1,13 @@
+{
+    "GET_COMBAT_RANGE": {
+        "name": "GET_COMBAT_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

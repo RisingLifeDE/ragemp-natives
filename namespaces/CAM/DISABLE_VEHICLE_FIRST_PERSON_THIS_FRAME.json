@@ -1,0 +1,8 @@
+{
+    "DISABLE_VEHICLE_FIRST_PERSON_THIS_FRAME": {
+        "name": "DISABLE_VEHICLE_FIRST_PERSON_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

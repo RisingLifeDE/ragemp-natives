@@ -1,0 +1,49 @@
+{
+    "ADD_COVER_BLOCKING_AREA": {
+        "name": "ADD_COVER_BLOCKING_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "playerX"
+            },
+            {
+                "type": "float",
+                "name": "playerY"
+            },
+            {
+                "type": "float",
+                "name": "playerZ"
+            },
+            {
+                "type": "float",
+                "name": "radiusX"
+            },
+            {
+                "type": "float",
+                "name": "radiusY"
+            },
+            {
+                "type": "float",
+                "name": "radiusZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void"
+    }
+}

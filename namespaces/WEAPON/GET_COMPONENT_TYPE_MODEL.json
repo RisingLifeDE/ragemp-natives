@@ -1,0 +1,13 @@
+{
+    "GET_COMPONENT_TYPE_MODEL": {
+        "name": "GET_COMPONENT_TYPE_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

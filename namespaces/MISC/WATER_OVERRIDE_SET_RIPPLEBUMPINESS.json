@@ -1,0 +1,13 @@
+{
+    "WATER_OVERRIDE_SET_RIPPLEBUMPINESS": {
+        "name": "WATER_OVERRIDE_SET_RIPPLEBUMPINESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "bumpiness"
+            }
+        ],
+        "return_type": "void"
+    }
+}

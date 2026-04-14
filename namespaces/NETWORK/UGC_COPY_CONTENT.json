@@ -1,0 +1,8 @@
+{
+    "UGC_COPY_CONTENT": {
+        "name": "UGC_COPY_CONTENT",
+        "comment": "",
+        "params": [],
+        "return_type": "UgcCopyContentResult"
+    }
+}

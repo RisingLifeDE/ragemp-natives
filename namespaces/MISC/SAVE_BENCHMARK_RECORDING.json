@@ -1,0 +1,8 @@
+{
+    "SAVE_BENCHMARK_RECORDING": {
+        "name": "SAVE_BENCHMARK_RECORDING",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

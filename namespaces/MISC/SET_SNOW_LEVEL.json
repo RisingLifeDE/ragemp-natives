@@ -1,0 +1,13 @@
+{
+    "SET_SNOW_LEVEL": {
+        "name": "SET_SNOW_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "level"
+            }
+        ],
+        "return_type": "void"
+    }
+}

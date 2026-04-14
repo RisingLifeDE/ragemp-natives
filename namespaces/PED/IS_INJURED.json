@@ -1,0 +1,13 @@
+{
+    "IS_INJURED": {
+        "name": "IS_INJURED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

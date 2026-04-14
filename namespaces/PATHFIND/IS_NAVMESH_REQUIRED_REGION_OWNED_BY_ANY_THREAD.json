@@ -1,0 +1,8 @@
+{
+    "IS_NAVMESH_REQUIRED_REGION_OWNED_BY_ANY_THREAD": {
+        "name": "IS_NAVMESH_REQUIRED_REGION_OWNED_BY_ANY_THREAD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

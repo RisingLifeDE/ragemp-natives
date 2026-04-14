@@ -1,0 +1,13 @@
+{
+    "REQUEST_MODEL": {
+        "name": "REQUEST_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "model"
+            }
+        ],
+        "return_type": "void"
+    }
+}

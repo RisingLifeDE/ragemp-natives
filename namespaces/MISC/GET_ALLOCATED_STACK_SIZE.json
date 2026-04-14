@@ -1,0 +1,8 @@
+{
+    "GET_ALLOCATED_STACK_SIZE": {
+        "name": "GET_ALLOCATED_STACK_SIZE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

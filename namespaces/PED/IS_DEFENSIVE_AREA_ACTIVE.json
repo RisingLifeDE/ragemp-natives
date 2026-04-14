@@ -1,0 +1,17 @@
+{
+    "IS_DEFENSIVE_AREA_ACTIVE": {
+        "name": "IS_DEFENSIVE_AREA_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

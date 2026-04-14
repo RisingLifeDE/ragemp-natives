@@ -1,0 +1,29 @@
+{
+    "STREAMVOL_CREATE_SPHERE": {
+        "name": "STREAMVOL_CREATE_SPHERE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "lodFlag"
+            }
+        ],
+        "return_type": "Handle"
+    }
+}

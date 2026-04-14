@@ -1,0 +1,13 @@
+{
+    "GET_DLC_VEHICLE_MOD_LOCK_HASH": {
+        "name": "GET_DLC_VEHICLE_MOD_LOCK_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

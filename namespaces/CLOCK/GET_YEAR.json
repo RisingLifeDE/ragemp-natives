@@ -1,0 +1,8 @@
+{
+    "GET_YEAR": {
+        "name": "GET_YEAR",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "UGC_GET_BOOKMARKED_CONTENT": {
+        "name": "UGC_GET_BOOKMARKED_CONTENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "UgcGetBookmarkedContentResult"
+    }
+}

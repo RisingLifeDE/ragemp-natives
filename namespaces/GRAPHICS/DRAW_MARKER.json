@@ -1,0 +1,105 @@
+{
+    "DRAW_MARKER": {
+        "name": "DRAW_MARKER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "dirX"
+            },
+            {
+                "type": "float",
+                "name": "dirY"
+            },
+            {
+                "type": "float",
+                "name": "dirZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "scaleX"
+            },
+            {
+                "type": "float",
+                "name": "scaleY"
+            },
+            {
+                "type": "float",
+                "name": "scaleZ"
+            },
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            },
+            {
+                "type": "BOOL",
+                "name": "bobUpAndDown"
+            },
+            {
+                "type": "BOOL",
+                "name": "faceCamera"
+            },
+            {
+                "type": "float",
+                "name": "p19"
+            },
+            {
+                "type": "BOOL",
+                "name": "rotate"
+            },
+            {
+                "type": "string | null",
+                "name": "textureDict"
+            },
+            {
+                "type": "string | null",
+                "name": "textureName"
+            },
+            {
+                "type": "BOOL",
+                "name": "drawOnEnts"
+            }
+        ],
+        "return_type": "void"
+    }
+}

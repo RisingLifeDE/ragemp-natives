@@ -1,0 +1,8 @@
+{
+    "UPDATE_TELEPORT": {
+        "name": "UPDATE_TELEPORT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

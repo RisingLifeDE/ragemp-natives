@@ -1,0 +1,13 @@
+{
+    "DETACH": {
+        "name": "DETACH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "void"
+    }
+}

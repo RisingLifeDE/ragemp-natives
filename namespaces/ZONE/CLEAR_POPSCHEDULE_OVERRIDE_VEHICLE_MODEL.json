@@ -1,0 +1,13 @@
+{
+    "CLEAR_POPSCHEDULE_OVERRIDE_VEHICLE_MODEL": {
+        "name": "CLEAR_POPSCHEDULE_OVERRIDE_VEHICLE_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scheduleId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "DEACTIVATE_ENTITY_SET": {
+        "name": "DEACTIVATE_ENTITY_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            },
+            {
+                "type": "char*",
+                "name": "entitySetName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

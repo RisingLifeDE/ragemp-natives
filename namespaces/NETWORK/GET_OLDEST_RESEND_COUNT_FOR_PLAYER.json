@@ -1,0 +1,13 @@
+{
+    "GET_OLDEST_RESEND_COUNT_FOR_PLAYER": {
+        "name": "GET_OLDEST_RESEND_COUNT_FOR_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "float"
+    }
+}

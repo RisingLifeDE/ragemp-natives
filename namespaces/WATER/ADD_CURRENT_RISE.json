@@ -1,0 +1,29 @@
+{
+    "ADD_CURRENT_RISE": {
+        "name": "ADD_CURRENT_RISE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "unk"
+            }
+        ],
+        "return_type": "float"
+    }
+}

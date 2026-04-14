@@ -1,0 +1,17 @@
+{
+    "SET_SCALEFORM_MOVIE_TO_USE_SYSTEM_TIME": {
+        "name": "SET_SCALEFORM_MOVIE_TO_USE_SYSTEM_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleform"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

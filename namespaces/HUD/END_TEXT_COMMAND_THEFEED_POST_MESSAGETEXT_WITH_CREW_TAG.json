@@ -1,0 +1,41 @@
+{
+    "END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "txdName"
+            },
+            {
+                "type": "char*",
+                "name": "textureName"
+            },
+            {
+                "type": "BOOL",
+                "name": "flash"
+            },
+            {
+                "type": "float",
+                "name": "iconType"
+            },
+            {
+                "type": "char*",
+                "name": "sender"
+            },
+            {
+                "type": "char*",
+                "name": "subject"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "char*",
+                "name": "clanTag"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "LOAD_MISSION_CREATOR_PHOTO": {
+        "name": "LOAD_MISSION_CREATOR_PHOTO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "HIDE_PICKUP": {
+        "name": "HIDE_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupObject"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

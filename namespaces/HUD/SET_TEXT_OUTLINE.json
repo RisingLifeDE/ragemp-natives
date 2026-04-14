@@ -1,0 +1,8 @@
+{
+    "SET_TEXT_OUTLINE": {
+        "name": "SET_TEXT_OUTLINE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

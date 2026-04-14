@@ -1,0 +1,17 @@
+{
+    "SET_HUD_ANIM_STOP_LEVEL": {
+        "name": "SET_HUD_ANIM_STOP_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

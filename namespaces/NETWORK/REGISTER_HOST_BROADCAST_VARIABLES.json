@@ -1,0 +1,13 @@
+{
+    "REGISTER_HOST_BROADCAST_VARIABLES": {
+        "name": "REGISTER_HOST_BROADCAST_VARIABLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "numVars"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_HUD_STATS": {
+        "name": "GET_HUD_STATS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

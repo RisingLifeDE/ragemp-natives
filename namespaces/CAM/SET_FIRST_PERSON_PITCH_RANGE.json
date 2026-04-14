@@ -1,0 +1,17 @@
+{
+    "SET_FIRST_PERSON_PITCH_RANGE": {
+        "name": "SET_FIRST_PERSON_PITCH_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

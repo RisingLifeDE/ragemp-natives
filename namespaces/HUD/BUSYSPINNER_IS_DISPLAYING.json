@@ -1,0 +1,8 @@
+{
+    "BUSYSPINNER_IS_DISPLAYING": {
+        "name": "BUSYSPINNER_IS_DISPLAYING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

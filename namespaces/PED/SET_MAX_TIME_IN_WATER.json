@@ -1,0 +1,17 @@
+{
+    "SET_MAX_TIME_IN_WATER": {
+        "name": "SET_MAX_TIME_IN_WATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

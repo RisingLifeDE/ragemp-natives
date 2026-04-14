@@ -1,0 +1,8 @@
+{
+    "IS_TRANSITION_PRIVATE": {
+        "name": "IS_TRANSITION_PRIVATE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_SELECTED_PED": {
+        "name": "GET_SELECTED_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

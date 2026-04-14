@@ -1,0 +1,41 @@
+{
+    "SLIDE": {
+        "name": "SLIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "toX"
+            },
+            {
+                "type": "float",
+                "name": "toY"
+            },
+            {
+                "type": "float",
+                "name": "toZ"
+            },
+            {
+                "type": "float",
+                "name": "speedX"
+            },
+            {
+                "type": "float",
+                "name": "speedY"
+            },
+            {
+                "type": "float",
+                "name": "speedZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "collision"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

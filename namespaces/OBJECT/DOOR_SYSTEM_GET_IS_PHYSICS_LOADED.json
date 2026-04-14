@@ -1,0 +1,13 @@
+{
+    "DOOR_SYSTEM_GET_IS_PHYSICS_LOADED": {
+        "name": "DOOR_SYSTEM_GET_IS_PHYSICS_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

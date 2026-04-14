@@ -1,0 +1,13 @@
+{
+    "ALLOW_MISSION_CREATOR_WARP": {
+        "name": "ALLOW_MISSION_CREATOR_WARP",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

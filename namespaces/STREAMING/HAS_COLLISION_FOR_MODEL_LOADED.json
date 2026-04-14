@@ -1,0 +1,13 @@
+{
+    "HAS_COLLISION_FOR_MODEL_LOADED": {
+        "name": "HAS_COLLISION_FOR_MODEL_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

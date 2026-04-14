@@ -1,0 +1,8 @@
+{
+    "DISABLE_ROCKSTAR_EDITOR_CAMERA_CHANGES": {
+        "name": "DISABLE_ROCKSTAR_EDITOR_CAMERA_CHANGES",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

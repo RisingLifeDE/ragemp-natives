@@ -1,0 +1,13 @@
+{
+    "IS_BLIP_FLASHING": {
+        "name": "IS_BLIP_FLASHING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

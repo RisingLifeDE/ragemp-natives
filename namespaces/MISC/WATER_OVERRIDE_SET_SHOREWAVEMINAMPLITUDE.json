@@ -1,0 +1,13 @@
+{
+    "WATER_OVERRIDE_SET_SHOREWAVEMINAMPLITUDE": {
+        "name": "WATER_OVERRIDE_SET_SHOREWAVEMINAMPLITUDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "minAmplitude"
+            }
+        ],
+        "return_type": "void"
+    }
+}

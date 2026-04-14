@@ -1,0 +1,37 @@
+{
+    "CREATE_MODEL_SWAP": {
+        "name": "CREATE_MODEL_SWAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "originalModel"
+            },
+            {
+                "type": "float",
+                "name": "newModel"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void"
+    }
+}

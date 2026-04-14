@@ -1,0 +1,13 @@
+{
+    "DOES_NAVMESH_BLOCKING_OBJECT_EXIST": {
+        "name": "DOES_NAVMESH_BLOCKING_OBJECT_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

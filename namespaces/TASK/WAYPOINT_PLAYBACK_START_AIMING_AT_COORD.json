@@ -1,0 +1,29 @@
+{
+    "WAYPOINT_PLAYBACK_START_AIMING_AT_COORD": {
+        "name": "WAYPOINT_PLAYBACK_START_AIMING_AT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REGISTER_TEXT_LABEL_TO_SAVE2": {
+        "name": "REGISTER_TEXT_LABEL_TO_SAVE2",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "float"
+    }
+}

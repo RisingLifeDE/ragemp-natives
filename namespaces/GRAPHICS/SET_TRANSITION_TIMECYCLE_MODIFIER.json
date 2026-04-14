@@ -1,0 +1,17 @@
+{
+    "SET_TRANSITION_TIMECYCLE_MODIFIER": {
+        "name": "SET_TRANSITION_TIMECYCLE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "modifierName"
+            },
+            {
+                "type": "float",
+                "name": "transition"
+            }
+        ],
+        "return_type": "void"
+    }
+}

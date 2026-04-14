@@ -1,0 +1,8 @@
+{
+    "DISABLE_SWITCH_OUTRO_FX": {
+        "name": "DISABLE_SWITCH_OUTRO_FX",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

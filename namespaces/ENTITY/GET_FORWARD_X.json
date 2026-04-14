@@ -1,0 +1,13 @@
+{
+    "GET_FORWARD_X": {
+        "name": "GET_FORWARD_X",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

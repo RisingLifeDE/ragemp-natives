@@ -1,0 +1,13 @@
+{
+    "UI3DSCENE_PUSH_PRESET": {
+        "name": "UI3DSCENE_PUSH_PRESET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "presetName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

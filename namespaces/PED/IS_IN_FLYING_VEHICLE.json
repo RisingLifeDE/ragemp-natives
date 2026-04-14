@@ -1,0 +1,13 @@
+{
+    "IS_IN_FLYING_VEHICLE": {
+        "name": "IS_IN_FLYING_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

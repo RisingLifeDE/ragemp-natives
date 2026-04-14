@@ -1,0 +1,8 @@
+{
+    "GET_DEEP_OCEAN_SCALER": {
+        "name": "GET_DEEP_OCEAN_SCALER",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

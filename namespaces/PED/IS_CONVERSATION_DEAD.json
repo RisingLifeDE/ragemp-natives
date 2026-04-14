@@ -1,0 +1,13 @@
+{
+    "IS_CONVERSATION_DEAD": {
+        "name": "IS_CONVERSATION_DEAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

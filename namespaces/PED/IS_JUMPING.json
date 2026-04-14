@@ -1,0 +1,13 @@
+{
+    "IS_JUMPING": {
+        "name": "IS_JUMPING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

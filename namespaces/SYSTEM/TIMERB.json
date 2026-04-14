@@ -1,0 +1,8 @@
+{
+    "TIMERB": {
+        "name": "TIMERB",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

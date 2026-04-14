@@ -1,0 +1,13 @@
+{
+    "IS_DOOR_REGISTERED_WITH_SYSTEM": {
+        "name": "IS_DOOR_REGISTERED_WITH_SYSTEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

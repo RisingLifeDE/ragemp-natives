@@ -1,0 +1,13 @@
+{
+    "IS_ENTITY_FADING": {
+        "name": "IS_ENTITY_FADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

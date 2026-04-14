@@ -1,0 +1,17 @@
+{
+    "GET_TIME_DIFFERENCE": {
+        "name": "GET_TIME_DIFFERENCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "timeA"
+            },
+            {
+                "type": "float",
+                "name": "timeB"
+            }
+        ],
+        "return_type": "float"
+    }
+}

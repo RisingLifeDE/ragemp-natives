@@ -1,0 +1,8 @@
+{
+    "CANCEL_STUNT_JUMP": {
+        "name": "CANCEL_STUNT_JUMP",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

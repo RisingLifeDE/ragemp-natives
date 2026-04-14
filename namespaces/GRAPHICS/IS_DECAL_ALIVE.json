@@ -1,0 +1,13 @@
+{
+    "IS_DECAL_ALIVE": {
+        "name": "IS_DECAL_ALIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "decal"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

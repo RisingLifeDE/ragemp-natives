@@ -1,0 +1,8 @@
+{
+    "IS_TRANSITION_TO_GAME": {
+        "name": "IS_TRANSITION_TO_GAME",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

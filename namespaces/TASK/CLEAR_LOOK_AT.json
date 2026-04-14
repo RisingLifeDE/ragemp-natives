@@ -1,0 +1,13 @@
+{
+    "CLEAR_LOOK_AT": {
+        "name": "CLEAR_LOOK_AT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

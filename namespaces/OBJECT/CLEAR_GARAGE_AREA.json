@@ -1,0 +1,17 @@
+{
+    "CLEAR_GARAGE_AREA": {
+        "name": "CLEAR_GARAGE_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "garageHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            }
+        ],
+        "return_type": "void"
+    }
+}

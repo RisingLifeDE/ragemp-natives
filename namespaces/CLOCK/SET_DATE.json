@@ -1,0 +1,21 @@
+{
+    "SET_DATE": {
+        "name": "SET_DATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "day"
+            },
+            {
+                "type": "float",
+                "name": "month"
+            },
+            {
+                "type": "float",
+                "name": "year"
+            }
+        ],
+        "return_type": "void"
+    }
+}

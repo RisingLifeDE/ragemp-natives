@@ -1,0 +1,17 @@
+{
+    "SEND_INVITE_VIA_PRESENCE": {
+        "name": "SEND_INVITE_VIA_PRESENCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "NetworkSendInviteViaPresenceResult"
+    }
+}

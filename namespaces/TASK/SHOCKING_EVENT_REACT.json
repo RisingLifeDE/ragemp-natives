@@ -1,0 +1,17 @@
+{
+    "SHOCKING_EVENT_REACT": {
+        "name": "SHOCKING_EVENT_REACT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "eventHandle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

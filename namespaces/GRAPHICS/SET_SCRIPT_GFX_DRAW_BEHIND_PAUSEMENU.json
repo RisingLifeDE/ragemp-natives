@@ -1,0 +1,13 @@
+{
+    "SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU": {
+        "name": "SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

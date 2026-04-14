@@ -1,0 +1,17 @@
+{
+    "SET_CONTROL": {
+        "name": "SET_CONTROL",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "bHasControl"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

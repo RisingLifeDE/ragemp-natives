@@ -1,0 +1,17 @@
+{
+    "SET_PARTICLE_FX_CAM_INSIDE_NONPLAYER_VEHICLE": {
+        "name": "SET_PARTICLE_FX_CAM_INSIDE_NONPLAYER_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

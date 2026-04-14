@@ -1,0 +1,8 @@
+{
+    "CLAN_PLAYER_IS_ACTIVE": {
+        "name": "CLAN_PLAYER_IS_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

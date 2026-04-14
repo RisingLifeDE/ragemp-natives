@@ -1,0 +1,8 @@
+{
+    "STOP_CUTSCENE_SHAKING": {
+        "name": "STOP_CUTSCENE_SHAKING",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

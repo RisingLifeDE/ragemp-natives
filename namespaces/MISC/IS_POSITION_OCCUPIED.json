@@ -1,0 +1,53 @@
+{
+    "IS_POSITION_OCCUPIED": {
+        "name": "IS_POSITION_OCCUPIED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "checkVehicles"
+            },
+            {
+                "type": "BOOL",
+                "name": "checkPeds"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "ignoreEntity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

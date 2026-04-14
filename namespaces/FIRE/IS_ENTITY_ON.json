@@ -1,0 +1,13 @@
+{
+    "IS_ENTITY_ON": {
+        "name": "IS_ENTITY_ON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

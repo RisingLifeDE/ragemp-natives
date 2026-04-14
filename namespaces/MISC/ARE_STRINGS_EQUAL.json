@@ -1,0 +1,17 @@
+{
+    "ARE_STRINGS_EQUAL": {
+        "name": "ARE_STRINGS_EQUAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "string1"
+            },
+            {
+                "type": "char*",
+                "name": "string2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

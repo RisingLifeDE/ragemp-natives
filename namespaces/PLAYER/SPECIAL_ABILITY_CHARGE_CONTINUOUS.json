@@ -1,0 +1,17 @@
+{
+    "SPECIAL_ABILITY_CHARGE_CONTINUOUS": {
+        "name": "SPECIAL_ABILITY_CHARGE_CONTINUOUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

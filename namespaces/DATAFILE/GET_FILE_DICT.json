@@ -1,0 +1,8 @@
+{
+    "GET_FILE_DICT": {
+        "name": "GET_FILE_DICT",
+        "comment": "",
+        "params": [],
+        "return_type": "char*"
+    }
+}

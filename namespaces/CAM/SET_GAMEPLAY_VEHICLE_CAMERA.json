@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_VEHICLE_CAMERA": {
+        "name": "SET_GAMEPLAY_VEHICLE_CAMERA",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "vehicleName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

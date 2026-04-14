@@ -1,0 +1,13 @@
+{
+    "CLEAR_ALL_VEHICLE_FORCED_SEAT_USAGE": {
+        "name": "CLEAR_ALL_VEHICLE_FORCED_SEAT_USAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "GET_COMBAT_FLOAT": {
+        "name": "GET_COMBAT_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

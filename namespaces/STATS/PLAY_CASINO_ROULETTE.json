@@ -1,0 +1,13 @@
+{
+    "PLAY_CASINO_ROULETTE": {
+        "name": "PLAY_CASINO_ROULETTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

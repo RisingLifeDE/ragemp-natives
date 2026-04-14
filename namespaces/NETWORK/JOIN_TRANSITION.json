@@ -1,0 +1,13 @@
+{
+    "JOIN_TRANSITION": {
+        "name": "JOIN_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

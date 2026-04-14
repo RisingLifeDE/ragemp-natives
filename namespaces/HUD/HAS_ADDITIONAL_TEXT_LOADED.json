@@ -1,0 +1,13 @@
+{
+    "HAS_ADDITIONAL_TEXT_LOADED": {
+        "name": "HAS_ADDITIONAL_TEXT_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "slot"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

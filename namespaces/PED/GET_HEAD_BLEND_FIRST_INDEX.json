@@ -1,0 +1,13 @@
+{
+    "GET_HEAD_BLEND_FIRST_INDEX": {
+        "name": "GET_HEAD_BLEND_FIRST_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "type"
+            }
+        ],
+        "return_type": "float"
+    }
+}

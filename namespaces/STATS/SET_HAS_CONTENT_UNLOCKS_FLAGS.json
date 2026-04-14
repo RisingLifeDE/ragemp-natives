@@ -1,0 +1,13 @@
+{
+    "SET_HAS_CONTENT_UNLOCKS_FLAGS": {
+        "name": "SET_HAS_CONTENT_UNLOCKS_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

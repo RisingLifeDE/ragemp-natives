@@ -1,0 +1,13 @@
+{
+    "GET_NUMBER_OF_PASSENGER_VOICE_VARIATIONS": {
+        "name": "GET_NUMBER_OF_PASSENGER_VOICE_VARIATIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "newsStory"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

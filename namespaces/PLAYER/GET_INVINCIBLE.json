@@ -1,0 +1,8 @@
+{
+    "GET_INVINCIBLE": {
+        "name": "GET_INVINCIBLE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

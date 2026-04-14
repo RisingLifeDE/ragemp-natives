@@ -1,0 +1,17 @@
+{
+    "SET_FAR_CLIP": {
+        "name": "SET_FAR_CLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "farClip"
+            }
+        ],
+        "return_type": "void"
+    }
+}

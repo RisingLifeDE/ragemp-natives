@@ -1,0 +1,13 @@
+{
+    "UNCUFF_PED": {
+        "name": "UNCUFF_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

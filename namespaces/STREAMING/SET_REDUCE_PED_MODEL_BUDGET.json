@@ -1,0 +1,13 @@
+{
+    "SET_REDUCE_PED_MODEL_BUDGET": {
+        "name": "SET_REDUCE_PED_MODEL_BUDGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

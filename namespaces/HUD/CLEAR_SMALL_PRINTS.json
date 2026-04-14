@@ -1,0 +1,8 @@
+{
+    "CLEAR_SMALL_PRINTS": {
+        "name": "CLEAR_SMALL_PRINTS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

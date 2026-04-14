@@ -1,0 +1,8 @@
+{
+    "IS_ADDING_FRIEND": {
+        "name": "IS_ADDING_FRIEND",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

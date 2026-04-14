@@ -1,0 +1,13 @@
+{
+    "DOES_PARTICLE_FX_LOOPED_EXIST": {
+        "name": "DOES_PARTICLE_FX_LOOPED_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ptfxHandle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

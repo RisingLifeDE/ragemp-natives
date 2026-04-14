@@ -1,0 +1,21 @@
+{
+    "SET_WANTED_LEVEL_HIDDEN_EVASION_TIME": {
+        "name": "SET_WANTED_LEVEL_HIDDEN_EVASION_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "wantedLevel"
+            },
+            {
+                "type": "float",
+                "name": "lossTime"
+            }
+        ],
+        "return_type": "void"
+    }
+}

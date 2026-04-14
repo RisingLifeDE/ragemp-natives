@@ -1,0 +1,13 @@
+{
+    "DATAARRAY_GET_BOOL": {
+        "name": "DATAARRAY_GET_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "arrayIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

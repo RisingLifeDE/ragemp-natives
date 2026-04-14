@@ -1,0 +1,17 @@
+{
+    "SET_ONLY_DAMAGED_BY_PLAYER": {
+        "name": "SET_ONLY_DAMAGED_BY_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

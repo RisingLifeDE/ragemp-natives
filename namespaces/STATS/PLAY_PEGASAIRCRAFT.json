@@ -1,0 +1,13 @@
+{
+    "PLAY_PEGASAIRCRAFT": {
+        "name": "PLAY_PEGASAIRCRAFT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

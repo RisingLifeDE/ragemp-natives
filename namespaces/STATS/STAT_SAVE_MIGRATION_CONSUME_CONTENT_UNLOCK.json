@@ -1,0 +1,21 @@
+{
+    "STAT_SAVE_MIGRATION_CONSUME_CONTENT_UNLOCK": {
+        "name": "STAT_SAVE_MIGRATION_CONSUME_CONTENT_UNLOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "contentId"
+            },
+            {
+                "type": "char*",
+                "name": "srcPlatform"
+            },
+            {
+                "type": "char*",
+                "name": "srcGamerHandle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

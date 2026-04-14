@@ -1,0 +1,13 @@
+{
+    "FREEZE_CAMERA_ROTATION": {
+        "name": "FREEZE_CAMERA_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

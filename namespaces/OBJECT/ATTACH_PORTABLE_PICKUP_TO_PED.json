@@ -1,0 +1,17 @@
+{
+    "ATTACH_PORTABLE_PICKUP_TO_PED": {
+        "name": "ATTACH_PORTABLE_PICKUP_TO_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupObject"
+            },
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

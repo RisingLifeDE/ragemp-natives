@@ -1,0 +1,13 @@
+{
+    "RELEASE_BINK_MOVIE": {
+        "name": "RELEASE_BINK_MOVIE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "binkMovie"
+            }
+        ],
+        "return_type": "void"
+    }
+}

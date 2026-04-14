@@ -1,0 +1,13 @@
+{
+    "STAT_GET_PACKED_INT_MASK": {
+        "name": "STAT_GET_PACKED_INT_MASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

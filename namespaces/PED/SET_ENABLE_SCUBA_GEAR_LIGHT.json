@@ -1,0 +1,17 @@
+{
+    "SET_ENABLE_SCUBA_GEAR_LIGHT": {
+        "name": "SET_ENABLE_SCUBA_GEAR_LIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

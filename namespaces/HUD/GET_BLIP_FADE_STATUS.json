@@ -1,0 +1,13 @@
+{
+    "GET_BLIP_FADE_STATUS": {
+        "name": "GET_BLIP_FADE_STATUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "blip"
+            }
+        ],
+        "return_type": "float"
+    }
+}

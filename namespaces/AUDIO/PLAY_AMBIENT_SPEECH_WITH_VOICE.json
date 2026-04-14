@@ -1,0 +1,29 @@
+{
+    "PLAY_AMBIENT_SPEECH_WITH_VOICE": {
+        "name": "PLAY_AMBIENT_SPEECH_WITH_VOICE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "speechName"
+            },
+            {
+                "type": "char*",
+                "name": "voiceName"
+            },
+            {
+                "type": "char*",
+                "name": "speechParam"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

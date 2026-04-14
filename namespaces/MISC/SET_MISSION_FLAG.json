@@ -1,0 +1,13 @@
+{
+    "SET_MISSION_FLAG": {
+        "name": "SET_MISSION_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "PATCH_DECAL_DIFFUSE_MAP": {
+        "name": "PATCH_DECAL_DIFFUSE_MAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "decalType"
+            },
+            {
+                "type": "char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "char*",
+                "name": "textureName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

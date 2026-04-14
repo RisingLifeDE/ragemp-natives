@@ -1,0 +1,17 @@
+{
+    "_0X28B022A17B068A3A": {
+        "name": "_0X28B022A17B068A3A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

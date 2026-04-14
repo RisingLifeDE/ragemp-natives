@@ -1,0 +1,13 @@
+{
+    "SUPPRESS_INVITE": {
+        "name": "SUPPRESS_INVITE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

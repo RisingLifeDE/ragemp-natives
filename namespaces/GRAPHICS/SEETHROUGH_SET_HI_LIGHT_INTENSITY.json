@@ -1,0 +1,13 @@
+{
+    "SEETHROUGH_SET_HI_LIGHT_INTENSITY": {
+        "name": "SEETHROUGH_SET_HI_LIGHT_INTENSITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

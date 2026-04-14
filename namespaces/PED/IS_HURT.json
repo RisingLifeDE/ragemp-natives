@@ -1,0 +1,13 @@
+{
+    "IS_HURT": {
+        "name": "IS_HURT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_RADAR_ZOOM_TO_DISTANCE": {
+        "name": "SET_RADAR_ZOOM_TO_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoom"
+            }
+        ],
+        "return_type": "void"
+    }
+}

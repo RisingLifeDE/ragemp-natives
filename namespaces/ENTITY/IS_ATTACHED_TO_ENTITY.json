@@ -1,0 +1,17 @@
+{
+    "IS_ATTACHED_TO_ENTITY": {
+        "name": "IS_ATTACHED_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "from"
+            },
+            {
+                "type": "float",
+                "name": "to"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

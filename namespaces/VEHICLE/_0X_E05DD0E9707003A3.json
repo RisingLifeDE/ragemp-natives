@@ -1,0 +1,17 @@
+{
+    "_0X_E05DD0E9707003A3": {
+        "name": "_0X_E05DD0E9707003A3",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

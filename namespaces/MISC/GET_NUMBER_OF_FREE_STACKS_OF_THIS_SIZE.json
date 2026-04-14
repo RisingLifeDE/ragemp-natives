@@ -1,0 +1,13 @@
+{
+    "GET_NUMBER_OF_FREE_STACKS_OF_THIS_SIZE": {
+        "name": "GET_NUMBER_OF_FREE_STACKS_OF_THIS_SIZE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "stackSize"
+            }
+        ],
+        "return_type": "float"
+    }
+}

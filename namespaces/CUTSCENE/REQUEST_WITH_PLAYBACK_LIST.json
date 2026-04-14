@@ -1,0 +1,21 @@
+{
+    "REQUEST_WITH_PLAYBACK_LIST": {
+        "name": "REQUEST_WITH_PLAYBACK_LIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneName"
+            },
+            {
+                "type": "float",
+                "name": "playbackFlags"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

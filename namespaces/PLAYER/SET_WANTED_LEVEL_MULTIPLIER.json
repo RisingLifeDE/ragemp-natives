@@ -1,0 +1,13 @@
+{
+    "SET_WANTED_LEVEL_MULTIPLIER": {
+        "name": "SET_WANTED_LEVEL_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

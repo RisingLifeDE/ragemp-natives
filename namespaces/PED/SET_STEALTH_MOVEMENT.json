@@ -1,0 +1,21 @@
+{
+    "SET_STEALTH_MOVEMENT": {
+        "name": "SET_STEALTH_MOVEMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "char*",
+                "name": "action"
+            }
+        ],
+        "return_type": "void"
+    }
+}

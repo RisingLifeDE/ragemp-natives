@@ -1,0 +1,13 @@
+{
+    "GET_SCRIPTED_COVER_POINT_COORDS": {
+        "name": "GET_SCRIPTED_COVER_POINT_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "coverpoint"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

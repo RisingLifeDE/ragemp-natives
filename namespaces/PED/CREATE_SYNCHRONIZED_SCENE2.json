@@ -1,0 +1,29 @@
+{
+    "CREATE_SYNCHRONIZED_SCENE2": {
+        "name": "CREATE_SYNCHRONIZED_SCENE2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "float"
+    }
+}

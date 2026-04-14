@@ -1,0 +1,13 @@
+{
+    "GET_GLOBAL_ACTIONSCRIPT_FLAG": {
+        "name": "GET_GLOBAL_ACTIONSCRIPT_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "flagIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

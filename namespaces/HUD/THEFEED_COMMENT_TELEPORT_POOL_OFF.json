@@ -1,0 +1,8 @@
+{
+    "THEFEED_COMMENT_TELEPORT_POOL_OFF": {
+        "name": "THEFEED_COMMENT_TELEPORT_POOL_OFF",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

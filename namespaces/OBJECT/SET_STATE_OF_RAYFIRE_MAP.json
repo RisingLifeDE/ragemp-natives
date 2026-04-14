@@ -1,0 +1,17 @@
+{
+    "SET_STATE_OF_RAYFIRE_MAP": {
+        "name": "SET_STATE_OF_RAYFIRE_MAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "state"
+            }
+        ],
+        "return_type": "void"
+    }
+}

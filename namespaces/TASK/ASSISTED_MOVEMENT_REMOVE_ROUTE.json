@@ -1,0 +1,13 @@
+{
+    "ASSISTED_MOVEMENT_REMOVE_ROUTE": {
+        "name": "ASSISTED_MOVEMENT_REMOVE_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "route"
+            }
+        ],
+        "return_type": "void"
+    }
+}

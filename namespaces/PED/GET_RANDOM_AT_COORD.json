@@ -1,0 +1,37 @@
+{
+    "GET_RANDOM_AT_COORD": {
+        "name": "GET_RANDOM_AT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "xRadius"
+            },
+            {
+                "type": "float",
+                "name": "yRadius"
+            },
+            {
+                "type": "float",
+                "name": "zRadius"
+            },
+            {
+                "type": "float",
+                "name": "pedType"
+            }
+        ],
+        "return_type": "float"
+    }
+}

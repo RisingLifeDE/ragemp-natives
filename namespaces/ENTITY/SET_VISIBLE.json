@@ -1,0 +1,21 @@
+{
+    "SET_VISIBLE": {
+        "name": "SET_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "unk"
+            }
+        ],
+        "return_type": "void"
+    }
+}

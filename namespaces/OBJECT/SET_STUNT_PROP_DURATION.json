@@ -1,0 +1,17 @@
+{
+    "SET_STUNT_PROP_DURATION": {
+        "name": "SET_STUNT_PROP_DURATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

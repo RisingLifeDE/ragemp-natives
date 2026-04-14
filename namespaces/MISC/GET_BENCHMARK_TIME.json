@@ -1,0 +1,8 @@
+{
+    "GET_BENCHMARK_TIME": {
+        "name": "GET_BENCHMARK_TIME",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

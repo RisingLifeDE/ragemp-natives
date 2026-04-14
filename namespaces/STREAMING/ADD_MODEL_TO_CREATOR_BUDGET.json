@@ -1,0 +1,13 @@
+{
+    "ADD_MODEL_TO_CREATOR_BUDGET": {
+        "name": "ADD_MODEL_TO_CREATOR_BUDGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

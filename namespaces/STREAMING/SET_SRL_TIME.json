@@ -1,0 +1,13 @@
+{
+    "SET_SRL_TIME": {
+        "name": "SET_SRL_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

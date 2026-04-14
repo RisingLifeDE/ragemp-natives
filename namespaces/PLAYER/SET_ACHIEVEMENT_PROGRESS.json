@@ -1,0 +1,17 @@
+{
+    "SET_ACHIEVEMENT_PROGRESS": {
+        "name": "SET_ACHIEVEMENT_PROGRESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "achievement"
+            },
+            {
+                "type": "float",
+                "name": "progress"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

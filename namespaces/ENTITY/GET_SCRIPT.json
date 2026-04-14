@@ -1,0 +1,13 @@
+{
+    "GET_SCRIPT": {
+        "name": "GET_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "GetEntityScriptResult"
+    }
+}

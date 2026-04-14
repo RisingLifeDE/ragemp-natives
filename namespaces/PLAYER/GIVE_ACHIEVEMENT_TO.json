@@ -1,0 +1,13 @@
+{
+    "GIVE_ACHIEVEMENT_TO": {
+        "name": "GIVE_ACHIEVEMENT_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "achievement"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

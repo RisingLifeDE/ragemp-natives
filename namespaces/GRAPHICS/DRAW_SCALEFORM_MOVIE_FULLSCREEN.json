@@ -1,0 +1,33 @@
+{
+    "DRAW_SCALEFORM_MOVIE_FULLSCREEN": {
+        "name": "DRAW_SCALEFORM_MOVIE_FULLSCREEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleform"
+            },
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            },
+            {
+                "type": "float",
+                "name": "unk"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_COMMERCE_DATA_VALID": {
+        "name": "IS_COMMERCE_DATA_VALID",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

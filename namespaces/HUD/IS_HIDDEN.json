@@ -1,0 +1,8 @@
+{
+    "IS_HIDDEN": {
+        "name": "IS_HIDDEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

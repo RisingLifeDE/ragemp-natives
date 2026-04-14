@@ -1,0 +1,21 @@
+{
+    "RACE_GALLERY_ADD_BLIP": {
+        "name": "RACE_GALLERY_ADD_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "SET_ROTATION": {
+        "name": "SET_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "pitch"
+            },
+            {
+                "type": "float",
+                "name": "roll"
+            },
+            {
+                "type": "float",
+                "name": "yaw"
+            },
+            {
+                "type": "float",
+                "name": "rotationOrder"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void"
+    }
+}

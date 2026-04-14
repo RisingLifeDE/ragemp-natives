@@ -1,0 +1,13 @@
+{
+    "IS_DUCKING": {
+        "name": "IS_DUCKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

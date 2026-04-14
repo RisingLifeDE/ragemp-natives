@@ -1,0 +1,13 @@
+{
+    "_0X_CFD778E7904C255E": {
+        "name": "_0X_CFD778E7904C255E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

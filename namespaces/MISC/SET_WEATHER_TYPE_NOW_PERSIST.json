@@ -1,0 +1,13 @@
+{
+    "SET_WEATHER_TYPE_NOW_PERSIST": {
+        "name": "SET_WEATHER_TYPE_NOW_PERSIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "weatherType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

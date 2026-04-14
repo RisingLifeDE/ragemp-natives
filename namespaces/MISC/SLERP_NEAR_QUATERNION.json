@@ -1,0 +1,45 @@
+{
+    "SLERP_NEAR_QUATERNION": {
+        "name": "SLERP_NEAR_QUATERNION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "t"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "w"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "w1"
+            }
+        ],
+        "return_type": "SlerpNearQuaternionResult"
+    }
+}

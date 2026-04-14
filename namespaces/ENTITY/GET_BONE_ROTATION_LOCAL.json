@@ -1,0 +1,17 @@
+{
+    "GET_BONE_ROTATION_LOCAL": {
+        "name": "GET_BONE_ROTATION_LOCAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

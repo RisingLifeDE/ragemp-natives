@@ -1,0 +1,13 @@
+{
+    "HAS_BEEN_DAMAGED_BY_ANY_PED": {
+        "name": "HAS_BEEN_DAMAGED_BY_ANY_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "SET_TEXT_DROP_SHADOW": {
+        "name": "SET_TEXT_DROP_SHADOW",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

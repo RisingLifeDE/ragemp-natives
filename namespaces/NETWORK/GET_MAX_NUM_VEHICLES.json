@@ -1,0 +1,8 @@
+{
+    "GET_MAX_NUM_VEHICLES": {
+        "name": "GET_MAX_NUM_VEHICLES",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

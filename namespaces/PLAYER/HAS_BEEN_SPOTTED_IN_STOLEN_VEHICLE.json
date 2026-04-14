@@ -1,0 +1,8 @@
+{
+    "HAS_BEEN_SPOTTED_IN_STOLEN_VEHICLE": {
+        "name": "HAS_BEEN_SPOTTED_IN_STOLEN_VEHICLE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

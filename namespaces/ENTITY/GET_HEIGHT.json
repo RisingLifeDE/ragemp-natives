@@ -1,0 +1,33 @@
+{
+    "GET_HEIGHT": {
+        "name": "GET_HEIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "X"
+            },
+            {
+                "type": "float",
+                "name": "Y"
+            },
+            {
+                "type": "float",
+                "name": "Z"
+            },
+            {
+                "type": "BOOL",
+                "name": "atTop"
+            },
+            {
+                "type": "BOOL",
+                "name": "inWorldCoords"
+            }
+        ],
+        "return_type": "float"
+    }
+}

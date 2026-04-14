@@ -1,0 +1,13 @@
+{
+    "GET_FINAL_RENDERED_ROT": {
+        "name": "GET_FINAL_RENDERED_ROT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

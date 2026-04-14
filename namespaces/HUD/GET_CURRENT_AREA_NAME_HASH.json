@@ -1,0 +1,8 @@
+{
+    "GET_CURRENT_AREA_NAME_HASH": {
+        "name": "GET_CURRENT_AREA_NAME_HASH",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

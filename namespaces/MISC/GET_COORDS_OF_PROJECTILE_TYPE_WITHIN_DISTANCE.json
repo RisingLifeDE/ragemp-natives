@@ -1,0 +1,25 @@
+{
+    "GET_COORDS_OF_PROJECTILE_TYPE_WITHIN_DISTANCE": {
+        "name": "GET_COORDS_OF_PROJECTILE_TYPE_WITHIN_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "ownedByPlayer"
+            }
+        ],
+        "return_type": "GetCoordsOfProjectileTypeWithinDistanceResult"
+    }
+}

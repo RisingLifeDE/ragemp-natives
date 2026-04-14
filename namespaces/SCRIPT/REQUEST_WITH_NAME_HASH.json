@@ -1,0 +1,13 @@
+{
+    "REQUEST_WITH_NAME_HASH": {
+        "name": "REQUEST_WITH_NAME_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

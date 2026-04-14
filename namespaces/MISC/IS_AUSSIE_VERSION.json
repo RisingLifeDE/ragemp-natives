@@ -1,0 +1,8 @@
+{
+    "IS_AUSSIE_VERSION": {
+        "name": "IS_AUSSIE_VERSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

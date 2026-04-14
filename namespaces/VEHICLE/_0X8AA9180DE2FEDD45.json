@@ -1,0 +1,17 @@
+{
+    "_0X8AA9180DE2FEDD45": {
+        "name": "_0X8AA9180DE2FEDD45",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

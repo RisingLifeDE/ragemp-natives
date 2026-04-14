@@ -1,0 +1,13 @@
+{
+    "PLAY_CHEAT_APPLIED": {
+        "name": "PLAY_CHEAT_APPLIED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cheat"
+            }
+        ],
+        "return_type": "void"
+    }
+}

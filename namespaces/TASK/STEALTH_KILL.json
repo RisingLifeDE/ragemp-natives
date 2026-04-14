@@ -1,0 +1,29 @@
+{
+    "STEALTH_KILL": {
+        "name": "STEALTH_KILL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "killer"
+            },
+            {
+                "type": "float",
+                "name": "target"
+            },
+            {
+                "type": "float",
+                "name": "actionType"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SETTIMERB": {
+        "name": "SETTIMERB",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

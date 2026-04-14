@@ -1,0 +1,8 @@
+{
+    "GET_HOST_OF_THIS_SCRIPT": {
+        "name": "GET_HOST_OF_THIS_SCRIPT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_CAN_BE_TARGETED_WITHOUT_LOS": {
+        "name": "SET_CAN_BE_TARGETED_WITHOUT_LOS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

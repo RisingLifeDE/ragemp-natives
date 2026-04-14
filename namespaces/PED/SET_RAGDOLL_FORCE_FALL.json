@@ -1,0 +1,13 @@
+{
+    "SET_RAGDOLL_FORCE_FALL": {
+        "name": "SET_RAGDOLL_FORCE_FALL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

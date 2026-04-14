@@ -1,0 +1,13 @@
+{
+    "IS_SWIMMING": {
+        "name": "IS_SWIMMING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

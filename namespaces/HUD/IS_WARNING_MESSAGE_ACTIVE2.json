@@ -1,0 +1,8 @@
+{
+    "IS_WARNING_MESSAGE_ACTIVE2": {
+        "name": "IS_WARNING_MESSAGE_ACTIVE2",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

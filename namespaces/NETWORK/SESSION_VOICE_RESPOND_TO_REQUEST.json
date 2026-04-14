@@ -1,0 +1,17 @@
+{
+    "SESSION_VOICE_RESPOND_TO_REQUEST": {
+        "name": "SESSION_VOICE_RESPOND_TO_REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

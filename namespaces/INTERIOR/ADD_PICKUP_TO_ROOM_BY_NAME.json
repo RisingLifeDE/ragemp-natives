@@ -1,0 +1,17 @@
+{
+    "ADD_PICKUP_TO_ROOM_BY_NAME": {
+        "name": "ADD_PICKUP_TO_ROOM_BY_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            },
+            {
+                "type": "char*",
+                "name": "roomName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

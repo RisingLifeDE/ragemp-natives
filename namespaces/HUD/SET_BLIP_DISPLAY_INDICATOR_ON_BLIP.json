@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_DISPLAY_INDICATOR_ON_BLIP": {
+        "name": "SET_BLIP_DISPLAY_INDICATOR_ON_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

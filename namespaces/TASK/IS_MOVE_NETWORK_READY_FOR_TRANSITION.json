@@ -1,0 +1,13 @@
+{
+    "IS_MOVE_NETWORK_READY_FOR_TRANSITION": {
+        "name": "IS_MOVE_NETWORK_READY_FOR_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

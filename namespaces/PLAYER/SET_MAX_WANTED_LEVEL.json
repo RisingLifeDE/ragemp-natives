@@ -1,0 +1,13 @@
+{
+    "SET_MAX_WANTED_LEVEL": {
+        "name": "SET_MAX_WANTED_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "maxWantedLevel"
+            }
+        ],
+        "return_type": "void"
+    }
+}

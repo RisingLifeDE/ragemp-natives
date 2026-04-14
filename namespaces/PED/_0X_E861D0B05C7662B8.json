@@ -1,0 +1,21 @@
+{
+    "_0X_E861D0B05C7662B8": {
+        "name": "_0X_E861D0B05C7662B8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "SET_RESTART_CUSTOM_POSITION": {
+        "name": "SET_RESTART_CUSTOM_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void"
+    }
+}

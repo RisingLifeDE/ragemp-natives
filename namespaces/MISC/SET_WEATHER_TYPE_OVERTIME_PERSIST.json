@@ -1,0 +1,17 @@
+{
+    "SET_WEATHER_TYPE_OVERTIME_PERSIST": {
+        "name": "SET_WEATHER_TYPE_OVERTIME_PERSIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "weatherType"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "void"
+    }
+}

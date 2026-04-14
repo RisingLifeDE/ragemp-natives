@@ -1,0 +1,21 @@
+{
+    "_0X_A08FE5E49BDC39DD": {
+        "name": "_0X_A08FE5E49BDC39DD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

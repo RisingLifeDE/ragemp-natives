@@ -1,0 +1,13 @@
+{
+    "DISABLE_COLLISION_FOR_OBJECT": {
+        "name": "DISABLE_COLLISION_FOR_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

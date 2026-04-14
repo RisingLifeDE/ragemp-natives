@@ -1,0 +1,8 @@
+{
+    "GET_INDEX": {
+        "name": "GET_INDEX",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

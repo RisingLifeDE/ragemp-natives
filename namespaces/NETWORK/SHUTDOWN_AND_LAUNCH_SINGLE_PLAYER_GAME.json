@@ -1,0 +1,8 @@
+{
+    "SHUTDOWN_AND_LAUNCH_SINGLE_PLAYER_GAME": {
+        "name": "SHUTDOWN_AND_LAUNCH_SINGLE_PLAYER_GAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

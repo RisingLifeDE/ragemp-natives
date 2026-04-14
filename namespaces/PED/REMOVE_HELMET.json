@@ -1,0 +1,17 @@
+{
+    "REMOVE_HELMET": {
+        "name": "REMOVE_HELMET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "instantly"
+            }
+        ],
+        "return_type": "void"
+    }
+}

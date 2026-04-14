@@ -1,0 +1,13 @@
+{
+    "GET_FRIEND_NAME_FROM_INDEX": {
+        "name": "GET_FRIEND_NAME_FROM_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "friendIndex"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

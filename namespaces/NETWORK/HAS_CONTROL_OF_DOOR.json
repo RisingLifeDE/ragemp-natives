@@ -1,0 +1,13 @@
+{
+    "HAS_CONTROL_OF_DOOR": {
+        "name": "HAS_CONTROL_OF_DOOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

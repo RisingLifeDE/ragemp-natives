@@ -1,0 +1,21 @@
+{
+    "SET_CAN_BE_TARGETTED_BY_TEAM": {
+        "name": "SET_CAN_BE_TARGETTED_BY_TEAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "team"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

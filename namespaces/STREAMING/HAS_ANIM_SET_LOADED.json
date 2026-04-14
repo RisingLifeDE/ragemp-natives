@@ -1,0 +1,13 @@
+{
+    "HAS_ANIM_SET_LOADED": {
+        "name": "HAS_ANIM_SET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "animSet"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

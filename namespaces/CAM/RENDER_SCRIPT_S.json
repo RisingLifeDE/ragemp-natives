@@ -1,0 +1,33 @@
+{
+    "RENDER_SCRIPT_S": {
+        "name": "RENDER_SCRIPT_S",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "render"
+            },
+            {
+                "type": "BOOL",
+                "name": "ease"
+            },
+            {
+                "type": "float",
+                "name": "easeTime"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void"
+    }
+}

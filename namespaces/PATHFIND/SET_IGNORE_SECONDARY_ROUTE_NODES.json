@@ -1,0 +1,13 @@
+{
+    "SET_IGNORE_SECONDARY_ROUTE_NODES": {
+        "name": "SET_IGNORE_SECONDARY_ROUTE_NODES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

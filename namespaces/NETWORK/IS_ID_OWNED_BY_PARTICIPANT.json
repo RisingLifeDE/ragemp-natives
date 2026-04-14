@@ -1,0 +1,13 @@
+{
+    "IS_ID_OWNED_BY_PARTICIPANT": {
+        "name": "IS_ID_OWNED_BY_PARTICIPANT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

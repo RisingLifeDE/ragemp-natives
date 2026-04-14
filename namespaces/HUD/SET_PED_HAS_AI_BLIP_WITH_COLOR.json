@@ -1,0 +1,21 @@
+{
+    "SET_PED_HAS_AI_BLIP_WITH_COLOR": {
+        "name": "SET_PED_HAS_AI_BLIP_WITH_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "hasCone"
+            },
+            {
+                "type": "float",
+                "name": "color"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_WANTED_LEVEL_RADIUS": {
+        "name": "GET_WANTED_LEVEL_RADIUS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

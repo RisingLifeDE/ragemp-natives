@@ -1,0 +1,29 @@
+{
+    "START_SCRIPT": {
+        "name": "START_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "X"
+            },
+            {
+                "type": "float",
+                "name": "Y"
+            },
+            {
+                "type": "float",
+                "name": "Z"
+            },
+            {
+                "type": "float",
+                "name": "maxChildren"
+            },
+            {
+                "type": "BOOL",
+                "name": "isGasFire"
+            }
+        ],
+        "return_type": "float"
+    }
+}

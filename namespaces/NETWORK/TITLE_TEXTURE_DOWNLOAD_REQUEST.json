@@ -1,0 +1,21 @@
+{
+    "TITLE_TEXTURE_DOWNLOAD_REQUEST": {
+        "name": "TITLE_TEXTURE_DOWNLOAD_REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "FilePath"
+            },
+            {
+                "type": "char*",
+                "name": "Name"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

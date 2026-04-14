@@ -1,0 +1,13 @@
+{
+    "DOES_PICKUP_EXIST": {
+        "name": "DOES_PICKUP_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupObject"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "DISABLE_INVINCIBLE_FLASHING": {
+        "name": "DISABLE_INVINCIBLE_FLASHING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

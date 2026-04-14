@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_OVERRIDE_BUTTON_TEXT": {
+        "name": "BEGIN_TEXT_COMMAND_OVERRIDE_BUTTON_TEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "gxtEntry"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "UGC_GET_CONTENT_ID": {
+        "name": "UGC_GET_CONTENT_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

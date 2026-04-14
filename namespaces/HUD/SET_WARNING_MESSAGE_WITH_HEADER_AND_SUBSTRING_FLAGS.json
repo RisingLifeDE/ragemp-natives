@@ -1,0 +1,45 @@
+{
+    "SET_WARNING_MESSAGE_WITH_HEADER_AND_SUBSTRING_FLAGS": {
+        "name": "SET_WARNING_MESSAGE_WITH_HEADER_AND_SUBSTRING_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "entryHeader"
+            },
+            {
+                "type": "char*",
+                "name": "entryLine1"
+            },
+            {
+                "type": "float",
+                "name": "instructionalKey"
+            },
+            {
+                "type": "char*",
+                "name": "entryLine2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            }
+        ],
+        "return_type": "SetWarningMessageWithHeaderAndSubstringFlagsResult"
+    }
+}

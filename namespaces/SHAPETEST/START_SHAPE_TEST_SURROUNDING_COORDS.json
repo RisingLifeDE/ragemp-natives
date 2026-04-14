@@ -1,0 +1,21 @@
+{
+    "START_SHAPE_TEST_SURROUNDING_COORDS": {
+        "name": "START_SHAPE_TEST_SURROUNDING_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "flag2"
+            }
+        ],
+        "return_type": "StartShapeTestSurroundingCoordsResult"
+    }
+}

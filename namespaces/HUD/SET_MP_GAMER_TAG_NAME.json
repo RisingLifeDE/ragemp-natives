@@ -1,0 +1,17 @@
+{
+    "SET_MP_GAMER_TAG_NAME": {
+        "name": "SET_MP_GAMER_TAG_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "void"
+    }
+}

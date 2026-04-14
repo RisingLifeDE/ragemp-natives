@@ -1,0 +1,8 @@
+{
+    "UGC_HAS_GET_FINISHED": {
+        "name": "UGC_HAS_GET_FINISHED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

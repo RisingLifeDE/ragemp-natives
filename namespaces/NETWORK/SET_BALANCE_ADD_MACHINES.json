@@ -1,0 +1,17 @@
+{
+    "SET_BALANCE_ADD_MACHINES": {
+        "name": "SET_BALANCE_ADD_MACHINES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dataCount"
+            },
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

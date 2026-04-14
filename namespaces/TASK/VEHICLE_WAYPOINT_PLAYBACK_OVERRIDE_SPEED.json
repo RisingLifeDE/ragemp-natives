@@ -1,0 +1,17 @@
+{
+    "VEHICLE_WAYPOINT_PLAYBACK_OVERRIDE_SPEED": {
+        "name": "VEHICLE_WAYPOINT_PLAYBACK_OVERRIDE_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void"
+    }
+}

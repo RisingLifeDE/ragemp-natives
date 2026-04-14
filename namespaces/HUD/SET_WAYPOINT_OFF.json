@@ -1,0 +1,8 @@
+{
+    "SET_WAYPOINT_OFF": {
+        "name": "SET_WAYPOINT_OFF",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

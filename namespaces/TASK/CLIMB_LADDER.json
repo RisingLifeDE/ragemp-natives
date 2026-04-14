@@ -1,0 +1,17 @@
+{
+    "CLIMB_LADDER": {
+        "name": "CLIMB_LADDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

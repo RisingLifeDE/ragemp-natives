@@ -1,0 +1,17 @@
+{
+    "GET_RAGDOLL_BONE_INDEX": {
+        "name": "GET_RAGDOLL_BONE_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "bone"
+            }
+        ],
+        "return_type": "float"
+    }
+}

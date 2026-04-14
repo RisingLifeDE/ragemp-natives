@@ -1,0 +1,17 @@
+{
+    "SET_PLAYER_CASH_CHANGE": {
+        "name": "SET_PLAYER_CASH_CHANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cash"
+            },
+            {
+                "type": "float",
+                "name": "bank"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "PLACE_ON_GROUND_PROPERLY2": {
+        "name": "PLACE_ON_GROUND_PROPERLY2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

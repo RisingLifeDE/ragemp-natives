@@ -1,0 +1,13 @@
+{
+    "IS_MP_GAMER_TAG_FREE": {
+        "name": "IS_MP_GAMER_TAG_FREE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

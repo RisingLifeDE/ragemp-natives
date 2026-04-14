@@ -1,0 +1,8 @@
+{
+    "IS_TUNABLE_CLOUD_REQUEST_PENDING": {
+        "name": "IS_TUNABLE_CLOUD_REQUEST_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

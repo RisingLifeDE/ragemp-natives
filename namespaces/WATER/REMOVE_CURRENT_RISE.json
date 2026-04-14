@@ -1,0 +1,13 @@
+{
+    "REMOVE_CURRENT_RISE": {
+        "name": "REMOVE_CURRENT_RISE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

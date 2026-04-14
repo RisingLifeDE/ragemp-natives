@@ -1,0 +1,8 @@
+{
+    "GET_NUM_PRESENCE_INVITES": {
+        "name": "GET_NUM_PRESENCE_INVITES",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

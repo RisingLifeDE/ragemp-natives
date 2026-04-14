@@ -1,0 +1,13 @@
+{
+    "SET_FOLLOW_TURRET_SEAT": {
+        "name": "SET_FOLLOW_TURRET_SEAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "SET_BLIP_SECONDARY_COLOUR": {
+        "name": "SET_BLIP_SECONDARY_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            }
+        ],
+        "return_type": "void"
+    }
+}

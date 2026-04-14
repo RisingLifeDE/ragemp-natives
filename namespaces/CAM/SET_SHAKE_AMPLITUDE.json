@@ -1,0 +1,17 @@
+{
+    "SET_SHAKE_AMPLITUDE": {
+        "name": "SET_SHAKE_AMPLITUDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "amplitude"
+            }
+        ],
+        "return_type": "void"
+    }
+}

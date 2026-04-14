@@ -1,0 +1,25 @@
+{
+    "SET_MP_GAMER_TAG_VISIBILITY": {
+        "name": "SET_MP_GAMER_TAG_VISIBILITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "float",
+                "name": "component"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

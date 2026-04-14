@@ -1,0 +1,17 @@
+{
+    "_0X_AF60E6A2936F982A": {
+        "name": "_0X_AF60E6A2936F982A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

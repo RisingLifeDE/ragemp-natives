@@ -1,0 +1,13 @@
+{
+    "SET_LOCKON_RANGE_OVERRIDE": {
+        "name": "SET_LOCKON_RANGE_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "void"
+    }
+}

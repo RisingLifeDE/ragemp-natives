@@ -1,0 +1,13 @@
+{
+    "STREAMVOL_HAS_LOADED": {
+        "name": "STREAMVOL_HAS_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "handle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

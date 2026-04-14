@@ -1,0 +1,13 @@
+{
+    "GET_PARACHUTE_TINT_INDEX": {
+        "name": "GET_PARACHUTE_TINT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

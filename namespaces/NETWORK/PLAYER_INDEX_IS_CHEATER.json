@@ -1,0 +1,13 @@
+{
+    "PLAYER_INDEX_IS_CHEATER": {
+        "name": "PLAYER_INDEX_IS_CHEATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SPAWNPOINTS_GET_SEARCH_RESULT": {
+        "name": "SPAWNPOINTS_GET_SEARCH_RESULT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "randomInt"
+            }
+        ],
+        "return_type": "SpawnpointsGetSearchResultResult"
+    }
+}

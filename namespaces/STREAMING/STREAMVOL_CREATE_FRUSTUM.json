@@ -1,0 +1,41 @@
+{
+    "STREAMVOL_CREATE_FRUSTUM": {
+        "name": "STREAMVOL_CREATE_FRUSTUM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "dirx"
+            },
+            {
+                "type": "float",
+                "name": "diry"
+            },
+            {
+                "type": "float",
+                "name": "dirz"
+            },
+            {
+                "type": "float",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "lodflag"
+            }
+        ],
+        "return_type": "Handle"
+    }
+}

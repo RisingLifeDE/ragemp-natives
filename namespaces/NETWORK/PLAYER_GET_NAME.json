@@ -1,0 +1,13 @@
+{
+    "PLAYER_GET_NAME": {
+        "name": "PLAYER_GET_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_NUM_PARENT_PEDS_OF_TYPE": {
+        "name": "GET_NUM_PARENT_PEDS_OF_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "type"
+            }
+        ],
+        "return_type": "float"
+    }
+}

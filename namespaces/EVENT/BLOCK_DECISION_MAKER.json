@@ -1,0 +1,17 @@
+{
+    "BLOCK_DECISION_MAKER": {
+        "name": "BLOCK_DECISION_MAKER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "eventType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_MEMORY_CARD_IN_USE": {
+        "name": "IS_MEMORY_CARD_IN_USE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

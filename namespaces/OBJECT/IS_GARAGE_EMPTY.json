@@ -1,0 +1,21 @@
+{
+    "IS_GARAGE_EMPTY": {
+        "name": "IS_GARAGE_EMPTY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "garageHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

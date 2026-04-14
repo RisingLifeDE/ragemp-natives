@@ -1,0 +1,13 @@
+{
+    "GET_ALERTNESS": {
+        "name": "GET_ALERTNESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

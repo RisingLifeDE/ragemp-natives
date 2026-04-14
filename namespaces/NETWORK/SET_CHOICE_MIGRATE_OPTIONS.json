@@ -1,0 +1,17 @@
+{
+    "SET_CHOICE_MIGRATE_OPTIONS": {
+        "name": "SET_CHOICE_MIGRATE_OPTIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "void"
+    }
+}

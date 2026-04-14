@@ -1,0 +1,8 @@
+{
+    "FORCE_STREAMING_UPDATE": {
+        "name": "FORCE_STREAMING_UPDATE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

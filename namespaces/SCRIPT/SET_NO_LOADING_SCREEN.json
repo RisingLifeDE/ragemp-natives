@@ -1,0 +1,13 @@
+{
+    "SET_NO_LOADING_SCREEN": {
+        "name": "SET_NO_LOADING_SCREEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

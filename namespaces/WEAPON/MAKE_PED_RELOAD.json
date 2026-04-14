@@ -1,0 +1,13 @@
+{
+    "MAKE_PED_RELOAD": {
+        "name": "MAKE_PED_RELOAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

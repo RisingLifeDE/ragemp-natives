@@ -1,0 +1,8 @@
+{
+    "GET_TOTAL_NUM_PLAYERS": {
+        "name": "GET_TOTAL_NUM_PLAYERS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

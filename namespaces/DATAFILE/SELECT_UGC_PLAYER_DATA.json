@@ -1,0 +1,13 @@
+{
+    "SELECT_UGC_PLAYER_DATA": {
+        "name": "SELECT_UGC_PLAYER_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

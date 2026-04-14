@@ -1,0 +1,13 @@
+{
+    "SET_RANDOM_SEED": {
+        "name": "SET_RANDOM_SEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "seed"
+            }
+        ],
+        "return_type": "void"
+    }
+}

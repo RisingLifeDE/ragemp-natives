@@ -1,0 +1,17 @@
+{
+    "HAS_BEEN_BROKEN": {
+        "name": "HAS_BEEN_BROKEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "THEFEED_RESET_ALL_PARAMETERS": {
+        "name": "THEFEED_RESET_ALL_PARAMETERS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

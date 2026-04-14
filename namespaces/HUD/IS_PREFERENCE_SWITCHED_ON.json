@@ -1,0 +1,8 @@
+{
+    "IS_PREFERENCE_SWITCHED_ON": {
+        "name": "IS_PREFERENCE_SWITCHED_ON",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

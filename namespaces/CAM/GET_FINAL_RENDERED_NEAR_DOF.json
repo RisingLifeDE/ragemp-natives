@@ -1,0 +1,8 @@
+{
+    "GET_FINAL_RENDERED_NEAR_DOF": {
+        "name": "GET_FINAL_RENDERED_NEAR_DOF",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_TEAM": {
+        "name": "GET_TEAM",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

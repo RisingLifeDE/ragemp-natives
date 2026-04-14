@@ -1,0 +1,13 @@
+{
+    "GET_WANTED_LEVEL_THRESHOLD": {
+        "name": "GET_WANTED_LEVEL_THRESHOLD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "wantedLevel"
+            }
+        ],
+        "return_type": "float"
+    }
+}

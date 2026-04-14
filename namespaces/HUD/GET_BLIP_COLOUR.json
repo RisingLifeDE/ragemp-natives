@@ -1,0 +1,13 @@
+{
+    "GET_BLIP_COLOUR": {
+        "name": "GET_BLIP_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "HELI_CHASE": {
+        "name": "HELI_CHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pilot"
+            },
+            {
+                "type": "float",
+                "name": "entityToFollow"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

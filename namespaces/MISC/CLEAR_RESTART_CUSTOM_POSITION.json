@@ -1,0 +1,8 @@
+{
+    "CLEAR_RESTART_CUSTOM_POSITION": {
+        "name": "CLEAR_RESTART_CUSTOM_POSITION",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

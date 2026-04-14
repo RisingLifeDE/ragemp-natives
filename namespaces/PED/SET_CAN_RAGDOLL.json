@@ -1,0 +1,17 @@
+{
+    "SET_CAN_RAGDOLL": {
+        "name": "SET_CAN_RAGDOLL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

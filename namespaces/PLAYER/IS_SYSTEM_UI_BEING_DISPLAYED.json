@@ -1,0 +1,8 @@
+{
+    "IS_SYSTEM_UI_BEING_DISPLAYED": {
+        "name": "IS_SYSTEM_UI_BEING_DISPLAYED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

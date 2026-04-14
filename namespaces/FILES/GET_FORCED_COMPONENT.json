@@ -1,0 +1,17 @@
+{
+    "GET_FORCED_COMPONENT": {
+        "name": "GET_FORCED_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            },
+            {
+                "type": "float",
+                "name": "forcedComponentIndex"
+            }
+        ],
+        "return_type": "GetForcedComponentResult"
+    }
+}

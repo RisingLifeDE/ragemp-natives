@@ -1,0 +1,13 @@
+{
+    "IS_TARGETTING_ENTITY": {
+        "name": "IS_TARGETTING_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

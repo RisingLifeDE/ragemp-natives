@@ -1,0 +1,17 @@
+{
+    "ADD_TCMODIFIER_OVERRIDE": {
+        "name": "ADD_TCMODIFIER_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "modifierName1"
+            },
+            {
+                "type": "char*",
+                "name": "modifierName2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

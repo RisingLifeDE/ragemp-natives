@@ -1,0 +1,17 @@
+{
+    "_0X_BE5C1255A1830FF5": {
+        "name": "_0X_BE5C1255A1830FF5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

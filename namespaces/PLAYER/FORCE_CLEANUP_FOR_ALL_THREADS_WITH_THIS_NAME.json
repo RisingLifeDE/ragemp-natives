@@ -1,0 +1,17 @@
+{
+    "FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME": {
+        "name": "FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "cleanupFlags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REQUEST_HIGH_DETAIL_MODEL": {
+        "name": "REQUEST_HIGH_DETAIL_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponObject"
+            }
+        ],
+        "return_type": "void"
+    }
+}

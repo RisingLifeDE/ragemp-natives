@@ -1,0 +1,13 @@
+{
+    "SET_INCREASED_AVOIDANCE_RADIUS": {
+        "name": "SET_INCREASED_AVOIDANCE_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

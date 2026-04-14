@@ -1,0 +1,29 @@
+{
+    "SET_ALTERNATE_WALK_ANIM": {
+        "name": "SET_ALTERNATE_WALK_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

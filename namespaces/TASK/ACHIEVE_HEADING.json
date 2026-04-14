@@ -1,0 +1,21 @@
+{
+    "ACHIEVE_HEADING": {
+        "name": "ACHIEVE_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "timeout"
+            }
+        ],
+        "return_type": "void"
+    }
+}

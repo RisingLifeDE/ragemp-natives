@@ -1,0 +1,13 @@
+{
+    "REMOVE_STEALTH_MODE_ASSET": {
+        "name": "REMOVE_STEALTH_MODE_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "asset"
+            }
+        ],
+        "return_type": "void"
+    }
+}

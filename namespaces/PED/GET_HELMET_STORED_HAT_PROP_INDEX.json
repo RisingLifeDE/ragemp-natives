@@ -1,0 +1,13 @@
+{
+    "GET_HELMET_STORED_HAT_PROP_INDEX": {
+        "name": "GET_HELMET_STORED_HAT_PROP_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

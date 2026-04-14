@@ -1,0 +1,21 @@
+{
+    "SET_IN_SPECTATOR_MODE_EXTENDED": {
+        "name": "SET_IN_SPECTATOR_MODE_EXTENDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "playerPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

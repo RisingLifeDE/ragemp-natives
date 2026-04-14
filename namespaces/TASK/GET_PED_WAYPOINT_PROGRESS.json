@@ -1,0 +1,13 @@
+{
+    "GET_PED_WAYPOINT_PROGRESS": {
+        "name": "GET_PED_WAYPOINT_PROGRESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

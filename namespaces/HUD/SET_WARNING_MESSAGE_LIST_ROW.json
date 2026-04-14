@@ -1,0 +1,33 @@
+{
+    "SET_WARNING_MESSAGE_LIST_ROW": {
+        "name": "SET_WARNING_MESSAGE_LIST_ROW",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "index"
+            },
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "cash"
+            },
+            {
+                "type": "float",
+                "name": "rp"
+            },
+            {
+                "type": "float",
+                "name": "lvl"
+            },
+            {
+                "type": "float",
+                "name": "colour"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

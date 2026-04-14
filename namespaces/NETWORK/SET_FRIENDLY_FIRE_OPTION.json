@@ -1,0 +1,13 @@
+{
+    "SET_FRIENDLY_FIRE_OPTION": {
+        "name": "SET_FRIENDLY_FIRE_OPTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

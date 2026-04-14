@@ -1,0 +1,17 @@
+{
+    "SET_HELMET_FLAG": {
+        "name": "SET_HELMET_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "helmetFlag"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "HAS_CLIP_SET_LOADED": {
+        "name": "HAS_CLIP_SET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "clipSet"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

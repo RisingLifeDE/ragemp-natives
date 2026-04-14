@@ -1,0 +1,13 @@
+{
+    "DETACH_SYNCHRONIZED_SCENE": {
+        "name": "DETACH_SYNCHRONIZED_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "sceneID"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_ENTITY_FOCUS": {
+        "name": "IS_ENTITY_FOCUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "GET_SCREEN_COORD_FROM_WORLD_COORD": {
+        "name": "GET_SCREEN_COORD_FROM_WORLD_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "worldX"
+            },
+            {
+                "type": "float",
+                "name": "worldY"
+            },
+            {
+                "type": "float",
+                "name": "worldZ"
+            }
+        ],
+        "return_type": "GetScreenCoordFromWorldCoordResult"
+    }
+}

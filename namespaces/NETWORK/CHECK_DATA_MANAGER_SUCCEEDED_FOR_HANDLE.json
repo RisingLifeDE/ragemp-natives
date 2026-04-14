@@ -1,0 +1,13 @@
+{
+    "CHECK_DATA_MANAGER_SUCCEEDED_FOR_HANDLE": {
+        "name": "CHECK_DATA_MANAGER_SUCCEEDED_FOR_HANDLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

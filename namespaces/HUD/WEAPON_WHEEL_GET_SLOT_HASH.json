@@ -1,0 +1,13 @@
+{
+    "WEAPON_WHEEL_GET_SLOT_HASH": {
+        "name": "WEAPON_WHEEL_GET_SLOT_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponTypeIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

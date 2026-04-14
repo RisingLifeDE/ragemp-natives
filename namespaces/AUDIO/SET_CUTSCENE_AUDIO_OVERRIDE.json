@@ -1,0 +1,13 @@
+{
+    "SET_CUTSCENE_AUDIO_OVERRIDE": {
+        "name": "SET_CUTSCENE_AUDIO_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

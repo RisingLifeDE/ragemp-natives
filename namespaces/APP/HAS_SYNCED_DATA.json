@@ -1,0 +1,13 @@
+{
+    "HAS_SYNCED_DATA": {
+        "name": "HAS_SYNCED_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "appName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

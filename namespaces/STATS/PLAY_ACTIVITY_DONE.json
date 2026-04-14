@@ -1,0 +1,17 @@
+{
+    "PLAY_ACTIVITY_DONE": {
+        "name": "PLAY_ACTIVITY_DONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "RESTART_GAME": {
+        "name": "RESTART_GAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

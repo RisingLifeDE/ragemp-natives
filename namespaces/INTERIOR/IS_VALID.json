@@ -1,0 +1,13 @@
+{
+    "IS_VALID": {
+        "name": "IS_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

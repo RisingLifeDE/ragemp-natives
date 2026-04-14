@@ -1,0 +1,13 @@
+{
+    "FLASH_WANTED_DISPLAY": {
+        "name": "FLASH_WANTED_DISPLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "flashing"
+            }
+        ],
+        "return_type": "void"
+    }
+}

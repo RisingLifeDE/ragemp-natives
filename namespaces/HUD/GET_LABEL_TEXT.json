@@ -1,0 +1,13 @@
+{
+    "GET_LABEL_TEXT": {
+        "name": "GET_LABEL_TEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "labelName"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

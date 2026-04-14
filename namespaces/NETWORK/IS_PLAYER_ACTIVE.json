@@ -1,0 +1,13 @@
+{
+    "IS_PLAYER_ACTIVE": {
+        "name": "IS_PLAYER_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_RANDOM_INT": {
+        "name": "GET_RANDOM_INT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

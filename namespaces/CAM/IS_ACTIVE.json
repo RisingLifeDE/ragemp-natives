@@ -1,0 +1,13 @@
+{
+    "IS_ACTIVE": {
+        "name": "IS_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

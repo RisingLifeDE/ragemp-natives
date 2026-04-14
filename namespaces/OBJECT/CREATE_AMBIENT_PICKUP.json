@@ -1,0 +1,45 @@
+{
+    "CREATE_AMBIENT_PICKUP": {
+        "name": "CREATE_AMBIENT_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupHash"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            }
+        ],
+        "return_type": "float"
+    }
+}

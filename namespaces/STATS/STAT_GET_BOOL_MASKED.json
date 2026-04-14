@@ -1,0 +1,21 @@
+{
+    "STAT_GET_BOOL_MASKED": {
+        "name": "STAT_GET_BOOL_MASKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statName"
+            },
+            {
+                "type": "float",
+                "name": "mask"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

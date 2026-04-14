@@ -1,0 +1,8 @@
+{
+    "CLEAR_PED_IN_PAUSE_MENU": {
+        "name": "CLEAR_PED_IN_PAUSE_MENU",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

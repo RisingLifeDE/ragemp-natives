@@ -1,0 +1,17 @@
+{
+    "RELOAD_WEAPON": {
+        "name": "RELOAD_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "unused"
+            }
+        ],
+        "return_type": "void"
+    }
+}

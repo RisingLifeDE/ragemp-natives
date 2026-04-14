@@ -1,0 +1,8 @@
+{
+    "CLEAR_FOCUS": {
+        "name": "CLEAR_FOCUS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

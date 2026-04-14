@@ -1,0 +1,13 @@
+{
+    "DATAARRAY_GET_TYPE": {
+        "name": "DATAARRAY_GET_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "arrayIndex"
+            }
+        ],
+        "return_type": "DataarrayGetTypeResult"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_CG_AT_BOUNDCENTER": {
+        "name": "SET_CG_AT_BOUNDCENTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

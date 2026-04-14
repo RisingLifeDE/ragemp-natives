@@ -1,0 +1,41 @@
+{
+    "VEHICLE_GOTO_NAVMESH": {
+        "name": "VEHICLE_GOTO_NAVMESH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "behaviorFlag"
+            },
+            {
+                "type": "float",
+                "name": "stoppingRange"
+            }
+        ],
+        "return_type": "void"
+    }
+}

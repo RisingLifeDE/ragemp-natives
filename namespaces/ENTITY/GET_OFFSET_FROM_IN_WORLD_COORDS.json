@@ -1,0 +1,25 @@
+{
+    "GET_OFFSET_FROM_IN_WORLD_COORDS": {
+        "name": "GET_OFFSET_FROM_IN_WORLD_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

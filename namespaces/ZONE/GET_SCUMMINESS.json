@@ -1,0 +1,13 @@
+{
+    "GET_SCUMMINESS": {
+        "name": "GET_SCUMMINESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoneId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

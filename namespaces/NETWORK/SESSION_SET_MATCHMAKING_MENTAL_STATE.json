@@ -1,0 +1,13 @@
+{
+    "SESSION_SET_MATCHMAKING_MENTAL_STATE": {
+        "name": "SESSION_SET_MATCHMAKING_MENTAL_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

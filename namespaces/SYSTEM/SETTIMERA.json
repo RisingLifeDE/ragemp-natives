@@ -1,0 +1,13 @@
+{
+    "SETTIMERA": {
+        "name": "SETTIMERA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

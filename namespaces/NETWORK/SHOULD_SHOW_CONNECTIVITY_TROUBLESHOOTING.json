@@ -1,0 +1,8 @@
+{
+    "SHOULD_SHOW_CONNECTIVITY_TROUBLESHOOTING": {
+        "name": "SHOULD_SHOW_CONNECTIVITY_TROUBLESHOOTING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

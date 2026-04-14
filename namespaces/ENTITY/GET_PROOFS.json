@@ -1,0 +1,13 @@
+{
+    "GET_PROOFS": {
+        "name": "GET_PROOFS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "GetEntityProofsResult"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_FLOAT": {
+        "name": "GET_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "property"
+            }
+        ],
+        "return_type": "float"
+    }
+}

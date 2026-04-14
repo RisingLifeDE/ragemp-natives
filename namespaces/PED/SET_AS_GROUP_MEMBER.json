@@ -1,0 +1,17 @@
+{
+    "SET_AS_GROUP_MEMBER": {
+        "name": "SET_AS_GROUP_MEMBER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

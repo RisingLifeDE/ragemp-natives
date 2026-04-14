@@ -1,0 +1,13 @@
+{
+    "HAS_STEALTH_MODE_ASSET_LOADED": {
+        "name": "HAS_STEALTH_MODE_ASSET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "asset"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "SET_COMPONENT_POSITION": {
+        "name": "SET_COMPONENT_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            }
+        ],
+        "return_type": "void"
+    }
+}

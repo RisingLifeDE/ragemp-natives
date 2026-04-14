@@ -1,0 +1,13 @@
+{
+    "DATAARRAY_ADD_BOOL": {
+        "name": "DATAARRAY_ADD_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

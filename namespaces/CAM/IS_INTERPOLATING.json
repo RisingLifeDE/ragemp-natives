@@ -1,0 +1,13 @@
+{
+    "IS_INTERPOLATING": {
+        "name": "IS_INTERPOLATING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

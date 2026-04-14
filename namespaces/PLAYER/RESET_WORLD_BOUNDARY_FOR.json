@@ -1,0 +1,8 @@
+{
+    "RESET_WORLD_BOUNDARY_FOR": {
+        "name": "RESET_WORLD_BOUNDARY_FOR",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

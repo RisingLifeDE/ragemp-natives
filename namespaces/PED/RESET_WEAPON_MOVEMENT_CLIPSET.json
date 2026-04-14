@@ -1,0 +1,13 @@
+{
+    "RESET_WEAPON_MOVEMENT_CLIPSET": {
+        "name": "RESET_WEAPON_MOVEMENT_CLIPSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

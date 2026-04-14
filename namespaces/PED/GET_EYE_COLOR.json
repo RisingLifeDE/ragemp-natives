@@ -1,0 +1,13 @@
+{
+    "GET_EYE_COLOR": {
+        "name": "GET_EYE_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

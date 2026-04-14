@@ -1,0 +1,21 @@
+{
+    "WAYPOINT_PLAYBACK_PAUSE": {
+        "name": "WAYPOINT_PLAYBACK_PAUSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

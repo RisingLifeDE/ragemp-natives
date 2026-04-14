@@ -1,0 +1,8 @@
+{
+    "SET_RANDOM_WEATHER_TYPE": {
+        "name": "SET_RANDOM_WEATHER_TYPE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

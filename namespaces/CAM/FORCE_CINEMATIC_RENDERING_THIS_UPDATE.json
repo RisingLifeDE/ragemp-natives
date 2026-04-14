@@ -1,0 +1,13 @@
+{
+    "FORCE_CINEMATIC_RENDERING_THIS_UPDATE": {
+        "name": "FORCE_CINEMATIC_RENDERING_THIS_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

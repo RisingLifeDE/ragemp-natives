@@ -1,0 +1,8 @@
+{
+    "PRELOAD_BUSYSPINNER": {
+        "name": "PRELOAD_BUSYSPINNER",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

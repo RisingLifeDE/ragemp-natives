@@ -1,0 +1,13 @@
+{
+    "SET_STEALTH_PERCEPTION_MODIFIER": {
+        "name": "SET_STEALTH_PERCEPTION_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

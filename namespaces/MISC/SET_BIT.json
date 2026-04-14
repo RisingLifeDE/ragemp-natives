@@ -1,0 +1,13 @@
+{
+    "SET_BIT": {
+        "name": "SET_BIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "offset"
+            }
+        ],
+        "return_type": "float"
+    }
+}

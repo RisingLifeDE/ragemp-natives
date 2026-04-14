@@ -1,0 +1,33 @@
+{
+    "CREATE_PORTABLE_PICKUP2": {
+        "name": "CREATE_PORTABLE_PICKUP2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "placeOnGround"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

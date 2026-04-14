@@ -1,0 +1,13 @@
+{
+    "IS_BLUSH_COLOR_VALID": {
+        "name": "IS_BLUSH_COLOR_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "colorID"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

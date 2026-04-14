@@ -1,0 +1,13 @@
+{
+    "SET_OVERRIDE_WEATHER": {
+        "name": "SET_OVERRIDE_WEATHER",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "weatherType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "SET_FACE_FEATURE": {
+        "name": "SET_FACE_FEATURE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "index"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

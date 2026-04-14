@@ -1,0 +1,17 @@
+{
+    "GIVE_OBJECT_TO_PED": {
+        "name": "GIVE_OBJECT_TO_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponObject"
+            },
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

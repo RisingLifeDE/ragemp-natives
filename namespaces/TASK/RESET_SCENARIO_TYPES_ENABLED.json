@@ -1,0 +1,8 @@
+{
+    "RESET_SCENARIO_TYPES_ENABLED": {
+        "name": "RESET_SCENARIO_TYPES_ENABLED",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

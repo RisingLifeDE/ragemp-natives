@@ -1,0 +1,13 @@
+{
+    "SET_GPS_MULTI_ROUTE_RENDER": {
+        "name": "SET_GPS_MULTI_ROUTE_RENDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

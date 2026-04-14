@@ -1,0 +1,17 @@
+{
+    "SET_SYNCHRONIZED_SCENE_LOO": {
+        "name": "SET_SYNCHRONIZED_SCENE_LOO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "sceneID"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_PARTICLE_FX_NON_LOOPED_ALPHA": {
+        "name": "SET_PARTICLE_FX_NON_LOOPED_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

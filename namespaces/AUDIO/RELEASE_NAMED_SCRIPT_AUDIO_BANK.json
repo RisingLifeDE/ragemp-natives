@@ -1,0 +1,13 @@
+{
+    "RELEASE_NAMED_SCRIPT_AUDIO_BANK": {
+        "name": "RELEASE_NAMED_SCRIPT_AUDIO_BANK",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "audioBank"
+            }
+        ],
+        "return_type": "void"
+    }
+}

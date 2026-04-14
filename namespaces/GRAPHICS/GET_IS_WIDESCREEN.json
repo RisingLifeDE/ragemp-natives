@@ -1,0 +1,8 @@
+{
+    "GET_IS_WIDESCREEN": {
+        "name": "GET_IS_WIDESCREEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

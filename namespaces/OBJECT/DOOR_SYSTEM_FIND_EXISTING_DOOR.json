@@ -1,0 +1,25 @@
+{
+    "DOOR_SYSTEM_FIND_EXISTING_DOOR": {
+        "name": "DOOR_SYSTEM_FIND_EXISTING_DOOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

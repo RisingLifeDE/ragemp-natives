@@ -1,0 +1,13 @@
+{
+    "HAS_PICKUP_BEEN_COLLECTED": {
+        "name": "HAS_PICKUP_BEEN_COLLECTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "HAS_CHEAT_STRING_JUST_BEEN_ENTERED": {
+        "name": "HAS_CHEAT_STRING_JUST_BEEN_ENTERED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

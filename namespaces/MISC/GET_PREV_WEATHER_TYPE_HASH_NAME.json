@@ -1,0 +1,8 @@
+{
+    "GET_PREV_WEATHER_TYPE_HASH_NAME": {
+        "name": "GET_PREV_WEATHER_TYPE_HASH_NAME",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

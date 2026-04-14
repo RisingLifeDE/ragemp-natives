@@ -1,0 +1,8 @@
+{
+    "REMOVE": {
+        "name": "REMOVE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

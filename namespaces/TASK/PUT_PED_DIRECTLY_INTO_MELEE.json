@@ -1,0 +1,33 @@
+{
+    "PUT_PED_DIRECTLY_INTO_MELEE": {
+        "name": "PUT_PED_DIRECTLY_INTO_MELEE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "meleeTarget"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void"
+    }
+}

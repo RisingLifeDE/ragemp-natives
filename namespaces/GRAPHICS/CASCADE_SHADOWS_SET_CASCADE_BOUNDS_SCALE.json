@@ -1,0 +1,13 @@
+{
+    "CASCADE_SHADOWS_SET_CASCADE_BOUNDS_SCALE": {
+        "name": "CASCADE_SHADOWS_SET_CASCADE_BOUNDS_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

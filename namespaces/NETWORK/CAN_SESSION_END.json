@@ -1,0 +1,8 @@
+{
+    "CAN_SESSION_END": {
+        "name": "CAN_SESSION_END",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

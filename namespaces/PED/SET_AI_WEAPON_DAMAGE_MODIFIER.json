@@ -1,0 +1,13 @@
+{
+    "SET_AI_WEAPON_DAMAGE_MODIFIER": {
+        "name": "SET_AI_WEAPON_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

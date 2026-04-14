@@ -1,0 +1,17 @@
+{
+    "SET_SUFFERS_CRITICAL_HITS": {
+        "name": "SET_SUFFERS_CRITICAL_HITS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

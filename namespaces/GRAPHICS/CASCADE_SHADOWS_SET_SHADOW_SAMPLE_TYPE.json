@@ -1,0 +1,13 @@
+{
+    "CASCADE_SHADOWS_SET_SHADOW_SAMPLE_TYPE": {
+        "name": "CASCADE_SHADOWS_SET_SHADOW_SAMPLE_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "type"
+            }
+        ],
+        "return_type": "void"
+    }
+}

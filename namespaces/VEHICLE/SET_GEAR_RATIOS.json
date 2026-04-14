@@ -1,0 +1,13 @@
+{
+    "SET_GEAR_RATIOS": {
+        "name": "SET_GEAR_RATIOS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Array<number>",
+                "name": "ratios"
+            }
+        ],
+        "return_type": "void"
+    }
+}

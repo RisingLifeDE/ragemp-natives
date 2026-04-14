@@ -1,0 +1,21 @@
+{
+    "CLEAR_DAMAGE_DECAL_BY_ZONE": {
+        "name": "CLEAR_DAMAGE_DECAL_BY_ZONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "ROPE_SET_UPDATE_PINVERTS": {
+        "name": "ROPE_SET_UPDATE_PINVERTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

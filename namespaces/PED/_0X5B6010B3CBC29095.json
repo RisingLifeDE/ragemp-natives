@@ -1,0 +1,17 @@
+{
+    "_0X5B6010B3CBC29095": {
+        "name": "_0X5B6010B3CBC29095",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

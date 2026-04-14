@@ -1,0 +1,37 @@
+{
+    "STREAMVOL_CREATE_LINE": {
+        "name": "STREAMVOL_CREATE_LINE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void"
+    }
+}

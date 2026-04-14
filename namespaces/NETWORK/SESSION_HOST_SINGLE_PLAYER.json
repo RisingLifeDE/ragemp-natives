@@ -1,0 +1,13 @@
+{
+    "SESSION_HOST_SINGLE_PLAYER": {
+        "name": "SESSION_HOST_SINGLE_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

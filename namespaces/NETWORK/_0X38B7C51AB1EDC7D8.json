@@ -1,0 +1,17 @@
+{
+    "_0X38B7C51AB1EDC7D8": {
+        "name": "_0X38B7C51AB1EDC7D8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_MOVE_NETWORK_ACTIVE": {
+        "name": "IS_MOVE_NETWORK_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

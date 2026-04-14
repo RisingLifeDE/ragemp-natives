@@ -1,0 +1,8 @@
+{
+    "CLOSE_MULTIPLAYER_CHAT": {
+        "name": "CLOSE_MULTIPLAYER_CHAT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

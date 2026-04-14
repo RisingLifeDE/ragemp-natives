@@ -1,0 +1,17 @@
+{
+    "HAS_BUTTON_COMBINATION_JUST_BEEN_ENTERED": {
+        "name": "HAS_BUTTON_COMBINATION_JUST_BEEN_ENTERED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

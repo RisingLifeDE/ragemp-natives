@@ -1,0 +1,13 @@
+{
+    "IS_WAITING_FOR_WORLD_COLLISION": {
+        "name": "IS_WAITING_FOR_WORLD_COLLISION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

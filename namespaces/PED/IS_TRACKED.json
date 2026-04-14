@@ -1,0 +1,13 @@
+{
+    "IS_TRACKED": {
+        "name": "IS_TRACKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

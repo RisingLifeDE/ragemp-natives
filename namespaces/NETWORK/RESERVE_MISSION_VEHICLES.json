@@ -1,0 +1,13 @@
+{
+    "RESERVE_MISSION_VEHICLES": {
+        "name": "RESERVE_MISSION_VEHICLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

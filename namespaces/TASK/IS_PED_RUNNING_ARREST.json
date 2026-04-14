@@ -1,0 +1,13 @@
+{
+    "IS_PED_RUNNING_ARREST": {
+        "name": "IS_PED_RUNNING_ARREST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

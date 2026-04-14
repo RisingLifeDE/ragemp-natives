@@ -1,0 +1,17 @@
+{
+    "GET_CURRENT_PED_ENTITY_INDEX": {
+        "name": "GET_CURRENT_PED_ENTITY_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

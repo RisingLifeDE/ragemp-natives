@@ -1,0 +1,8 @@
+{
+    "GET_CLOUD_TIME_AS_INT": {
+        "name": "GET_CLOUD_TIME_AS_INT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

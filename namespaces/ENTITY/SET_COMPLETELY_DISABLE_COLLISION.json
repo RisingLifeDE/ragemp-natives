@@ -1,0 +1,21 @@
+{
+    "SET_COMPLETELY_DISABLE_COLLISION": {
+        "name": "SET_COMPLETELY_DISABLE_COLLISION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "keepPhysics"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ADD_AMMO_TO_PED": {
+        "name": "ADD_AMMO_TO_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "void"
+    }
+}

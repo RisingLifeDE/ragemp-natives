@@ -1,0 +1,13 @@
+{
+    "GET_VEHICLE_NODE_IS_SWITCHED_OFF": {
+        "name": "GET_VEHICLE_NODE_IS_SWITCHED_OFF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "nodeID"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "OVERRIDE_PED_BADGE_TEXTURE": {
+        "name": "OVERRIDE_PED_BADGE_TEXTURE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "txd"
+            },
+            {
+                "type": "char*",
+                "name": "txn"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "DETACH": {
+        "name": "DETACH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "dynamic"
+            },
+            {
+                "type": "BOOL",
+                "name": "collision"
+            }
+        ],
+        "return_type": "void"
+    }
+}

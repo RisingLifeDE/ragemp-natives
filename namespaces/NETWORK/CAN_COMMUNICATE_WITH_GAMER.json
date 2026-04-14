@@ -1,0 +1,8 @@
+{
+    "CAN_COMMUNICATE_WITH_GAMER": {
+        "name": "CAN_COMMUNICATE_WITH_GAMER",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

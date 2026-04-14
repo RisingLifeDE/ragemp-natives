@@ -1,0 +1,13 @@
+{
+    "SET_VOICE_ACTIVE": {
+        "name": "SET_VOICE_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "FLASH_MINIMAP_DISPLAY": {
+        "name": "FLASH_MINIMAP_DISPLAY",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

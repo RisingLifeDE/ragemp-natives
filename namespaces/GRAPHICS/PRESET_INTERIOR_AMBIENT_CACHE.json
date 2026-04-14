@@ -1,0 +1,13 @@
+{
+    "PRESET_INTERIOR_AMBIENT_CACHE": {
+        "name": "PRESET_INTERIOR_AMBIENT_CACHE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "timecycleModifierName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

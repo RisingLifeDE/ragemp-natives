@@ -1,0 +1,13 @@
+{
+    "DOES_TEXT_LABEL_EXIST": {
+        "name": "DOES_TEXT_LABEL_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "gxt"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

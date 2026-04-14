@@ -1,0 +1,21 @@
+{
+    "_0X_C56FBF2F228E1DAC": {
+        "name": "_0X_C56FBF2F228E1DAC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

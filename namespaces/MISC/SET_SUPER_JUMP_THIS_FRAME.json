@@ -1,0 +1,13 @@
+{
+    "SET_SUPER_JUMP_THIS_FRAME": {
+        "name": "SET_SUPER_JUMP_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "void"
+    }
+}

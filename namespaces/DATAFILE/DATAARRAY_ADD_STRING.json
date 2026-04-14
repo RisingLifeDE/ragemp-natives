@@ -1,0 +1,13 @@
+{
+    "DATAARRAY_ADD_STRING": {
+        "name": "DATAARRAY_ADD_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

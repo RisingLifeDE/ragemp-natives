@@ -1,0 +1,13 @@
+{
+    "DISABLE_HEAD_BLEND_PALETTE_COLOR": {
+        "name": "DISABLE_HEAD_BLEND_PALETTE_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

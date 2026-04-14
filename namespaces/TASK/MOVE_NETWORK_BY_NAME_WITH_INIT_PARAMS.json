@@ -1,0 +1,33 @@
+{
+    "MOVE_NETWORK_BY_NAME_WITH_INIT_PARAMS": {
+        "name": "MOVE_NETWORK_BY_NAME_WITH_INIT_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            }
+        ],
+        "return_type": "float"
+    }
+}

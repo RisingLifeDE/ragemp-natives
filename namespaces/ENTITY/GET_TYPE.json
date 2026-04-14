@@ -1,0 +1,13 @@
+{
+    "GET_TYPE": {
+        "name": "GET_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

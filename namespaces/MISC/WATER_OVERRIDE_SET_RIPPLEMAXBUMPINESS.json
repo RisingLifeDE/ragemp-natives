@@ -1,0 +1,13 @@
+{
+    "WATER_OVERRIDE_SET_RIPPLEMAXBUMPINESS": {
+        "name": "WATER_OVERRIDE_SET_RIPPLEMAXBUMPINESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "maxBumpiness"
+            }
+        ],
+        "return_type": "void"
+    }
+}

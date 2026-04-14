@@ -1,0 +1,13 @@
+{
+    "_0X31125FD509D9043F": {
+        "name": "_0X31125FD509D9043F",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

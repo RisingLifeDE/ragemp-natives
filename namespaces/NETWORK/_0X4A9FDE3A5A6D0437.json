@@ -1,0 +1,13 @@
+{
+    "_0X4A9FDE3A5A6D0437": {
+        "name": "_0X4A9FDE3A5A6D0437",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

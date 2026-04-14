@@ -1,0 +1,8 @@
+{
+    "GET_TIME_SINCE_DROVE_AGAINST_TRAFFIC": {
+        "name": "GET_TIME_SINCE_DROVE_AGAINST_TRAFFIC",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

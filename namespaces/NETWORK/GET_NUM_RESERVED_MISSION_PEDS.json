@@ -1,0 +1,17 @@
+{
+    "GET_NUM_RESERVED_MISSION_PEDS": {
+        "name": "GET_NUM_RESERVED_MISSION_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "CLAN_JOIN": {
+        "name": "CLAN_JOIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "clanDesc"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

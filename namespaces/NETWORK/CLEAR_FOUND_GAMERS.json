@@ -1,0 +1,8 @@
+{
+    "CLEAR_FOUND_GAMERS": {
+        "name": "CLEAR_FOUND_GAMERS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

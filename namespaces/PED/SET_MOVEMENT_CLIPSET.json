@@ -1,0 +1,21 @@
+{
+    "SET_MOVEMENT_CLIPSET": {
+        "name": "SET_MOVEMENT_CLIPSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "clipSet"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

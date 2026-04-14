@@ -1,0 +1,13 @@
+{
+    "GET_SHOP_PED_QUERY_PROP": {
+        "name": "GET_SHOP_PED_QUERY_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

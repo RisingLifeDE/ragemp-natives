@@ -1,0 +1,21 @@
+{
+    "ATTACH_SYNCHRONISED_SCENE_TO_ENTITY": {
+        "name": "ATTACH_SYNCHRONISED_SCENE_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netScene"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "bone"
+            }
+        ],
+        "return_type": "void"
+    }
+}

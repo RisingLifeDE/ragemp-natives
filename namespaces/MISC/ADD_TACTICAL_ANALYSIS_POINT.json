@@ -1,0 +1,21 @@
+{
+    "ADD_TACTICAL_ANALYSIS_POINT": {
+        "name": "ADD_TACTICAL_ANALYSIS_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

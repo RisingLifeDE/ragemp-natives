@@ -1,0 +1,21 @@
+{
+    "SET_BLIP_SHOW_CONE": {
+        "name": "SET_BLIP_SHOW_CONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "hudColor"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "UPDATE_SWEEP_AIM_POSITION": {
+        "name": "UPDATE_SWEEP_AIM_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

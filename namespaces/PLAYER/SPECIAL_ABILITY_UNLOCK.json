@@ -1,0 +1,17 @@
+{
+    "SPECIAL_ABILITY_UNLOCK": {
+        "name": "SPECIAL_ABILITY_UNLOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "playerModel"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

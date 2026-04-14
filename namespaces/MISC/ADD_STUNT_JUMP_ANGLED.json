@@ -1,0 +1,89 @@
+{
+    "ADD_STUNT_JUMP_ANGLED": {
+        "name": "ADD_STUNT_JUMP_ANGLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "radius1"
+            },
+            {
+                "type": "float",
+                "name": "x3"
+            },
+            {
+                "type": "float",
+                "name": "y3"
+            },
+            {
+                "type": "float",
+                "name": "z3"
+            },
+            {
+                "type": "float",
+                "name": "x4"
+            },
+            {
+                "type": "float",
+                "name": "y4"
+            },
+            {
+                "type": "float",
+                "name": "z4"
+            },
+            {
+                "type": "float",
+                "name": "radius2"
+            },
+            {
+                "type": "float",
+                "name": "camX"
+            },
+            {
+                "type": "float",
+                "name": "camY"
+            },
+            {
+                "type": "float",
+                "name": "camZ"
+            },
+            {
+                "type": "float",
+                "name": "p17"
+            },
+            {
+                "type": "float",
+                "name": "p18"
+            },
+            {
+                "type": "float",
+                "name": "p19"
+            }
+        ],
+        "return_type": "float"
+    }
+}

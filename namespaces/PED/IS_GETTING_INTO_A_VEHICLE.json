@@ -1,0 +1,13 @@
+{
+    "IS_GETTING_INTO_A_VEHICLE": {
+        "name": "IS_GETTING_INTO_A_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

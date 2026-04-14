@@ -1,0 +1,21 @@
+{
+    "UGC_SET_BOOKMARKED": {
+        "name": "UGC_SET_BOOKMARKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "contentId"
+            },
+            {
+                "type": "BOOL",
+                "name": "bookmarked"
+            },
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

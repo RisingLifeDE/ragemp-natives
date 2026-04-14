@@ -1,0 +1,17 @@
+{
+    "SET_PED_DROPS_WEAPONS_WHEN_DEAD": {
+        "name": "SET_PED_DROPS_WEAPONS_WHEN_DEAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

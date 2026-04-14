@@ -1,0 +1,17 @@
+{
+    "SET_CAN_TORSO_REACT_IK": {
+        "name": "SET_CAN_TORSO_REACT_IK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

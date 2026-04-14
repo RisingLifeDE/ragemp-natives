@@ -1,0 +1,13 @@
+{
+    "GET_COMBAT_MOVEMENT": {
+        "name": "GET_COMBAT_MOVEMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

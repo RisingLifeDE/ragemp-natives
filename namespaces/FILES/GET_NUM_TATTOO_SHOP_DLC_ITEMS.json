@@ -1,0 +1,13 @@
+{
+    "GET_NUM_TATTOO_SHOP_DLC_ITEMS": {
+        "name": "GET_NUM_TATTOO_SHOP_DLC_ITEMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "character"
+            }
+        ],
+        "return_type": "float"
+    }
+}

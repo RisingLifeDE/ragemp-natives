@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_LINE_COUNT": {
+        "name": "BEGIN_TEXT_COMMAND_LINE_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "entry"
+            }
+        ],
+        "return_type": "void"
+    }
+}

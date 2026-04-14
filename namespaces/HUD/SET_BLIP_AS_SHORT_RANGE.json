@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_AS_SHORT_RANGE": {
+        "name": "SET_BLIP_AS_SHORT_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

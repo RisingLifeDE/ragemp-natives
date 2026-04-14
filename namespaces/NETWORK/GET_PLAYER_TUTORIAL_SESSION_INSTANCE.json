@@ -1,0 +1,13 @@
+{
+    "GET_PLAYER_TUTORIAL_SESSION_INSTANCE": {
+        "name": "GET_PLAYER_TUTORIAL_SESSION_INSTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "float"
+    }
+}

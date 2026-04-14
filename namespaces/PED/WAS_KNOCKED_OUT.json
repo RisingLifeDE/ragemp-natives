@@ -1,0 +1,13 @@
+{
+    "WAS_KNOCKED_OUT": {
+        "name": "WAS_KNOCKED_OUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

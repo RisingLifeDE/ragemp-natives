@@ -1,0 +1,13 @@
+{
+    "SET_TEXT_CHAT_UNK": {
+        "name": "SET_TEXT_CHAT_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

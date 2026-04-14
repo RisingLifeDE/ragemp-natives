@@ -1,0 +1,13 @@
+{
+    "IS_VISIBLE_TO_SCRIPT": {
+        "name": "IS_VISIBLE_TO_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

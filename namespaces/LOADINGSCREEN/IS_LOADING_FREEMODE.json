@@ -1,0 +1,8 @@
+{
+    "IS_LOADING_FREEMODE": {
+        "name": "IS_LOADING_FREEMODE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

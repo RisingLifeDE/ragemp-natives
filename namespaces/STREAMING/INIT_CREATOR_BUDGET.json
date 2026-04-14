@@ -1,0 +1,8 @@
+{
+    "INIT_CREATOR_BUDGET": {
+        "name": "INIT_CREATOR_BUDGET",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

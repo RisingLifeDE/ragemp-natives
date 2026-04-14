@@ -1,0 +1,13 @@
+{
+    "HAS_WITH_NAME_HASH_LOADED": {
+        "name": "HAS_WITH_NAME_HASH_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

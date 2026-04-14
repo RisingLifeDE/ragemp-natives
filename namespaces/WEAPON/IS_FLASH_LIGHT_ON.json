@@ -1,0 +1,13 @@
+{
+    "IS_FLASH_LIGHT_ON": {
+        "name": "IS_FLASH_LIGHT_ON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

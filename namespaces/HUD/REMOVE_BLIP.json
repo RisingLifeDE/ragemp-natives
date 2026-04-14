@@ -1,0 +1,13 @@
+{
+    "REMOVE_BLIP": {
+        "name": "REMOVE_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "float"
+    }
+}

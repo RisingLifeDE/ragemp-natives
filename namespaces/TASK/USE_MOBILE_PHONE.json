@@ -1,0 +1,21 @@
+{
+    "USE_MOBILE_PHONE": {
+        "name": "USE_MOBILE_PHONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_SYNCHRONIZED_SCENE_RATE": {
+        "name": "GET_SYNCHRONIZED_SCENE_RATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "sceneID"
+            }
+        ],
+        "return_type": "float"
+    }
+}

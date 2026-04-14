@@ -1,0 +1,13 @@
+{
+    "NET_TO_ENT": {
+        "name": "NET_TO_ENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netHandle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

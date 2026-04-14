@@ -1,0 +1,21 @@
+{
+    "GET_DISPLAYNAMES_FROM_HANDLES": {
+        "name": "GET_DISPLAYNAMES_FROM_HANDLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

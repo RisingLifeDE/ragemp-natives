@@ -1,0 +1,25 @@
+{
+    "REQUEST_PATHS_PREFER_ACCURATE_BOUNDINGSTRUCT": {
+        "name": "REQUEST_PATHS_PREFER_ACCURATE_BOUNDINGSTRUCT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

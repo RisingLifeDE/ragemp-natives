@@ -1,0 +1,8 @@
+{
+    "GET_NUMBER_OF_REQUESTS": {
+        "name": "GET_NUMBER_OF_REQUESTS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

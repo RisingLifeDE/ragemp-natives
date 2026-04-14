@@ -1,0 +1,33 @@
+{
+    "HAS_CLOSEST_OF_TYPE_BEEN_BROKEN": {
+        "name": "HAS_CLOSEST_OF_TYPE_BEEN_BROKEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

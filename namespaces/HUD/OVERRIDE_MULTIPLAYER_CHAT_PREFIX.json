@@ -1,0 +1,13 @@
+{
+    "OVERRIDE_MULTIPLAYER_CHAT_PREFIX": {
+        "name": "OVERRIDE_MULTIPLAYER_CHAT_PREFIX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gxtEntryHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "_0X9F260BFB59ADBCA3": {
+        "name": "_0X9F260BFB59ADBCA3",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "THEFEED_RESUME": {
+        "name": "THEFEED_RESUME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

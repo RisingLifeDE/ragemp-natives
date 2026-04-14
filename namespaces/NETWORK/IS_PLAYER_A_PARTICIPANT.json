@@ -1,0 +1,13 @@
+{
+    "IS_PLAYER_A_PARTICIPANT": {
+        "name": "IS_PLAYER_A_PARTICIPANT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

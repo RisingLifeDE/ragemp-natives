@@ -1,0 +1,13 @@
+{
+    "GET_AS_GROUP_LEADER": {
+        "name": "GET_AS_GROUP_LEADER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "groupID"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLEAR_CLOCK_TIME_OVERRIDE": {
+        "name": "CLEAR_CLOCK_TIME_OVERRIDE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

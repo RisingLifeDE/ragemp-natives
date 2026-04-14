@@ -1,0 +1,13 @@
+{
+    "CLEAR_LAST_DAMAGE_ENTITY": {
+        "name": "CLEAR_LAST_DAMAGE_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

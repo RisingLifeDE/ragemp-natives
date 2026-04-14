@@ -1,0 +1,13 @@
+{
+    "GET_FROM_NAME_ID": {
+        "name": "GET_FROM_NAME_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "zoneName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

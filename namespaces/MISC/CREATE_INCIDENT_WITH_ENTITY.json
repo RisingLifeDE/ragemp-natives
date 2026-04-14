@@ -1,0 +1,33 @@
+{
+    "CREATE_INCIDENT_WITH_ENTITY": {
+        "name": "CREATE_INCIDENT_WITH_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dispatchService"
+            },
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "numUnits"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            }
+        ],
+        "return_type": "float"
+    }
+}

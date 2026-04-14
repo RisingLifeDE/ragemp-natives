@@ -1,0 +1,41 @@
+{
+    "SET_COORDS": {
+        "name": "SET_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "BOOL",
+                "name": "xAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "yAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "zAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "clearArea"
+            }
+        ],
+        "return_type": "void"
+    }
+}

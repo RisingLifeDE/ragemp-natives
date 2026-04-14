@@ -1,0 +1,17 @@
+{
+    "SET_PARTICLE_FX_LOOPED_FAR_CLIP_DIST": {
+        "name": "SET_PARTICLE_FX_LOOPED_FAR_CLIP_DIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "void"
+    }
+}

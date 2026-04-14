@@ -1,0 +1,13 @@
+{
+    "SET_WEAPON_WHEEL_TOP_SLOT": {
+        "name": "SET_WEAPON_WHEEL_TOP_SLOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

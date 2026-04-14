@@ -1,0 +1,29 @@
+{
+    "REPLACE_COLOUR_WITH_RGBA": {
+        "name": "REPLACE_COLOUR_WITH_RGBA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudColorIndex"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            },
+            {
+                "type": "float",
+                "name": "a"
+            }
+        ],
+        "return_type": "void"
+    }
+}

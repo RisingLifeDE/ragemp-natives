@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_GET_WIDTH": {
+        "name": "BEGIN_TEXT_COMMAND_GET_WIDTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void"
+    }
+}

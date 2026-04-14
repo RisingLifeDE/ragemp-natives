@@ -1,0 +1,8 @@
+{
+    "ALLOW_PAUSE_MENU_WHEN_DEAD_THIS_FRAME": {
+        "name": "ALLOW_PAUSE_MENU_WHEN_DEAD_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

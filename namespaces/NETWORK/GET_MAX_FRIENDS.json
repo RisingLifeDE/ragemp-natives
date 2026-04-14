@@ -1,0 +1,8 @@
+{
+    "GET_MAX_FRIENDS": {
+        "name": "GET_MAX_FRIENDS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

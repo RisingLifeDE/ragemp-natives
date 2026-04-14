@@ -1,0 +1,13 @@
+{
+    "SET_TIME_SCALE": {
+        "name": "SET_TIME_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "timeScale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

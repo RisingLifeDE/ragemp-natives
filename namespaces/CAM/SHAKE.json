@@ -1,0 +1,21 @@
+{
+    "SHAKE": {
+        "name": "SHAKE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "char*",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "amplitude"
+            }
+        ],
+        "return_type": "void"
+    }
+}

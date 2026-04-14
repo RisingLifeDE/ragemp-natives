@@ -1,0 +1,13 @@
+{
+    "SWITCH_CRIME_TYPE": {
+        "name": "SWITCH_CRIME_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

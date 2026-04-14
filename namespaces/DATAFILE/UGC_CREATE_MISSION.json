@@ -1,0 +1,29 @@
+{
+    "UGC_CREATE_MISSION": {
+        "name": "UGC_CREATE_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "contentName"
+            },
+            {
+                "type": "char*",
+                "name": "description"
+            },
+            {
+                "type": "char*",
+                "name": "tagsCsv"
+            },
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "BOOL",
+                "name": "publish"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

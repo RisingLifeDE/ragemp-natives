@@ -1,0 +1,17 @@
+{
+    "SET_PARTICLE_FX_OVERRIDE": {
+        "name": "SET_PARTICLE_FX_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "oldAsset"
+            },
+            {
+                "type": "char*",
+                "name": "newAsset"
+            }
+        ],
+        "return_type": "void"
+    }
+}

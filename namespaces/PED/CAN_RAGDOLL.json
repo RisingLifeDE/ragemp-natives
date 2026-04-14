@@ -1,0 +1,13 @@
+{
+    "CAN_RAGDOLL": {
+        "name": "CAN_RAGDOLL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

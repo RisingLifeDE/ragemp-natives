@@ -1,0 +1,8 @@
+{
+    "CLEAR_HAS_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED": {
+        "name": "CLEAR_HAS_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

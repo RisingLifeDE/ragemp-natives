@@ -1,0 +1,13 @@
+{
+    "SET_OBJECT_AS_NO_LONGER_NEEDED": {
+        "name": "SET_OBJECT_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "float"
+    }
+}

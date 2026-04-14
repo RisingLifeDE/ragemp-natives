@@ -1,0 +1,17 @@
+{
+    "SET_DUCKING": {
+        "name": "SET_DUCKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

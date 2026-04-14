@@ -1,0 +1,8 @@
+{
+    "GET_TUNABLE_CLOUD_CRC": {
+        "name": "GET_TUNABLE_CLOUD_CRC",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

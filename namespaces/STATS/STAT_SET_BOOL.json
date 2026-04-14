@@ -1,0 +1,21 @@
+{
+    "STAT_SET_BOOL": {
+        "name": "STAT_SET_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statName"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "save"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

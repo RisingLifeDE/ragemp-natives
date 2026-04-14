@@ -1,0 +1,13 @@
+{
+    "SET_CINEMATIC_MODE_ACTIVE": {
+        "name": "SET_CINEMATIC_MODE_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

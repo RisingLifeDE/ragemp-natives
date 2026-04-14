@@ -1,0 +1,17 @@
+{
+    "DRAW_LOW_QUALITY_PHOTO_TO_PHONE": {
+        "name": "DRAW_LOW_QUALITY_PHOTO_TO_PHONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

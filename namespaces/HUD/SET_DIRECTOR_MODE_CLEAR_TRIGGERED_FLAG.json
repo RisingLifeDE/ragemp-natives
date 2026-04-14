@@ -1,0 +1,8 @@
+{
+    "SET_DIRECTOR_MODE_CLEAR_TRIGGERED_FLAG": {
+        "name": "SET_DIRECTOR_MODE_CLEAR_TRIGGERED_FLAG",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

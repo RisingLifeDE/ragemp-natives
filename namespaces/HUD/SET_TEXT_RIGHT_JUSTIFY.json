@@ -1,0 +1,13 @@
+{
+    "SET_TEXT_RIGHT_JUSTIFY": {
+        "name": "SET_TEXT_RIGHT_JUSTIFY",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

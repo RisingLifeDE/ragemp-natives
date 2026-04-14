@@ -1,0 +1,13 @@
+{
+    "GET_MAKEUP_RGB_COLOR": {
+        "name": "GET_MAKEUP_RGB_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "makeupColorIndex"
+            }
+        ],
+        "return_type": "GetPedMakeupRgbColorResult"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_VEHICLE_CHASE_IDEAL_PURSUIT_DISTANCE": {
+        "name": "SET_VEHICLE_CHASE_IDEAL_PURSUIT_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void"
+    }
+}

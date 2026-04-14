@@ -1,0 +1,13 @@
+{
+    "IS_MALE": {
+        "name": "IS_MALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

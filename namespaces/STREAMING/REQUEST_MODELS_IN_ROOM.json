@@ -1,0 +1,17 @@
+{
+    "REQUEST_MODELS_IN_ROOM": {
+        "name": "REQUEST_MODELS_IN_ROOM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            },
+            {
+                "type": "char*",
+                "name": "roomName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

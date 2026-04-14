@@ -1,0 +1,17 @@
+{
+    "CREATE_RANDOM_AS_DRIVER": {
+        "name": "CREATE_RANDOM_AS_DRIVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "returnHandle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

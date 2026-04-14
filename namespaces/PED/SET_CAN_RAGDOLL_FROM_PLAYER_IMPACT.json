@@ -1,0 +1,17 @@
+{
+    "SET_CAN_RAGDOLL_FROM_PLAYER_IMPACT": {
+        "name": "SET_CAN_RAGDOLL_FROM_PLAYER_IMPACT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

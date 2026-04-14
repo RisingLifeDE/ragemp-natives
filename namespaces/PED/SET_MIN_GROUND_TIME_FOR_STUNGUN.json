@@ -1,0 +1,17 @@
+{
+    "SET_MIN_GROUND_TIME_FOR_STUNGUN": {
+        "name": "SET_MIN_GROUND_TIME_FOR_STUNGUN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "ms"
+            }
+        ],
+        "return_type": "void"
+    }
+}

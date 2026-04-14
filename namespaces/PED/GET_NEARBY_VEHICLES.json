@@ -1,0 +1,13 @@
+{
+    "GET_NEARBY_VEHICLES": {
+        "name": "GET_NEARBY_VEHICLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "GetPedNearbyVehiclesResult"
+    }
+}

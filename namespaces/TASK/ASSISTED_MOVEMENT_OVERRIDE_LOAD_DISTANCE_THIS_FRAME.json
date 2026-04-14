@@ -1,0 +1,13 @@
+{
+    "ASSISTED_MOVEMENT_OVERRIDE_LOAD_DISTANCE_THIS_FRAME": {
+        "name": "ASSISTED_MOVEMENT_OVERRIDE_LOAD_DISTANCE_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dist"
+            }
+        ],
+        "return_type": "void"
+    }
+}

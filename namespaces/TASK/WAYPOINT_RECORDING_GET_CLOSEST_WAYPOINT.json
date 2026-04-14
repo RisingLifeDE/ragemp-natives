@@ -1,0 +1,25 @@
+{
+    "WAYPOINT_RECORDING_GET_CLOSEST_WAYPOINT": {
+        "name": "WAYPOINT_RECORDING_GET_CLOSEST_WAYPOINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "float"
+    }
+}

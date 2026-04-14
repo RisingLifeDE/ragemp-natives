@@ -1,0 +1,13 @@
+{
+    "IS_BLIP_ON_MINIMAP": {
+        "name": "IS_BLIP_ON_MINIMAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

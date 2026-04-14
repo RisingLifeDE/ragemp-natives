@@ -1,0 +1,17 @@
+{
+    "CONCEAL_ENTITY": {
+        "name": "CONCEAL_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

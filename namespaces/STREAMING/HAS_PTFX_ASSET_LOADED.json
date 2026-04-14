@@ -1,0 +1,8 @@
+{
+    "HAS_PTFX_ASSET_LOADED": {
+        "name": "HAS_PTFX_ASSET_LOADED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

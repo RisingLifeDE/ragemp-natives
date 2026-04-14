@@ -1,0 +1,13 @@
+{
+    "SET_GPS_FLASHES": {
+        "name": "SET_GPS_FLASHES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

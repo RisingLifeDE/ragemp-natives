@@ -1,0 +1,29 @@
+{
+    "END_TEXT_COMMAND_THEFEED_POST_CREW_RANKUP": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_CREW_RANKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            },
+            {
+                "type": "char*",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "float"
+    }
+}

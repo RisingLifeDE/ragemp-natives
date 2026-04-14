@@ -1,0 +1,13 @@
+{
+    "GET_GROUP_SIZE": {
+        "name": "GET_GROUP_SIZE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "groupID"
+            }
+        ],
+        "return_type": "GetGroupSizeResult"
+    }
+}

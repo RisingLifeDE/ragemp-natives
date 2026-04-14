@@ -1,0 +1,13 @@
+{
+    "REMOVE_HIGH_DETAIL_MODEL": {
+        "name": "REMOVE_HIGH_DETAIL_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_ANIM_CURRENT_PHASE": {
+        "name": "SET_ANIM_CURRENT_PHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "phase"
+            }
+        ],
+        "return_type": "void"
+    }
+}

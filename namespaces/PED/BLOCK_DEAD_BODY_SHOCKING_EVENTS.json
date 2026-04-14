@@ -1,0 +1,17 @@
+{
+    "BLOCK_DEAD_BODY_SHOCKING_EVENTS": {
+        "name": "BLOCK_DEAD_BODY_SHOCKING_EVENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

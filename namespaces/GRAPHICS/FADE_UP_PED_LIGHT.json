@@ -1,0 +1,13 @@
+{
+    "FADE_UP_PED_LIGHT": {
+        "name": "FADE_UP_PED_LIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "seconds"
+            }
+        ],
+        "return_type": "void"
+    }
+}

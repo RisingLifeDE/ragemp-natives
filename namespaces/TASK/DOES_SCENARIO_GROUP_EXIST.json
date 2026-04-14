@@ -1,0 +1,13 @@
+{
+    "DOES_SCENARIO_GROUP_EXIST": {
+        "name": "DOES_SCENARIO_GROUP_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scenarioGroup"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

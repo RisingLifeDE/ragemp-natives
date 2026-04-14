@@ -1,0 +1,8 @@
+{
+    "GET_MINIMAP_FOW_DISCOVERY_RATIO": {
+        "name": "GET_MINIMAP_FOW_DISCOVERY_RATIO",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

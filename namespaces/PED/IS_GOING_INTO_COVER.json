@@ -1,0 +1,13 @@
+{
+    "IS_GOING_INTO_COVER": {
+        "name": "IS_GOING_INTO_COVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

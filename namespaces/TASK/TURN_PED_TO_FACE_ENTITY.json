@@ -1,0 +1,21 @@
+{
+    "TURN_PED_TO_FACE_ENTITY": {
+        "name": "TURN_PED_TO_FACE_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

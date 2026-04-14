@@ -1,0 +1,13 @@
+{
+    "GET_BINK_MOVIE_TIME": {
+        "name": "GET_BINK_MOVIE_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "binkMovie"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_PARACHUTE_PACK_TINT_INDEX": {
+        "name": "SET_PARACHUTE_PACK_TINT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "tintIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_ENABLE_SCUBA": {
+        "name": "SET_ENABLE_SCUBA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

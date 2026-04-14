@@ -1,0 +1,17 @@
+{
+    "ASSISTED_MOVEMENT_SET_ROUTE_PROPERTIES": {
+        "name": "ASSISTED_MOVEMENT_SET_ROUTE_PROPERTIES",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "route"
+            },
+            {
+                "type": "float",
+                "name": "props"
+            }
+        ],
+        "return_type": "void"
+    }
+}

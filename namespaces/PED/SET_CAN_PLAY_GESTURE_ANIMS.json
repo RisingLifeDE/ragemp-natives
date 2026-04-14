@@ -1,0 +1,17 @@
+{
+    "SET_CAN_PLAY_GESTURE_ANIMS": {
+        "name": "SET_CAN_PLAY_GESTURE_ANIMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

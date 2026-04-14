@@ -1,0 +1,13 @@
+{
+    "PROCESS_ATTACHMENTS": {
+        "name": "PROCESS_ATTACHMENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

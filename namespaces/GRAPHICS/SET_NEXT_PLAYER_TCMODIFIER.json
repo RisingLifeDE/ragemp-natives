@@ -1,0 +1,13 @@
+{
+    "SET_NEXT_PLAYER_TCMODIFIER": {
+        "name": "SET_NEXT_PLAYER_TCMODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "modifierName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

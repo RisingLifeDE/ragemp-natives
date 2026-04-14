@@ -1,0 +1,8 @@
+{
+    "GET_MAIN_PLAYER_BLIP_ID": {
+        "name": "GET_MAIN_PLAYER_BLIP_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

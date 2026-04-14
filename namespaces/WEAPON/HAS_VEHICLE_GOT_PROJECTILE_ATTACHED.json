@@ -1,0 +1,25 @@
+{
+    "HAS_VEHICLE_GOT_PROJECTILE_ATTACHED": {
+        "name": "HAS_VEHICLE_GOT_PROJECTILE_ATTACHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

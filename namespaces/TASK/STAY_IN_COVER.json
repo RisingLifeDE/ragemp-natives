@@ -1,0 +1,13 @@
+{
+    "STAY_IN_COVER": {
+        "name": "STAY_IN_COVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

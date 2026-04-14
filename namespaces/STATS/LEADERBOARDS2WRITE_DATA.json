@@ -1,0 +1,8 @@
+{
+    "LEADERBOARDS2WRITE_DATA": {
+        "name": "LEADERBOARDS2WRITE_DATA",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

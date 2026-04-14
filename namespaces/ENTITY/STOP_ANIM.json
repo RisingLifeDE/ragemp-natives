@@ -1,0 +1,25 @@
+{
+    "STOP_ANIM": {
+        "name": "STOP_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "animation"
+            },
+            {
+                "type": "char*",
+                "name": "animGroup"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "float"
+    }
+}

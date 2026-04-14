@@ -1,0 +1,13 @@
+{
+    "RESET_MINIMAP_COMPONENT_VALUES": {
+        "name": "RESET_MINIMAP_COMPONENT_VALUES",
+        "comment": "",
+        "params": [
+            {
+                "type": "string[]",
+                "name": "names"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_STRAFE_CLIPSET": {
+        "name": "SET_STRAFE_CLIPSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "clipSet"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_CUT_FILE_NUM_SECTIONS": {
+        "name": "GET_CUT_FILE_NUM_SECTIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

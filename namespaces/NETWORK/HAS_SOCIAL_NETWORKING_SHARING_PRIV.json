@@ -1,0 +1,8 @@
+{
+    "HAS_SOCIAL_NETWORKING_SHARING_PRIV": {
+        "name": "HAS_SOCIAL_NETWORKING_SHARING_PRIV",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

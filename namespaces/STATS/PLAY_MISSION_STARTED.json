@@ -1,0 +1,21 @@
+{
+    "PLAY_MISSION_STARTED": {
+        "name": "PLAY_MISSION_STARTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "float"
+    }
+}

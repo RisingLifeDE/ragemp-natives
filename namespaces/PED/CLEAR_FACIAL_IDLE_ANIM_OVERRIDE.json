@@ -1,0 +1,13 @@
+{
+    "CLEAR_FACIAL_IDLE_ANIM_OVERRIDE": {
+        "name": "CLEAR_FACIAL_IDLE_ANIM_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

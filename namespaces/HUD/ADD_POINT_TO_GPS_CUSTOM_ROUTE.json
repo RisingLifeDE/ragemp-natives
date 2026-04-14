@@ -1,0 +1,21 @@
+{
+    "ADD_POINT_TO_GPS_CUSTOM_ROUTE": {
+        "name": "ADD_POINT_TO_GPS_CUSTOM_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

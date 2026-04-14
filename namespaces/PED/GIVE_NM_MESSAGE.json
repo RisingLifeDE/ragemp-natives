@@ -1,0 +1,13 @@
+{
+    "GIVE_NM_MESSAGE": {
+        "name": "GIVE_NM_MESSAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

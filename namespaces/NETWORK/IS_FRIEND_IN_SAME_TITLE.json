@@ -1,0 +1,13 @@
+{
+    "IS_FRIEND_IN_SAME_TITLE": {
+        "name": "IS_FRIEND_IN_SAME_TITLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "friendName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

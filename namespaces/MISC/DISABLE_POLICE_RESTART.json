@@ -1,0 +1,17 @@
+{
+    "DISABLE_POLICE_RESTART": {
+        "name": "DISABLE_POLICE_RESTART",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "policeIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "SET_CONTROL_LIGHT_EFFECT_COLOR": {
+        "name": "SET_CONTROL_LIGHT_EFFECT_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            },
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            }
+        ],
+        "return_type": "void"
+    }
+}

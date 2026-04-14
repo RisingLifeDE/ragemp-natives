@@ -1,0 +1,13 @@
+{
+    "GET_GROUP_INDEX": {
+        "name": "GET_GROUP_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

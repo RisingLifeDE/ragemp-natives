@@ -1,0 +1,8 @@
+{
+    "MEMBER_ID_FROM_GAMER_HANDLE": {
+        "name": "MEMBER_ID_FROM_GAMER_HANDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "NetworkMemberIdFromGamerHandleResult"
+    }
+}

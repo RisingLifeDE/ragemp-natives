@@ -1,0 +1,13 @@
+{
+    "IS_SPECIAL_ABILITY_METER_FULL": {
+        "name": "IS_SPECIAL_ABILITY_METER_FULL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

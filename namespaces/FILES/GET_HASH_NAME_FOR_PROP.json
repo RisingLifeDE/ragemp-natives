@@ -1,0 +1,25 @@
+{
+    "GET_HASH_NAME_FOR_PROP": {
+        "name": "GET_HASH_NAME_FOR_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "componentId"
+            },
+            {
+                "type": "float",
+                "name": "propIndex"
+            },
+            {
+                "type": "float",
+                "name": "propTextureIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

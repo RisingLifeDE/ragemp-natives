@@ -1,0 +1,13 @@
+{
+    "REMOVE_DECALS_FROM_OBJECT": {
+        "name": "REMOVE_DECALS_FROM_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "obj"
+            }
+        ],
+        "return_type": "void"
+    }
+}

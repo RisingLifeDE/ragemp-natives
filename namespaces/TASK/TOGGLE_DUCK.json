@@ -1,0 +1,17 @@
+{
+    "TOGGLE_DUCK": {
+        "name": "TOGGLE_DUCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "GET_VEHICLE_CREW_EMBLEM_REQUEST_STATE": {
+        "name": "GET_VEHICLE_CREW_EMBLEM_REQUEST_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

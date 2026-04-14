@@ -1,0 +1,8 @@
+{
+    "GET_GAMEPLAY_RELATIVE_PITCH": {
+        "name": "GET_GAMEPLAY_RELATIVE_PITCH",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

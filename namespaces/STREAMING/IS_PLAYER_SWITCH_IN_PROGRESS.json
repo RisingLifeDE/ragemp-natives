@@ -1,0 +1,8 @@
+{
+    "IS_PLAYER_SWITCH_IN_PROGRESS": {
+        "name": "IS_PLAYER_SWITCH_IN_PROGRESS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

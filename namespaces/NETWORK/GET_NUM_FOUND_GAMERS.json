@@ -1,0 +1,8 @@
+{
+    "GET_NUM_FOUND_GAMERS": {
+        "name": "GET_NUM_FOUND_GAMERS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "CREATE_PICKUP": {
+        "name": "CREATE_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupHash"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

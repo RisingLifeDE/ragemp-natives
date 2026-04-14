@@ -1,0 +1,13 @@
+{
+    "PLAY_ACQUIRED_HIDDEN_PACKAGE": {
+        "name": "PLAY_ACQUIRED_HIDDEN_PACKAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

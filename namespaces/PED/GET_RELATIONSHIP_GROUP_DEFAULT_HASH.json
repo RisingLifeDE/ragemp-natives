@@ -1,0 +1,13 @@
+{
+    "GET_RELATIONSHIP_GROUP_DEFAULT_HASH": {
+        "name": "GET_RELATIONSHIP_GROUP_DEFAULT_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

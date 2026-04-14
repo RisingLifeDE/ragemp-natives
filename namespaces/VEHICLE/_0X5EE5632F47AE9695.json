@@ -1,0 +1,17 @@
+{
+    "_0X5EE5632F47AE9695": {
+        "name": "_0X5EE5632F47AE9695",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "health"
+            }
+        ],
+        "return_type": "void"
+    }
+}

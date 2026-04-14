@@ -1,0 +1,8 @@
+{
+    "FORCE_LIGHTNING_FLASH": {
+        "name": "FORCE_LIGHTNING_FLASH",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

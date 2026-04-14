@@ -1,0 +1,17 @@
+{
+    "SET_SYNCHRONIZED_SCENE_PHASE": {
+        "name": "SET_SYNCHRONIZED_SCENE_PHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "sceneID"
+            },
+            {
+                "type": "float",
+                "name": "phase"
+            }
+        ],
+        "return_type": "void"
+    }
+}

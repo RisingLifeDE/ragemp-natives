@@ -1,0 +1,17 @@
+{
+    "ENABLE_DISPATCH_SERVICE": {
+        "name": "ENABLE_DISPATCH_SERVICE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dispatchService"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "FINALIZE_HEAD_BLEND": {
+        "name": "FINALIZE_HEAD_BLEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

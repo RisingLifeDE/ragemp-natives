@@ -1,0 +1,17 @@
+{
+    "SET_ENABLE_BOUND_ANKLES": {
+        "name": "SET_ENABLE_BOUND_ANKLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

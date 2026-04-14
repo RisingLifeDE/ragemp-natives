@@ -1,0 +1,21 @@
+{
+    "IS_PLAYING_ANIM": {
+        "name": "IS_PLAYING_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            },
+            {
+                "type": "char*",
+                "name": "animDictionary"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

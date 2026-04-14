@@ -1,0 +1,21 @@
+{
+    "ATTACH_SYNCHRONIZED_SCENE_TO_ENTITY": {
+        "name": "ATTACH_SYNCHRONIZED_SCENE_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "sceneID"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

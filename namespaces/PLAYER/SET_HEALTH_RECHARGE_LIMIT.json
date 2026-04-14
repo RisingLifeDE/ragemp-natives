@@ -1,0 +1,13 @@
+{
+    "SET_HEALTH_RECHARGE_LIMIT": {
+        "name": "SET_HEALTH_RECHARGE_LIMIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "limit"
+            }
+        ],
+        "return_type": "void"
+    }
+}

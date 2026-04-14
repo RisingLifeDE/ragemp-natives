@@ -1,0 +1,17 @@
+{
+    "DISPLAY_HELP_TEXT_THIS_FRAME": {
+        "name": "DISPLAY_HELP_TEXT_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "message"
+            },
+            {
+                "type": "BOOL",
+                "name": "curvedWindow"
+            }
+        ],
+        "return_type": "void"
+    }
+}

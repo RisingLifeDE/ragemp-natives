@@ -1,0 +1,13 @@
+{
+    "DATADICT_GET_FLOAT": {
+        "name": "DATADICT_GET_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "DatadictGetFloatResult"
+    }
+}

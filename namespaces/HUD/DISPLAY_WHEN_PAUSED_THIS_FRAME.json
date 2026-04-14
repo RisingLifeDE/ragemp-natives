@@ -1,0 +1,8 @@
+{
+    "DISPLAY_WHEN_PAUSED_THIS_FRAME": {
+        "name": "DISPLAY_WHEN_PAUSED_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

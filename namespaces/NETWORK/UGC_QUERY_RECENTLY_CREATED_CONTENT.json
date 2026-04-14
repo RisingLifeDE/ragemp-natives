@@ -1,0 +1,25 @@
+{
+    "UGC_QUERY_RECENTLY_CREATED_CONTENT": {
+        "name": "UGC_QUERY_RECENTLY_CREATED_CONTENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "offset"
+            },
+            {
+                "type": "float",
+                "name": "count"
+            },
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

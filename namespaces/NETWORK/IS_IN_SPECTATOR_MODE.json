@@ -1,0 +1,8 @@
+{
+    "IS_IN_SPECTATOR_MODE": {
+        "name": "IS_IN_SPECTATOR_MODE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

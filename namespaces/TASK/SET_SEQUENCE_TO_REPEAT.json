@@ -1,0 +1,17 @@
+{
+    "SET_SEQUENCE_TO_REPEAT": {
+        "name": "SET_SEQUENCE_TO_REPEAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "taskSequenceId"
+            },
+            {
+                "type": "BOOL",
+                "name": "repeat"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "DELETE": {
+        "name": "DELETE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

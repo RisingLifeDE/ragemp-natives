@@ -1,0 +1,21 @@
+{
+    "END_TEXT_COMMAND_THEFEED_POST_REPLAY_INPUT": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_REPLAY_INPUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "type"
+            },
+            {
+                "type": "char*",
+                "name": "button"
+            },
+            {
+                "type": "char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "float"
+    }
+}

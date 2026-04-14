@@ -1,0 +1,17 @@
+{
+    "IS_TOUCHING_MODEL": {
+        "name": "IS_TOUCHING_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

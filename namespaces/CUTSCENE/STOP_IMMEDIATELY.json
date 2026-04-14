@@ -1,0 +1,8 @@
+{
+    "STOP_IMMEDIATELY": {
+        "name": "STOP_IMMEDIATELY",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_PRESENCE_INVITE_PLAYLIST_LENGTH": {
+        "name": "GET_PRESENCE_INVITE_PLAYLIST_LENGTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

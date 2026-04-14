@@ -1,0 +1,13 @@
+{
+    "SET_LOCAL_PLAYER_CAN_COLLECT_PORTABLE_PICKUPS": {
+        "name": "SET_LOCAL_PLAYER_CAN_COLLECT_PORTABLE_PICKUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

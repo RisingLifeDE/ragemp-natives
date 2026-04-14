@@ -1,0 +1,65 @@
+{
+    "DRAW_SPOT_LIGHT": {
+        "name": "DRAW_SPOT_LIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "dirX"
+            },
+            {
+                "type": "float",
+                "name": "dirY"
+            },
+            {
+                "type": "float",
+                "name": "dirZ"
+            },
+            {
+                "type": "float",
+                "name": "colorR"
+            },
+            {
+                "type": "float",
+                "name": "colorG"
+            },
+            {
+                "type": "float",
+                "name": "colorB"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "float",
+                "name": "brightness"
+            },
+            {
+                "type": "float",
+                "name": "hardness"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "falloff"
+            }
+        ],
+        "return_type": "void"
+    }
+}

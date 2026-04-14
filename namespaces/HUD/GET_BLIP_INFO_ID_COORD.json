@@ -1,0 +1,13 @@
+{
+    "GET_BLIP_INFO_ID_COORD": {
+        "name": "GET_BLIP_INFO_ID_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_COMPONENT_HUD_STATS": {
+        "name": "GET_COMPONENT_HUD_STATS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

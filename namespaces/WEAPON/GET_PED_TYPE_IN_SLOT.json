@@ -1,0 +1,17 @@
+{
+    "GET_PED_TYPE_IN_SLOT": {
+        "name": "GET_PED_TYPE_IN_SLOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponSlot"
+            }
+        ],
+        "return_type": "float"
+    }
+}

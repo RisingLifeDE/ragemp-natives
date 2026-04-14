@@ -1,0 +1,45 @@
+{
+    "FOLLOW_TO_OFFSET_OF_ENTITY": {
+        "name": "FOLLOW_TO_OFFSET_OF_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "movementSpeed"
+            },
+            {
+                "type": "float",
+                "name": "timeout"
+            },
+            {
+                "type": "float",
+                "name": "stoppingRange"
+            },
+            {
+                "type": "BOOL",
+                "name": "persistFollowing"
+            }
+        ],
+        "return_type": "void"
+    }
+}

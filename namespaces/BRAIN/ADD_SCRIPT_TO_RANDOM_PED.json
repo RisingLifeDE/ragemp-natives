@@ -1,0 +1,25 @@
+{
+    "ADD_SCRIPT_TO_RANDOM_PED": {
+        "name": "ADD_SCRIPT_TO_RANDOM_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "model"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

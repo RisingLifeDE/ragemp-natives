@@ -1,0 +1,13 @@
+{
+    "GET_HEADSHOT_TXD_STRING": {
+        "name": "GET_HEADSHOT_TXD_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

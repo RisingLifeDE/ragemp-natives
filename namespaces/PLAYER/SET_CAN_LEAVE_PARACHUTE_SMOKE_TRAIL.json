@@ -1,0 +1,13 @@
+{
+    "SET_CAN_LEAVE_PARACHUTE_SMOKE_TRAIL": {
+        "name": "SET_CAN_LEAVE_PARACHUTE_SMOKE_TRAIL",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void"
+    }
+}

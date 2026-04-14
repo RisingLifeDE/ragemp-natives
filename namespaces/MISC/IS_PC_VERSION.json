@@ -1,0 +1,8 @@
+{
+    "IS_PC_VERSION": {
+        "name": "IS_PC_VERSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

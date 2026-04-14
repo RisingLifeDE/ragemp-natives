@@ -1,0 +1,13 @@
+{
+    "IS_SYNCHRONIZED_SCENE_HOLD_LAST_FRAME": {
+        "name": "IS_SYNCHRONIZED_SCENE_HOLD_LAST_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "sceneID"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

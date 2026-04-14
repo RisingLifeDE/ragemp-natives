@@ -1,0 +1,17 @@
+{
+    "PLAY_BACKGROUND_SCRIPT_ACTION": {
+        "name": "PLAY_BACKGROUND_SCRIPT_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "action"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

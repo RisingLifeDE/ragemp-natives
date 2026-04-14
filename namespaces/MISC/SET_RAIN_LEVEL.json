@@ -1,0 +1,13 @@
+{
+    "SET_RAIN_LEVEL": {
+        "name": "SET_RAIN_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

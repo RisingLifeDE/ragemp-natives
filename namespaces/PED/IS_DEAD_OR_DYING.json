@@ -1,0 +1,17 @@
+{
+    "IS_DEAD_OR_DYING": {
+        "name": "IS_DEAD_OR_DYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

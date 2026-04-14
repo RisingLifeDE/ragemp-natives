@@ -1,0 +1,13 @@
+{
+    "ENABLE_EXTERIOR_CULL_MODEL_THIS_FRAME": {
+        "name": "ENABLE_EXTERIOR_CULL_MODEL_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "mapObjectHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

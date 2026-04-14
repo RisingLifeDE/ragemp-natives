@@ -1,0 +1,49 @@
+{
+    "SPAWNPOINTS_START_SEARCH_IN_ANGLED_AREA": {
+        "name": "SPAWNPOINTS_START_SEARCH_IN_ANGLED_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "zmax"
+            },
+            {
+                "type": "float",
+                "name": "interiorFlags"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

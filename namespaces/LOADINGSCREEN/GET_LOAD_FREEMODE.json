@@ -1,0 +1,8 @@
+{
+    "GET_LOAD_FREEMODE": {
+        "name": "GET_LOAD_FREEMODE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_RADAR_ZOOM_PRECISE": {
+        "name": "SET_RADAR_ZOOM_PRECISE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoom"
+            }
+        ],
+        "return_type": "void"
+    }
+}

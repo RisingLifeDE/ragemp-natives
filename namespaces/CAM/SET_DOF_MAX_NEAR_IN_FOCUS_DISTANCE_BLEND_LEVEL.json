@@ -1,0 +1,17 @@
+{
+    "SET_DOF_MAX_NEAR_IN_FOCUS_DISTANCE_BLEND_LEVEL": {
+        "name": "SET_DOF_MAX_NEAR_IN_FOCUS_DISTANCE_BLEND_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "camera"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

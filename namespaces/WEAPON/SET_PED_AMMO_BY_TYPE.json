@@ -1,0 +1,21 @@
+{
+    "SET_PED_AMMO_BY_TYPE": {
+        "name": "SET_PED_AMMO_BY_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "ammoTypeHash"
+            },
+            {
+                "type": "float",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "void"
+    }
+}

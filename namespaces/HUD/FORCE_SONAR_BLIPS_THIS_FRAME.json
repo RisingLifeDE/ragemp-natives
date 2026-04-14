@@ -1,0 +1,8 @@
+{
+    "FORCE_SONAR_BLIPS_THIS_FRAME": {
+        "name": "FORCE_SONAR_BLIPS_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

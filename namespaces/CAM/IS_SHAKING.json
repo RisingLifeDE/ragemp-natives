@@ -1,0 +1,13 @@
+{
+    "IS_SHAKING": {
+        "name": "IS_SHAKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

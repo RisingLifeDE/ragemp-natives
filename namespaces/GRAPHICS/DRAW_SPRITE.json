@@ -1,0 +1,57 @@
+{
+    "DRAW_SPRITE": {
+        "name": "DRAW_SPRITE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "char*",
+                "name": "textureName"
+            },
+            {
+                "type": "float",
+                "name": "screenX"
+            },
+            {
+                "type": "float",
+                "name": "screenY"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            }
+        ],
+        "return_type": "void"
+    }
+}

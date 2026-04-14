@@ -1,0 +1,8 @@
+{
+    "RESET_BENCHMARK_RECORDING": {
+        "name": "RESET_BENCHMARK_RECORDING",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

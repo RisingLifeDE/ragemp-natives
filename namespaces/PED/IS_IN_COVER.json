@@ -1,0 +1,17 @@
+{
+    "IS_IN_COVER": {
+        "name": "IS_IN_COVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "exceptUseWeapon"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

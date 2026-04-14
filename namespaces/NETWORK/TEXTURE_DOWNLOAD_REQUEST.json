@@ -1,0 +1,21 @@
+{
+    "TEXTURE_DOWNLOAD_REQUEST": {
+        "name": "TEXTURE_DOWNLOAD_REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "FilePath"
+            },
+            {
+                "type": "char*",
+                "name": "Name"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "TextureDownloadRequestResult"
+    }
+}

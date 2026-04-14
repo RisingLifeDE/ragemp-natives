@@ -1,0 +1,8 @@
+{
+    "GET_WANTED_LEVEL_PAROLE_DURATION": {
+        "name": "GET_WANTED_LEVEL_PAROLE_DURATION",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

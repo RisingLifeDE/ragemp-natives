@@ -1,0 +1,17 @@
+{
+    "_0X98C3CF913D895111": {
+        "name": "_0X98C3CF913D895111",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "string"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

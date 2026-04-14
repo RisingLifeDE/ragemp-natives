@@ -1,0 +1,13 @@
+{
+    "END_TEXT_COMMAND_OBJECTIVE": {
+        "name": "END_TEXT_COMMAND_OBJECTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

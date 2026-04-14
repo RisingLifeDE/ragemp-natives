@@ -1,0 +1,13 @@
+{
+    "IS_STATIC": {
+        "name": "IS_STATIC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

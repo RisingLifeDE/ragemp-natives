@@ -1,0 +1,17 @@
+{
+    "SET_PED_PATH_CAN_USE_LADDERS": {
+        "name": "SET_PED_PATH_CAN_USE_LADDERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "Toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

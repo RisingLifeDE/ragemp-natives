@@ -1,0 +1,13 @@
+{
+    "PLAYER_IS_ROCKSTAR_DEV": {
+        "name": "PLAYER_IS_ROCKSTAR_DEV",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

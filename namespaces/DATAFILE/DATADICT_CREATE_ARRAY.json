@@ -1,0 +1,13 @@
+{
+    "DATADICT_CREATE_ARRAY": {
+        "name": "DATADICT_CREATE_ARRAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "DatadictCreateArrayResult"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_IS_WAYPOINT_RECORDING_LOADED": {
+        "name": "GET_IS_WAYPOINT_RECORDING_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

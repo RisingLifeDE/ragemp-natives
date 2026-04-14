@@ -1,0 +1,17 @@
+{
+    "CAN_IN_COMBAT_SEE_TARGET": {
+        "name": "CAN_IN_COMBAT_SEE_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "target"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

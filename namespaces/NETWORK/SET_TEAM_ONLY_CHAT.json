@@ -1,0 +1,13 @@
+{
+    "SET_TEAM_ONLY_CHAT": {
+        "name": "SET_TEAM_ONLY_CHAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

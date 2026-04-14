@@ -1,0 +1,13 @@
+{
+    "SET_PAUSE_MENU_PED_LIGHTING": {
+        "name": "SET_PAUSE_MENU_PED_LIGHTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void"
+    }
+}

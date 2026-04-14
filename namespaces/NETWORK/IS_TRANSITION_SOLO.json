@@ -1,0 +1,8 @@
+{
+    "IS_TRANSITION_SOLO": {
+        "name": "IS_TRANSITION_SOLO",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

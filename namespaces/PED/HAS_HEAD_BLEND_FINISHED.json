@@ -1,0 +1,13 @@
+{
+    "HAS_HEAD_BLEND_FINISHED": {
+        "name": "HAS_HEAD_BLEND_FINISHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

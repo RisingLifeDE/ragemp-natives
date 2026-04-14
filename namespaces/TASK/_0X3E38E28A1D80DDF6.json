@@ -1,0 +1,13 @@
+{
+    "_0X3E38E28A1D80DDF6": {
+        "name": "_0X3E38E28A1D80DDF6",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

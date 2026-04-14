@@ -1,0 +1,17 @@
+{
+    "GET_AMMO_IN_PED": {
+        "name": "GET_AMMO_IN_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponhash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_ENTITY_CONCEALED": {
+        "name": "IS_ENTITY_CONCEALED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

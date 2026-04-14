@@ -1,0 +1,13 @@
+{
+    "IS_USING_ANY_SCENARIO": {
+        "name": "IS_USING_ANY_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

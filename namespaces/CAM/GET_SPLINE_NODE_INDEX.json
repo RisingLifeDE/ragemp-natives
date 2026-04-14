@@ -1,0 +1,13 @@
+{
+    "GET_SPLINE_NODE_INDEX": {
+        "name": "GET_SPLINE_NODE_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "float"
+    }
+}

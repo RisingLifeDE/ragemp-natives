@@ -1,0 +1,13 @@
+{
+    "REMOVE_RELATIONSHIP_GROUP": {
+        "name": "REMOVE_RELATIONSHIP_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "groupHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

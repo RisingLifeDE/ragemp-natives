@@ -1,0 +1,17 @@
+{
+    "UPDATE_SWEEP_AIM_ENTITY": {
+        "name": "UPDATE_SWEEP_AIM_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

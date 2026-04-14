@@ -1,0 +1,13 @@
+{
+    "ADD_NEXT_MESSAGE_TO_PREVIOUS_BRIEFS": {
+        "name": "ADD_NEXT_MESSAGE_TO_PREVIOUS_BRIEFS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

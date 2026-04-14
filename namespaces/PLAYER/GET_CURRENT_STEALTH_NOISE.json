@@ -1,0 +1,8 @@
+{
+    "GET_CURRENT_STEALTH_NOISE": {
+        "name": "GET_CURRENT_STEALTH_NOISE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

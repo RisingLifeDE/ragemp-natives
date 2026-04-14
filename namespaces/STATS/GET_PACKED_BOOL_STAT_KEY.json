@@ -1,0 +1,25 @@
+{
+    "GET_PACKED_BOOL_STAT_KEY": {
+        "name": "GET_PACKED_BOOL_STAT_KEY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "spStat"
+            },
+            {
+                "type": "BOOL",
+                "name": "charStat"
+            },
+            {
+                "type": "float",
+                "name": "character"
+            }
+        ],
+        "return_type": "float"
+    }
+}

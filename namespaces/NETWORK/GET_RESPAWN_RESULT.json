@@ -1,0 +1,13 @@
+{
+    "GET_RESPAWN_RESULT": {
+        "name": "GET_RESPAWN_RESULT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "randomInt"
+            }
+        ],
+        "return_type": "NetworkGetRespawnResultResult"
+    }
+}

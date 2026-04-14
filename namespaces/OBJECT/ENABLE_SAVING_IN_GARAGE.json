@@ -1,0 +1,17 @@
+{
+    "ENABLE_SAVING_IN_GARAGE": {
+        "name": "ENABLE_SAVING_IN_GARAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "garageHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

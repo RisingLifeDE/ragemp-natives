@@ -1,0 +1,13 @@
+{
+    "HAVE_USER_CONTENT_PRIVILEGES": {
+        "name": "HAVE_USER_CONTENT_PRIVILEGES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

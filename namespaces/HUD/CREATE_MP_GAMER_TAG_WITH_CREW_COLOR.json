@@ -1,0 +1,45 @@
+{
+    "CREATE_MP_GAMER_TAG_WITH_CREW_COLOR": {
+        "name": "CREATE_MP_GAMER_TAG_WITH_CREW_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "char*",
+                "name": "username"
+            },
+            {
+                "type": "BOOL",
+                "name": "pointedClanTag"
+            },
+            {
+                "type": "BOOL",
+                "name": "isRockstarClan"
+            },
+            {
+                "type": "char*",
+                "name": "clanTag"
+            },
+            {
+                "type": "float",
+                "name": "clanFlag"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            }
+        ],
+        "return_type": "void"
+    }
+}

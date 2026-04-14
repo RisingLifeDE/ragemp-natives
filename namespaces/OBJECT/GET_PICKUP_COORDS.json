@@ -1,0 +1,13 @@
+{
+    "GET_PICKUP_COORDS": {
+        "name": "GET_PICKUP_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

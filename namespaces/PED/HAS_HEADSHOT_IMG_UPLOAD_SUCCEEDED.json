@@ -1,0 +1,8 @@
+{
+    "HAS_HEADSHOT_IMG_UPLOAD_SUCCEEDED": {
+        "name": "HAS_HEADSHOT_IMG_UPLOAD_SUCCEEDED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

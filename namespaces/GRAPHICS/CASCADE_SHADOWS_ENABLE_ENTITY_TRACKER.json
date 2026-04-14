@@ -1,0 +1,13 @@
+{
+    "CASCADE_SHADOWS_ENABLE_ENTITY_TRACKER": {
+        "name": "CASCADE_SHADOWS_ENABLE_ENTITY_TRACKER",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

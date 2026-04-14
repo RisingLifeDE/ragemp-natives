@@ -1,0 +1,13 @@
+{
+    "REFRESH_PLAYER_LIST_STATS": {
+        "name": "REFRESH_PLAYER_LIST_STATS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

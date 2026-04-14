@@ -1,0 +1,13 @@
+{
+    "IS_BEING_STEALTH_KILLED": {
+        "name": "IS_BEING_STEALTH_KILLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

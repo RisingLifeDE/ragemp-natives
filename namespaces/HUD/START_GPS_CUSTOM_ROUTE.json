@@ -1,0 +1,21 @@
+{
+    "START_GPS_CUSTOM_ROUTE": {
+        "name": "START_GPS_CUSTOM_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudColor"
+            },
+            {
+                "type": "BOOL",
+                "name": "displayOnFoot"
+            },
+            {
+                "type": "BOOL",
+                "name": "followPlayer"
+            }
+        ],
+        "return_type": "void"
+    }
+}

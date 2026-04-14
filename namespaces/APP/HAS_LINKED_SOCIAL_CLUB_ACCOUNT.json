@@ -1,0 +1,8 @@
+{
+    "HAS_LINKED_SOCIAL_CLUB_ACCOUNT": {
+        "name": "HAS_LINKED_SOCIAL_CLUB_ACCOUNT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

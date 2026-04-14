@@ -1,0 +1,33 @@
+{
+    "FORMAT_FOCUS_HEADING": {
+        "name": "FORMAT_FOCUS_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rad"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "float"
+    }
+}

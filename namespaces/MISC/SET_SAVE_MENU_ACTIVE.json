@@ -1,0 +1,13 @@
+{
+    "SET_SAVE_MENU_ACTIVE": {
+        "name": "SET_SAVE_MENU_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "ignoreVehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "_0X46B05BCAE43856B0": {
+        "name": "_0X46B05BCAE43856B0",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "flag"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

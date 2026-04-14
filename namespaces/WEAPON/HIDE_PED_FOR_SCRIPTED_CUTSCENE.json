@@ -1,0 +1,17 @@
+{
+    "HIDE_PED_FOR_SCRIPTED_CUTSCENE": {
+        "name": "HIDE_PED_FOR_SCRIPTED_CUTSCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

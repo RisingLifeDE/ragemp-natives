@@ -1,0 +1,8 @@
+{
+    "HAVE_CREDITS_REACHED_END": {
+        "name": "HAVE_CREDITS_REACHED_END",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

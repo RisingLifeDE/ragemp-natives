@@ -1,0 +1,21 @@
+{
+    "WAYPOINT_PLAYBACK_OVERRIDE_SPEED": {
+        "name": "WAYPOINT_PLAYBACK_OVERRIDE_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

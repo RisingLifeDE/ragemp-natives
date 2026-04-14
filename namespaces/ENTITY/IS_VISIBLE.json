@@ -1,0 +1,13 @@
+{
+    "IS_VISIBLE": {
+        "name": "IS_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

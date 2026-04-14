@@ -1,0 +1,8 @@
+{
+    "GET_IS_HIDEF": {
+        "name": "GET_IS_HIDEF",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

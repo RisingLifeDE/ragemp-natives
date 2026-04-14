@@ -1,0 +1,8 @@
+{
+    "OPEN_TRANSITION_MATCHMAKING": {
+        "name": "OPEN_TRANSITION_MATCHMAKING",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

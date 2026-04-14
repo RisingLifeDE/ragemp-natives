@@ -1,0 +1,17 @@
+{
+    "SET_USE_SHALLOW_DOF_MODE": {
+        "name": "SET_USE_SHALLOW_DOF_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

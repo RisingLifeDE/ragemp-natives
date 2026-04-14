@@ -1,0 +1,13 @@
+{
+    "SET_RESET_UNOCCUPIED_STEER_ANGLE": {
+        "name": "SET_RESET_UNOCCUPIED_STEER_ANGLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

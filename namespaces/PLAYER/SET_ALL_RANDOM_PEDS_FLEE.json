@@ -1,0 +1,13 @@
+{
+    "SET_ALL_RANDOM_PEDS_FLEE": {
+        "name": "SET_ALL_RANDOM_PEDS_FLEE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

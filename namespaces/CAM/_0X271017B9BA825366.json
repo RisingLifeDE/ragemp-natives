@@ -1,0 +1,17 @@
+{
+    "_0X271017B9BA825366": {
+        "name": "_0X271017B9BA825366",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

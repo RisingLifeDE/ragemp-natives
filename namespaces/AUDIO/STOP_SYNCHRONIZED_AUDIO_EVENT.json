@@ -1,0 +1,13 @@
+{
+    "STOP_SYNCHRONIZED_AUDIO_EVENT": {
+        "name": "STOP_SYNCHRONIZED_AUDIO_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

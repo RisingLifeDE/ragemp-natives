@@ -1,0 +1,8 @@
+{
+    "END_TEXT_COMMAND_CLEAR_PRINT": {
+        "name": "END_TEXT_COMMAND_CLEAR_PRINT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

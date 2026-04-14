@@ -1,0 +1,57 @@
+{
+    "START_PARTICLE_FX_LOOPED_AT_COORD": {
+        "name": "START_PARTICLE_FX_LOOPED_AT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "effectName"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "BOOL",
+                "name": "xAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "yAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "zAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            }
+        ],
+        "return_type": "float"
+    }
+}

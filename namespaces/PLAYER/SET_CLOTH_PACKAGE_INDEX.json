@@ -1,0 +1,13 @@
+{
+    "SET_CLOTH_PACKAGE_INDEX": {
+        "name": "SET_CLOTH_PACKAGE_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "index"
+            }
+        ],
+        "return_type": "void"
+    }
+}

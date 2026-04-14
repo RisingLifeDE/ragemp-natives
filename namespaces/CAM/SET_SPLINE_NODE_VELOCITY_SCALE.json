@@ -1,0 +1,21 @@
+{
+    "SET_SPLINE_NODE_VELOCITY_SCALE": {
+        "name": "SET_SPLINE_NODE_VELOCITY_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

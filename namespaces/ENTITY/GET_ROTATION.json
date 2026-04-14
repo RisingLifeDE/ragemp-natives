@@ -1,0 +1,17 @@
+{
+    "GET_ROTATION": {
+        "name": "GET_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

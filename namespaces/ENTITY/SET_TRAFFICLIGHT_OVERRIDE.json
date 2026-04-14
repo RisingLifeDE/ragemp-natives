@@ -1,0 +1,17 @@
+{
+    "SET_TRAFFICLIGHT_OVERRIDE": {
+        "name": "SET_TRAFFICLIGHT_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "state"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "SET_PED_DROPS_INVENTORY": {
+        "name": "SET_PED_DROPS_INVENTORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "float",
+                "name": "ammoCount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

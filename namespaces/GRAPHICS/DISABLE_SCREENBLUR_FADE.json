@@ -1,0 +1,8 @@
+{
+    "DISABLE_SCREENBLUR_FADE": {
+        "name": "DISABLE_SCREENBLUR_FADE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

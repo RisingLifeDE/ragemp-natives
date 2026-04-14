@@ -1,0 +1,25 @@
+{
+    "SET_FLOATING_HELP_TEXT_WORLD_POSITION": {
+        "name": "SET_FLOATING_HELP_TEXT_WORLD_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudIndex"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

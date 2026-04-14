@@ -1,0 +1,17 @@
+{
+    "CLEAR_FLOATING_HELP": {
+        "name": "CLEAR_FLOATING_HELP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "helpIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "clearNow"
+            }
+        ],
+        "return_type": "void"
+    }
+}

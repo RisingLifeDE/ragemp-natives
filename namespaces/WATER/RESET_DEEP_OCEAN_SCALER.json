@@ -1,0 +1,8 @@
+{
+    "RESET_DEEP_OCEAN_SCALER": {
+        "name": "RESET_DEEP_OCEAN_SCALER",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

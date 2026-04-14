@@ -1,0 +1,17 @@
+{
+    "GET_TASK_COMBAT_TARGET": {
+        "name": "GET_TASK_COMBAT_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "losCheck"
+            }
+        ],
+        "return_type": "Handle"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REMOVE_SHOCKING": {
+        "name": "REMOVE_SHOCKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "event"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

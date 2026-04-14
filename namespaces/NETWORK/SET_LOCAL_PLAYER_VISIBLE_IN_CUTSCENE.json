@@ -1,0 +1,17 @@
+{
+    "SET_LOCAL_PLAYER_VISIBLE_IN_CUTSCENE": {
+        "name": "SET_LOCAL_PLAYER_VISIBLE_IN_CUTSCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

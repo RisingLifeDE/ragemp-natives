@@ -1,0 +1,8 @@
+{
+    "GET_WANTED_CENTRE_POSITION": {
+        "name": "GET_WANTED_CENTRE_POSITION",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3"
+    }
+}

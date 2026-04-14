@@ -1,0 +1,13 @@
+{
+    "IS_SPECIAL_ABILITY_ACTIVE": {
+        "name": "IS_SPECIAL_ABILITY_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

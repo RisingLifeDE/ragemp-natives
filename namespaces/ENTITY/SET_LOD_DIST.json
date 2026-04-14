@@ -1,0 +1,17 @@
+{
+    "SET_LOD_DIST": {
+        "name": "SET_LOD_DIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

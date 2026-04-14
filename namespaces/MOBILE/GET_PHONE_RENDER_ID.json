@@ -1,0 +1,8 @@
+{
+    "GET_PHONE_RENDER_ID": {
+        "name": "GET_PHONE_RENDER_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

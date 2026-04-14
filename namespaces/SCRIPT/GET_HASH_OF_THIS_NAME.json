@@ -1,0 +1,8 @@
+{
+    "GET_HASH_OF_THIS_NAME": {
+        "name": "GET_HASH_OF_THIS_NAME",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

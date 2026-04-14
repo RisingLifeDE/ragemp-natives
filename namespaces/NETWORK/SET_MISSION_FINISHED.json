@@ -1,0 +1,8 @@
+{
+    "SET_MISSION_FINISHED": {
+        "name": "SET_MISSION_FINISHED",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "STAT_SET_PROFILE_SETTING_VALUE": {
+        "name": "STAT_SET_PROFILE_SETTING_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "profileSetting"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

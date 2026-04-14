@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_DISPLAY_TEXT": {
+        "name": "BEGIN_TEXT_COMMAND_DISPLAY_TEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void"
+    }
+}

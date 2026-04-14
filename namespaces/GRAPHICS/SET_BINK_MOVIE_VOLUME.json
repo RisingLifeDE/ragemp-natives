@@ -1,0 +1,17 @@
+{
+    "SET_BINK_MOVIE_VOLUME": {
+        "name": "SET_BINK_MOVIE_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "binkMovie"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

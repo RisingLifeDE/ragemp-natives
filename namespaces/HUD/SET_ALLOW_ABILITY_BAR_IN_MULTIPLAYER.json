@@ -1,0 +1,13 @@
+{
+    "SET_ALLOW_ABILITY_BAR_IN_MULTIPLAYER": {
+        "name": "SET_ALLOW_ABILITY_BAR_IN_MULTIPLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

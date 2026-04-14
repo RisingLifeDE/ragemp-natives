@@ -1,0 +1,8 @@
+{
+    "PLAYER_IS_BADSPORT": {
+        "name": "PLAYER_IS_BADSPORT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

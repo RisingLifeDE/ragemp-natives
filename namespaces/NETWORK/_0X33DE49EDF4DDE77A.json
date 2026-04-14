@@ -1,0 +1,13 @@
+{
+    "_0X33DE49EDF4DDE77A": {
+        "name": "_0X33DE49EDF4DDE77A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

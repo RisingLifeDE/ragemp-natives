@@ -1,0 +1,13 @@
+{
+    "SET_VEHICLE_DEFENSE_MODIFIER": {
+        "name": "SET_VEHICLE_DEFENSE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

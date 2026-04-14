@@ -1,0 +1,13 @@
+{
+    "HAVE_ALL_STREAMING_REQUESTS_COMPLETED": {
+        "name": "HAVE_ALL_STREAMING_REQUESTS_COMPLETED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

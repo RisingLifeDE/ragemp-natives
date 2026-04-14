@@ -1,0 +1,8 @@
+{
+    "RESET_GHOSTED_ENTITY_ALPHA": {
+        "name": "RESET_GHOSTED_ENTITY_ALPHA",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

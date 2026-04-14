@@ -1,0 +1,17 @@
+{
+    "SET_FIRING_PATTERN": {
+        "name": "SET_FIRING_PATTERN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "patternHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

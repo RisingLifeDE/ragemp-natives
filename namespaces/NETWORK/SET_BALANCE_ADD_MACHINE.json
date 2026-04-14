@@ -1,0 +1,17 @@
+{
+    "SET_BALANCE_ADD_MACHINE": {
+        "name": "SET_BALANCE_ADD_MACHINE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "contentId"
+            },
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

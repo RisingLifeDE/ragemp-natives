@@ -1,0 +1,13 @@
+{
+    "DATAARRAY_GET_DICT": {
+        "name": "DATAARRAY_GET_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "arrayIndex"
+            }
+        ],
+        "return_type": "DataarrayGetDictResult"
+    }
+}

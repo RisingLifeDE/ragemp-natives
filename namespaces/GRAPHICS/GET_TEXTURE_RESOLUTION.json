@@ -1,0 +1,17 @@
+{
+    "GET_TEXTURE_RESOLUTION": {
+        "name": "GET_TEXTURE_RESOLUTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "char*",
+                "name": "textureName"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "OVERRIDE_TEAM_RESTRICTIONS": {
+        "name": "OVERRIDE_TEAM_RESTRICTIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "team"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

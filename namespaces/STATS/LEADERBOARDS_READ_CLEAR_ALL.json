@@ -1,0 +1,8 @@
+{
+    "LEADERBOARDS_READ_CLEAR_ALL": {
+        "name": "LEADERBOARDS_READ_CLEAR_ALL",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_WHEEL_GROUND_SURFACE_MATERIAL": {
+        "name": "GET_WHEEL_GROUND_SURFACE_MATERIAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "wheelIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "GO_TO_COORD_AND_AIM_AT_HATED_ENTITIES_NEAR_COORD": {
+        "name": "GO_TO_COORD_AND_AIM_AT_HATED_ENTITIES_NEAR_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pedHandle"
+            },
+            {
+                "type": "float",
+                "name": "goToLocationX"
+            },
+            {
+                "type": "float",
+                "name": "goToLocationY"
+            },
+            {
+                "type": "float",
+                "name": "goToLocationZ"
+            },
+            {
+                "type": "float",
+                "name": "focusLocationX"
+            },
+            {
+                "type": "float",
+                "name": "focusLocationY"
+            },
+            {
+                "type": "float",
+                "name": "focusLocationZ"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "BOOL",
+                "name": "shootAtEnemies"
+            },
+            {
+                "type": "float",
+                "name": "distanceToStopAt"
+            },
+            {
+                "type": "float",
+                "name": "noRoadsDistance"
+            },
+            {
+                "type": "BOOL",
+                "name": "unkTrue"
+            },
+            {
+                "type": "float",
+                "name": "unkFlag"
+            },
+            {
+                "type": "float",
+                "name": "aimingFlag"
+            },
+            {
+                "type": "float",
+                "name": "firingPattern"
+            }
+        ],
+        "return_type": "void"
+    }
+}

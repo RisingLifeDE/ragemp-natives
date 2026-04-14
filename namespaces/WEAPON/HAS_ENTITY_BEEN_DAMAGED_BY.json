@@ -1,0 +1,21 @@
+{
+    "HAS_ENTITY_BEEN_DAMAGED_BY": {
+        "name": "HAS_ENTITY_BEEN_DAMAGED_BY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "weaponType"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

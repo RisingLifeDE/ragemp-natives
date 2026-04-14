@@ -1,0 +1,8 @@
+{
+    "IS_GAMEPLAY_LOOKING_BEHIND": {
+        "name": "IS_GAMEPLAY_LOOKING_BEHIND",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

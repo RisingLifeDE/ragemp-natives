@@ -1,0 +1,8 @@
+{
+    "CLEAR_REPLAY_STATS": {
+        "name": "CLEAR_REPLAY_STATS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

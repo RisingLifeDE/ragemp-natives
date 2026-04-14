@@ -1,0 +1,17 @@
+{
+    "IS_IN_MODEL": {
+        "name": "IS_IN_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_TRACKED_VISIBLE": {
+        "name": "IS_TRACKED_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_VEHICLE_NODE_IS_GPS_ALLOWED": {
+        "name": "GET_VEHICLE_NODE_IS_GPS_ALLOWED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "nodeID"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

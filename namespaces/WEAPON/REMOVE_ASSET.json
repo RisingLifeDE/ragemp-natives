@@ -1,0 +1,13 @@
+{
+    "REMOVE_ASSET": {
+        "name": "REMOVE_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

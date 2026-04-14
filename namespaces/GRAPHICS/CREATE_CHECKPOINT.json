@@ -1,0 +1,61 @@
+{
+    "CREATE_CHECKPOINT": {
+        "name": "CREATE_CHECKPOINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "posX1"
+            },
+            {
+                "type": "float",
+                "name": "posY1"
+            },
+            {
+                "type": "float",
+                "name": "posZ1"
+            },
+            {
+                "type": "float",
+                "name": "posX2"
+            },
+            {
+                "type": "float",
+                "name": "posY2"
+            },
+            {
+                "type": "float",
+                "name": "posZ2"
+            },
+            {
+                "type": "float",
+                "name": "diameter"
+            },
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            },
+            {
+                "type": "float",
+                "name": "reserved"
+            }
+        ],
+        "return_type": "float"
+    }
+}

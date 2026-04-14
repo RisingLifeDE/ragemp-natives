@@ -1,0 +1,8 @@
+{
+    "IS_NEW_LOAD_SCENE_LOADED": {
+        "name": "IS_NEW_LOAD_SCENE_LOADED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "END_REPLAY_STATS": {
+        "name": "END_REPLAY_STATS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

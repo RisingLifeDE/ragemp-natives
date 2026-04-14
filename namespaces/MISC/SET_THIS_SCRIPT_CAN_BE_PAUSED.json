@@ -1,0 +1,13 @@
+{
+    "SET_THIS_SCRIPT_CAN_BE_PAUSED": {
+        "name": "SET_THIS_SCRIPT_CAN_BE_PAUSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

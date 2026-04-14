@@ -1,0 +1,8 @@
+{
+    "IS_TRANSITION_CLOSED_FRIENDS": {
+        "name": "IS_TRANSITION_CLOSED_FRIENDS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

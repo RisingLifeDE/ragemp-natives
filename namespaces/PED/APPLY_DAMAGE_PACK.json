@@ -1,0 +1,25 @@
+{
+    "APPLY_DAMAGE_PACK": {
+        "name": "APPLY_DAMAGE_PACK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "damagePack"
+            },
+            {
+                "type": "float",
+                "name": "damage"
+            },
+            {
+                "type": "float",
+                "name": "mult"
+            }
+        ],
+        "return_type": "void"
+    }
+}

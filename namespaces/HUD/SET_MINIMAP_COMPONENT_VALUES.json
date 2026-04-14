@@ -1,0 +1,37 @@
+{
+    "SET_MINIMAP_COMPONENT_VALUES": {
+        "name": "SET_MINIMAP_COMPONENT_VALUES",
+        "comment": "Check frontend.xml for details",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "alignX"
+            },
+            {
+                "type": "float",
+                "name": "alignY"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "sizeX"
+            },
+            {
+                "type": "float",
+                "name": "sizeY"
+            }
+        ],
+        "return_type": "void"
+    }
+}

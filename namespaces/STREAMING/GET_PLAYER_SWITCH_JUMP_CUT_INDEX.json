@@ -1,0 +1,8 @@
+{
+    "GET_PLAYER_SWITCH_JUMP_CUT_INDEX": {
+        "name": "GET_PLAYER_SWITCH_JUMP_CUT_INDEX",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

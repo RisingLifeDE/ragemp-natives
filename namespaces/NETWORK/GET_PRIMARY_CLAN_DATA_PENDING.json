@@ -1,0 +1,8 @@
+{
+    "GET_PRIMARY_CLAN_DATA_PENDING": {
+        "name": "GET_PRIMARY_CLAN_DATA_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

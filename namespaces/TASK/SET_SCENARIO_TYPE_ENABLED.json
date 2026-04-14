@@ -1,0 +1,17 @@
+{
+    "SET_SCENARIO_TYPE_ENABLED": {
+        "name": "SET_SCENARIO_TYPE_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scenarioType"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

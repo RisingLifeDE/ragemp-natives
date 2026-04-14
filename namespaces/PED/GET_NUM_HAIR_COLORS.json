@@ -1,0 +1,8 @@
+{
+    "GET_NUM_HAIR_COLORS": {
+        "name": "GET_NUM_HAIR_COLORS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

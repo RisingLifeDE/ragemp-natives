@@ -1,0 +1,13 @@
+{
+    "IS_MOVE_BLEND_RATIO_STILL": {
+        "name": "IS_MOVE_BLEND_RATIO_STILL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

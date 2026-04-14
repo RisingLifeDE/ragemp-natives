@@ -1,0 +1,8 @@
+{
+    "QUERY_RESPAWN_RESULTS": {
+        "name": "QUERY_RESPAWN_RESULTS",
+        "comment": "",
+        "params": [],
+        "return_type": "NetworkQueryRespawnResultsResult"
+    }
+}

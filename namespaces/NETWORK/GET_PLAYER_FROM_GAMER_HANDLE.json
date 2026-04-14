@@ -1,0 +1,8 @@
+{
+    "GET_PLAYER_FROM_GAMER_HANDLE": {
+        "name": "GET_PLAYER_FROM_GAMER_HANDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "NetworkGetPlayerFromGamerHandleResult"
+    }
+}

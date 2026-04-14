@@ -1,0 +1,17 @@
+{
+    "IS_HEADTRACKING_ENTITY": {
+        "name": "IS_HEADTRACKING_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

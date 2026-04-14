@@ -1,0 +1,13 @@
+{
+    "ENTITY_AREA_DOES_EXIST": {
+        "name": "ENTITY_AREA_DOES_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "areaHandle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

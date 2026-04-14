@@ -1,0 +1,25 @@
+{
+    "ADD_BLIP_FOR_RADIUS": {
+        "name": "ADD_BLIP_FOR_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "float"
+    }
+}

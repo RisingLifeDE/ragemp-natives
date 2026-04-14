@@ -1,0 +1,17 @@
+{
+    "SET_KEEP_TASK": {
+        "name": "SET_KEEP_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

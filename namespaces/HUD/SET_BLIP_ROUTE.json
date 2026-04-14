@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_ROUTE": {
+        "name": "SET_BLIP_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void"
+    }
+}

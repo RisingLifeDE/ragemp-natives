@@ -1,0 +1,8 @@
+{
+    "GET_CURRENT_WEBSITE_ID": {
+        "name": "GET_CURRENT_WEBSITE_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

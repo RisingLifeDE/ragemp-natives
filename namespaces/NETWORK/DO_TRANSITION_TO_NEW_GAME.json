@@ -1,0 +1,21 @@
+{
+    "DO_TRANSITION_TO_NEW_GAME": {
+        "name": "DO_TRANSITION_TO_NEW_GAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "maxPlayers"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

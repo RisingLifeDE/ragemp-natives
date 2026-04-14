@@ -1,0 +1,21 @@
+{
+    "STAT_SET_USER_ID": {
+        "name": "STAT_SET_USER_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statName"
+            },
+            {
+                "type": "char*",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "save"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

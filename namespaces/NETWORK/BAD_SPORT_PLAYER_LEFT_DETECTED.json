@@ -1,0 +1,17 @@
+{
+    "BAD_SPORT_PLAYER_LEFT_DETECTED": {
+        "name": "BAD_SPORT_PLAYER_LEFT_DETECTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "event"
+            },
+            {
+                "type": "float",
+                "name": "amountReceived"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_FOLLOW_VEHICLE_ZOOM_LEVEL": {
+        "name": "GET_FOLLOW_VEHICLE_ZOOM_LEVEL",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

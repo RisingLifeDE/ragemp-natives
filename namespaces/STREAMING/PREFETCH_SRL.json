@@ -1,0 +1,13 @@
+{
+    "PREFETCH_SRL": {
+        "name": "PREFETCH_SRL",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "srl"
+            }
+        ],
+        "return_type": "void"
+    }
+}

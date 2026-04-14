@@ -1,0 +1,13 @@
+{
+    "_0X03300B57FCAC6DDB": {
+        "name": "_0X03300B57FCAC6DDB",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

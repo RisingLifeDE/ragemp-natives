@@ -1,0 +1,8 @@
+{
+    "GAMER_HAS_HEADSET": {
+        "name": "GAMER_HAS_HEADSET",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_VEHICLE_NODE_POSITION": {
+        "name": "GET_VEHICLE_NODE_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "nodeId"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

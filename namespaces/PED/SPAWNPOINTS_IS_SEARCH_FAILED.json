@@ -1,0 +1,8 @@
+{
+    "SPAWNPOINTS_IS_SEARCH_FAILED": {
+        "name": "SPAWNPOINTS_IS_SEARCH_FAILED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

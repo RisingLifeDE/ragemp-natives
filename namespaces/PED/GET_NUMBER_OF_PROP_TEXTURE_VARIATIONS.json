@@ -1,0 +1,21 @@
+{
+    "GET_NUMBER_OF_PROP_TEXTURE_VARIATIONS": {
+        "name": "GET_NUMBER_OF_PROP_TEXTURE_VARIATIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "propId"
+            },
+            {
+                "type": "float",
+                "name": "drawableId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

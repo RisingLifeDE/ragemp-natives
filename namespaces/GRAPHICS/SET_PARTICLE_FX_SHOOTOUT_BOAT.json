@@ -1,0 +1,13 @@
+{
+    "SET_PARTICLE_FX_SHOOTOUT_BOAT": {
+        "name": "SET_PARTICLE_FX_SHOOTOUT_BOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

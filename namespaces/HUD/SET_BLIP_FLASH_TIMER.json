@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_FLASH_TIMER": {
+        "name": "SET_BLIP_FLASH_TIMER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

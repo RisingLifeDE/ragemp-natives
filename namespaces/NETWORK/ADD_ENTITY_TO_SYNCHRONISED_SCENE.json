@@ -1,0 +1,37 @@
+{
+    "ADD_ENTITY_TO_SYNCHRONISED_SCENE": {
+        "name": "ADD_ENTITY_TO_SYNCHRONISED_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "netScene"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "speedMulitiplier"
+            },
+            {
+                "type": "float",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void"
+    }
+}

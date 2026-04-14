@@ -1,0 +1,13 @@
+{
+    "STAT_GET_LICENSE_PLATE": {
+        "name": "STAT_GET_LICENSE_PLATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statName"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

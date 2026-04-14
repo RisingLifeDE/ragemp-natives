@@ -1,0 +1,21 @@
+{
+    "HAS_PED_GOT": {
+        "name": "HAS_PED_GOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

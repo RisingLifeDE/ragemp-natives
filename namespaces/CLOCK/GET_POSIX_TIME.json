@@ -1,0 +1,8 @@
+{
+    "GET_POSIX_TIME": {
+        "name": "GET_POSIX_TIME",
+        "comment": "",
+        "params": [],
+        "return_type": "GetPosixTimeResult"
+    }
+}

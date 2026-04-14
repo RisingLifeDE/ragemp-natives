@@ -1,0 +1,17 @@
+{
+    "SET_GROUP_FORMATION": {
+        "name": "SET_GROUP_FORMATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "groupId"
+            },
+            {
+                "type": "float",
+                "name": "formationType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

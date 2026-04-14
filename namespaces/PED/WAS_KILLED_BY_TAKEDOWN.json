@@ -1,0 +1,13 @@
+{
+    "WAS_KILLED_BY_TAKEDOWN": {
+        "name": "WAS_KILLED_BY_TAKEDOWN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "GET_CURRENT_PED": {
+        "name": "GET_CURRENT_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

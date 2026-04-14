@@ -1,0 +1,8 @@
+{
+    "GET_GLOBAL_WATER_TYPE": {
+        "name": "GET_GLOBAL_WATER_TYPE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

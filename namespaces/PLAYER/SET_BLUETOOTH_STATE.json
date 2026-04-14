@@ -1,0 +1,13 @@
+{
+    "SET_BLUETOOTH_STATE": {
+        "name": "SET_BLUETOOTH_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void"
+    }
+}

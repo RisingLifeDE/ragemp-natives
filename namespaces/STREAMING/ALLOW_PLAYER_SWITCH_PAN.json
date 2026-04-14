@@ -1,0 +1,8 @@
+{
+    "ALLOW_PLAYER_SWITCH_PAN": {
+        "name": "ALLOW_PLAYER_SWITCH_PAN",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

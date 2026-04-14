@@ -1,0 +1,13 @@
+{
+    "LOG_DEBUG_INFO": {
+        "name": "LOG_DEBUG_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

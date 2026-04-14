@@ -1,0 +1,8 @@
+{
+    "IS_TRANSITION_CLOSED_CREW": {
+        "name": "IS_TRANSITION_CLOSED_CREW",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

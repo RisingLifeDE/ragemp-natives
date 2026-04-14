@@ -1,0 +1,8 @@
+{
+    "IS_HELP_MESSAGE_BEING_DISPLAYED": {
+        "name": "IS_HELP_MESSAGE_BEING_DISPLAYED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

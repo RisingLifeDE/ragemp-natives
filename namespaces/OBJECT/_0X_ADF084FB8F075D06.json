@@ -1,0 +1,13 @@
+{
+    "_0X_ADF084FB8F075D06": {
+        "name": "_0X_ADF084FB8F075D06",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

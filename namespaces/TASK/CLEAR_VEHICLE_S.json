@@ -1,0 +1,13 @@
+{
+    "CLEAR_VEHICLE_S": {
+        "name": "CLEAR_VEHICLE_S",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

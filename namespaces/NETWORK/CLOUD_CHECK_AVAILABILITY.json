@@ -1,0 +1,8 @@
+{
+    "CLOUD_CHECK_AVAILABILITY": {
+        "name": "CLOUD_CHECK_AVAILABILITY",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "GET_DRIVE_FORCE_CURVE_VALUE": {
+        "name": "GET_DRIVE_FORCE_CURVE_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "curveNameHash"
+            },
+            {
+                "type": "float",
+                "name": "input"
+            }
+        ],
+        "return_type": "float"
+    }
+}

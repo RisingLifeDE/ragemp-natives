@@ -1,0 +1,17 @@
+{
+    "GET_VARIANT_PROP": {
+        "name": "GET_VARIANT_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            },
+            {
+                "type": "float",
+                "name": "variantPropIndex"
+            }
+        ],
+        "return_type": "GetVariantPropResult"
+    }
+}

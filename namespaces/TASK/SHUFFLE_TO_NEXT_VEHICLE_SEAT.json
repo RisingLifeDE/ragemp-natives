@@ -1,0 +1,21 @@
+{
+    "SHUFFLE_TO_NEXT_VEHICLE_SEAT": {
+        "name": "SHUFFLE_TO_NEXT_VEHICLE_SEAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

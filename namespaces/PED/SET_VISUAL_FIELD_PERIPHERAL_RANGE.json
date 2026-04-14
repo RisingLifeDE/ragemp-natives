@@ -1,0 +1,17 @@
+{
+    "SET_VISUAL_FIELD_PERIPHERAL_RANGE": {
+        "name": "SET_VISUAL_FIELD_PERIPHERAL_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "void"
+    }
+}

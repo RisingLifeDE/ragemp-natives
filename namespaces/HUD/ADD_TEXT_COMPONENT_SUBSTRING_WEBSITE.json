@@ -1,0 +1,13 @@
+{
+    "ADD_TEXT_COMPONENT_SUBSTRING_WEBSITE": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_WEBSITE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "website"
+            }
+        ],
+        "return_type": "void"
+    }
+}

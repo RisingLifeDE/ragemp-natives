@@ -1,0 +1,13 @@
+{
+    "SET_PHONE_SCALE": {
+        "name": "SET_PHONE_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

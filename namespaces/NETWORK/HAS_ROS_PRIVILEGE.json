@@ -1,0 +1,13 @@
+{
+    "HAS_ROS_PRIVILEGE": {
+        "name": "HAS_ROS_PRIVILEGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

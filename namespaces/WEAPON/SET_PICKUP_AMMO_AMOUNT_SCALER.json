@@ -1,0 +1,13 @@
+{
+    "SET_PICKUP_AMMO_AMOUNT_SCALER": {
+        "name": "SET_PICKUP_AMMO_AMOUNT_SCALER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

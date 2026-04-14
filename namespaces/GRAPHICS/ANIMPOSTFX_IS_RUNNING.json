@@ -1,0 +1,13 @@
+{
+    "ANIMPOSTFX_IS_RUNNING": {
+        "name": "ANIMPOSTFX_IS_RUNNING",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

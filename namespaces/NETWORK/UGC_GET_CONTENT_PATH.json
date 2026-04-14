@@ -1,0 +1,17 @@
+{
+    "UGC_GET_CONTENT_PATH": {
+        "name": "UGC_GET_CONTENT_PATH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

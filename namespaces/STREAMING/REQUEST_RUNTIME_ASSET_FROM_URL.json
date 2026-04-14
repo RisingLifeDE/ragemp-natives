@@ -1,0 +1,17 @@
+{
+    "REQUEST_RUNTIME_ASSET_FROM_URL": {
+        "name": "REQUEST_RUNTIME_ASSET_FROM_URL",
+        "comment": "Runtime assets can be replaced dynamically without restrictions, but the server-side game assets intended for replacements must include the \"rta_\" prefix in its name.",
+        "params": [
+            {
+                "type": "char*",
+                "name": "resourceName"
+            },
+            {
+                "type": "char*",
+                "name": "url"
+            }
+        ],
+        "return_type": "Promise<boolean>"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_APP": {
+        "name": "SET_APP",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "appName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

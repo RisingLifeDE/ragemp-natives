@@ -1,0 +1,17 @@
+{
+    "BEGIN_REPLAY_STATS": {
+        "name": "BEGIN_REPLAY_STATS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

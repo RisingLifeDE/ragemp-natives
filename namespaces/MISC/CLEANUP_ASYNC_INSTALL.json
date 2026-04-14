@@ -1,0 +1,8 @@
+{
+    "CLEANUP_ASYNC_INSTALL": {
+        "name": "CLEANUP_ASYNC_INSTALL",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

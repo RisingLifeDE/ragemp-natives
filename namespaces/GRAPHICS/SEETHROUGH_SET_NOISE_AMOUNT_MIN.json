@@ -1,0 +1,13 @@
+{
+    "SEETHROUGH_SET_NOISE_AMOUNT_MIN": {
+        "name": "SEETHROUGH_SET_NOISE_AMOUNT_MIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

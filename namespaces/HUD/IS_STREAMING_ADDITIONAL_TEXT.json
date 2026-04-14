@@ -1,0 +1,13 @@
+{
+    "IS_STREAMING_ADDITIONAL_TEXT": {
+        "name": "IS_STREAMING_ADDITIONAL_TEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "slotNumber"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

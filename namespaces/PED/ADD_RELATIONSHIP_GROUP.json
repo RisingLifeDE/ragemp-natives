@@ -1,0 +1,13 @@
+{
+    "ADD_RELATIONSHIP_GROUP": {
+        "name": "ADD_RELATIONSHIP_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "float"
+    }
+}

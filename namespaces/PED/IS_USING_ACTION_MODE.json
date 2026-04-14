@@ -1,0 +1,13 @@
+{
+    "IS_USING_ACTION_MODE": {
+        "name": "IS_USING_ACTION_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

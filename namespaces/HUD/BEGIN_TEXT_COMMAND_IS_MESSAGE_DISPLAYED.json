@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_IS_MESSAGE_DISPLAYED": {
+        "name": "BEGIN_TEXT_COMMAND_IS_MESSAGE_DISPLAYED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void"
+    }
+}

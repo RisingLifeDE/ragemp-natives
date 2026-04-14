@@ -1,0 +1,8 @@
+{
+    "GET_SNOW_LEVEL": {
+        "name": "GET_SNOW_LEVEL",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_SCRIPT_STATUS": {
+        "name": "GET_SCRIPT_STATUS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

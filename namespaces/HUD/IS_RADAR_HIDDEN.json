@@ -1,0 +1,8 @@
+{
+    "IS_RADAR_HIDDEN": {
+        "name": "IS_RADAR_HIDDEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

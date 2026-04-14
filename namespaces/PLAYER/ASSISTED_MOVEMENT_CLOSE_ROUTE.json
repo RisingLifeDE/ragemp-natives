@@ -1,0 +1,8 @@
+{
+    "ASSISTED_MOVEMENT_CLOSE_ROUTE": {
+        "name": "ASSISTED_MOVEMENT_CLOSE_ROUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "JOIN_PREVIOUSLY_FAILED_SESSION": {
+        "name": "JOIN_PREVIOUSLY_FAILED_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

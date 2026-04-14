@@ -1,0 +1,13 @@
+{
+    "REMOVE_CUT_FILE": {
+        "name": "REMOVE_CUT_FILE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "START_NEW_SCRIPT_WITH_NAME_HASH": {
+        "name": "START_NEW_SCRIPT_WITH_NAME_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scriptHash"
+            },
+            {
+                "type": "float",
+                "name": "stackSize"
+            }
+        ],
+        "return_type": "float"
+    }
+}

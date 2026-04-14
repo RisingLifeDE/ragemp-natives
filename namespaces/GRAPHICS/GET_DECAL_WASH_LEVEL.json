@@ -1,0 +1,13 @@
+{
+    "GET_DECAL_WASH_LEVEL": {
+        "name": "GET_DECAL_WASH_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "decal"
+            }
+        ],
+        "return_type": "float"
+    }
+}

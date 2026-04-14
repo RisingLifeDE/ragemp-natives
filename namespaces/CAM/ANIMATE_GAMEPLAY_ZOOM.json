@@ -1,0 +1,17 @@
+{
+    "ANIMATE_GAMEPLAY_ZOOM": {
+        "name": "ANIMATE_GAMEPLAY_ZOOM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void"
+    }
+}

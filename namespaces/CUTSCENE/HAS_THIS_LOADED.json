@@ -1,0 +1,13 @@
+{
+    "HAS_THIS_LOADED": {
+        "name": "HAS_THIS_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

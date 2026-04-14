@@ -1,0 +1,13 @@
+{
+    "IS_SCUBA_GEAR_LIGHT_ENABLED": {
+        "name": "IS_SCUBA_GEAR_LIGHT_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

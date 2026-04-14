@@ -1,0 +1,17 @@
+{
+    "SET_DYNAMIC": {
+        "name": "SET_DYNAMIC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

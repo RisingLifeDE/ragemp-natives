@@ -1,0 +1,13 @@
+{
+    "SET_TALKER_PROXIMITY": {
+        "name": "SET_TALKER_PROXIMITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

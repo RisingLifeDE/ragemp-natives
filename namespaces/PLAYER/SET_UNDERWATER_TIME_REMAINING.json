@@ -1,0 +1,13 @@
+{
+    "SET_UNDERWATER_TIME_REMAINING": {
+        "name": "SET_UNDERWATER_TIME_REMAINING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "float"
+    }
+}

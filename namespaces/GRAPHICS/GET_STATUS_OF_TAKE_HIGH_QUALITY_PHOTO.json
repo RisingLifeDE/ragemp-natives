@@ -1,0 +1,8 @@
+{
+    "GET_STATUS_OF_TAKE_HIGH_QUALITY_PHOTO": {
+        "name": "GET_STATUS_OF_TAKE_HIGH_QUALITY_PHOTO",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_NAVMESH_ROUTE_RESULT": {
+        "name": "GET_NAVMESH_ROUTE_RESULT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

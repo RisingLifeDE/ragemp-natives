@@ -1,0 +1,17 @@
+{
+    "_0X6A973569BA094650": {
+        "name": "_0X6A973569BA094650",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

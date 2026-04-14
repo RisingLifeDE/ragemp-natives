@@ -1,0 +1,8 @@
+{
+    "GET_GAMER_STATUS": {
+        "name": "GET_GAMER_STATUS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

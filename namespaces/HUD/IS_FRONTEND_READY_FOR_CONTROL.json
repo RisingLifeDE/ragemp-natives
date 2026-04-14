@@ -1,0 +1,8 @@
+{
+    "IS_FRONTEND_READY_FOR_CONTROL": {
+        "name": "IS_FRONTEND_READY_FOR_CONTROL",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

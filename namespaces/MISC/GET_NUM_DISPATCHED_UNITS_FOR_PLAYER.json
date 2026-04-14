@@ -1,0 +1,13 @@
+{
+    "GET_NUM_DISPATCHED_UNITS_FOR_PLAYER": {
+        "name": "GET_NUM_DISPATCHED_UNITS_FOR_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dispatchService"
+            }
+        ],
+        "return_type": "float"
+    }
+}

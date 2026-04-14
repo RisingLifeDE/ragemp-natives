@@ -1,0 +1,17 @@
+{
+    "_0X75BA1CB3B7D40CAF": {
+        "name": "_0X75BA1CB3B7D40CAF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

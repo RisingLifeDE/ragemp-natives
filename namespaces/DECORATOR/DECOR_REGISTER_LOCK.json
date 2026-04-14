@@ -1,0 +1,8 @@
+{
+    "DECOR_REGISTER_LOCK": {
+        "name": "DECOR_REGISTER_LOCK",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

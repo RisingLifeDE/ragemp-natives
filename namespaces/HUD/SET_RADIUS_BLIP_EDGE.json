@@ -1,0 +1,17 @@
+{
+    "SET_RADIUS_BLIP_EDGE": {
+        "name": "SET_RADIUS_BLIP_EDGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

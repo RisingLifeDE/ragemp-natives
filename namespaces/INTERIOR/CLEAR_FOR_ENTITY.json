@@ -1,0 +1,13 @@
+{
+    "CLEAR_FOR_ENTITY": {
+        "name": "CLEAR_FOR_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

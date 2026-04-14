@@ -1,0 +1,33 @@
+{
+    "UGC_UPDATE_CONTENT": {
+        "name": "UGC_UPDATE_CONTENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "contentId"
+            },
+            {
+                "type": "float",
+                "name": "dataCount"
+            },
+            {
+                "type": "char*",
+                "name": "contentName"
+            },
+            {
+                "type": "char*",
+                "name": "description"
+            },
+            {
+                "type": "char*",
+                "name": "tagsCsv"
+            },
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLOSE_APP": {
+        "name": "CLOSE_APP",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

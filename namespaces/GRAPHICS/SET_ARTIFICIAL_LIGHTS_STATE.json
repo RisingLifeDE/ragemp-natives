@@ -1,0 +1,13 @@
+{
+    "SET_ARTIFICIAL_LIGHTS_STATE": {
+        "name": "SET_ARTIFICIAL_LIGHTS_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void"
+    }
+}

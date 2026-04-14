@@ -1,0 +1,13 @@
+{
+    "CAN_SET_EXIT_STATE_FOR_CAMERA": {
+        "name": "CAN_SET_EXIT_STATE_FOR_CAMERA",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

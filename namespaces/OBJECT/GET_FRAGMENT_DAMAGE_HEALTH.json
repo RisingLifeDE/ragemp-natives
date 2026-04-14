@@ -1,0 +1,17 @@
+{
+    "GET_FRAGMENT_DAMAGE_HEALTH": {
+        "name": "GET_FRAGMENT_DAMAGE_HEALTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

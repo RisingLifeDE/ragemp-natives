@@ -1,0 +1,21 @@
+{
+    "REGISTER_WORLD_POINT_SCRIPT": {
+        "name": "REGISTER_WORLD_POINT_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "float",
+                "name": "activationRange"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLAN_REMOTE_MEMBERSHIPS_ARE_IN_CACHE": {
+        "name": "CLAN_REMOTE_MEMBERSHIPS_ARE_IN_CACHE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

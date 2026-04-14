@@ -1,0 +1,13 @@
+{
+    "IS_DIVING": {
+        "name": "IS_DIVING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

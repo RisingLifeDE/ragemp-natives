@@ -1,0 +1,8 @@
+{
+    "IS_SWITCH_READY_FOR_DESCENT": {
+        "name": "IS_SWITCH_READY_FOR_DESCENT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

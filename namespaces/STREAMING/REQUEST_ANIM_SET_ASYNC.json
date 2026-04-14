@@ -1,0 +1,18 @@
+{
+    "REQUEST_ANIM_SET_ASYNC": {
+        "name": "REQUEST_ANIM_SET_ASYNC",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "timeout",
+                "description": "5000 default"
+            }
+        ],
+        "return_type": "Promise<boolean>"
+    }
+}

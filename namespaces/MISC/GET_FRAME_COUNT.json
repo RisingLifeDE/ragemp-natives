@@ -1,0 +1,8 @@
+{
+    "GET_FRAME_COUNT": {
+        "name": "GET_FRAME_COUNT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

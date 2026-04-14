@@ -1,0 +1,8 @@
+{
+    "GET_SPRINT_TIME_REMAINING": {
+        "name": "GET_SPRINT_TIME_REMAINING",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

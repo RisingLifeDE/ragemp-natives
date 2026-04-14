@@ -1,0 +1,29 @@
+{
+    "SET_TEXT_DROPSHADOW": {
+        "name": "SET_TEXT_DROPSHADOW",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            },
+            {
+                "type": "float",
+                "name": "a"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "UGC_TEXTURE_DOWNLOAD_REQUEST": {
+        "name": "UGC_TEXTURE_DOWNLOAD_REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "UgcTextureDownloadRequestResult"
+    }
+}

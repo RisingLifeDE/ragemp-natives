@@ -1,0 +1,8 @@
+{
+    "GAMERTAG_FROM_HANDLE_PENDING": {
+        "name": "GAMERTAG_FROM_HANDLE_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

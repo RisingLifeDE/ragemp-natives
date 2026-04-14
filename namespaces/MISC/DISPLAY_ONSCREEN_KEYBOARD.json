@@ -1,0 +1,41 @@
+{
+    "DISPLAY_ONSCREEN_KEYBOARD": {
+        "name": "DISPLAY_ONSCREEN_KEYBOARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "windowTitle"
+            },
+            {
+                "type": "char*",
+                "name": "p2"
+            },
+            {
+                "type": "char*",
+                "name": "defaultText"
+            },
+            {
+                "type": "char*",
+                "name": "defaultConcat1"
+            },
+            {
+                "type": "char*",
+                "name": "defaultConcat2"
+            },
+            {
+                "type": "char*",
+                "name": "defaultConcat3"
+            },
+            {
+                "type": "float",
+                "name": "maxInputLength"
+            }
+        ],
+        "return_type": "void"
+    }
+}

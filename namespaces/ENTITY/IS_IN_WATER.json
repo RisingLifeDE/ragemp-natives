@@ -1,0 +1,13 @@
+{
+    "IS_IN_WATER": {
+        "name": "IS_IN_WATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

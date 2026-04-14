@@ -1,0 +1,8 @@
+{
+    "GET_IS_PLAYER_IN_ANIMAL_FORM": {
+        "name": "GET_IS_PLAYER_IN_ANIMAL_FORM",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

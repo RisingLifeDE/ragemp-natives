@@ -1,0 +1,13 @@
+{
+    "DOES_ROPE_BELONG_TO_THIS_SCRIPT": {
+        "name": "DOES_ROPE_BELONG_TO_THIS_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_CABLE_CONNECTED": {
+        "name": "IS_CABLE_CONNECTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

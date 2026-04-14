@@ -1,0 +1,8 @@
+{
+    "IS_SRL_LOADED": {
+        "name": "IS_SRL_LOADED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

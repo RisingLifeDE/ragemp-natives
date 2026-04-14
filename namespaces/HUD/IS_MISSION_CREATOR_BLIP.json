@@ -1,0 +1,13 @@
+{
+    "IS_MISSION_CREATOR_BLIP": {
+        "name": "IS_MISSION_CREATOR_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

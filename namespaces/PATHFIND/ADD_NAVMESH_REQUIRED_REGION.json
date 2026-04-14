@@ -1,0 +1,21 @@
+{
+    "ADD_NAVMESH_REQUIRED_REGION": {
+        "name": "ADD_NAVMESH_REQUIRED_REGION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void"
+    }
+}

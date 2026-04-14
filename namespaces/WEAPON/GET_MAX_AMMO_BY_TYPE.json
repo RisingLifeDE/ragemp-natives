@@ -1,0 +1,17 @@
+{
+    "GET_MAX_AMMO_BY_TYPE": {
+        "name": "GET_MAX_AMMO_BY_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "ammoTypeHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

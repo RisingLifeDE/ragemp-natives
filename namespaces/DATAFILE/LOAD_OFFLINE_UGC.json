@@ -1,0 +1,13 @@
+{
+    "LOAD_OFFLINE_UGC": {
+        "name": "LOAD_OFFLINE_UGC",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "filename"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

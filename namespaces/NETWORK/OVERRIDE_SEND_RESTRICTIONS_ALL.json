@@ -1,0 +1,13 @@
+{
+    "OVERRIDE_SEND_RESTRICTIONS_ALL": {
+        "name": "OVERRIDE_SEND_RESTRICTIONS_ALL",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

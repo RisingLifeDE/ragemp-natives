@@ -1,0 +1,13 @@
+{
+    "PLAY_BAN_ALERT": {
+        "name": "PLAY_BAN_ALERT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

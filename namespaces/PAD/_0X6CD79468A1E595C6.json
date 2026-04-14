@@ -1,0 +1,13 @@
+{
+    "_0X6CD79468A1E595C6": {
+        "name": "_0X6CD79468A1E595C6",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

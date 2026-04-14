@@ -1,0 +1,13 @@
+{
+    "SET_LOCKON": {
+        "name": "SET_LOCKON",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_PAUSE_MENU_STATE": {
+        "name": "GET_PAUSE_MENU_STATE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

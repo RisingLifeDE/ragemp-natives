@@ -1,0 +1,29 @@
+{
+    "SET_ROT": {
+        "name": "SET_ROT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "void"
+    }
+}

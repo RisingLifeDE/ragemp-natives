@@ -1,0 +1,21 @@
+{
+    "SET_ID_VISIBLE_IN_CUTSCENE": {
+        "name": "SET_ID_VISIBLE_IN_CUTSCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

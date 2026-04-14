@@ -1,0 +1,13 @@
+{
+    "HAS_STREAMED_TEXTURE_DICT_LOADED": {
+        "name": "HAS_STREAMED_TEXTURE_DICT_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "textureDict"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

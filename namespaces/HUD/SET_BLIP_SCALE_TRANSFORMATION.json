@@ -1,0 +1,21 @@
+{
+    "SET_BLIP_SCALE_TRANSFORMATION": {
+        "name": "SET_BLIP_SCALE_TRANSFORMATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "xScale"
+            },
+            {
+                "type": "float",
+                "name": "yScale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

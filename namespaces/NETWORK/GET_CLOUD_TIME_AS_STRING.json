@@ -1,0 +1,8 @@
+{
+    "GET_CLOUD_TIME_AS_STRING": {
+        "name": "GET_CLOUD_TIME_AS_STRING",
+        "comment": "",
+        "params": [],
+        "return_type": "char*"
+    }
+}

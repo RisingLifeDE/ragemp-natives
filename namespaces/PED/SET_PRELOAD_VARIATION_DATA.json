@@ -1,0 +1,25 @@
+{
+    "SET_PRELOAD_VARIATION_DATA": {
+        "name": "SET_PRELOAD_VARIATION_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "slot"
+            },
+            {
+                "type": "float",
+                "name": "drawableId"
+            },
+            {
+                "type": "float",
+                "name": "textureId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

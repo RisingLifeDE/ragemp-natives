@@ -1,0 +1,17 @@
+{
+    "SET_SCRIPTED_ANIM_SEAT_OFFSET": {
+        "name": "SET_SCRIPTED_ANIM_SEAT_OFFSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "STOP_AND_DISCARD_CLIP": {
+        "name": "STOP_AND_DISCARD_CLIP",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_SHOULD_PLAY_NORMAL_SCENARIO_EXIT": {
+        "name": "SET_SHOULD_PLAY_NORMAL_SCENARIO_EXIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

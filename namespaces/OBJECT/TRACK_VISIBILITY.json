@@ -1,0 +1,13 @@
+{
+    "TRACK_VISIBILITY": {
+        "name": "TRACK_VISIBILITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "void"
+    }
+}

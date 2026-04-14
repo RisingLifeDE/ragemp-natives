@@ -1,0 +1,8 @@
+{
+    "RESET_INPUT_MAPPING_SCHEME": {
+        "name": "RESET_INPUT_MAPPING_SCHEME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

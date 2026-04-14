@@ -1,0 +1,8 @@
+{
+    "IS_FRONTEND_FADING": {
+        "name": "IS_FRONTEND_FADING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

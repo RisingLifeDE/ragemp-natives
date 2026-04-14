@@ -1,0 +1,45 @@
+{
+    "VEHICLE_MISSION": {
+        "name": "VEHICLE_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "vehicleTarget"
+            },
+            {
+                "type": "float",
+                "name": "missionType"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "DriveAgainstTraffic"
+            }
+        ],
+        "return_type": "void"
+    }
+}

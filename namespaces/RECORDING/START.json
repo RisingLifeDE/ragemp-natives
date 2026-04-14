@@ -1,0 +1,13 @@
+{
+    "START": {
+        "name": "START",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "mode"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "SET_WARNING_MESSAGE_WITH_HEADER": {
+        "name": "SET_WARNING_MESSAGE_WITH_HEADER",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "entryHeader"
+            },
+            {
+                "type": "char*",
+                "name": "entryLine1"
+            },
+            {
+                "type": "float",
+                "name": "instructionalKey"
+            },
+            {
+                "type": "char*",
+                "name": "entryLine2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            }
+        ],
+        "return_type": "SetWarningMessageWithHeaderResult"
+    }
+}

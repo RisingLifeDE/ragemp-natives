@@ -1,0 +1,21 @@
+{
+    "CHANGE_PED": {
+        "name": "CHANGE_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "resetDamage"
+            }
+        ],
+        "return_type": "void"
+    }
+}

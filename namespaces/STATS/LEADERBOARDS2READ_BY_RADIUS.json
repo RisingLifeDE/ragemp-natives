@@ -1,0 +1,13 @@
+{
+    "LEADERBOARDS2READ_BY_RADIUS": {
+        "name": "LEADERBOARDS2READ_BY_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Leaderboards2ReadByRadiusResult"
+    }
+}

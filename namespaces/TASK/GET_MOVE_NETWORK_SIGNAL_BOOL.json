@@ -1,0 +1,17 @@
+{
+    "GET_MOVE_NETWORK_SIGNAL_BOOL": {
+        "name": "GET_MOVE_NETWORK_SIGNAL_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "signalName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

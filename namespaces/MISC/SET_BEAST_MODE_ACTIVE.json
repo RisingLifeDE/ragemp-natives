@@ -1,0 +1,13 @@
+{
+    "SET_BEAST_MODE_ACTIVE": {
+        "name": "SET_BEAST_MODE_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "void"
+    }
+}

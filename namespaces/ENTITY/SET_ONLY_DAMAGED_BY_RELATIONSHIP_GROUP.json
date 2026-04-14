@@ -1,0 +1,21 @@
+{
+    "SET_ONLY_DAMAGED_BY_RELATIONSHIP_GROUP": {
+        "name": "SET_ONLY_DAMAGED_BY_RELATIONSHIP_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

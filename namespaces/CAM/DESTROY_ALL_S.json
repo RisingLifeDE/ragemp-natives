@@ -1,0 +1,13 @@
+{
+    "DESTROY_ALL_S": {
+        "name": "DESTROY_ALL_S",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "bScriptHostCam"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "SET_PHONE_POSITION": {
+        "name": "SET_PHONE_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "void"
+    }
+}

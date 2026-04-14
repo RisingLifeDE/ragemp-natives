@@ -1,0 +1,13 @@
+{
+    "SET_RANDOM_EVENT_FLAG": {
+        "name": "SET_RANDOM_EVENT_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

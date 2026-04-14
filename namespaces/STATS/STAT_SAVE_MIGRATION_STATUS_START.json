@@ -1,0 +1,8 @@
+{
+    "STAT_SAVE_MIGRATION_STATUS_START": {
+        "name": "STAT_SAVE_MIGRATION_STATUS_START",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

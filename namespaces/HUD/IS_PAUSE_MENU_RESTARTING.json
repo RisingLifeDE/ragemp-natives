@@ -1,0 +1,8 @@
+{
+    "IS_PAUSE_MENU_RESTARTING": {
+        "name": "IS_PAUSE_MENU_RESTARTING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

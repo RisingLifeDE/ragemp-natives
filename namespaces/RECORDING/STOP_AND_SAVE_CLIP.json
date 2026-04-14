@@ -1,0 +1,8 @@
+{
+    "STOP_AND_SAVE_CLIP": {
+        "name": "STOP_AND_SAVE_CLIP",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

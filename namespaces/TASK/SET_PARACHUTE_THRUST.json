@@ -1,0 +1,17 @@
+{
+    "SET_PARACHUTE_THRUST": {
+        "name": "SET_PARACHUTE_THRUST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "thrust"
+            }
+        ],
+        "return_type": "void"
+    }
+}

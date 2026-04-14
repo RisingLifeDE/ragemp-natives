@@ -1,0 +1,13 @@
+{
+    "SET_BINK_MOVIE": {
+        "name": "SET_BINK_MOVIE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "float"
+    }
+}

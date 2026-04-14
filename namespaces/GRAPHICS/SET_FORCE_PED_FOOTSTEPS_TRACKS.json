@@ -1,0 +1,13 @@
+{
+    "SET_FORCE_PED_FOOTSTEPS_TRACKS": {
+        "name": "SET_FORCE_PED_FOOTSTEPS_TRACKS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

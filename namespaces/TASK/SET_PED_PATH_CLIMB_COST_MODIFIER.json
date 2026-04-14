@@ -1,0 +1,17 @@
+{
+    "SET_PED_PATH_CLIMB_COST_MODIFIER": {
+        "name": "SET_PED_PATH_CLIMB_COST_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "CLOUD_HAS_REQUEST_COMPLETED": {
+        "name": "CLOUD_HAS_REQUEST_COMPLETED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "handle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

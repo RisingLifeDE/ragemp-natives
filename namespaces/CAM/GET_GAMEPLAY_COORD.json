@@ -1,0 +1,8 @@
+{
+    "GET_GAMEPLAY_COORD": {
+        "name": "GET_GAMEPLAY_COORD",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "_0X97A770BEEF227E2B": {
+        "name": "_0X97A770BEEF227E2B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "_0x97A770BEEF227E2BResult"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_NUMBER_OF_S": {
+        "name": "GET_NUMBER_OF_S",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

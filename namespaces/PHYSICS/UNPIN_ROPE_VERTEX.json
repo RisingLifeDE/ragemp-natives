@@ -1,0 +1,17 @@
+{
+    "UNPIN_ROPE_VERTEX": {
+        "name": "UNPIN_ROPE_VERTEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "vertex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

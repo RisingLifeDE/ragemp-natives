@@ -1,0 +1,8 @@
+{
+    "RESET_DISPATCH_SPAWN_BLOCKING_AREAS": {
+        "name": "RESET_DISPATCH_SPAWN_BLOCKING_AREAS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "LEADERBOARDS2WRITE_DATA_FOR_EVENT_TYPE": {
+        "name": "LEADERBOARDS2WRITE_DATA_FOR_EVENT_TYPE",
+        "comment": "",
+        "params": [],
+        "return_type": "Leaderboards2WriteDataForEventTypeResult"
+    }
+}

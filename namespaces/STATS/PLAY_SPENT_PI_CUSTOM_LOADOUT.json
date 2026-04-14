@@ -1,0 +1,13 @@
+{
+    "PLAY_SPENT_PI_CUSTOM_LOADOUT": {
+        "name": "PLAY_SPENT_PI_CUSTOM_LOADOUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

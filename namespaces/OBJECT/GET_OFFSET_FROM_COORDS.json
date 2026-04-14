@@ -1,0 +1,37 @@
+{
+    "GET_OFFSET_FROM_COORDS": {
+        "name": "GET_OFFSET_FROM_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

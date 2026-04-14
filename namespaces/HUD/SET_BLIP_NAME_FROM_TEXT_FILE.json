@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_NAME_FROM_TEXT_FILE": {
+        "name": "SET_BLIP_NAME_FROM_TEXT_FILE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "char*",
+                "name": "gxtEntry"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_REQUESTINGNIGHTVISION": {
+        "name": "GET_REQUESTINGNIGHTVISION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

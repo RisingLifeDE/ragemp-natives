@@ -1,0 +1,17 @@
+{
+    "REACT_AND_FLEE_PED": {
+        "name": "REACT_AND_FLEE_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "fleeTarget"
+            }
+        ],
+        "return_type": "void"
+    }
+}

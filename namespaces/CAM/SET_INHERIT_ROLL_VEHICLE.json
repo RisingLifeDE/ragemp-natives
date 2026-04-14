@@ -1,0 +1,17 @@
+{
+    "SET_INHERIT_ROLL_VEHICLE": {
+        "name": "SET_INHERIT_ROLL_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "REGISTER_TUNABLE_INT_HASH": {
+        "name": "REGISTER_TUNABLE_INT_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "contextHash"
+            },
+            {
+                "type": "float",
+                "name": "nameHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

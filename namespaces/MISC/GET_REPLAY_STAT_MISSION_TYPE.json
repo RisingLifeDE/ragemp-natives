@@ -1,0 +1,8 @@
+{
+    "GET_REPLAY_STAT_MISSION_TYPE": {
+        "name": "GET_REPLAY_STAT_MISSION_TYPE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

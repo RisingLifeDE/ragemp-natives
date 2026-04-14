@@ -1,0 +1,13 @@
+{
+    "IS_A_PLAYER": {
+        "name": "IS_A_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

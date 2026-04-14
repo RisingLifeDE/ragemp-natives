@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_SCALEFORM_STRING": {
+        "name": "BEGIN_TEXT_COMMAND_SCALEFORM_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "componentType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

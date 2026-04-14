@@ -1,0 +1,17 @@
+{
+    "SET_MOTION_BLUR_STRENGTH": {
+        "name": "SET_MOTION_BLUR_STRENGTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void"
+    }
+}

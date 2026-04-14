@@ -1,0 +1,17 @@
+{
+    "REMOVE_STEALTH_KILL": {
+        "name": "REMOVE_STEALTH_KILL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "HAVE_ONLINE_PRIVILEGES": {
+        "name": "HAVE_ONLINE_PRIVILEGES",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

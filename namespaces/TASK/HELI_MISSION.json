@@ -1,0 +1,69 @@
+{
+    "HELI_MISSION": {
+        "name": "HELI_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pilot"
+            },
+            {
+                "type": "float",
+                "name": "aircraft"
+            },
+            {
+                "type": "float",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "float",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "destinationX"
+            },
+            {
+                "type": "float",
+                "name": "destinationY"
+            },
+            {
+                "type": "float",
+                "name": "destinationZ"
+            },
+            {
+                "type": "float",
+                "name": "missionFlag"
+            },
+            {
+                "type": "float",
+                "name": "maxSpeed"
+            },
+            {
+                "type": "float",
+                "name": "landingRadius"
+            },
+            {
+                "type": "float",
+                "name": "targetHeading"
+            },
+            {
+                "type": "float",
+                "name": "unk1"
+            },
+            {
+                "type": "float",
+                "name": "unk2"
+            },
+            {
+                "type": "float",
+                "name": "unk3"
+            },
+            {
+                "type": "float",
+                "name": "landingFlags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

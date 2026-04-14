@@ -1,0 +1,17 @@
+{
+    "SET_MOVE_RATE_OVERRIDE": {
+        "name": "SET_MOVE_RATE_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

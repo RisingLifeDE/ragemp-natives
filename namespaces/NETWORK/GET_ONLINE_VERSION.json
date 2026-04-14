@@ -1,0 +1,8 @@
+{
+    "GET_ONLINE_VERSION": {
+        "name": "GET_ONLINE_VERSION",
+        "comment": "",
+        "params": [],
+        "return_type": "char*"
+    }
+}

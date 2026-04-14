@@ -1,0 +1,13 @@
+{
+    "HAS_ANIM_DICT_LOADED": {
+        "name": "HAS_ANIM_DICT_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

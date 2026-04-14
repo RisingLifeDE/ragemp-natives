@@ -1,0 +1,13 @@
+{
+    "REMOVE_HELMET": {
+        "name": "REMOVE_HELMET",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

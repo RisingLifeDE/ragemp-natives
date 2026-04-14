@@ -1,0 +1,17 @@
+{
+    "GET_CONTROL_UNBOUND_NORMAL": {
+        "name": "GET_CONTROL_UNBOUND_NORMAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            },
+            {
+                "type": "float",
+                "name": "control"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_CAN_BE_HASSLED_BY_GANGS": {
+        "name": "SET_CAN_BE_HASSLED_BY_GANGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

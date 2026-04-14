@@ -1,0 +1,17 @@
+{
+    "SET_GENERATES_DEAD_BODY_EVENTS": {
+        "name": "SET_GENERATES_DEAD_BODY_EVENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

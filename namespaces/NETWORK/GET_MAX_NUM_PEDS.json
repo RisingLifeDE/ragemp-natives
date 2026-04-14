@@ -1,0 +1,8 @@
+{
+    "GET_MAX_NUM_PEDS": {
+        "name": "GET_MAX_NUM_PEDS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

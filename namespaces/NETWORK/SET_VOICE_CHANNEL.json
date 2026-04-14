@@ -1,0 +1,13 @@
+{
+    "SET_VOICE_CHANNEL": {
+        "name": "SET_VOICE_CHANNEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "channel"
+            }
+        ],
+        "return_type": "void"
+    }
+}

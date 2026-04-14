@@ -1,0 +1,8 @@
+{
+    "SCRIPT_RACE_SHUTDOWN": {
+        "name": "SCRIPT_RACE_SHUTDOWN",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

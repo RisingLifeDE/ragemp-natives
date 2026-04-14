@@ -1,0 +1,8 @@
+{
+    "DETACH_VIRTUAL_BOUND": {
+        "name": "DETACH_VIRTUAL_BOUND",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

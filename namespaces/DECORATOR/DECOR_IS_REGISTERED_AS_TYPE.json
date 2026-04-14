@@ -1,0 +1,17 @@
+{
+    "DECOR_IS_REGISTERED_AS_TYPE": {
+        "name": "DECOR_IS_REGISTERED_AS_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "float",
+                "name": "type"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

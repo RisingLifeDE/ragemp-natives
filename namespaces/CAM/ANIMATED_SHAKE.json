@@ -1,0 +1,29 @@
+{
+    "ANIMATED_SHAKE": {
+        "name": "ANIMATED_SHAKE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            },
+            {
+                "type": "char*",
+                "name": "p2"
+            },
+            {
+                "type": "char*",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "amplitude"
+            }
+        ],
+        "return_type": "void"
+    }
+}

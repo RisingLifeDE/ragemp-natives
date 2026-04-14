@@ -1,0 +1,37 @@
+{
+    "SET_TO_RAGDOLL": {
+        "name": "SET_TO_RAGDOLL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "time1"
+            },
+            {
+                "type": "float",
+                "name": "time2"
+            },
+            {
+                "type": "float",
+                "name": "ragdollType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

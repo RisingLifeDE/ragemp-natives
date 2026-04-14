@@ -1,0 +1,13 @@
+{
+    "SET_RIOT_MODE_ENABLED": {
+        "name": "SET_RIOT_MODE_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "GIVE_COMPONENT_TO_WEAPON_OBJECT": {
+        "name": "GIVE_COMPONENT_TO_WEAPON_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponObject"
+            },
+            {
+                "type": "float",
+                "name": "addonHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

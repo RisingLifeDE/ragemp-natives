@@ -1,0 +1,21 @@
+{
+    "START_NEW_SCRIPT_WITH_NAME_HASH_AND_ARGS": {
+        "name": "START_NEW_SCRIPT_WITH_NAME_HASH_AND_ARGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scriptHash"
+            },
+            {
+                "type": "float",
+                "name": "argCount"
+            },
+            {
+                "type": "float",
+                "name": "stackSize"
+            }
+        ],
+        "return_type": "StartNewScriptWithNameHashAndArgsResult"
+    }
+}

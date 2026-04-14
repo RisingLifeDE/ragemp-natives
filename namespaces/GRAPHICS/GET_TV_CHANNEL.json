@@ -1,0 +1,8 @@
+{
+    "GET_TV_CHANNEL": {
+        "name": "GET_TV_CHANNEL",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

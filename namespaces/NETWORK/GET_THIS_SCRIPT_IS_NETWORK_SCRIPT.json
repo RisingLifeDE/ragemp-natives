@@ -1,0 +1,8 @@
+{
+    "GET_THIS_SCRIPT_IS_NETWORK_SCRIPT": {
+        "name": "GET_THIS_SCRIPT_IS_NETWORK_SCRIPT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

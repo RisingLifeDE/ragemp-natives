@@ -1,0 +1,17 @@
+{
+    "GET_PICKUP": {
+        "name": "GET_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

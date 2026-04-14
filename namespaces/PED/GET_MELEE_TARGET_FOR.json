@@ -1,0 +1,13 @@
+{
+    "GET_MELEE_TARGET_FOR": {
+        "name": "GET_MELEE_TARGET_FOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

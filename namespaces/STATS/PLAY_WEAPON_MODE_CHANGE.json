@@ -1,0 +1,21 @@
+{
+    "PLAY_WEAPON_MODE_CHANGE": {
+        "name": "PLAY_WEAPON_MODE_CHANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "componentHashTo"
+            },
+            {
+                "type": "float",
+                "name": "componentHashFrom"
+            }
+        ],
+        "return_type": "void"
+    }
+}

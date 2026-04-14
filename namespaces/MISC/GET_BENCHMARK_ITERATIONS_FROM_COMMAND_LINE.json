@@ -1,0 +1,8 @@
+{
+    "GET_BENCHMARK_ITERATIONS_FROM_COMMAND_LINE": {
+        "name": "GET_BENCHMARK_ITERATIONS_FROM_COMMAND_LINE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

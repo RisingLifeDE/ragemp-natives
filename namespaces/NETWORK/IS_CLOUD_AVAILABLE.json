@@ -1,0 +1,8 @@
+{
+    "IS_CLOUD_AVAILABLE": {
+        "name": "IS_CLOUD_AVAILABLE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

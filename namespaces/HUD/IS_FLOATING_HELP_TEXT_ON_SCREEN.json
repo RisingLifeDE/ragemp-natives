@@ -1,0 +1,13 @@
+{
+    "IS_FLOATING_HELP_TEXT_ON_SCREEN": {
+        "name": "IS_FLOATING_HELP_TEXT_ON_SCREEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudIndex"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

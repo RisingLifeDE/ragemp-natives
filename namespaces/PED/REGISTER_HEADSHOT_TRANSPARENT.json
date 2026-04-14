@@ -1,0 +1,13 @@
+{
+    "REGISTER_HEADSHOT_TRANSPARENT": {
+        "name": "REGISTER_HEADSHOT_TRANSPARENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

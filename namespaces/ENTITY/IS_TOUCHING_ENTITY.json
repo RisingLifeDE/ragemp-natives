@@ -1,0 +1,17 @@
+{
+    "IS_TOUCHING_ENTITY": {
+        "name": "IS_TOUCHING_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "targetEntity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_TRANSITION_VISIBILITY_LOCKED": {
+        "name": "IS_TRANSITION_VISIBILITY_LOCKED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

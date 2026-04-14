@@ -1,0 +1,8 @@
+{
+    "HAVE_ROS_CREATE_TICKET_PRIV": {
+        "name": "HAVE_ROS_CREATE_TICKET_PRIV",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLEAR_GPS_MULTI_ROUTE": {
+        "name": "CLEAR_GPS_MULTI_ROUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

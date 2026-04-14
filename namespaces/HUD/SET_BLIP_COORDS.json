@@ -1,0 +1,25 @@
+{
+    "SET_BLIP_COORDS": {
+        "name": "SET_BLIP_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "void"
+    }
+}

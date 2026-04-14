@@ -1,0 +1,13 @@
+{
+    "ATTACH_TV_AUDIO_TO_ENTITY": {
+        "name": "ATTACH_TV_AUDIO_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

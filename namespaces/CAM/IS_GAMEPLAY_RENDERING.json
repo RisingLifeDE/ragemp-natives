@@ -1,0 +1,8 @@
+{
+    "IS_GAMEPLAY_RENDERING": {
+        "name": "IS_GAMEPLAY_RENDERING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

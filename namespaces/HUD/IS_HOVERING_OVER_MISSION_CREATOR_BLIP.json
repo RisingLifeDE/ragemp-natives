@@ -1,0 +1,8 @@
+{
+    "IS_HOVERING_OVER_MISSION_CREATOR_BLIP": {
+        "name": "IS_HOVERING_OVER_MISSION_CREATOR_BLIP",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

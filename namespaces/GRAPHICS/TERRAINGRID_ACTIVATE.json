@@ -1,0 +1,13 @@
+{
+    "TERRAINGRID_ACTIVATE": {
+        "name": "TERRAINGRID_ACTIVATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

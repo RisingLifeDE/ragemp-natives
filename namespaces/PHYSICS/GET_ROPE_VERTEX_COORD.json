@@ -1,0 +1,17 @@
+{
+    "GET_ROPE_VERTEX_COORD": {
+        "name": "GET_ROPE_VERTEX_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "vertex"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

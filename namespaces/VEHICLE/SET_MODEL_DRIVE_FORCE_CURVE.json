@@ -1,0 +1,17 @@
+{
+    "SET_MODEL_DRIVE_FORCE_CURVE": {
+        "name": "SET_MODEL_DRIVE_FORCE_CURVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicleModelHash"
+            },
+            {
+                "type": "float",
+                "name": "curveNameHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "BOAT_MISSION": {
+        "name": "BOAT_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pedDriver"
+            },
+            {
+                "type": "float",
+                "name": "boat"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "maxSpeed"
+            },
+            {
+                "type": "float",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "float",
+                "name": "p11"
+            }
+        ],
+        "return_type": "void"
+    }
+}

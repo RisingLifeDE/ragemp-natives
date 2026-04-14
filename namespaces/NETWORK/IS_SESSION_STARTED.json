@@ -1,0 +1,8 @@
+{
+    "IS_SESSION_STARTED": {
+        "name": "IS_SESSION_STARTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

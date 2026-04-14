@@ -1,0 +1,13 @@
+{
+    "GET_SHOP_PED_APPAREL_VARIANT_PROP_COUNT": {
+        "name": "GET_SHOP_PED_APPAREL_VARIANT_PROP_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "propHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

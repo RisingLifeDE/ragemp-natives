@@ -1,0 +1,21 @@
+{
+    "SET_INCIDENT_REQUESTED_UNITS": {
+        "name": "SET_INCIDENT_REQUESTED_UNITS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "incidentId"
+            },
+            {
+                "type": "float",
+                "name": "dispatchService"
+            },
+            {
+                "type": "float",
+                "name": "numUnits"
+            }
+        ],
+        "return_type": "void"
+    }
+}

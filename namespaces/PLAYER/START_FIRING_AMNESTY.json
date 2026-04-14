@@ -1,0 +1,13 @@
+{
+    "START_FIRING_AMNESTY": {
+        "name": "START_FIRING_AMNESTY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

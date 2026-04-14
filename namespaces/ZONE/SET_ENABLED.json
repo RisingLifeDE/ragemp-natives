@@ -1,0 +1,17 @@
+{
+    "SET_ENABLED": {
+        "name": "SET_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoneId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

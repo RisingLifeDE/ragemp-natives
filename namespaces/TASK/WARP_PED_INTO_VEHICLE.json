@@ -1,0 +1,21 @@
+{
+    "WARP_PED_INTO_VEHICLE": {
+        "name": "WARP_PED_INTO_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "seat"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "REQUEST_MOVE_NETWORK_STATE_TRANSITION": {
+        "name": "REQUEST_MOVE_NETWORK_STATE_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

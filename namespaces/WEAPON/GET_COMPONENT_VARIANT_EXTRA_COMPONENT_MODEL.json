@@ -1,0 +1,17 @@
+{
+    "GET_COMPONENT_VARIANT_EXTRA_COMPONENT_MODEL": {
+        "name": "GET_COMPONENT_VARIANT_EXTRA_COMPONENT_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            },
+            {
+                "type": "float",
+                "name": "extraComponentIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

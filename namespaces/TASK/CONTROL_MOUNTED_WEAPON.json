@@ -1,0 +1,13 @@
+{
+    "CONTROL_MOUNTED_WEAPON": {
+        "name": "CONTROL_MOUNTED_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

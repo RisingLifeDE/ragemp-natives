@@ -1,0 +1,21 @@
+{
+    "GET_BITS_IN_RANGE": {
+        "name": "GET_BITS_IN_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "variable"
+            },
+            {
+                "type": "float",
+                "name": "rangeStart"
+            },
+            {
+                "type": "float",
+                "name": "rangeEnd"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "DROP_AMBIENT_PROP": {
+        "name": "DROP_AMBIENT_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

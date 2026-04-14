@@ -1,0 +1,17 @@
+{
+    "SET_SWEAT": {
+        "name": "SET_SWEAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "sweat"
+            }
+        ],
+        "return_type": "void"
+    }
+}

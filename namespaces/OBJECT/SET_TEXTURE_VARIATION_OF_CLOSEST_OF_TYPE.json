@@ -1,0 +1,33 @@
+{
+    "SET_TEXTURE_VARIATION_OF_CLOSEST_OF_TYPE": {
+        "name": "SET_TEXTURE_VARIATION_OF_CLOSEST_OF_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "textureVariation"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

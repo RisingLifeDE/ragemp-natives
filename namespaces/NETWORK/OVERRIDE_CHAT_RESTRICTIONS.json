@@ -1,0 +1,17 @@
+{
+    "OVERRIDE_CHAT_RESTRICTIONS": {
+        "name": "OVERRIDE_CHAT_RESTRICTIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

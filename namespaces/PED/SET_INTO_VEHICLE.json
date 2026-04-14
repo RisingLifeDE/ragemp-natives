@@ -1,0 +1,21 @@
+{
+    "SET_INTO_VEHICLE": {
+        "name": "SET_INTO_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

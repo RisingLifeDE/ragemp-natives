@@ -1,0 +1,13 @@
+{
+    "RESET_VISIBLE_DAMAGE": {
+        "name": "RESET_VISIBLE_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

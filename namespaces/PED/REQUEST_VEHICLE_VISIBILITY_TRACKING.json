@@ -1,0 +1,17 @@
+{
+    "REQUEST_VEHICLE_VISIBILITY_TRACKING": {
+        "name": "REQUEST_VEHICLE_VISIBILITY_TRACKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

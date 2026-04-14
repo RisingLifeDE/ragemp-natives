@@ -1,0 +1,41 @@
+{
+    "AIM_GUN_SCRIPTED_WITH_TARGET": {
+        "name": "AIM_GUN_SCRIPTED_WITH_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_CAN_PED_EQUIP_ALL_S": {
+        "name": "SET_CAN_PED_EQUIP_ALL_S",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REMOVE_MODEL_FROM_CREATOR_BUDGET": {
+        "name": "REMOVE_MODEL_FROM_CREATOR_BUDGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

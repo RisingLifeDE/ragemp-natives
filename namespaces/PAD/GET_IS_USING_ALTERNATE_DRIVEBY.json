@@ -1,0 +1,8 @@
+{
+    "GET_IS_USING_ALTERNATE_DRIVEBY": {
+        "name": "GET_IS_USING_ALTERNATE_DRIVEBY",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

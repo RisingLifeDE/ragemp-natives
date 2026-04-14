@@ -1,0 +1,21 @@
+{
+    "_0X5D96CFB59DA076A0": {
+        "name": "_0X5D96CFB59DA076A0",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

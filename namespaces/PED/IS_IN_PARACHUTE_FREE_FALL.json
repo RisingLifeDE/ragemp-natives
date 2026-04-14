@@ -1,0 +1,13 @@
+{
+    "IS_IN_PARACHUTE_FREE_FALL": {
+        "name": "IS_IN_PARACHUTE_FREE_FALL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

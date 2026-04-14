@@ -1,0 +1,13 @@
+{
+    "SET_STREAMED_TEXTURE_DICT_AS_NO_LONGER_NEEDED": {
+        "name": "SET_STREAMED_TEXTURE_DICT_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "textureDict"
+            }
+        ],
+        "return_type": "void"
+    }
+}

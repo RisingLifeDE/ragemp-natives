@@ -1,0 +1,8 @@
+{
+    "CLEAR_LAUNCH_PARAMS": {
+        "name": "CLEAR_LAUNCH_PARAMS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

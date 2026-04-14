@@ -1,0 +1,13 @@
+{
+    "SET_SWIM_MULTIPLIER_FOR": {
+        "name": "SET_SWIM_MULTIPLIER_FOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

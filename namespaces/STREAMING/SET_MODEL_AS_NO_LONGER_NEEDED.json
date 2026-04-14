@@ -1,0 +1,13 @@
+{
+    "SET_MODEL_AS_NO_LONGER_NEEDED": {
+        "name": "SET_MODEL_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "model"
+            }
+        ],
+        "return_type": "void"
+    }
+}

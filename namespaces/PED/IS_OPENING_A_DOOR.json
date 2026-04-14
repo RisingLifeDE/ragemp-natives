@@ -1,0 +1,13 @@
+{
+    "IS_OPENING_A_DOOR": {
+        "name": "IS_OPENING_A_DOOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

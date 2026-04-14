@@ -1,0 +1,17 @@
+{
+    "STAT_GET_FLOAT": {
+        "name": "STAT_GET_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statHash"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

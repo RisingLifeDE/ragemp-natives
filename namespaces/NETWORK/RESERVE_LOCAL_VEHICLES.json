@@ -1,0 +1,13 @@
+{
+    "RESERVE_LOCAL_VEHICLES": {
+        "name": "RESERVE_LOCAL_VEHICLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

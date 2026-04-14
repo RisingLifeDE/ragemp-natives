@@ -1,0 +1,17 @@
+{
+    "DOES_TAKE_WEAPON_COMPONENT": {
+        "name": "DOES_TAKE_WEAPON_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

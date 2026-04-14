@@ -1,0 +1,13 @@
+{
+    "GET_QUATERNION": {
+        "name": "GET_QUATERNION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "GetEntityQuaternionResult"
+    }
+}

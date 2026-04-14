@@ -1,0 +1,13 @@
+{
+    "GET_BONE_COUNT": {
+        "name": "GET_BONE_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

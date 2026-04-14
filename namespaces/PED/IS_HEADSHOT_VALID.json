@@ -1,0 +1,13 @@
+{
+    "IS_HEADSHOT_VALID": {
+        "name": "IS_HEADSHOT_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

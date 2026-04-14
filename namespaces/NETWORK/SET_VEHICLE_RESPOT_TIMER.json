@@ -1,0 +1,25 @@
+{
+    "SET_VEHICLE_RESPOT_TIMER": {
+        "name": "SET_VEHICLE_RESPOT_TIMER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netId"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

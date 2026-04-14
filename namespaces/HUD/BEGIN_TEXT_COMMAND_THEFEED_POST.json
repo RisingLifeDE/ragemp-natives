@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_THEFEED_POST": {
+        "name": "BEGIN_TEXT_COMMAND_THEFEED_POST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void"
+    }
+}

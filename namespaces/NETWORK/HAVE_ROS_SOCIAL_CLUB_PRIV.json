@@ -1,0 +1,8 @@
+{
+    "HAVE_ROS_SOCIAL_CLUB_PRIV": {
+        "name": "HAVE_ROS_SOCIAL_CLUB_PRIV",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

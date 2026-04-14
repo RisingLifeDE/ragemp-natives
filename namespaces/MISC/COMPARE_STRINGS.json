@@ -1,0 +1,25 @@
+{
+    "COMPARE_STRINGS": {
+        "name": "COMPARE_STRINGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "str1"
+            },
+            {
+                "type": "char*",
+                "name": "str2"
+            },
+            {
+                "type": "BOOL",
+                "name": "matchCase"
+            },
+            {
+                "type": "float",
+                "name": "maxLength"
+            }
+        ],
+        "return_type": "float"
+    }
+}

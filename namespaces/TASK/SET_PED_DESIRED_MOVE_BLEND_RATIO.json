@@ -1,0 +1,17 @@
+{
+    "SET_PED_DESIRED_MOVE_BLEND_RATIO": {
+        "name": "SET_PED_DESIRED_MOVE_BLEND_RATIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "SET_ANIM_SPEED": {
+        "name": "SET_ANIM_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            },
+            {
+                "type": "float",
+                "name": "speedMultiplier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

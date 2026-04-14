@@ -1,0 +1,13 @@
+{
+    "SET_TV_AUDIO_FRONTEND": {
+        "name": "SET_TV_AUDIO_FRONTEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

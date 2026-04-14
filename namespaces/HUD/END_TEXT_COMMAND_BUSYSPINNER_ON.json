@@ -1,0 +1,13 @@
+{
+    "END_TEXT_COMMAND_BUSYSPINNER_ON": {
+        "name": "END_TEXT_COMMAND_BUSYSPINNER_ON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "busySpinnerType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

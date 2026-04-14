@@ -1,0 +1,21 @@
+{
+    "SET_MP_GAMER_TAG_ALPHA": {
+        "name": "SET_MP_GAMER_TAG_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "float",
+                "name": "component"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

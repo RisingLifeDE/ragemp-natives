@@ -1,0 +1,8 @@
+{
+    "GET_CURRENT_AREA_NAME_LABEL": {
+        "name": "GET_CURRENT_AREA_NAME_LABEL",
+        "comment": "",
+        "params": [],
+        "return_type": "char*"
+    }
+}

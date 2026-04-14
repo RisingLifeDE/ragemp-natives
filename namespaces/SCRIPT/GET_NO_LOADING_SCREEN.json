@@ -1,0 +1,8 @@
+{
+    "GET_NO_LOADING_SCREEN": {
+        "name": "GET_NO_LOADING_SCREEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "ACCESS_TUNABLE_FLOAT": {
+        "name": "ACCESS_TUNABLE_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "tunableContext"
+            },
+            {
+                "type": "char*",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

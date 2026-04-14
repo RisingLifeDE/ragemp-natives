@@ -1,0 +1,8 @@
+{
+    "GET_SCREENBLUR_FADE_CURRENT_TIME": {
+        "name": "GET_SCREENBLUR_FADE_CURRENT_TIME",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

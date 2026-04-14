@@ -1,0 +1,8 @@
+{
+    "CLEAR_FOLLOWERS": {
+        "name": "CLEAR_FOLLOWERS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

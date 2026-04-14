@@ -1,0 +1,13 @@
+{
+    "SET_MELEE_WEAPON_DEFENSE_MODIFIER": {
+        "name": "SET_MELEE_WEAPON_DEFENSE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "START_GPS_MULTI_ROUTE": {
+        "name": "START_GPS_MULTI_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudColor"
+            },
+            {
+                "type": "BOOL",
+                "name": "routeFromPlayer"
+            },
+            {
+                "type": "BOOL",
+                "name": "displayOnFoot"
+            }
+        ],
+        "return_type": "void"
+    }
+}

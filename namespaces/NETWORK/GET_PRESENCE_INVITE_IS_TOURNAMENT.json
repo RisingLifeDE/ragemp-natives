@@ -1,0 +1,13 @@
+{
+    "GET_PRESENCE_INVITE_IS_TOURNAMENT": {
+        "name": "GET_PRESENCE_INVITE_IS_TOURNAMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

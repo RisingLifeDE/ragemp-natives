@@ -1,0 +1,13 @@
+{
+    "THEFEED_SET_SCRIPTED_MENU_HEIGHT": {
+        "name": "THEFEED_SET_SCRIPTED_MENU_HEIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pos"
+            }
+        ],
+        "return_type": "void"
+    }
+}

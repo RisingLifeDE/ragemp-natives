@@ -1,0 +1,8 @@
+{
+    "RESET_ARREST_STATE": {
+        "name": "RESET_ARREST_STATE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

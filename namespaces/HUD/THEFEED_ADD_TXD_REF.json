@@ -1,0 +1,8 @@
+{
+    "THEFEED_ADD_TXD_REF": {
+        "name": "THEFEED_ADD_TXD_REF",
+        "comment": "",
+        "params": [],
+        "return_type": "ThefeedAddTxdRefResult"
+    }
+}

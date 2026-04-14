@@ -1,0 +1,8 @@
+{
+    "JOIN_GROUP_ACTIVITY": {
+        "name": "JOIN_GROUP_ACTIVITY",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "SET_AS_MISSION_ENTITY": {
+        "name": "SET_AS_MISSION_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

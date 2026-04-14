@@ -1,0 +1,8 @@
+{
+    "GET_NEW_SELECTED_MISSION_CREATOR_BLIP": {
+        "name": "GET_NEW_SELECTED_MISSION_CREATOR_BLIP",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

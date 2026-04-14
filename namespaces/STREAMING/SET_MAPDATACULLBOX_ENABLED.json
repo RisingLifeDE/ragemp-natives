@@ -1,0 +1,17 @@
+{
+    "SET_MAPDATACULLBOX_ENABLED": {
+        "name": "SET_MAPDATACULLBOX_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

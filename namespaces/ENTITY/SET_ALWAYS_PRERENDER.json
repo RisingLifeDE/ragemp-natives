@@ -1,0 +1,17 @@
+{
+    "SET_ALWAYS_PRERENDER": {
+        "name": "SET_ALWAYS_PRERENDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

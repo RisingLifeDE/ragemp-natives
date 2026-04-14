@@ -1,0 +1,17 @@
+{
+    "ACCESS_TUNABLE_INT_HASH": {
+        "name": "ACCESS_TUNABLE_INT_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "tunableContext"
+            },
+            {
+                "type": "float",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

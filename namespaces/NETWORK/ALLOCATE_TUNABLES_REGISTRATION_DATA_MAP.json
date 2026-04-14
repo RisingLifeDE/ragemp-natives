@@ -1,0 +1,8 @@
+{
+    "ALLOCATE_TUNABLES_REGISTRATION_DATA_MAP": {
+        "name": "ALLOCATE_TUNABLES_REGISTRATION_DATA_MAP",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

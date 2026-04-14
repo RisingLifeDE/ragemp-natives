@@ -1,0 +1,13 @@
+{
+    "DATADICT_GET_STRING": {
+        "name": "DATADICT_GET_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "DatadictGetStringResult"
+    }
+}

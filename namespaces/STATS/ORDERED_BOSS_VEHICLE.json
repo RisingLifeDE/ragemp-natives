@@ -1,0 +1,21 @@
+{
+    "ORDERED_BOSS_VEHICLE": {
+        "name": "ORDERED_BOSS_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "vehicleHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

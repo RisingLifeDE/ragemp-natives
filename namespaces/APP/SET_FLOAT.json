@@ -1,0 +1,17 @@
+{
+    "SET_FLOAT": {
+        "name": "SET_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "property"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

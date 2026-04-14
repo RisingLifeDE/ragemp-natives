@@ -1,0 +1,17 @@
+{
+    "GET_SCRIPT_STATUS": {
+        "name": "GET_SCRIPT_STATUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "taskHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

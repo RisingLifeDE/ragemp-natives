@@ -1,0 +1,13 @@
+{
+    "SET_PROPERTY_ID": {
+        "name": "SET_PROPERTY_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "void"
+    }
+}

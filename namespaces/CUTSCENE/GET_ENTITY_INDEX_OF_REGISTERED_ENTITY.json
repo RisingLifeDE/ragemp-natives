@@ -1,0 +1,17 @@
+{
+    "GET_ENTITY_INDEX_OF_REGISTERED_ENTITY": {
+        "name": "GET_ENTITY_INDEX_OF_REGISTERED_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

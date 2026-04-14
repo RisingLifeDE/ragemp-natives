@@ -1,0 +1,13 @@
+{
+    "ASSISTED_MOVEMENT_IS_ROUTE_LOADED": {
+        "name": "ASSISTED_MOVEMENT_IS_ROUTE_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "route"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

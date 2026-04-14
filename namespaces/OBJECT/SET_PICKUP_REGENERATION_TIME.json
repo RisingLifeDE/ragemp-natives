@@ -1,0 +1,17 @@
+{
+    "SET_PICKUP_REGENERATION_TIME": {
+        "name": "SET_PICKUP_REGENERATION_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

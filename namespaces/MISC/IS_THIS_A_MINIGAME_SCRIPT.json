@@ -1,0 +1,8 @@
+{
+    "IS_THIS_A_MINIGAME_SCRIPT": {
+        "name": "IS_THIS_A_MINIGAME_SCRIPT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

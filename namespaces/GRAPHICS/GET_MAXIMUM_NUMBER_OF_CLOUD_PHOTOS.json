@@ -1,0 +1,8 @@
+{
+    "GET_MAXIMUM_NUMBER_OF_CLOUD_PHOTOS": {
+        "name": "GET_MAXIMUM_NUMBER_OF_CLOUD_PHOTOS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

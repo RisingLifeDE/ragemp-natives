@@ -1,0 +1,13 @@
+{
+    "REQUEST_IPL": {
+        "name": "REQUEST_IPL",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "iplName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

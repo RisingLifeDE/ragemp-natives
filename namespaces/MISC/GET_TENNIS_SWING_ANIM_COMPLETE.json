@@ -1,0 +1,13 @@
+{
+    "GET_TENNIS_SWING_ANIM_COMPLETE": {
+        "name": "GET_TENNIS_SWING_ANIM_COMPLETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

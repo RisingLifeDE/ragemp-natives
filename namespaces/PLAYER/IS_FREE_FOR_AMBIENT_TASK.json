@@ -1,0 +1,8 @@
+{
+    "IS_FREE_FOR_AMBIENT_TASK": {
+        "name": "IS_FREE_FOR_AMBIENT_TASK",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

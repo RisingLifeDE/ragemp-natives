@@ -1,0 +1,17 @@
+{
+    "_0X0F6F1EBBC4E1D5E6": {
+        "name": "_0X0F6F1EBBC4E1D5E6",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scriptIndex"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_MOUNTED_WEAPON_UNDERNEATH_DRIVING_TASK": {
+        "name": "IS_MOUNTED_WEAPON_UNDERNEATH_DRIVING_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

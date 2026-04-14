@@ -1,0 +1,13 @@
+{
+    "IS_PARTICIPANT_ACTIVE": {
+        "name": "IS_PARTICIPANT_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REMOVE_ENTITY_AREA": {
+        "name": "REMOVE_ENTITY_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

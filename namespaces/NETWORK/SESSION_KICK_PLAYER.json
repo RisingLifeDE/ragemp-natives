@@ -1,0 +1,13 @@
+{
+    "SESSION_KICK_PLAYER": {
+        "name": "SESSION_KICK_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "void"
+    }
+}

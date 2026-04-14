@@ -1,0 +1,17 @@
+{
+    "SET_HEADING": {
+        "name": "SET_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void"
+    }
+}

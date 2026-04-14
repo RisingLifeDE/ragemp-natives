@@ -1,0 +1,13 @@
+{
+    "SET_TV_CHANNEL": {
+        "name": "SET_TV_CHANNEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "channel"
+            }
+        ],
+        "return_type": "void"
+    }
+}

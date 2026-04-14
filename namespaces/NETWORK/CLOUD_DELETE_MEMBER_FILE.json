@@ -1,0 +1,13 @@
+{
+    "CLOUD_DELETE_MEMBER_FILE": {
+        "name": "CLOUD_DELETE_MEMBER_FILE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

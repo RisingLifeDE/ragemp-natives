@@ -1,0 +1,53 @@
+{
+    "PLAY_ANIM": {
+        "name": "PLAY_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            },
+            {
+                "type": "char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

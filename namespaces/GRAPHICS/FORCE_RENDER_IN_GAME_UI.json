@@ -1,0 +1,13 @@
+{
+    "FORCE_RENDER_IN_GAME_UI": {
+        "name": "FORCE_RENDER_IN_GAME_UI",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

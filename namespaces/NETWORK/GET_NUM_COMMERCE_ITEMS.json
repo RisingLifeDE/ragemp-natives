@@ -1,0 +1,8 @@
+{
+    "GET_NUM_COMMERCE_ITEMS": {
+        "name": "GET_NUM_COMMERCE_ITEMS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

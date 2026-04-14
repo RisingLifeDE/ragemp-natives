@@ -1,0 +1,13 @@
+{
+    "ANIMPOSTFX_STOP_AND_DO_UNK": {
+        "name": "ANIMPOSTFX_STOP_AND_DO_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

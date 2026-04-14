@@ -1,0 +1,13 @@
+{
+    "REQUEST_SCALEFORM_MOVIE2": {
+        "name": "REQUEST_SCALEFORM_MOVIE2",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scaleformName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "SESSION_VOICE_CONNECT_TO_PLAYER": {
+        "name": "SESSION_VOICE_CONNECT_TO_PLAYER",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

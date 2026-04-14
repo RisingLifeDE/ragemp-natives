@@ -1,0 +1,8 @@
+{
+    "STOP_SAVE_STRUCT": {
+        "name": "STOP_SAVE_STRUCT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

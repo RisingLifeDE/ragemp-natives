@@ -1,0 +1,13 @@
+{
+    "IS_VEHICLE_NODE_ID_VALID": {
+        "name": "IS_VEHICLE_NODE_ID_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicleNodeId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "SEETHROUGH_SET_COLOR_NEAR": {
+        "name": "SEETHROUGH_SET_COLOR_NEAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            }
+        ],
+        "return_type": "void"
+    }
+}

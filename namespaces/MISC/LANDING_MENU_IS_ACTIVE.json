@@ -1,0 +1,8 @@
+{
+    "LANDING_MENU_IS_ACTIVE": {
+        "name": "LANDING_MENU_IS_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

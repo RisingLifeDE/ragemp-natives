@@ -1,0 +1,25 @@
+{
+    "DO_TRANSITION_TO_NEW_FREEMODE": {
+        "name": "DO_TRANSITION_TO_NEW_FREEMODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "players"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "NetworkDoTransitionToNewFreemodeResult"
+    }
+}

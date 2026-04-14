@@ -1,0 +1,13 @@
+{
+    "SET_WANTED_LEVEL_DIFFICULTY": {
+        "name": "SET_WANTED_LEVEL_DIFFICULTY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "difficulty"
+            }
+        ],
+        "return_type": "void"
+    }
+}

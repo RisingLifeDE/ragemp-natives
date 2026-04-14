@@ -1,0 +1,17 @@
+{
+    "ADD_TEXT_COMPONENT_FLOAT": {
+        "name": "ADD_TEXT_COMPONENT_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "float",
+                "name": "decimalPlaces"
+            }
+        ],
+        "return_type": "void"
+    }
+}

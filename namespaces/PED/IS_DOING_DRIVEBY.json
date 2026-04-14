@@ -1,0 +1,13 @@
+{
+    "IS_DOING_DRIVEBY": {
+        "name": "IS_DOING_DRIVEBY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

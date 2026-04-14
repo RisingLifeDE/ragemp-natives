@@ -1,0 +1,13 @@
+{
+    "WAIT": {
+        "name": "WAIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ms"
+            }
+        ],
+        "return_type": "void"
+    }
+}

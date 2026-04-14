@@ -1,0 +1,8 @@
+{
+    "GET_TIME_SINCE_LAST_ARREST": {
+        "name": "GET_TIME_SINCE_LAST_ARREST",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

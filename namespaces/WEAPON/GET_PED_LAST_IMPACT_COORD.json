@@ -1,0 +1,13 @@
+{
+    "GET_PED_LAST_IMPACT_COORD": {
+        "name": "GET_PED_LAST_IMPACT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

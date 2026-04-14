@@ -1,0 +1,13 @@
+{
+    "HASH_FROM_PLAYER_HANDLE": {
+        "name": "HASH_FROM_PLAYER_HANDLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "float"
+    }
+}

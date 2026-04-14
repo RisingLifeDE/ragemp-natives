@@ -1,0 +1,57 @@
+{
+    "CALL_SCALEFORM_MOVIE_METHOD_WITH_NUMBER_AND_STRING": {
+        "name": "CALL_SCALEFORM_MOVIE_METHOD_WITH_NUMBER_AND_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleform"
+            },
+            {
+                "type": "char*",
+                "name": "methodName"
+            },
+            {
+                "type": "float",
+                "name": "floatParam1"
+            },
+            {
+                "type": "float",
+                "name": "floatParam2"
+            },
+            {
+                "type": "float",
+                "name": "floatParam3"
+            },
+            {
+                "type": "float",
+                "name": "floatParam4"
+            },
+            {
+                "type": "float",
+                "name": "floatParam5"
+            },
+            {
+                "type": "char*",
+                "name": "stringParam1"
+            },
+            {
+                "type": "char*",
+                "name": "stringParam2"
+            },
+            {
+                "type": "char*",
+                "name": "stringParam3"
+            },
+            {
+                "type": "char*",
+                "name": "stringParam4"
+            },
+            {
+                "type": "char*",
+                "name": "stringParam5"
+            }
+        ],
+        "return_type": "void"
+    }
+}

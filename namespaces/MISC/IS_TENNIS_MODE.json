@@ -1,0 +1,13 @@
+{
+    "IS_TENNIS_MODE": {
+        "name": "IS_TENNIS_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

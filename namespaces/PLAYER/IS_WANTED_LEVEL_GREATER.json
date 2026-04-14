@@ -1,0 +1,13 @@
+{
+    "IS_WANTED_LEVEL_GREATER": {
+        "name": "IS_WANTED_LEVEL_GREATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "wantedLevel"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

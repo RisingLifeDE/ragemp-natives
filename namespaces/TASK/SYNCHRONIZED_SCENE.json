@@ -1,0 +1,49 @@
+{
+    "SYNCHRONIZED_SCENE": {
+        "name": "SYNCHRONIZED_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "scene"
+            },
+            {
+                "type": "char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "char*",
+                "name": "animationName"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "speedMultiplier"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "playbackRate"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void"
+    }
+}

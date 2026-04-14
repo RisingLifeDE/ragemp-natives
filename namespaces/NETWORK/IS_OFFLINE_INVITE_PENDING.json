@@ -1,0 +1,8 @@
+{
+    "IS_OFFLINE_INVITE_PENDING": {
+        "name": "IS_OFFLINE_INVITE_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

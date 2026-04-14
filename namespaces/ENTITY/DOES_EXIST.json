@@ -1,0 +1,13 @@
+{
+    "DOES_EXIST": {
+        "name": "DOES_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

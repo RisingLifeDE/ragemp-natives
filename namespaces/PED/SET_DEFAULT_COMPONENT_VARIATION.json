@@ -1,0 +1,13 @@
+{
+    "SET_DEFAULT_COMPONENT_VARIATION": {
+        "name": "SET_DEFAULT_COMPONENT_VARIATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

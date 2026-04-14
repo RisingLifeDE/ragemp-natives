@@ -1,0 +1,8 @@
+{
+    "FACEBOOK_IS_SENDING_DATA": {
+        "name": "FACEBOOK_IS_SENDING_DATA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

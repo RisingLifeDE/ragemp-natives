@@ -1,0 +1,13 @@
+{
+    "LOAD_GLOBAL_WATER_TYPE": {
+        "name": "LOAD_GLOBAL_WATER_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "waterType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

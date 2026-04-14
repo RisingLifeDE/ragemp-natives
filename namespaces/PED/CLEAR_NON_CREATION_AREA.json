@@ -1,0 +1,8 @@
+{
+    "CLEAR_NON_CREATION_AREA": {
+        "name": "CLEAR_NON_CREATION_AREA",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

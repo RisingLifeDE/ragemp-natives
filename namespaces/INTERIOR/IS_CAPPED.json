@@ -1,0 +1,13 @@
+{
+    "IS_CAPPED": {
+        "name": "IS_CAPPED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

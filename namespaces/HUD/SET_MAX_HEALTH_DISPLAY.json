@@ -1,0 +1,13 @@
+{
+    "SET_MAX_HEALTH_DISPLAY": {
+        "name": "SET_MAX_HEALTH_DISPLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "maximumValue"
+            }
+        ],
+        "return_type": "void"
+    }
+}

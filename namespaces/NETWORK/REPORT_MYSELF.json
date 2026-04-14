@@ -1,0 +1,8 @@
+{
+    "REPORT_MYSELF": {
+        "name": "REPORT_MYSELF",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

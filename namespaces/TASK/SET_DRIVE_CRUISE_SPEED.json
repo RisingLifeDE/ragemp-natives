@@ -1,0 +1,17 @@
+{
+    "SET_DRIVE_CRUISE_SPEED": {
+        "name": "SET_DRIVE_CRUISE_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "cruiseSpeed"
+            }
+        ],
+        "return_type": "void"
+    }
+}

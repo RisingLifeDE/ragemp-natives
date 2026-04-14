@@ -1,0 +1,13 @@
+{
+    "OBJ_TO_NET": {
+        "name": "OBJ_TO_NET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "float"
+    }
+}

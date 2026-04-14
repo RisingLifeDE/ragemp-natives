@@ -1,0 +1,13 @@
+{
+    "REFILL_AMMO_INSTANTLY": {
+        "name": "REFILL_AMMO_INSTANTLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

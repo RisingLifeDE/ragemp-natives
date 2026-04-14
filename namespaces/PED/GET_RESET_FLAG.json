@@ -1,0 +1,17 @@
+{
+    "GET_RESET_FLAG": {
+        "name": "GET_RESET_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "flagId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

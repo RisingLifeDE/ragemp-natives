@@ -1,0 +1,8 @@
+{
+    "GET_TARGETING_MODE": {
+        "name": "GET_TARGETING_MODE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "PLAY_ANIM": {
+        "name": "PLAY_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "char*",
+                "name": "animationName"
+            },
+            {
+                "type": "float",
+                "name": "blendInSpeed"
+            },
+            {
+                "type": "float",
+                "name": "blendOutSpeed"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "playbackRate"
+            },
+            {
+                "type": "BOOL",
+                "name": "lockX"
+            },
+            {
+                "type": "BOOL",
+                "name": "lockY"
+            },
+            {
+                "type": "BOOL",
+                "name": "lockZ"
+            }
+        ],
+        "return_type": "void"
+    }
+}

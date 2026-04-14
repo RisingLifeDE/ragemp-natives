@@ -1,0 +1,8 @@
+{
+    "START_SOLO_TUTORIAL_SESSION": {
+        "name": "START_SOLO_TUTORIAL_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

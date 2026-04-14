@@ -1,0 +1,8 @@
+{
+    "TERMINATE_THIS_THREAD": {
+        "name": "TERMINATE_THIS_THREAD",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

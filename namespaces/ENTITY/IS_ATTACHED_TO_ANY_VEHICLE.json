@@ -1,0 +1,13 @@
+{
+    "IS_ATTACHED_TO_ANY_VEHICLE": {
+        "name": "IS_ATTACHED_TO_ANY_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

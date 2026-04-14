@@ -1,0 +1,13 @@
+{
+    "IS_OCCLUDED": {
+        "name": "IS_OCCLUDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

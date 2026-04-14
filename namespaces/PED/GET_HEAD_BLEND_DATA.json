@@ -1,0 +1,13 @@
+{
+    "GET_HEAD_BLEND_DATA": {
+        "name": "GET_HEAD_BLEND_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

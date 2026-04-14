@@ -1,0 +1,13 @@
+{
+    "IS_SCENARIO_GROUP_ENABLED": {
+        "name": "IS_SCENARIO_GROUP_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scenarioGroup"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

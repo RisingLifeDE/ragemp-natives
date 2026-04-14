@@ -1,0 +1,13 @@
+{
+    "CREATE_GROUP": {
+        "name": "CREATE_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "unused"
+            }
+        ],
+        "return_type": "float"
+    }
+}

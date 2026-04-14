@@ -1,0 +1,8 @@
+{
+    "GET_LOCAL_TIME": {
+        "name": "GET_LOCAL_TIME",
+        "comment": "",
+        "params": [],
+        "return_type": "GetLocalTimeResult"
+    }
+}

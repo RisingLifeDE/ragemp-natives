@@ -1,0 +1,13 @@
+{
+    "SET_WITH_NAME_HASH_AS_NO_LONGER_NEEDED": {
+        "name": "SET_WITH_NAME_HASH_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

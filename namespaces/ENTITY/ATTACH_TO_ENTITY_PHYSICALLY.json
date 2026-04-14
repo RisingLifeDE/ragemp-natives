@@ -1,0 +1,85 @@
+{
+    "ATTACH_TO_ENTITY_PHYSICALLY": {
+        "name": "ATTACH_TO_ENTITY_PHYSICALLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity1"
+            },
+            {
+                "type": "float",
+                "name": "entity2"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex1"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex2"
+            },
+            {
+                "type": "float",
+                "name": "xPos1"
+            },
+            {
+                "type": "float",
+                "name": "yPos1"
+            },
+            {
+                "type": "float",
+                "name": "zPos1"
+            },
+            {
+                "type": "float",
+                "name": "xPos2"
+            },
+            {
+                "type": "float",
+                "name": "yPos2"
+            },
+            {
+                "type": "float",
+                "name": "zPos2"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "float",
+                "name": "breakForce"
+            },
+            {
+                "type": "BOOL",
+                "name": "fixedRot"
+            },
+            {
+                "type": "BOOL",
+                "name": "p15"
+            },
+            {
+                "type": "BOOL",
+                "name": "collision"
+            },
+            {
+                "type": "BOOL",
+                "name": "p17"
+            },
+            {
+                "type": "float",
+                "name": "p18"
+            }
+        ],
+        "return_type": "void"
+    }
+}

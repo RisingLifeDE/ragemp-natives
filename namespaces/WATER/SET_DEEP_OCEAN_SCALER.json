@@ -1,0 +1,13 @@
+{
+    "SET_DEEP_OCEAN_SCALER": {
+        "name": "SET_DEEP_OCEAN_SCALER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

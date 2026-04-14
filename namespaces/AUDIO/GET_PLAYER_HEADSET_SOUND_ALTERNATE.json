@@ -1,0 +1,17 @@
+{
+    "GET_PLAYER_HEADSET_SOUND_ALTERNATE": {
+        "name": "GET_PLAYER_HEADSET_SOUND_ALTERNATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "variableName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

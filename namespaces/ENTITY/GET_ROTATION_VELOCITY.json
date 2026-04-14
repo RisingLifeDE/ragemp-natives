@@ -1,0 +1,13 @@
+{
+    "GET_ROTATION_VELOCITY": {
+        "name": "GET_ROTATION_VELOCITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

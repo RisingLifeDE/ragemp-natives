@@ -1,0 +1,17 @@
+{
+    "SET_CHECKPOINT_ICON_SCALE": {
+        "name": "SET_CHECKPOINT_ICON_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "checkpoint"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

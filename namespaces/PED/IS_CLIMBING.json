@@ -1,0 +1,13 @@
+{
+    "IS_CLIMBING": {
+        "name": "IS_CLIMBING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

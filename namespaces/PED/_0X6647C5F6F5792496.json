@@ -1,0 +1,17 @@
+{
+    "_0X6647C5F6F5792496": {
+        "name": "_0X6647C5F6F5792496",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

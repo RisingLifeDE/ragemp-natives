@@ -1,0 +1,37 @@
+{
+    "APPLY_IMPULSE_TO_CLOTH": {
+        "name": "APPLY_IMPULSE_TO_CLOTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "vecX"
+            },
+            {
+                "type": "float",
+                "name": "vecY"
+            },
+            {
+                "type": "float",
+                "name": "vecZ"
+            },
+            {
+                "type": "float",
+                "name": "impulse"
+            }
+        ],
+        "return_type": "void"
+    }
+}

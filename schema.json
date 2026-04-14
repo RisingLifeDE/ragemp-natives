@@ -1,0 +1,184 @@
+{
+  "type": "object",
+  "patternProperties": {
+    "^([A-Z_]+[A-Z0-9_]*|_0x[0-9A-F]{16})$": {
+      "type": "object",
+      "patternProperties": {
+        "^0x[0-9A-F]{16}$": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "$ref": "#/$defs/native_name"
+            },
+            "jhash": {
+              "type": "string"
+            },
+            "comment": {
+              "type": "string"
+            },
+            "params": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "type": {
+                    "$ref": "#/$defs/param_type"
+                  },
+                  "name": {
+                    "type": "string",
+                    "pattern": "^([A-Za-z_]+[A-Za-z0-9_]*|\\.\\.\\.)$"
+                  }
+                },
+                "required": [
+                  "type",
+                  "name"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "return_type": {
+              "$ref": "#/$defs/return_type"
+            },
+            "build": {
+              "type": "string"
+            },
+            "examples": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "lang": {
+                    "type": "string"
+                  },
+                  "code": {
+                    "type": "string"
+                  }
+                }
+              }
+            },
+            "old_names": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "variadic": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "name",
+            "comment",
+            "params",
+            "return_type",
+            "build"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "native_name": {
+      "type": "string",
+      "pattern": "^([A-Z_]+[A-Z0-9_]*|_0x[0-9A-F]{16})$"
+    },
+    "param_type": {
+      "type": "string",
+      "enum": [
+        "",
+        "int",
+        "int*",
+        "const int*",
+        "float",
+        "float*",
+        "BOOL",
+        "BOOL*",
+        "char*",
+        "const char*",
+        "Any",
+        "Any*",
+        "Blip",
+        "Blip*",
+        "const Blip*",
+        "Cam",
+        "Cam*",
+        "const Cam*",
+        "Entity",
+        "Entity*",
+        "const Entity*",
+        "FireId",
+        "FireId*",
+        "Hash",
+        "Hash*",
+        "Interior",
+        "Interior*",
+        "ItemSet",
+        "ItemSet*",
+        "Object",
+        "Object*",
+        "const Object*",
+        "Ped",
+        "Ped*",
+        "const Ped*",
+        "Pickup",
+        "Pickup*",
+        "Player",
+        "Player*",
+        "const Player*",
+        "ScrHandle",
+        "ScrHandle*",
+        "Vector3*",
+        "Vehicle",
+        "Vehicle*",
+        "const Vehicle*",
+        "AnimScene",
+        "AnimScene*",
+        "PersChar",
+        "PersChar*",
+        "PopZone",
+        "PopZone*",
+        "Prompt",
+        "Prompt*",
+        "PropSet",
+        "PropSet*",
+        "Volume",
+        "Volume*"
+      ]
+    },
+    "return_type": {
+      "type": "string",
+      "enum": [
+        "void",
+        "int",
+        "float",
+        "BOOL",
+        "const char*",
+        "Any",
+        "Any*",
+        "Blip",
+        "Cam",
+        "Entity",
+        "FireId",
+        "Hash",
+        "Interior",
+        "ItemSet",
+        "Object",
+        "Ped",
+        "Pickup",
+        "Player",
+        "ScrHandle",
+        "Vector3",
+        "Vehicle",
+        "AnimScene",
+        "PersChar",
+        "PopZone",
+        "Prompt",
+        "PropSet",
+        "Volume"
+      ]
+    }
+  }
+}

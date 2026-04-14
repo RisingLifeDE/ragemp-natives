@@ -1,0 +1,17 @@
+{
+    "HANDLE_FROM_USER_ID": {
+        "name": "HANDLE_FROM_USER_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "userId"
+            },
+            {
+                "type": "float",
+                "name": "bufferSize"
+            }
+        ],
+        "return_type": "float"
+    }
+}

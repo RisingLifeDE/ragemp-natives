@@ -1,0 +1,13 @@
+{
+    "SET_IS_LOADING_FREEMODE": {
+        "name": "SET_IS_LOADING_FREEMODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

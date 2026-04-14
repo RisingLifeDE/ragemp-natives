@@ -1,0 +1,17 @@
+{
+    "SET_CURRENT_PED_VEHICLE": {
+        "name": "SET_CURRENT_PED_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

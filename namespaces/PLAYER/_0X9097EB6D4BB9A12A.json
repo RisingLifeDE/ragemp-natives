@@ -1,0 +1,13 @@
+{
+    "_0X9097EB6D4BB9A12A": {
+        "name": "_0X9097EB6D4BB9A12A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_PICKUP_WEAPON_VALID": {
+        "name": "IS_PICKUP_WEAPON_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

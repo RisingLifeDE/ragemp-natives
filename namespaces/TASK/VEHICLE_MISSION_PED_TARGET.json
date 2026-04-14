@@ -1,0 +1,45 @@
+{
+    "VEHICLE_MISSION_PED_TARGET": {
+        "name": "VEHICLE_MISSION_PED_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "pedTarget"
+            },
+            {
+                "type": "float",
+                "name": "missionType"
+            },
+            {
+                "type": "float",
+                "name": "maxSpeed"
+            },
+            {
+                "type": "float",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "float",
+                "name": "minDistance"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "DriveAgainstTraffic"
+            }
+        ],
+        "return_type": "void"
+    }
+}

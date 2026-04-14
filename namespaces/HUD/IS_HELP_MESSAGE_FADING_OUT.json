@@ -1,0 +1,8 @@
+{
+    "IS_HELP_MESSAGE_FADING_OUT": {
+        "name": "IS_HELP_MESSAGE_FADING_OUT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

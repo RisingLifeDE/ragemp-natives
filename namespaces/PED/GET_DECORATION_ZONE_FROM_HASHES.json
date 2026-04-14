@@ -1,0 +1,17 @@
+{
+    "GET_DECORATION_ZONE_FROM_HASHES": {
+        "name": "GET_DECORATION_ZONE_FROM_HASHES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "collection"
+            },
+            {
+                "type": "float",
+                "name": "overlay"
+            }
+        ],
+        "return_type": "float"
+    }
+}

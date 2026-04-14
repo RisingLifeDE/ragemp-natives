@@ -1,0 +1,17 @@
+{
+    "_0X2B694AFCF64E6994": {
+        "name": "_0X2B694AFCF64E6994",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

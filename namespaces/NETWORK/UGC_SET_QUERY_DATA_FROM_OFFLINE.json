@@ -1,0 +1,13 @@
+{
+    "UGC_SET_QUERY_DATA_FROM_OFFLINE": {
+        "name": "UGC_SET_QUERY_DATA_FROM_OFFLINE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

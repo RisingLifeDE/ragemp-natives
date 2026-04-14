@@ -1,0 +1,8 @@
+{
+    "GET_MINUTES": {
+        "name": "GET_MINUTES",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

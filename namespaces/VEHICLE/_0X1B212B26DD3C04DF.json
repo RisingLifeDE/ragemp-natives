@@ -1,0 +1,17 @@
+{
+    "_0X1B212B26DD3C04DF": {
+        "name": "_0X1B212B26DD3C04DF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

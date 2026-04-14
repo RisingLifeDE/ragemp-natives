@@ -1,0 +1,17 @@
+{
+    "SET_CAN_PLAY_IN_CAR_IDLES": {
+        "name": "SET_CAN_PLAY_IN_CAR_IDLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

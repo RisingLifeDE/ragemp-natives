@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_HINT_ANIM_OFFSETY": {
+        "name": "SET_GAMEPLAY_HINT_ANIM_OFFSETY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "yOffset"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "PRELOAD_CLOUD_HAT": {
+        "name": "PRELOAD_CLOUD_HAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

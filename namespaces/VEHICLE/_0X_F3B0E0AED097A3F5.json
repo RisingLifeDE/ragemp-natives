@@ -1,0 +1,17 @@
+{
+    "_0X_F3B0E0AED097A3F5": {
+        "name": "_0X_F3B0E0AED097A3F5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

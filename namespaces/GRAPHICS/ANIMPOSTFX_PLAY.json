@@ -1,0 +1,21 @@
+{
+    "ANIMPOSTFX_PLAY": {
+        "name": "ANIMPOSTFX_PLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "effectName"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "looped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

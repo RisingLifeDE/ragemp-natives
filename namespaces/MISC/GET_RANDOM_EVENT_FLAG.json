@@ -1,0 +1,8 @@
+{
+    "GET_RANDOM_EVENT_FLAG": {
+        "name": "GET_RANDOM_EVENT_FLAG",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

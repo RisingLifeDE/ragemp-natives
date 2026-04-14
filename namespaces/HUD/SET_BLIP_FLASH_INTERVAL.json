@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_FLASH_INTERVAL": {
+        "name": "SET_BLIP_FLASH_INTERVAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "ms"
+            }
+        ],
+        "return_type": "void"
+    }
+}

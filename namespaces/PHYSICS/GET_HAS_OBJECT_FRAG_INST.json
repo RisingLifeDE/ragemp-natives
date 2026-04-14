@@ -1,0 +1,13 @@
+{
+    "GET_HAS_OBJECT_FRAG_INST": {
+        "name": "GET_HAS_OBJECT_FRAG_INST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

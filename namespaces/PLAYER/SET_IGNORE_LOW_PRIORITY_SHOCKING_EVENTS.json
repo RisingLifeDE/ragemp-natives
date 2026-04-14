@@ -1,0 +1,13 @@
+{
+    "SET_IGNORE_LOW_PRIORITY_SHOCKING_EVENTS": {
+        "name": "SET_IGNORE_LOW_PRIORITY_SHOCKING_EVENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

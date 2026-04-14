@@ -1,0 +1,17 @@
+{
+    "_0X063AE2B2CC273588": {
+        "name": "_0X063AE2B2CC273588",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

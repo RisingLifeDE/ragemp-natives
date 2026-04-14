@@ -1,0 +1,13 @@
+{
+    "SET_FOLLOW_PED_VIEW_MODE": {
+        "name": "SET_FOLLOW_PED_VIEW_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "viewMode"
+            }
+        ],
+        "return_type": "void"
+    }
+}

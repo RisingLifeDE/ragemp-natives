@@ -1,0 +1,13 @@
+{
+    "SET_TARGET_LEVEL": {
+        "name": "SET_TARGET_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "targetLevel"
+            }
+        ],
+        "return_type": "void"
+    }
+}

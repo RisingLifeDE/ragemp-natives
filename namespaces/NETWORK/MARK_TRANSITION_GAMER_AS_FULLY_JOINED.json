@@ -1,0 +1,8 @@
+{
+    "MARK_TRANSITION_GAMER_AS_FULLY_JOINED": {
+        "name": "MARK_TRANSITION_GAMER_AS_FULLY_JOINED",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "OVERRIDE_LODSCALE_THIS_FRAME": {
+        "name": "OVERRIDE_LODSCALE_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaling"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "GET_NTH_CLOSEST_VEHICLE_NODE_WITH_HEADING": {
+        "name": "GET_NTH_CLOSEST_VEHICLE_NODE_WITH_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "nthClosest"
+            },
+            {
+                "type": "float",
+                "name": "unknown2"
+            },
+            {
+                "type": "float",
+                "name": "unknown3"
+            },
+            {
+                "type": "float",
+                "name": "unknown4"
+            }
+        ],
+        "return_type": "GetNthClosestVehicleNodeWithHeadingResult"
+    }
+}

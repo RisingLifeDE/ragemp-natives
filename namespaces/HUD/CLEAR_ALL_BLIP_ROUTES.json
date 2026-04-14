@@ -1,0 +1,8 @@
+{
+    "CLEAR_ALL_BLIP_ROUTES": {
+        "name": "CLEAR_ALL_BLIP_ROUTES",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

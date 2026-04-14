@@ -1,0 +1,13 @@
+{
+    "IS_ON_ANY_BIKE": {
+        "name": "IS_ON_ANY_BIKE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

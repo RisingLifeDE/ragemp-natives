@@ -1,0 +1,8 @@
+{
+    "REMOVE_ALL_AIR_DEFENSE_ZONES": {
+        "name": "REMOVE_ALL_AIR_DEFENSE_ZONES",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_AO_BLOB_RENDERING": {
+        "name": "SET_AO_BLOB_RENDERING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "HAVE_ROS_LEADERBOARD_WRITE_PRIV": {
+        "name": "HAVE_ROS_LEADERBOARD_WRITE_PRIV",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

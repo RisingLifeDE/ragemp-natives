@@ -1,0 +1,13 @@
+{
+    "IS_IN_AIR": {
+        "name": "IS_IN_AIR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

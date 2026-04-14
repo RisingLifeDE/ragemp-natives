@@ -1,0 +1,13 @@
+{
+    "HAS_LOADED_FILE_DATA": {
+        "name": "HAS_LOADED_FILE_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

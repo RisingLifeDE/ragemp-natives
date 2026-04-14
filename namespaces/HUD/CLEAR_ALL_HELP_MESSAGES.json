@@ -1,0 +1,8 @@
+{
+    "CLEAR_ALL_HELP_MESSAGES": {
+        "name": "CLEAR_ALL_HELP_MESSAGES",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

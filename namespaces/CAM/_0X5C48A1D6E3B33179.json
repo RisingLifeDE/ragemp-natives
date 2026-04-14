@@ -1,0 +1,13 @@
+{
+    "_0X5C48A1D6E3B33179": {
+        "name": "_0X5C48A1D6E3B33179",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

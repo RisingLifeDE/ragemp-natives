@@ -1,0 +1,17 @@
+{
+    "REMOVE_POP_MULTIPLIER_SPHERE": {
+        "name": "REMOVE_POP_MULTIPLIER_SPHERE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

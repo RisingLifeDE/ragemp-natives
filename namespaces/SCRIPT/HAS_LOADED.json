@@ -1,0 +1,13 @@
+{
+    "HAS_LOADED": {
+        "name": "HAS_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

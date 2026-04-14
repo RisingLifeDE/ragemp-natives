@@ -1,0 +1,21 @@
+{
+    "PLAY_DRONE_USAGE": {
+        "name": "PLAY_DRONE_USAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

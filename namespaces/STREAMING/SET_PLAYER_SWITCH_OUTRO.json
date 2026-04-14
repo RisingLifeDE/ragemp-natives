@@ -1,0 +1,45 @@
+{
+    "SET_PLAYER_SWITCH_OUTRO": {
+        "name": "SET_PLAYER_SWITCH_OUTRO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cameraCoordX"
+            },
+            {
+                "type": "float",
+                "name": "cameraCoordY"
+            },
+            {
+                "type": "float",
+                "name": "cameraCoordZ"
+            },
+            {
+                "type": "float",
+                "name": "camRotationX"
+            },
+            {
+                "type": "float",
+                "name": "camRotationY"
+            },
+            {
+                "type": "float",
+                "name": "camRotationZ"
+            },
+            {
+                "type": "float",
+                "name": "camFov"
+            },
+            {
+                "type": "float",
+                "name": "camFarClip"
+            },
+            {
+                "type": "float",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "void"
+    }
+}

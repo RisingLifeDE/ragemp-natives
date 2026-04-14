@@ -1,0 +1,33 @@
+{
+    "HAS_CLOSEST_OF_TYPE_BEEN_COMPLETELY_DESTROYED": {
+        "name": "HAS_CLOSEST_OF_TYPE_BEEN_COMPLETELY_DESTROYED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

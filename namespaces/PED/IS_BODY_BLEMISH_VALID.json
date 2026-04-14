@@ -1,0 +1,13 @@
+{
+    "IS_BODY_BLEMISH_VALID": {
+        "name": "IS_BODY_BLEMISH_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "colorId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

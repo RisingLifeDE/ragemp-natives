@@ -1,0 +1,8 @@
+{
+    "GET_SPRINT_STAMINA_REMAINING": {
+        "name": "GET_SPRINT_STAMINA_REMAINING",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

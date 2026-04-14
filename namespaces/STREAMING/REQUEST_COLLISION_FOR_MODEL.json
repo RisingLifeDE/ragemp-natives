@@ -1,0 +1,13 @@
+{
+    "REQUEST_COLLISION_FOR_MODEL": {
+        "name": "REQUEST_COLLISION_FOR_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "model"
+            }
+        ],
+        "return_type": "void"
+    }
+}

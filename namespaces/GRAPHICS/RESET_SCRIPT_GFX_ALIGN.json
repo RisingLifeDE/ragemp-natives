@@ -1,0 +1,8 @@
+{
+    "RESET_SCRIPT_GFX_ALIGN": {
+        "name": "RESET_SCRIPT_GFX_ALIGN",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

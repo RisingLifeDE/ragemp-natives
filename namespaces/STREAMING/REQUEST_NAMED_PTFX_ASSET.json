@@ -1,0 +1,13 @@
+{
+    "REQUEST_NAMED_PTFX_ASSET": {
+        "name": "REQUEST_NAMED_PTFX_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "fxName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

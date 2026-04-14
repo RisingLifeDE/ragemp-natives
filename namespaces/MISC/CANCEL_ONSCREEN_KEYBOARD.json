@@ -1,0 +1,8 @@
+{
+    "CANCEL_ONSCREEN_KEYBOARD": {
+        "name": "CANCEL_ONSCREEN_KEYBOARD",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_ID_RANGE": {
+        "name": "SET_ID_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

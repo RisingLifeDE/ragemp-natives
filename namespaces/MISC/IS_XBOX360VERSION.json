@@ -1,0 +1,8 @@
+{
+    "IS_XBOX360VERSION": {
+        "name": "IS_XBOX360VERSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

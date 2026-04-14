@@ -1,0 +1,17 @@
+{
+    "CLIMB": {
+        "name": "CLIMB",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "unused"
+            }
+        ],
+        "return_type": "void"
+    }
+}

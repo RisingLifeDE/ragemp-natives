@@ -1,0 +1,13 @@
+{
+    "BLOCK_JOIN_QUEUE_INVITES": {
+        "name": "BLOCK_JOIN_QUEUE_INVITES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

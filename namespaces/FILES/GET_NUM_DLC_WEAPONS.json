@@ -1,0 +1,8 @@
+{
+    "GET_NUM_DLC_WEAPONS": {
+        "name": "GET_NUM_DLC_WEAPONS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

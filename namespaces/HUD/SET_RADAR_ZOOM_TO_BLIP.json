@@ -1,0 +1,17 @@
+{
+    "SET_RADAR_ZOOM_TO_BLIP": {
+        "name": "SET_RADAR_ZOOM_TO_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "zoom"
+            }
+        ],
+        "return_type": "void"
+    }
+}

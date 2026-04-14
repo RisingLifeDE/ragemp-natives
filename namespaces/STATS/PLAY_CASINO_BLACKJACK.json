@@ -1,0 +1,13 @@
+{
+    "PLAY_CASINO_BLACKJACK": {
+        "name": "PLAY_CASINO_BLACKJACK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

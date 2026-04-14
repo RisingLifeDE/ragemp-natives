@@ -1,0 +1,21 @@
+{
+    "ENABLE_CONTROL_ACTION": {
+        "name": "ENABLE_CONTROL_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            },
+            {
+                "type": "float",
+                "name": "control"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

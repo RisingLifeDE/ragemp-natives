@@ -1,0 +1,33 @@
+{
+    "CREATE_FAKE_MP_GAMER_TAG": {
+        "name": "CREATE_FAKE_MP_GAMER_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "username"
+            },
+            {
+                "type": "BOOL",
+                "name": "pointedClanTag"
+            },
+            {
+                "type": "BOOL",
+                "name": "isRockstarClan"
+            },
+            {
+                "type": "char*",
+                "name": "clanTag"
+            },
+            {
+                "type": "float",
+                "name": "clanFlag"
+            }
+        ],
+        "return_type": "float"
+    }
+}

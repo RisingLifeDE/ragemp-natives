@@ -1,0 +1,17 @@
+{
+    "_0X_B5B7742424BD4445": {
+        "name": "_0X_B5B7742424BD4445",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

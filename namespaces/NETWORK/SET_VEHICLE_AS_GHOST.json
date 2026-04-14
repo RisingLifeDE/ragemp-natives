@@ -1,0 +1,17 @@
+{
+    "SET_VEHICLE_AS_GHOST": {
+        "name": "SET_VEHICLE_AS_GHOST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

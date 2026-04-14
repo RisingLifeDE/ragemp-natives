@@ -1,0 +1,41 @@
+{
+    "CLEAR_AREA": {
+        "name": "CLEAR_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "X"
+            },
+            {
+                "type": "float",
+                "name": "Y"
+            },
+            {
+                "type": "float",
+                "name": "Z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "ignoreCopCars"
+            },
+            {
+                "type": "BOOL",
+                "name": "ignoreObjects"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void"
+    }
+}

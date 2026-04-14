@@ -1,0 +1,13 @@
+{
+    "_0X86255B1FC929E33E": {
+        "name": "_0X86255B1FC929E33E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "val"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

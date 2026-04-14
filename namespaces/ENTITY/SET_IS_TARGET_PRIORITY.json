@@ -1,0 +1,21 @@
+{
+    "SET_IS_TARGET_PRIORITY": {
+        "name": "SET_IS_TARGET_PRIORITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

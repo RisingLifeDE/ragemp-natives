@@ -1,0 +1,41 @@
+{
+    "PLANE_LAND": {
+        "name": "PLANE_LAND",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pilot"
+            },
+            {
+                "type": "float",
+                "name": "plane"
+            },
+            {
+                "type": "float",
+                "name": "runwayStartX"
+            },
+            {
+                "type": "float",
+                "name": "runwayStartY"
+            },
+            {
+                "type": "float",
+                "name": "runwayStartZ"
+            },
+            {
+                "type": "float",
+                "name": "runwayEndX"
+            },
+            {
+                "type": "float",
+                "name": "runwayEndY"
+            },
+            {
+                "type": "float",
+                "name": "runwayEndZ"
+            }
+        ],
+        "return_type": "void"
+    }
+}

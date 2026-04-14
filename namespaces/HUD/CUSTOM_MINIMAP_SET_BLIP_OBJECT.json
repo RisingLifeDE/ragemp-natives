@@ -1,0 +1,13 @@
+{
+    "CUSTOM_MINIMAP_SET_BLIP_OBJECT": {
+        "name": "CUSTOM_MINIMAP_SET_BLIP_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "spriteId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

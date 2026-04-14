@@ -1,0 +1,21 @@
+{
+    "REMOTE_CHEAT_DETECTED": {
+        "name": "REMOTE_CHEAT_DETECTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "a"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

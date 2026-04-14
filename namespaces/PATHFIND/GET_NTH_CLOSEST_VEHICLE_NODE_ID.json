@@ -1,0 +1,37 @@
+{
+    "GET_NTH_CLOSEST_VEHICLE_NODE_ID": {
+        "name": "GET_NTH_CLOSEST_VEHICLE_NODE_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "nth"
+            },
+            {
+                "type": "float",
+                "name": "nodetype"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            }
+        ],
+        "return_type": "float"
+    }
+}

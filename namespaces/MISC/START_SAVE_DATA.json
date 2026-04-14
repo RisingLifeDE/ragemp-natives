@@ -1,0 +1,17 @@
+{
+    "START_SAVE_DATA": {
+        "name": "START_SAVE_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

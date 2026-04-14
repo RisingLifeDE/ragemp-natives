@@ -1,0 +1,8 @@
+{
+    "GET_GAMERTAG_FROM_HANDLE": {
+        "name": "GET_GAMERTAG_FROM_HANDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "NetworkGetGamertagFromHandleResult"
+    }
+}

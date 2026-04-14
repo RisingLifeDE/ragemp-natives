@@ -1,0 +1,17 @@
+{
+    "SET_SCENARIO_DENSITY_MULTIPLIER_THIS_FRAME": {
+        "name": "SET_SCENARIO_DENSITY_MULTIPLIER_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "intMultiplier"
+            },
+            {
+                "type": "float",
+                "name": "extMultiplier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

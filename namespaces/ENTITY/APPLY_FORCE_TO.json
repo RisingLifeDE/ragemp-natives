@@ -1,0 +1,65 @@
+{
+    "APPLY_FORCE_TO": {
+        "name": "APPLY_FORCE_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "forceFlags"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "offX"
+            },
+            {
+                "type": "float",
+                "name": "offY"
+            },
+            {
+                "type": "float",
+                "name": "offZ"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "isDirectionRel"
+            },
+            {
+                "type": "BOOL",
+                "name": "ignoreUpVec"
+            },
+            {
+                "type": "BOOL",
+                "name": "isForceRel"
+            },
+            {
+                "type": "BOOL",
+                "name": "p12"
+            },
+            {
+                "type": "BOOL",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void"
+    }
+}

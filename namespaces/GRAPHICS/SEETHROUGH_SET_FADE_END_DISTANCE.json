@@ -1,0 +1,13 @@
+{
+    "SEETHROUGH_SET_FADE_END_DISTANCE": {
+        "name": "SEETHROUGH_SET_FADE_END_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void"
+    }
+}

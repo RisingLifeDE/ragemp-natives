@@ -1,0 +1,17 @@
+{
+    "GIVE_PED_TO_PAUSE_MENU": {
+        "name": "GIVE_PED_TO_PAUSE_MENU",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "RageEnums.Hud.PM_PedPosition",
+                "name": "position"
+            }
+        ],
+        "return_type": "void"
+    }
+}

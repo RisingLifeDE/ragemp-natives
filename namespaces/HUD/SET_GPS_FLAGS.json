@@ -1,0 +1,17 @@
+{
+    "SET_GPS_FLAGS": {
+        "name": "SET_GPS_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "RageEnums.Hud.GpsFlags",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "blippedRouteDistance"
+            }
+        ],
+        "return_type": "void"
+    }
+}

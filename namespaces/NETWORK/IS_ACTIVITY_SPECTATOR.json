@@ -1,0 +1,8 @@
+{
+    "IS_ACTIVITY_SPECTATOR": {
+        "name": "IS_ACTIVITY_SPECTATOR",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

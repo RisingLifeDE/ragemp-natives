@@ -1,0 +1,13 @@
+{
+    "IS_LIPSTICK_COLOR_VALID2": {
+        "name": "IS_LIPSTICK_COLOR_VALID2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "colorId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

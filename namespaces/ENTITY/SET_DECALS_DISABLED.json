@@ -1,0 +1,17 @@
+{
+    "SET_DECALS_DISABLED": {
+        "name": "SET_DECALS_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

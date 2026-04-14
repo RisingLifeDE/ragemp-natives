@@ -1,0 +1,8 @@
+{
+    "CLAN_DOWNLOAD_MEMBERSHIP": {
+        "name": "CLAN_DOWNLOAD_MEMBERSHIP",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

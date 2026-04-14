@@ -1,0 +1,13 @@
+{
+    "INT_TO_PARTICIPANTINDEX": {
+        "name": "INT_TO_PARTICIPANTINDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

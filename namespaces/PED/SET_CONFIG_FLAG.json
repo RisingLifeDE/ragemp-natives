@@ -1,0 +1,21 @@
+{
+    "SET_CONFIG_FLAG": {
+        "name": "SET_CONFIG_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "flagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

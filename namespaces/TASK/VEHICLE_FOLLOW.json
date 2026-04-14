@@ -1,0 +1,33 @@
+{
+    "VEHICLE_FOLLOW": {
+        "name": "VEHICLE_FOLLOW",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "targetEntity"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "float",
+                "name": "minDistance"
+            }
+        ],
+        "return_type": "void"
+    }
+}

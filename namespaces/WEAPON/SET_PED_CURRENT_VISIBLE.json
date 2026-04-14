@@ -1,0 +1,29 @@
+{
+    "SET_PED_CURRENT_VISIBLE": {
+        "name": "SET_PED_CURRENT_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "visible"
+            },
+            {
+                "type": "BOOL",
+                "name": "deselectWeapon"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

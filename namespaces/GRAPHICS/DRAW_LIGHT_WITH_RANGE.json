@@ -1,0 +1,41 @@
+{
+    "DRAW_LIGHT_WITH_RANGE": {
+        "name": "DRAW_LIGHT_WITH_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "colorR"
+            },
+            {
+                "type": "float",
+                "name": "colorG"
+            },
+            {
+                "type": "float",
+                "name": "colorB"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

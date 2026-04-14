@@ -1,0 +1,8 @@
+{
+    "CONTINUE_TRANSITION": {
+        "name": "CONTINUE_TRANSITION",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

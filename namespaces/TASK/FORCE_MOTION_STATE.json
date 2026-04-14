@@ -1,0 +1,21 @@
+{
+    "FORCE_MOTION_STATE": {
+        "name": "FORCE_MOTION_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "state"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SEND_PRESENCE_TRANSITION_INVITE": {
+        "name": "SEND_PRESENCE_TRANSITION_INVITE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "NetworkSendPresenceTransitionInviteResult"
+    }
+}

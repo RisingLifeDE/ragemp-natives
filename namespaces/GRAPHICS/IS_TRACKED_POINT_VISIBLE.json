@@ -1,0 +1,13 @@
+{
+    "IS_TRACKED_POINT_VISIBLE": {
+        "name": "IS_TRACKED_POINT_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "point"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

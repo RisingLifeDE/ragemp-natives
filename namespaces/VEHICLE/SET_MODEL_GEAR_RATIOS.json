@@ -1,0 +1,17 @@
+{
+    "SET_MODEL_GEAR_RATIOS": {
+        "name": "SET_MODEL_GEAR_RATIOS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicleModelHash"
+            },
+            {
+                "type": "Array<number>",
+                "name": "ratios"
+            }
+        ],
+        "return_type": "void"
+    }
+}

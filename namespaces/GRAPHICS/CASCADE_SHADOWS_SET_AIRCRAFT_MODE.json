@@ -1,0 +1,13 @@
+{
+    "CASCADE_SHADOWS_SET_AIRCRAFT_MODE": {
+        "name": "CASCADE_SHADOWS_SET_AIRCRAFT_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

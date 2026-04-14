@@ -1,0 +1,13 @@
+{
+    "GET_FAR_DOF": {
+        "name": "GET_FAR_DOF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "float"
+    }
+}

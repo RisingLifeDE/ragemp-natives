@@ -1,0 +1,13 @@
+{
+    "GET_MENU_PED_BOOL_STAT": {
+        "name": "GET_MENU_PED_BOOL_STAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

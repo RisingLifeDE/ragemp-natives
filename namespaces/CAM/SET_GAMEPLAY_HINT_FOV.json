@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_HINT_FOV": {
+        "name": "SET_GAMEPLAY_HINT_FOV",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "FOV"
+            }
+        ],
+        "return_type": "void"
+    }
+}

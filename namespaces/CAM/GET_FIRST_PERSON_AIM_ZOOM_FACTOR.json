@@ -1,0 +1,8 @@
+{
+    "GET_FIRST_PERSON_AIM_ZOOM_FACTOR": {
+        "name": "GET_FIRST_PERSON_AIM_ZOOM_FACTOR",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

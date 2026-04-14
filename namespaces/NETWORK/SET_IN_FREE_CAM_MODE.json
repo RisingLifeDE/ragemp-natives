@@ -1,0 +1,13 @@
+{
+    "SET_IN_FREE_CAM_MODE": {
+        "name": "SET_IN_FREE_CAM_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

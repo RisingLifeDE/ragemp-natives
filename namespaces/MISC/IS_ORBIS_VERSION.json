@@ -1,0 +1,8 @@
+{
+    "IS_ORBIS_VERSION": {
+        "name": "IS_ORBIS_VERSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

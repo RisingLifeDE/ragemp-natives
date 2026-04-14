@@ -1,0 +1,13 @@
+{
+    "SESSION_GET_KICK_VOTE": {
+        "name": "SESSION_GET_KICK_VOTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

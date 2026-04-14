@@ -1,0 +1,8 @@
+{
+    "ALLOW_PLAYER_SWITCH_DESCENT": {
+        "name": "ALLOW_PLAYER_SWITCH_DESCENT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "_0X87DDEB611B329A9C": {
+        "name": "_0X87DDEB611B329A9C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

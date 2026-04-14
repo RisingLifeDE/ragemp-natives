@@ -1,0 +1,21 @@
+{
+    "FACEBOOK_SET_HEIST_COMPLETE": {
+        "name": "FACEBOOK_SET_HEIST_COMPLETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "heistName"
+            },
+            {
+                "type": "float",
+                "name": "cashEarned"
+            },
+            {
+                "type": "float",
+                "name": "xpEarned"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

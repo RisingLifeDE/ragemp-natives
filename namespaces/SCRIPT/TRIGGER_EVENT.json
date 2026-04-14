@@ -1,0 +1,21 @@
+{
+    "TRIGGER_EVENT": {
+        "name": "TRIGGER_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "eventGroup"
+            },
+            {
+                "type": "float",
+                "name": "eventDataSize"
+            },
+            {
+                "type": "float",
+                "name": "playerBits"
+            }
+        ],
+        "return_type": "float"
+    }
+}

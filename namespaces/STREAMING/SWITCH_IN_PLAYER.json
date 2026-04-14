@@ -1,0 +1,13 @@
+{
+    "SWITCH_IN_PLAYER": {
+        "name": "SWITCH_IN_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

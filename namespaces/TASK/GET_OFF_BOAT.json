@@ -1,0 +1,17 @@
+{
+    "GET_OFF_BOAT": {
+        "name": "GET_OFF_BOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "boat"
+            }
+        ],
+        "return_type": "void"
+    }
+}

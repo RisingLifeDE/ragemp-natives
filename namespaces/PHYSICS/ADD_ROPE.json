@@ -1,0 +1,73 @@
+{
+    "ADD_ROPE": {
+        "name": "ADD_ROPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            },
+            {
+                "type": "float",
+                "name": "ropeType"
+            },
+            {
+                "type": "float",
+                "name": "maxLength"
+            },
+            {
+                "type": "float",
+                "name": "minLength"
+            },
+            {
+                "type": "float",
+                "name": "windingSpeed"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            },
+            {
+                "type": "BOOL",
+                "name": "p12"
+            },
+            {
+                "type": "BOOL",
+                "name": "rigid"
+            },
+            {
+                "type": "float",
+                "name": "p14"
+            },
+            {
+                "type": "BOOL",
+                "name": "breakWhenShot"
+            }
+        ],
+        "return_type": "AddRopeResult"
+    }
+}

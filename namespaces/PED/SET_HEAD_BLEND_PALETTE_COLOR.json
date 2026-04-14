@@ -1,0 +1,29 @@
+{
+    "SET_HEAD_BLEND_PALETTE_COLOR": {
+        "name": "SET_HEAD_BLEND_PALETTE_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            },
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "void"
+    }
+}

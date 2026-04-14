@@ -1,0 +1,8 @@
+{
+    "IS_STUNT_JUMP_MESSAGE_SHOWING": {
+        "name": "IS_STUNT_JUMP_MESSAGE_SHOWING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

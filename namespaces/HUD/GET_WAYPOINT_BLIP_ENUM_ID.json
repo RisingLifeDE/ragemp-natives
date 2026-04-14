@@ -1,0 +1,8 @@
+{
+    "GET_WAYPOINT_BLIP_ENUM_ID": {
+        "name": "GET_WAYPOINT_BLIP_ENUM_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

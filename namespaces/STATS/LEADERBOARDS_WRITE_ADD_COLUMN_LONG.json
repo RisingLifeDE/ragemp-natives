@@ -1,0 +1,21 @@
+{
+    "LEADERBOARDS_WRITE_ADD_COLUMN_LONG": {
+        "name": "LEADERBOARDS_WRITE_ADD_COLUMN_LONG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

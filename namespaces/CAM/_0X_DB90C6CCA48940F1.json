@@ -1,0 +1,13 @@
+{
+    "_0X_DB90C6CCA48940F1": {
+        "name": "_0X_DB90C6CCA48940F1",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_TEXT_RENDER_ID": {
+        "name": "SET_TEXT_RENDER_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "renderId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

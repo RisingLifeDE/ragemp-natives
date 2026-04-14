@@ -1,0 +1,13 @@
+{
+    "SET_WIND_SPEED": {
+        "name": "SET_WIND_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void"
+    }
+}

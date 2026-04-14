@@ -1,0 +1,8 @@
+{
+    "GET_TIME_SINCE_HIT_PED": {
+        "name": "GET_TIME_SINCE_HIT_PED",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_WETNESS_ENABLED_THIS_FRAME": {
+        "name": "SET_WETNESS_ENABLED_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

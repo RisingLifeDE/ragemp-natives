@@ -1,0 +1,17 @@
+{
+    "IS_CONTROL_RELEASED": {
+        "name": "IS_CONTROL_RELEASED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            },
+            {
+                "type": "float",
+                "name": "control"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

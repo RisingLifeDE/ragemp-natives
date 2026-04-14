@@ -1,0 +1,8 @@
+{
+    "CLEAR_WANTED_LEVEL": {
+        "name": "CLEAR_WANTED_LEVEL",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

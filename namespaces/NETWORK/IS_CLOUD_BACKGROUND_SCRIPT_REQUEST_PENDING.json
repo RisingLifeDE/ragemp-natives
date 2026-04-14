@@ -1,0 +1,8 @@
+{
+    "IS_CLOUD_BACKGROUND_SCRIPT_REQUEST_PENDING": {
+        "name": "IS_CLOUD_BACKGROUND_SCRIPT_REQUEST_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

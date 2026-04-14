@@ -1,0 +1,17 @@
+{
+    "UGC_REQUEST_CONTENT_DATA_FROM_INDEX": {
+        "name": "UGC_REQUEST_CONTENT_DATA_FROM_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

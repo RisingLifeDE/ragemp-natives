@@ -1,0 +1,13 @@
+{
+    "SET_TEXT_CENTRE": {
+        "name": "SET_TEXT_CENTRE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "align"
+            }
+        ],
+        "return_type": "void"
+    }
+}

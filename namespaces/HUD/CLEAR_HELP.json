@@ -1,0 +1,13 @@
+{
+    "CLEAR_HELP": {
+        "name": "CLEAR_HELP",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

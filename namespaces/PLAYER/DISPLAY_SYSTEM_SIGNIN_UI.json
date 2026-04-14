@@ -1,0 +1,13 @@
+{
+    "DISPLAY_SYSTEM_SIGNIN_UI": {
+        "name": "DISPLAY_SYSTEM_SIGNIN_UI",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "unk"
+            }
+        ],
+        "return_type": "void"
+    }
+}

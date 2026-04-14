@@ -1,0 +1,8 @@
+{
+    "SUPPRESS_AGITATION_EVENTS_NEXT_FRAME": {
+        "name": "SUPPRESS_AGITATION_EVENTS_NEXT_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

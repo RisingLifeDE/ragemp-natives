@@ -1,0 +1,8 @@
+{
+    "HAS_DAMAGED_AT_LEAST_ONE_PED": {
+        "name": "HAS_DAMAGED_AT_LEAST_ONE_PED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

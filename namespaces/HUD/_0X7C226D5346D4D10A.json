@@ -1,0 +1,13 @@
+{
+    "_0X7C226D5346D4D10A": {
+        "name": "_0X7C226D5346D4D10A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

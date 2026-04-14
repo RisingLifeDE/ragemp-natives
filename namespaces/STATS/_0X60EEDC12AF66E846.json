@@ -1,0 +1,13 @@
+{
+    "_0X60EEDC12AF66E846": {
+        "name": "_0X60EEDC12AF66E846",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

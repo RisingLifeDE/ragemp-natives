@@ -1,0 +1,13 @@
+{
+    "SET_SAVE_MIGRATION_TRANSACTION_ID": {
+        "name": "SET_SAVE_MIGRATION_TRANSACTION_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "transactionId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

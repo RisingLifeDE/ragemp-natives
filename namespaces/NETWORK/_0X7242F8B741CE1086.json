@@ -1,0 +1,13 @@
+{
+    "_0X7242F8B741CE1086": {
+        "name": "_0X7242F8B741CE1086",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

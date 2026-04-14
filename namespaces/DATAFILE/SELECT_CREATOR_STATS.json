@@ -1,0 +1,13 @@
+{
+    "SELECT_CREATOR_STATS": {
+        "name": "SELECT_CREATOR_STATS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

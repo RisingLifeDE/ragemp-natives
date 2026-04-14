@@ -1,0 +1,8 @@
+{
+    "CLOSE_PATROL_ROUTE": {
+        "name": "CLOSE_PATROL_ROUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

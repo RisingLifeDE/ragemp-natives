@@ -1,0 +1,17 @@
+{
+    "_0X_BED9F5693F34ED17": {
+        "name": "_0X_BED9F5693F34ED17",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statName"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

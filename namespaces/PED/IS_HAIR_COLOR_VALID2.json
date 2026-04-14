@@ -1,0 +1,13 @@
+{
+    "IS_HAIR_COLOR_VALID2": {
+        "name": "IS_HAIR_COLOR_VALID2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "colorId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

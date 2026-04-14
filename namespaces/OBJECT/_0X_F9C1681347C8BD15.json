@@ -1,0 +1,13 @@
+{
+    "_0X_F9C1681347C8BD15": {
+        "name": "_0X_F9C1681347C8BD15",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "void"
+    }
+}

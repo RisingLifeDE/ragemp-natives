@@ -1,0 +1,13 @@
+{
+    "SET_DITCH_POLICE_MODELS": {
+        "name": "SET_DITCH_POLICE_MODELS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

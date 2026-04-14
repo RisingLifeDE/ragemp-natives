@@ -1,0 +1,8 @@
+{
+    "GET_CURRENT_STREET_NAME_HASH": {
+        "name": "GET_CURRENT_STREET_NAME_HASH",
+        "comment": "Way, way faster than GET_STREET_NAME_AT_COORD native function as it uses the street HUD component cached value.",
+        "params": [],
+        "return_type": "float"
+    }
+}

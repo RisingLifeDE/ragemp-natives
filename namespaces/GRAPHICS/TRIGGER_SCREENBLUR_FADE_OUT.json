@@ -1,0 +1,13 @@
+{
+    "TRIGGER_SCREENBLUR_FADE_OUT": {
+        "name": "TRIGGER_SCREENBLUR_FADE_OUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "transitionTime"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

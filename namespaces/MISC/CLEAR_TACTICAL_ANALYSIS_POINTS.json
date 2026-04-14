@@ -1,0 +1,8 @@
+{
+    "CLEAR_TACTICAL_ANALYSIS_POINTS": {
+        "name": "CLEAR_TACTICAL_ANALYSIS_POINTS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

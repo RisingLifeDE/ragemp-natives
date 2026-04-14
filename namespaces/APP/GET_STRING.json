@@ -1,0 +1,13 @@
+{
+    "GET_STRING": {
+        "name": "GET_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "property"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_PS3VERSION": {
+        "name": "IS_PS3VERSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

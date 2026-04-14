@@ -1,0 +1,13 @@
+{
+    "INT_TO_INDEX": {
+        "name": "INT_TO_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

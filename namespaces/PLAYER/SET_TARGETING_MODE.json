@@ -1,0 +1,13 @@
+{
+    "SET_TARGETING_MODE": {
+        "name": "SET_TARGETING_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "targetMode"
+            }
+        ],
+        "return_type": "void"
+    }
+}

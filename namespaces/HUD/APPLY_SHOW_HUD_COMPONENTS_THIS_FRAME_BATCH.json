@@ -1,0 +1,8 @@
+{
+    "APPLY_SHOW_HUD_COMPONENTS_THIS_FRAME_BATCH": {
+        "name": "APPLY_SHOW_HUD_COMPONENTS_THIS_FRAME_BATCH",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

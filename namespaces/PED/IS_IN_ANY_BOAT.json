@@ -1,0 +1,13 @@
+{
+    "IS_IN_ANY_BOAT": {
+        "name": "IS_IN_ANY_BOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

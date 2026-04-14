@@ -1,0 +1,17 @@
+{
+    "SET_ARMOUR": {
+        "name": "SET_ARMOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CAN_ACCESS_MULTIPLAYER": {
+        "name": "CAN_ACCESS_MULTIPLAYER",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

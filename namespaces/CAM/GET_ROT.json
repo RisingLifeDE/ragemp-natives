@@ -1,0 +1,17 @@
+{
+    "GET_ROT": {
+        "name": "GET_ROT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

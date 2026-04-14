@@ -1,0 +1,13 @@
+{
+    "FADE_OUT_LOCAL_PLAYER": {
+        "name": "FADE_OUT_LOCAL_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_TOTAL_DURATION": {
+        "name": "GET_TOTAL_DURATION",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

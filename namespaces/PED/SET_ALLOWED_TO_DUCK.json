@@ -1,0 +1,17 @@
+{
+    "SET_ALLOWED_TO_DUCK": {
+        "name": "SET_ALLOWED_TO_DUCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

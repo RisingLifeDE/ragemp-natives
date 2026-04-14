@@ -1,0 +1,13 @@
+{
+    "DISABLE_SCRIPT_AMBIENT_EFFECTS": {
+        "name": "DISABLE_SCRIPT_AMBIENT_EFFECTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

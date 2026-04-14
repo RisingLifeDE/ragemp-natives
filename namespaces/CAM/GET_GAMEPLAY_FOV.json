@@ -1,0 +1,8 @@
+{
+    "GET_GAMEPLAY_FOV": {
+        "name": "GET_GAMEPLAY_FOV",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

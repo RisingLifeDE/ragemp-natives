@@ -1,0 +1,8 @@
+{
+    "ENABLE_CROSSHAIR_THIS_FRAME": {
+        "name": "ENABLE_CROSSHAIR_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

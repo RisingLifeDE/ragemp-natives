@@ -1,0 +1,17 @@
+{
+    "SET_DISABLE_FRAG_DAMAGE": {
+        "name": "SET_DISABLE_FRAG_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

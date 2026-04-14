@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_COLOUR": {
+        "name": "SET_BLIP_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "color"
+            }
+        ],
+        "return_type": "void"
+    }
+}

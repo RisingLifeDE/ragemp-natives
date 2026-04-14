@@ -1,0 +1,13 @@
+{
+    "CLEAR_WETNESS": {
+        "name": "CLEAR_WETNESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

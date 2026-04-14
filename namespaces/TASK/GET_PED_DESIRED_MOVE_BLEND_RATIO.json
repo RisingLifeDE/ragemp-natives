@@ -1,0 +1,13 @@
+{
+    "GET_PED_DESIRED_MOVE_BLEND_RATIO": {
+        "name": "GET_PED_DESIRED_MOVE_BLEND_RATIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

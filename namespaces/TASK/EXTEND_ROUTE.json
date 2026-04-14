@@ -1,0 +1,21 @@
+{
+    "EXTEND_ROUTE": {
+        "name": "EXTEND_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

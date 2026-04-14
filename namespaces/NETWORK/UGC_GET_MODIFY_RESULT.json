@@ -1,0 +1,8 @@
+{
+    "UGC_GET_MODIFY_RESULT": {
+        "name": "UGC_GET_MODIFY_RESULT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

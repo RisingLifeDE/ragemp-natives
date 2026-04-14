@@ -1,0 +1,17 @@
+{
+    "SET_AS_ENEMY": {
+        "name": "SET_AS_ENEMY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

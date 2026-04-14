@@ -1,0 +1,8 @@
+{
+    "STAT_GET_SAVE_MIGRATION_CONSUME_CONTENT_UNLOCK_STATUS": {
+        "name": "STAT_GET_SAVE_MIGRATION_CONSUME_CONTENT_UNLOCK_STATUS",
+        "comment": "",
+        "params": [],
+        "return_type": "StatGetSaveMigrationConsumeContentUnlockStatusResult"
+    }
+}

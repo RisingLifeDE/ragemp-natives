@@ -1,0 +1,13 @@
+{
+    "GET_TEXTURE_VARIATION": {
+        "name": "GET_TEXTURE_VARIATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "float"
+    }
+}

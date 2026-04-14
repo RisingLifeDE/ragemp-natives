@@ -1,0 +1,8 @@
+{
+    "OPEN_REPORTUGC_MENU": {
+        "name": "OPEN_REPORTUGC_MENU",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "FLAG_PLAYER_CONTEXT_IN_TOURNAMENT": {
+        "name": "FLAG_PLAYER_CONTEXT_IN_TOURNAMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

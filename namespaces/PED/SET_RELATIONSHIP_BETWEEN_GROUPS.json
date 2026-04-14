@@ -1,0 +1,21 @@
+{
+    "SET_RELATIONSHIP_BETWEEN_GROUPS": {
+        "name": "SET_RELATIONSHIP_BETWEEN_GROUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "relationship"
+            },
+            {
+                "type": "float",
+                "name": "group1"
+            },
+            {
+                "type": "float",
+                "name": "group2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

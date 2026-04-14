@@ -1,0 +1,25 @@
+{
+    "DOOR_SYSTEM_SET_AUTOMATIC_RATE": {
+        "name": "DOOR_SYSTEM_SET_AUTOMATIC_RATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            },
+            {
+                "type": "float",
+                "name": "rate"
+            },
+            {
+                "type": "BOOL",
+                "name": "requestDoor"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceUpdate"
+            }
+        ],
+        "return_type": "void"
+    }
+}

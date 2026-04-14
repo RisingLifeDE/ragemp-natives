@@ -1,0 +1,8 @@
+{
+    "IS_SESSION_BUSY": {
+        "name": "IS_SESSION_BUSY",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

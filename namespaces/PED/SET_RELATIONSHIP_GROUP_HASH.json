@@ -1,0 +1,17 @@
+{
+    "SET_RELATIONSHIP_GROUP_HASH": {
+        "name": "SET_RELATIONSHIP_GROUP_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "SESSION_CREW_MATCHMAKING": {
+        "name": "SESSION_CREW_MATCHMAKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "maxPlayers"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

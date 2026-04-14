@@ -1,0 +1,17 @@
+{
+    "WASH_DECALS_FROM_VEHICLE": {
+        "name": "WASH_DECALS_FROM_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "SHOW_SIGNIN_UI": {
+        "name": "SHOW_SIGNIN_UI",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

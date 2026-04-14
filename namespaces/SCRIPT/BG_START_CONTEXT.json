@@ -1,0 +1,13 @@
+{
+    "BG_START_CONTEXT": {
+        "name": "BG_START_CONTEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "contextName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

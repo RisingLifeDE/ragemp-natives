@@ -1,0 +1,17 @@
+{
+    "GET_BONE_INDEX": {
+        "name": "GET_BONE_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "boneId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

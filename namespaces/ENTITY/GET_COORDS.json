@@ -1,0 +1,17 @@
+{
+    "GET_COORDS": {
+        "name": "GET_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "alive"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

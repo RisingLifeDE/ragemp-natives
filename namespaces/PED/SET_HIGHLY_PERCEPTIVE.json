@@ -1,0 +1,17 @@
+{
+    "SET_HIGHLY_PERCEPTIVE": {
+        "name": "SET_HIGHLY_PERCEPTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

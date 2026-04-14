@@ -1,0 +1,21 @@
+{
+    "VEHICLE_SHOOT_AT_PED": {
+        "name": "VEHICLE_SHOOT_AT_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "target"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

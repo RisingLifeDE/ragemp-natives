@@ -1,0 +1,13 @@
+{
+    "RESET_STRAFE_CLIPSET": {
+        "name": "RESET_STRAFE_CLIPSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_WANTED_LEVEL": {
+        "name": "GET_WANTED_LEVEL",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_BLIP_ROTATION": {
+        "name": "GET_BLIP_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "blip"
+            }
+        ],
+        "return_type": "float"
+    }
+}

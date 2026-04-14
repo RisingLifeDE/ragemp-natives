@@ -1,0 +1,13 @@
+{
+    "IS_OBJECT_WITHIN_ACTIVATION_RANGE": {
+        "name": "IS_OBJECT_WITHIN_ACTIVATION_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

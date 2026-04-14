@@ -1,0 +1,13 @@
+{
+    "ADD_TEXT_COMPONENT_INTEGER": {
+        "name": "ADD_TEXT_COMPONENT_INTEGER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

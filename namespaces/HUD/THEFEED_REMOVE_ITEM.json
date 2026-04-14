@@ -1,0 +1,13 @@
+{
+    "THEFEED_REMOVE_ITEM": {
+        "name": "THEFEED_REMOVE_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "notificationId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

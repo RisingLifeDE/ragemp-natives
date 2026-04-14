@@ -1,0 +1,21 @@
+{
+    "SET_FLEE_ATTRIBUTES": {
+        "name": "SET_FLEE_ATTRIBUTES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "attributeFlags"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

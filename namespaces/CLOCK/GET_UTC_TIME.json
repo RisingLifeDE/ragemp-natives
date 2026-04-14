@@ -1,0 +1,8 @@
+{
+    "GET_UTC_TIME": {
+        "name": "GET_UTC_TIME",
+        "comment": "",
+        "params": [],
+        "return_type": "GetUtcTimeResult"
+    }
+}

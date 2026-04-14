@@ -1,0 +1,17 @@
+{
+    "SET_ID_CAN_MIGRATE": {
+        "name": "SET_ID_CAN_MIGRATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

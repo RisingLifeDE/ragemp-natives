@@ -1,0 +1,13 @@
+{
+    "STOP_AUDIO_SCENE": {
+        "name": "STOP_AUDIO_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scene"
+            }
+        ],
+        "return_type": "void"
+    }
+}

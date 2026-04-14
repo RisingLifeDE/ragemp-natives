@@ -1,0 +1,13 @@
+{
+    "SET_AI_GLOBAL_PATH_NODES_TYPE": {
+        "name": "SET_AI_GLOBAL_PATH_NODES_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "type"
+            }
+        ],
+        "return_type": "void"
+    }
+}

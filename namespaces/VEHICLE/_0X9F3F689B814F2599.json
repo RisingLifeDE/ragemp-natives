@@ -1,0 +1,17 @@
+{
+    "_0X9F3F689B814F2599": {
+        "name": "_0X9F3F689B814F2599",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

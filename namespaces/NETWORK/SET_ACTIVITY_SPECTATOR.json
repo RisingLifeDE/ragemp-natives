@@ -1,0 +1,13 @@
+{
+    "SET_ACTIVITY_SPECTATOR": {
+        "name": "SET_ACTIVITY_SPECTATOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

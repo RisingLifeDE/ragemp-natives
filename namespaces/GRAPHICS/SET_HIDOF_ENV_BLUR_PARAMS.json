@@ -1,0 +1,33 @@
+{
+    "SET_HIDOF_ENV_BLUR_PARAMS": {
+        "name": "SET_HIDOF_ENV_BLUR_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "nearplaneOut"
+            },
+            {
+                "type": "float",
+                "name": "nearplaneIn"
+            },
+            {
+                "type": "float",
+                "name": "farplaneOut"
+            },
+            {
+                "type": "float",
+                "name": "farplaneIn"
+            }
+        ],
+        "return_type": "void"
+    }
+}

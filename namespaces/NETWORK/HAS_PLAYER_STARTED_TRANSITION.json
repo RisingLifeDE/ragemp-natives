@@ -1,0 +1,13 @@
+{
+    "HAS_PLAYER_STARTED_TRANSITION": {
+        "name": "HAS_PLAYER_STARTED_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

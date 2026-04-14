@@ -1,0 +1,8 @@
+{
+    "IS_NAVIGATING_MENU_CONTENT": {
+        "name": "IS_NAVIGATING_MENU_CONTENT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

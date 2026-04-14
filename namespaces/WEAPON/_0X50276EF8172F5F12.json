@@ -1,0 +1,13 @@
+{
+    "_0X50276EF8172F5F12": {
+        "name": "_0X50276EF8172F5F12",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

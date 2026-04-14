@@ -1,0 +1,21 @@
+{
+    "SET_GAMEPLAY_RELATIVE_ROTATION": {
+        "name": "SET_GAMEPLAY_RELATIVE_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "roll"
+            },
+            {
+                "type": "float",
+                "name": "pitch"
+            },
+            {
+                "type": "float",
+                "name": "yaw"
+            }
+        ],
+        "return_type": "void"
+    }
+}

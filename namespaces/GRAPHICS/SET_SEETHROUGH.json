@@ -1,0 +1,13 @@
+{
+    "SET_SEETHROUGH": {
+        "name": "SET_SEETHROUGH",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "GET_PROP_INDEX": {
+        "name": "GET_PROP_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "componentId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

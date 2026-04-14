@@ -1,0 +1,8 @@
+{
+    "RESET_RETICULE_VALUES": {
+        "name": "RESET_RETICULE_VALUES",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

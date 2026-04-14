@@ -1,0 +1,13 @@
+{
+    "REMOVE_DECAL": {
+        "name": "REMOVE_DECAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "decal"
+            }
+        ],
+        "return_type": "void"
+    }
+}

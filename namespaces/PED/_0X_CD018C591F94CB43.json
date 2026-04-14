@@ -1,0 +1,17 @@
+{
+    "_0X_CD018C591F94CB43": {
+        "name": "_0X_CD018C591F94CB43",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

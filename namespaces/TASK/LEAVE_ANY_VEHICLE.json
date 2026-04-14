@@ -1,0 +1,21 @@
+{
+    "LEAVE_ANY_VEHICLE": {
+        "name": "LEAVE_ANY_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

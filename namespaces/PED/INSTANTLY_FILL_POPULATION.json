@@ -1,0 +1,8 @@
+{
+    "INSTANTLY_FILL_POPULATION": {
+        "name": "INSTANTLY_FILL_POPULATION",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

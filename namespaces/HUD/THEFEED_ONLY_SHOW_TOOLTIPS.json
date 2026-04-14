@@ -1,0 +1,13 @@
+{
+    "THEFEED_ONLY_SHOW_TOOLTIPS": {
+        "name": "THEFEED_ONLY_SHOW_TOOLTIPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

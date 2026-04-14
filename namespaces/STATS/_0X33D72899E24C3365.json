@@ -1,0 +1,17 @@
+{
+    "_0X33D72899E24C3365": {
+        "name": "_0X33D72899E24C3365",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "COPY_MEMORY": {
+        "name": "COPY_MEMORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "size"
+            }
+        ],
+        "return_type": "CopyMemoryResult"
+    }
+}

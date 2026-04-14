@@ -1,0 +1,33 @@
+{
+    "SUBMARINE_GOTO_AND_STOP": {
+        "name": "SUBMARINE_GOTO_AND_STOP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "submarine"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void"
+    }
+}

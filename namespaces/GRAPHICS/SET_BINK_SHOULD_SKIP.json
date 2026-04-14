@@ -1,0 +1,17 @@
+{
+    "SET_BINK_SHOULD_SKIP": {
+        "name": "SET_BINK_SHOULD_SKIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "binkMovie"
+            },
+            {
+                "type": "BOOL",
+                "name": "bShouldSkip"
+            }
+        ],
+        "return_type": "void"
+    }
+}

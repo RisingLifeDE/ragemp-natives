@@ -1,0 +1,13 @@
+{
+    "UGC_POLICIES_MAKE_PRIVATE": {
+        "name": "UGC_POLICIES_MAKE_PRIVATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

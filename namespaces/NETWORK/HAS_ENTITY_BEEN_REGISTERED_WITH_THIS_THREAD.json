@@ -1,0 +1,13 @@
+{
+    "HAS_ENTITY_BEEN_REGISTERED_WITH_THIS_THREAD": {
+        "name": "HAS_ENTITY_BEEN_REGISTERED_WITH_THIS_THREAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

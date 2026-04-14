@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_HASH": {
+        "name": "SET_GAMEPLAY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "camName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

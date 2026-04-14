@@ -1,0 +1,8 @@
+{
+    "SPAWNPOINTS_CANCEL_SEARCH": {
+        "name": "SPAWNPOINTS_CANCEL_SEARCH",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

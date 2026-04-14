@@ -1,0 +1,8 @@
+{
+    "HIDE_HELP_TEXT_THIS_FRAME": {
+        "name": "HIDE_HELP_TEXT_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

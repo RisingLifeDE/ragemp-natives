@@ -1,0 +1,13 @@
+{
+    "CAN_REGISTER_MISSION_VEHICLES": {
+        "name": "CAN_REGISTER_MISSION_VEHICLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

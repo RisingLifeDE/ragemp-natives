@@ -1,0 +1,13 @@
+{
+    "SIN": {
+        "name": "SIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

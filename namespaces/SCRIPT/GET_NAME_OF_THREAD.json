@@ -1,0 +1,13 @@
+{
+    "GET_NAME_OF_THREAD": {
+        "name": "GET_NAME_OF_THREAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

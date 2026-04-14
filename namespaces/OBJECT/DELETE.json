@@ -1,0 +1,13 @@
+{
+    "DELETE": {
+        "name": "DELETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "float"
+    }
+}

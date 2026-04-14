@@ -1,0 +1,17 @@
+{
+    "GET_EVENT_DATA": {
+        "name": "GET_EVENT_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "eventType"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "PLAY_STUNT_PERFORMED_EVENT_ALLOW_TRIGGER": {
+        "name": "PLAY_STUNT_PERFORMED_EVENT_ALLOW_TRIGGER",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

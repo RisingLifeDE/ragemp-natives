@@ -1,0 +1,13 @@
+{
+    "SET_PED_POPULATION_BUDGET": {
+        "name": "SET_PED_POPULATION_BUDGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

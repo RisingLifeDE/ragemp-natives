@@ -1,0 +1,13 @@
+{
+    "UNLOAD_CONTENT_CHANGE_SET_GROUP": {
+        "name": "UNLOAD_CONTENT_CHANGE_SET_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

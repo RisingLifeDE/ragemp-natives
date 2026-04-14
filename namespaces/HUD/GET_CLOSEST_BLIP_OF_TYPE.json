@@ -1,0 +1,13 @@
+{
+    "GET_CLOSEST_BLIP_OF_TYPE": {
+        "name": "GET_CLOSEST_BLIP_OF_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blipSprite"
+            }
+        ],
+        "return_type": "float"
+    }
+}

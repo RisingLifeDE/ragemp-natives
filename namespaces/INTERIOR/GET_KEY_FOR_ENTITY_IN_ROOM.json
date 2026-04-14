@@ -1,0 +1,13 @@
+{
+    "GET_KEY_FOR_ENTITY_IN_ROOM": {
+        "name": "GET_KEY_FOR_ENTITY_IN_ROOM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

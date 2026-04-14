@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_HIGH_DETAIL": {
+        "name": "SET_BLIP_HIGH_DETAIL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

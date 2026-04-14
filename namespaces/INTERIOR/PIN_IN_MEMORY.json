@@ -1,0 +1,13 @@
+{
+    "PIN_IN_MEMORY": {
+        "name": "PIN_IN_MEMORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "void"
+    }
+}

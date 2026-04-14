@@ -1,0 +1,13 @@
+{
+    "IS_TRYING_TO_ENTER_A_LOCKED_VEHICLE": {
+        "name": "IS_TRYING_TO_ENTER_A_LOCKED_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

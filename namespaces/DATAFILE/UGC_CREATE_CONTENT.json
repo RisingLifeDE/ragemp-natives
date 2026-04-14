@@ -1,0 +1,33 @@
+{
+    "UGC_CREATE_CONTENT": {
+        "name": "UGC_CREATE_CONTENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dataCount"
+            },
+            {
+                "type": "char*",
+                "name": "contentName"
+            },
+            {
+                "type": "char*",
+                "name": "description"
+            },
+            {
+                "type": "char*",
+                "name": "tagsCsv"
+            },
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "BOOL",
+                "name": "publish"
+            }
+        ],
+        "return_type": "float"
+    }
+}

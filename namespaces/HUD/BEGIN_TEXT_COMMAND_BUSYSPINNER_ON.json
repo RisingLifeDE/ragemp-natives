@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_BUSYSPINNER_ON": {
+        "name": "BEGIN_TEXT_COMMAND_BUSYSPINNER_ON",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_ABILITY_BAR_VISIBILITY_IN_MULTIPLAYER": {
+        "name": "SET_ABILITY_BAR_VISIBILITY_IN_MULTIPLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "visible"
+            }
+        ],
+        "return_type": "void"
+    }
+}

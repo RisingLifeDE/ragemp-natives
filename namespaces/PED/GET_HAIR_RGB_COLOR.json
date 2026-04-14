@@ -1,0 +1,13 @@
+{
+    "GET_HAIR_RGB_COLOR": {
+        "name": "GET_HAIR_RGB_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hairColorIndex"
+            }
+        ],
+        "return_type": "GetPedHairRgbColorResult"
+    }
+}

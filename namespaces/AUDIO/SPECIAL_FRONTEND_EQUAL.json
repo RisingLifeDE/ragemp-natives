@@ -1,0 +1,21 @@
+{
+    "SPECIAL_FRONTEND_EQUAL": {
+        "name": "SPECIAL_FRONTEND_EQUAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

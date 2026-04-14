@@ -1,0 +1,21 @@
+{
+    "CREATE_PARACHUTE_BAG_OBJECT": {
+        "name": "CREATE_PARACHUTE_BAG_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

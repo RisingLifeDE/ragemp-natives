@@ -1,0 +1,8 @@
+{
+    "IS_INACTIVE_PROFILE": {
+        "name": "IS_INACTIVE_PROFILE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

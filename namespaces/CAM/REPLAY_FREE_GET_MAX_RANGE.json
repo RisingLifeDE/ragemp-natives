@@ -1,0 +1,8 @@
+{
+    "REPLAY_FREE_GET_MAX_RANGE": {
+        "name": "REPLAY_FREE_GET_MAX_RANGE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

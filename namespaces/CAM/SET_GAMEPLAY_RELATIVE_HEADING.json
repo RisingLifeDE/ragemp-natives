@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_RELATIVE_HEADING": {
+        "name": "SET_GAMEPLAY_RELATIVE_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void"
+    }
+}

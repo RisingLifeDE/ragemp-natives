@@ -1,0 +1,13 @@
+{
+    "STOP_ROPE_WINDING": {
+        "name": "STOP_ROPE_WINDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

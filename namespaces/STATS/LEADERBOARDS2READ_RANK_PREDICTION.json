@@ -1,0 +1,8 @@
+{
+    "LEADERBOARDS2READ_RANK_PREDICTION": {
+        "name": "LEADERBOARDS2READ_RANK_PREDICTION",
+        "comment": "",
+        "params": [],
+        "return_type": "Leaderboards2ReadRankPredictionResult"
+    }
+}

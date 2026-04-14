@@ -1,0 +1,13 @@
+{
+    "REQUEST": {
+        "name": "REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

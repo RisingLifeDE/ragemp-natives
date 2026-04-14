@@ -1,0 +1,13 @@
+{
+    "CLEAR_TV_CHANNEL_PLAYLIST": {
+        "name": "CLEAR_TV_CHANNEL_PLAYLIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "tvChannel"
+            }
+        ],
+        "return_type": "void"
+    }
+}

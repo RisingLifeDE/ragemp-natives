@@ -1,0 +1,13 @@
+{
+    "GET_LOD_DIST": {
+        "name": "GET_LOD_DIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

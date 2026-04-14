@@ -1,0 +1,13 @@
+{
+    "_0X88087EE1F28024AE": {
+        "name": "_0X88087EE1F28024AE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_IN_SESSION": {
+        "name": "IS_IN_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

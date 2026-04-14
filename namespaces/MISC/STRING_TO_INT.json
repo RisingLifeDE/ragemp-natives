@@ -1,0 +1,13 @@
+{
+    "STRING_TO_INT": {
+        "name": "STRING_TO_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "float"
+    }
+}

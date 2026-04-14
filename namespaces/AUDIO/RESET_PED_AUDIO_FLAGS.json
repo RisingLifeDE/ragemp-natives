@@ -1,0 +1,13 @@
+{
+    "RESET_PED_AUDIO_FLAGS": {
+        "name": "RESET_PED_AUDIO_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

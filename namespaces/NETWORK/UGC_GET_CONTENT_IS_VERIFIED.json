@@ -1,0 +1,13 @@
+{
+    "UGC_GET_CONTENT_IS_VERIFIED": {
+        "name": "UGC_GET_CONTENT_IS_VERIFIED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

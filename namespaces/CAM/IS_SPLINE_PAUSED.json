@@ -1,0 +1,13 @@
+{
+    "IS_SPLINE_PAUSED": {
+        "name": "IS_SPLINE_PAUSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

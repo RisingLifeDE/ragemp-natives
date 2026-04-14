@@ -1,0 +1,8 @@
+{
+    "HAS_VIEW_GAMER_USER_CONTENT_RESULT": {
+        "name": "HAS_VIEW_GAMER_USER_CONTENT_RESULT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

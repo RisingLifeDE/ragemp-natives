@@ -1,0 +1,8 @@
+{
+    "REMOVE_WARNING_MESSAGE_LIST_ITEMS": {
+        "name": "REMOVE_WARNING_MESSAGE_LIST_ITEMS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

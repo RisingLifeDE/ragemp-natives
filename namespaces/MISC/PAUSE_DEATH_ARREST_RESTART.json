@@ -1,0 +1,13 @@
+{
+    "PAUSE_DEATH_ARREST_RESTART": {
+        "name": "PAUSE_DEATH_ARREST_RESTART",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_ALL_PATHS_CACHE_BOUNDINGSTRUCT": {
+        "name": "SET_ALL_PATHS_CACHE_BOUNDINGSTRUCT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

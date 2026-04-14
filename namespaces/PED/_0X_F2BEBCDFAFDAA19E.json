@@ -1,0 +1,13 @@
+{
+    "_0X_F2BEBCDFAFDAA19E": {
+        "name": "_0X_F2BEBCDFAFDAA19E",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

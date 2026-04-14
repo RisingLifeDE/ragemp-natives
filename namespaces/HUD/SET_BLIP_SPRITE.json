@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_SPRITE": {
+        "name": "SET_BLIP_SPRITE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "spriteId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

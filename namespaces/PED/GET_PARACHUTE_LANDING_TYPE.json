@@ -1,0 +1,13 @@
+{
+    "GET_PARACHUTE_LANDING_TYPE": {
+        "name": "GET_PARACHUTE_LANDING_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

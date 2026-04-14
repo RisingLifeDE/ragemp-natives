@@ -1,0 +1,13 @@
+{
+    "UNREGISTER_NETWORKED_ENTITY": {
+        "name": "UNREGISTER_NETWORKED_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "DRAW_TV_CHANNEL": {
+        "name": "DRAW_TV_CHANNEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "xScale"
+            },
+            {
+                "type": "float",
+                "name": "yScale"
+            },
+            {
+                "type": "float",
+                "name": "rotation"
+            },
+            {
+                "type": "float",
+                "name": "red"
+            },
+            {
+                "type": "float",
+                "name": "green"
+            },
+            {
+                "type": "float",
+                "name": "blue"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

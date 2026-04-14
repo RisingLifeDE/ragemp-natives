@@ -1,0 +1,17 @@
+{
+    "IS_BEING_STUNNED": {
+        "name": "IS_BEING_STUNNED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

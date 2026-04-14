@@ -1,0 +1,8 @@
+{
+    "GET_PLAYER_SWITCH_INTERP_OUT_DURATION": {
+        "name": "GET_PLAYER_SWITCH_INTERP_OUT_DURATION",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

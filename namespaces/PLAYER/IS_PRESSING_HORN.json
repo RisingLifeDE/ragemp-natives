@@ -1,0 +1,8 @@
+{
+    "IS_PRESSING_HORN": {
+        "name": "IS_PRESSING_HORN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

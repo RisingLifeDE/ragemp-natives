@@ -1,0 +1,8 @@
+{
+    "ARE_SOCIAL_CLUB_POLICIES_CURRENT": {
+        "name": "ARE_SOCIAL_CLUB_POLICIES_CURRENT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

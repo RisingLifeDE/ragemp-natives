@@ -1,0 +1,17 @@
+{
+    "_0X_FD325494792302D7": {
+        "name": "_0X_FD325494792302D7",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

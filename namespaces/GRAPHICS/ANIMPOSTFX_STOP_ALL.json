@@ -1,0 +1,8 @@
+{
+    "ANIMPOSTFX_STOP_ALL": {
+        "name": "ANIMPOSTFX_STOP_ALL",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

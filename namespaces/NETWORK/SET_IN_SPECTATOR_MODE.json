@@ -1,0 +1,17 @@
+{
+    "SET_IN_SPECTATOR_MODE": {
+        "name": "SET_IN_SPECTATOR_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "playerPed"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_AREAS_GENERATOR_ORIENTATION": {
+        "name": "SET_AREAS_GENERATOR_ORIENTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "player"
+            }
+        ],
+        "return_type": "void"
+    }
+}

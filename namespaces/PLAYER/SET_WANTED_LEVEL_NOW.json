@@ -1,0 +1,13 @@
+{
+    "SET_WANTED_LEVEL_NOW": {
+        "name": "SET_WANTED_LEVEL_NOW",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

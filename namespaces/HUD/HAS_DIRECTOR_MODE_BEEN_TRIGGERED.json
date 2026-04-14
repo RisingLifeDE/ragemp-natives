@@ -1,0 +1,8 @@
+{
+    "HAS_DIRECTOR_MODE_BEEN_TRIGGERED": {
+        "name": "HAS_DIRECTOR_MODE_BEEN_TRIGGERED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

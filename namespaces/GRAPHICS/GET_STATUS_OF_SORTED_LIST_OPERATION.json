@@ -1,0 +1,13 @@
+{
+    "GET_STATUS_OF_SORTED_LIST_OPERATION": {
+        "name": "GET_STATUS_OF_SORTED_LIST_OPERATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

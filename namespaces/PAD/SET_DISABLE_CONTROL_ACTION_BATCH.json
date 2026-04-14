@@ -1,0 +1,17 @@
+{
+    "SET_DISABLE_CONTROL_ACTION_BATCH": {
+        "name": "SET_DISABLE_CONTROL_ACTION_BATCH",
+        "comment": "Doesn\u00e2\u20ac\u2122t just improve performance by batch calls but has the new optimized implementation of DISABLE_CONTROL_ACTION algorithm under the hood as well. Batch is hold between frames.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "isMoveOrLookInputGroup"
+            },
+            {
+                "type": "number[]",
+                "name": "controlActions"
+            }
+        ],
+        "return_type": "void"
+    }
+}

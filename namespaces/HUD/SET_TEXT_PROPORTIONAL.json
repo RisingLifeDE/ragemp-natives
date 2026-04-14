@@ -1,0 +1,13 @@
+{
+    "SET_TEXT_PROPORTIONAL": {
+        "name": "SET_TEXT_PROPORTIONAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

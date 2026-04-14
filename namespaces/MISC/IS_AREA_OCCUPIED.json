@@ -1,0 +1,61 @@
+{
+    "IS_AREA_OCCUPIED": {
+        "name": "IS_AREA_OCCUPIED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            },
+            {
+                "type": "float",
+                "name": "p11"
+            },
+            {
+                "type": "BOOL",
+                "name": "p12"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

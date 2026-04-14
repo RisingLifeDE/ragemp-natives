@@ -1,0 +1,21 @@
+{
+    "IS_PLAYER_A_PARTICIPANT_ON_SCRIPT": {
+        "name": "IS_PLAYER_A_PARTICIPANT_ON_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player1"
+            },
+            {
+                "type": "char*",
+                "name": "script"
+            },
+            {
+                "type": "float",
+                "name": "player2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

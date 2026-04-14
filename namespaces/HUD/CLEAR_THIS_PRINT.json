@@ -1,0 +1,13 @@
+{
+    "CLEAR_THIS_PRINT": {
+        "name": "CLEAR_THIS_PRINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

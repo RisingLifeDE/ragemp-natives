@@ -1,0 +1,13 @@
+{
+    "CELL_CAM_MOVE_FINGER": {
+        "name": "CELL_CAM_MOVE_FINGER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "direction"
+            }
+        ],
+        "return_type": "void"
+    }
+}

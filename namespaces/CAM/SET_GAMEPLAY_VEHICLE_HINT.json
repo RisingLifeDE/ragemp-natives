@@ -1,0 +1,41 @@
+{
+    "SET_GAMEPLAY_VEHICLE_HINT": {
+        "name": "SET_GAMEPLAY_VEHICLE_HINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            },
+            {
+                "type": "float",
+                "name": "easeInTime"
+            },
+            {
+                "type": "float",
+                "name": "easeOutTime"
+            }
+        ],
+        "return_type": "void"
+    }
+}

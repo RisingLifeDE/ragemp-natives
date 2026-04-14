@@ -1,0 +1,17 @@
+{
+    "CLEAR_PROP": {
+        "name": "CLEAR_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "propId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

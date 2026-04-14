@@ -1,0 +1,8 @@
+{
+    "GET_ROS_PRIVILEGE9": {
+        "name": "GET_ROS_PRIVILEGE9",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

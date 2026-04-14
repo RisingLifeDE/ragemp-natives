@@ -1,0 +1,17 @@
+{
+    "SHAKE_GAMEPLAY": {
+        "name": "SHAKE_GAMEPLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "shakeName"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

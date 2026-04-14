@@ -1,0 +1,17 @@
+{
+    "SET_VISUAL_FIELD_CENTER_ANGLE": {
+        "name": "SET_VISUAL_FIELD_CENTER_ANGLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

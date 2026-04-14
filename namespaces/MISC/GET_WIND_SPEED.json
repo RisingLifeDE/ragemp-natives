@@ -1,0 +1,8 @@
+{
+    "GET_WIND_SPEED": {
+        "name": "GET_WIND_SPEED",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "GOLF_TRAIL_SET_TESSELLATION": {
+        "name": "GOLF_TRAIL_SET_TESSELLATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

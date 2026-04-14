@@ -1,0 +1,8 @@
+{
+    "IS_MP_GAMER_TAG_MOVIE_ACTIVE": {
+        "name": "IS_MP_GAMER_TAG_MOVIE_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

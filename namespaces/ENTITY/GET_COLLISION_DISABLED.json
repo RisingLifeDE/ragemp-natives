@@ -1,0 +1,13 @@
+{
+    "GET_COLLISION_DISABLED": {
+        "name": "GET_COLLISION_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

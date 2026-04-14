@@ -1,0 +1,8 @@
+{
+    "IS_BLUETOOTH_ENABLE": {
+        "name": "IS_BLUETOOTH_ENABLE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

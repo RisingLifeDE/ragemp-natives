@@ -1,0 +1,13 @@
+{
+    "REMOVE_PICKUP": {
+        "name": "REMOVE_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "void"
+    }
+}

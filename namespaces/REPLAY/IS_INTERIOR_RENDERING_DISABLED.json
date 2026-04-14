@@ -1,0 +1,8 @@
+{
+    "IS_INTERIOR_RENDERING_DISABLED": {
+        "name": "IS_INTERIOR_RENDERING_DISABLED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

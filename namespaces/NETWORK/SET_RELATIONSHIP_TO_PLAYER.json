@@ -1,0 +1,17 @@
+{
+    "SET_RELATIONSHIP_TO_PLAYER": {
+        "name": "SET_RELATIONSHIP_TO_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

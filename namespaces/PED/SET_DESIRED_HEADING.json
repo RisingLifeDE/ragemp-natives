@@ -1,0 +1,17 @@
+{
+    "SET_DESIRED_HEADING": {
+        "name": "SET_DESIRED_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void"
+    }
+}

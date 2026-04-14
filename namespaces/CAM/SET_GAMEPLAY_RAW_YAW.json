@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_RAW_YAW": {
+        "name": "SET_GAMEPLAY_RAW_YAW",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "yaw"
+            }
+        ],
+        "return_type": "void"
+    }
+}

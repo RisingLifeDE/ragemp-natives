@@ -1,0 +1,8 @@
+{
+    "REQUEST_PTFX_ASSET": {
+        "name": "REQUEST_PTFX_ASSET",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

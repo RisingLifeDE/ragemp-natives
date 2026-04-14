@@ -1,0 +1,8 @@
+{
+    "PAUSE_MENU_IS_CONTEXT_MENU_ACTIVE": {
+        "name": "PAUSE_MENU_IS_CONTEXT_MENU_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

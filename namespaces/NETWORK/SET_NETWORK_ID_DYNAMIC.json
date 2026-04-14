@@ -1,0 +1,17 @@
+{
+    "SET_NETWORK_ID_DYNAMIC": {
+        "name": "SET_NETWORK_ID_DYNAMIC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netID"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

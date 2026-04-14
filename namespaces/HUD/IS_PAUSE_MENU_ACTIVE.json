@@ -1,0 +1,8 @@
+{
+    "IS_PAUSE_MENU_ACTIVE": {
+        "name": "IS_PAUSE_MENU_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

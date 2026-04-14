@@ -1,0 +1,8 @@
+{
+    "BEGIN_TAKE_MISSION_CREATOR_PHOTO": {
+        "name": "BEGIN_TAKE_MISSION_CREATOR_PHOTO",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

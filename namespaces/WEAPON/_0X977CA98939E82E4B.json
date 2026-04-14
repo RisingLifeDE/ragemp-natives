@@ -1,0 +1,17 @@
+{
+    "_0X977CA98939E82E4B": {
+        "name": "_0X977CA98939E82E4B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponObject"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

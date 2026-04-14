@@ -1,0 +1,8 @@
+{
+    "GET_ALLOW_MOVEMENT_WHILE_ZOOMED": {
+        "name": "GET_ALLOW_MOVEMENT_WHILE_ZOOMED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

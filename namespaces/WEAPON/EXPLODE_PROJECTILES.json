@@ -1,0 +1,21 @@
+{
+    "EXPLODE_PROJECTILES": {
+        "name": "EXPLODE_PROJECTILES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

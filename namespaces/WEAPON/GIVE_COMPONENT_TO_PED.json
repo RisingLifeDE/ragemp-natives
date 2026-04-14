@@ -1,0 +1,21 @@
+{
+    "GIVE_COMPONENT_TO_PED": {
+        "name": "GIVE_COMPONENT_TO_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

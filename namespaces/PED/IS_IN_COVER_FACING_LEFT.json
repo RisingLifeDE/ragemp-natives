@@ -1,0 +1,13 @@
+{
+    "IS_IN_COVER_FACING_LEFT": {
+        "name": "IS_IN_COVER_FACING_LEFT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

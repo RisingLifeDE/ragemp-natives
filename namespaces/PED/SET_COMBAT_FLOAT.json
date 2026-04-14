@@ -1,0 +1,21 @@
+{
+    "SET_COMBAT_FLOAT": {
+        "name": "SET_COMBAT_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "combatType"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

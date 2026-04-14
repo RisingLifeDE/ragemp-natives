@@ -1,0 +1,21 @@
+{
+    "SET_PED_INFINITE_AMMO": {
+        "name": "SET_PED_INFINITE_AMMO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

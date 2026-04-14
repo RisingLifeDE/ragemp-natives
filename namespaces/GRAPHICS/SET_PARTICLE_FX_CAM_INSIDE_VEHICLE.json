@@ -1,0 +1,13 @@
+{
+    "SET_PARTICLE_FX_CAM_INSIDE_VEHICLE": {
+        "name": "SET_PARTICLE_FX_CAM_INSIDE_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

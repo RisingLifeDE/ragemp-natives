@@ -1,0 +1,17 @@
+{
+    "SET_AFFECTS_AIMING": {
+        "name": "SET_AFFECTS_AIMING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

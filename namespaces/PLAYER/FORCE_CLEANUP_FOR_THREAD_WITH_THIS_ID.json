@@ -1,0 +1,17 @@
+{
+    "FORCE_CLEANUP_FOR_THREAD_WITH_THIS_ID": {
+        "name": "FORCE_CLEANUP_FOR_THREAD_WITH_THIS_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            },
+            {
+                "type": "float",
+                "name": "cleanupFlags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

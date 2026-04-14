@@ -1,0 +1,49 @@
+{
+    "VEHICLE_FOLLOW_WAYPOINT_RECORDING": {
+        "name": "VEHICLE_FOLLOW_WAYPOINT_RECORDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "char*",
+                "name": "WPRecording"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void"
+    }
+}

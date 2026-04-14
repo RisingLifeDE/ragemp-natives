@@ -1,0 +1,21 @@
+{
+    "START_SHAPE_TEST_BOUNDING_BOX": {
+        "name": "START_SHAPE_TEST_BOUNDING_BOX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "flags1"
+            },
+            {
+                "type": "float",
+                "name": "flags2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

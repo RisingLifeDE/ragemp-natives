@@ -1,0 +1,8 @@
+{
+    "NEW_LOAD_SCENE_STOP": {
+        "name": "NEW_LOAD_SCENE_STOP",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

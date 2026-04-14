@@ -1,0 +1,17 @@
+{
+    "_0X_AB13A5565480B6D9": {
+        "name": "_0X_AB13A5565480B6D9",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

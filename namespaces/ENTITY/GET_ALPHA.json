@@ -1,0 +1,13 @@
+{
+    "GET_ALPHA": {
+        "name": "GET_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

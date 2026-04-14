@@ -1,0 +1,8 @@
+{
+    "THEFEED_FORCE_RENDER_OFF": {
+        "name": "THEFEED_FORCE_RENDER_OFF",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

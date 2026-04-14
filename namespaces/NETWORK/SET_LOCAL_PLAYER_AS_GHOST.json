@@ -1,0 +1,17 @@
+{
+    "SET_LOCAL_PLAYER_AS_GHOST": {
+        "name": "SET_LOCAL_PLAYER_AS_GHOST",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

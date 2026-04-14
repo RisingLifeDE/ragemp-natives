@@ -1,0 +1,22 @@
+{
+    "REQUEST_CUTSCENE_ASYNC": {
+        "name": "REQUEST_CUTSCENE_ASYNC",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "timeout",
+                "description": "5000 default"
+            }
+        ],
+        "return_type": "Promise<boolean>"
+    }
+}

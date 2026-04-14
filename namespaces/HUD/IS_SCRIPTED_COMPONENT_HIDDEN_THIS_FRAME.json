@@ -1,0 +1,13 @@
+{
+    "IS_SCRIPTED_COMPONENT_HIDDEN_THIS_FRAME": {
+        "name": "IS_SCRIPTED_COMPONENT_HIDDEN_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

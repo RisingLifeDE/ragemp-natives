@@ -1,0 +1,21 @@
+{
+    "SET_NO_COLLISION_ENTITY": {
+        "name": "SET_NO_COLLISION_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity1"
+            },
+            {
+                "type": "float",
+                "name": "entity2"
+            },
+            {
+                "type": "BOOL",
+                "name": "thisFrameOnly"
+            }
+        ],
+        "return_type": "void"
+    }
+}

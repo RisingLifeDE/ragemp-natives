@@ -1,0 +1,8 @@
+{
+    "IS_FINDING_GAMERS": {
+        "name": "IS_FINDING_GAMERS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

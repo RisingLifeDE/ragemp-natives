@@ -1,0 +1,8 @@
+{
+    "RESET_EXTRA_TIMECYCLE_MODIFIER_STRENGTH": {
+        "name": "RESET_EXTRA_TIMECYCLE_MODIFIER_STRENGTH",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

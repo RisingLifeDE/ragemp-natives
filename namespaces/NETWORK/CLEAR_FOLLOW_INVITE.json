@@ -1,0 +1,8 @@
+{
+    "CLEAR_FOLLOW_INVITE": {
+        "name": "CLEAR_FOLLOW_INVITE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

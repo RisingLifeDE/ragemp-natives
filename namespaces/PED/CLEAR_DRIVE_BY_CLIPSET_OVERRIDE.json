@@ -1,0 +1,13 @@
+{
+    "CLEAR_DRIVE_BY_CLIPSET_OVERRIDE": {
+        "name": "CLEAR_DRIVE_BY_CLIPSET_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

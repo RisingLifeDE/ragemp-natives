@@ -1,0 +1,8 @@
+{
+    "CLEAR_GPS_PLAYER_WAYPOINT": {
+        "name": "CLEAR_GPS_PLAYER_WAYPOINT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

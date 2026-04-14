@@ -1,0 +1,13 @@
+{
+    "TOGGLE_PAUSED_RENDERPHASES": {
+        "name": "TOGGLE_PAUSED_RENDERPHASES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

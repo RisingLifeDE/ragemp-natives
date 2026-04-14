@@ -1,0 +1,21 @@
+{
+    "END_TEXT_COMMAND_THEFEED_POST_REPLAY_ICON": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_REPLAY_ICON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "image"
+            },
+            {
+                "type": "char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "float"
+    }
+}

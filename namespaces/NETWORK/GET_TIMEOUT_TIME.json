@@ -1,0 +1,8 @@
+{
+    "GET_TIMEOUT_TIME": {
+        "name": "GET_TIMEOUT_TIME",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

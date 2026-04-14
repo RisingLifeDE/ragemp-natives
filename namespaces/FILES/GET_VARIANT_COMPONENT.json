@@ -1,0 +1,17 @@
+{
+    "GET_VARIANT_COMPONENT": {
+        "name": "GET_VARIANT_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            },
+            {
+                "type": "float",
+                "name": "variantComponentIndex"
+            }
+        ],
+        "return_type": "GetVariantComponentResult"
+    }
+}

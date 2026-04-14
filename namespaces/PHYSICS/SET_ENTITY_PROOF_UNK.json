@@ -1,0 +1,17 @@
+{
+    "SET_ENTITY_PROOF_UNK": {
+        "name": "SET_ENTITY_PROOF_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

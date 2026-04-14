@@ -1,0 +1,17 @@
+{
+    "DECOR_EXIST_ON": {
+        "name": "DECOR_EXIST_ON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

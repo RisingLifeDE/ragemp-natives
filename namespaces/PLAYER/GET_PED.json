@@ -1,0 +1,8 @@
+{
+    "GET_PED": {
+        "name": "GET_PED",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

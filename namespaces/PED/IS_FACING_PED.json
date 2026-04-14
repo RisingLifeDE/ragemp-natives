@@ -1,0 +1,21 @@
+{
+    "IS_FACING_PED": {
+        "name": "IS_FACING_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "otherPed"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_LAST_MATERIAL_HIT_BY": {
+        "name": "GET_LAST_MATERIAL_HIT_BY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

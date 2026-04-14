@@ -1,0 +1,21 @@
+{
+    "GET_MENU_PED_MASKED_INT_STAT": {
+        "name": "GET_MENU_PED_MASKED_INT_STAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_IS_LOADING_SCREEN_ACTIVE": {
+        "name": "GET_IS_LOADING_SCREEN_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

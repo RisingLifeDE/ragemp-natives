@@ -1,0 +1,13 @@
+{
+    "IS_NEXT_WEATHER_TYPE": {
+        "name": "IS_NEXT_WEATHER_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "weatherType"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

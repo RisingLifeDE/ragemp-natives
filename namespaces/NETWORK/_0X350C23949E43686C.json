@@ -1,0 +1,13 @@
+{
+    "_0X350C23949E43686C": {
+        "name": "_0X350C23949E43686C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "float"
+    }
+}

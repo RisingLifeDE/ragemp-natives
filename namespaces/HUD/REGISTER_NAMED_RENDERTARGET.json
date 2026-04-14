@@ -1,0 +1,17 @@
+{
+    "REGISTER_NAMED_RENDERTARGET": {
+        "name": "REGISTER_NAMED_RENDERTARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "delay"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

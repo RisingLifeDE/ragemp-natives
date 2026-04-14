@@ -1,0 +1,8 @@
+{
+    "IS_HELP_MESSAGE_ON_SCREEN": {
+        "name": "IS_HELP_MESSAGE_ON_SCREEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_SHAKE_AMPLITUDE": {
+        "name": "SET_GAMEPLAY_SHAKE_AMPLITUDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amplitude"
+            }
+        ],
+        "return_type": "void"
+    }
+}

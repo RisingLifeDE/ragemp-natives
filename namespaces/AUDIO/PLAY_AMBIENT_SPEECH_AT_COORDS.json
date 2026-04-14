@@ -1,0 +1,33 @@
+{
+    "PLAY_AMBIENT_SPEECH_AT_COORDS": {
+        "name": "PLAY_AMBIENT_SPEECH_AT_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "speechName"
+            },
+            {
+                "type": "char*",
+                "name": "voiceName"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "char*",
+                "name": "speechParam"
+            }
+        ],
+        "return_type": "void"
+    }
+}

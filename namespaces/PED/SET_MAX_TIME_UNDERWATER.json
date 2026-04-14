@@ -1,0 +1,17 @@
+{
+    "SET_MAX_TIME_UNDERWATER": {
+        "name": "SET_MAX_TIME_UNDERWATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_SCRIPT_CONTROL_ON": {
+        "name": "IS_SCRIPT_CONTROL_ON",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

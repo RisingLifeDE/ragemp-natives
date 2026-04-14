@@ -1,0 +1,17 @@
+{
+    "AGITATED_ACTION": {
+        "name": "AGITATED_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "QUERY_MOVIE_MESH_SET_STATE": {
+        "name": "QUERY_MOVIE_MESH_SET_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "meshsetid"
+            }
+        ],
+        "return_type": "float"
+    }
+}

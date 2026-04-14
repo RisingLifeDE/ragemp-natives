@@ -1,0 +1,13 @@
+{
+    "HAS_CUT_FILE_LOADED": {
+        "name": "HAS_CUT_FILE_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

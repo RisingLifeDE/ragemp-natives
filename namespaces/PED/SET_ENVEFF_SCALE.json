@@ -1,0 +1,17 @@
+{
+    "SET_ENVEFF_SCALE": {
+        "name": "SET_ENVEFF_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

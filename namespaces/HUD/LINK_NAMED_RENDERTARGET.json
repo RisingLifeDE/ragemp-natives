@@ -1,0 +1,13 @@
+{
+    "LINK_NAMED_RENDERTARGET": {
+        "name": "LINK_NAMED_RENDERTARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

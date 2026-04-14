@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_PRIORITY": {
+        "name": "SET_BLIP_PRIORITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "priority"
+            }
+        ],
+        "return_type": "void"
+    }
+}

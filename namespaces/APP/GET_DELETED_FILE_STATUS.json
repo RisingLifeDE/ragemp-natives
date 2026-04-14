@@ -1,0 +1,8 @@
+{
+    "GET_DELETED_FILE_STATUS": {
+        "name": "GET_DELETED_FILE_STATUS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

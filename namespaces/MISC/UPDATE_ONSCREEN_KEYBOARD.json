@@ -1,0 +1,8 @@
+{
+    "UPDATE_ONSCREEN_KEYBOARD": {
+        "name": "UPDATE_ONSCREEN_KEYBOARD",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

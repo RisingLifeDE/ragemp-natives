@@ -1,0 +1,13 @@
+{
+    "STOP_SYNCHRONISED_SCENE": {
+        "name": "STOP_SYNCHRONISED_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netScene"
+            }
+        ],
+        "return_type": "void"
+    }
+}

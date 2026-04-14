@@ -1,0 +1,8 @@
+{
+    "CUSTOM_MINIMAP_CLEAR_BLIPS": {
+        "name": "CUSTOM_MINIMAP_CLEAR_BLIPS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

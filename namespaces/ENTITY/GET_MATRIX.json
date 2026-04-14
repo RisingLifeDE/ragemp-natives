@@ -1,0 +1,13 @@
+{
+    "GET_MATRIX": {
+        "name": "GET_MATRIX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "GetEntityMatrixResult"
+    }
+}

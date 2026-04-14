@@ -1,0 +1,13 @@
+{
+    "GET_BLIP_SPRITE": {
+        "name": "GET_BLIP_SPRITE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "PLAY_SYNCHRONIZED_ANIM": {
+        "name": "PLAY_SYNCHRONIZED_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "syncedScene"
+            },
+            {
+                "type": "char*",
+                "name": "animation"
+            },
+            {
+                "type": "char*",
+                "name": "propName"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

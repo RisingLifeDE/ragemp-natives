@@ -1,0 +1,13 @@
+{
+    "CEIL": {
+        "name": "CEIL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

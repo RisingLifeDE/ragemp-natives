@@ -1,0 +1,8 @@
+{
+    "FACEBOOK_DO_UNK_CHECK": {
+        "name": "FACEBOOK_DO_UNK_CHECK",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

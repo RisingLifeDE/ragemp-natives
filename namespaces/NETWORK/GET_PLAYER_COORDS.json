@@ -1,0 +1,13 @@
+{
+    "GET_PLAYER_COORDS": {
+        "name": "GET_PLAYER_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

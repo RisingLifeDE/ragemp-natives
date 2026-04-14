@@ -1,0 +1,13 @@
+{
+    "CLEAR_DRIVEBY_UNDERNEATH_DRIVING_TASK": {
+        "name": "CLEAR_DRIVEBY_UNDERNEATH_DRIVING_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

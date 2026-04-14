@@ -1,0 +1,21 @@
+{
+    "SET_BITS_IN_RANGE": {
+        "name": "SET_BITS_IN_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "rangeStart"
+            },
+            {
+                "type": "float",
+                "name": "rangeEnd"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "float"
+    }
+}

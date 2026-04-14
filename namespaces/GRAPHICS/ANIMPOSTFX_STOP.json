@@ -1,0 +1,13 @@
+{
+    "ANIMPOSTFX_STOP": {
+        "name": "ANIMPOSTFX_STOP",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

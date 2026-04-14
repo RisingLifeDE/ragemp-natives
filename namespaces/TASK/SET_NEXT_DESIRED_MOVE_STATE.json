@@ -1,0 +1,13 @@
+{
+    "SET_NEXT_DESIRED_MOVE_STATE": {
+        "name": "SET_NEXT_DESIRED_MOVE_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

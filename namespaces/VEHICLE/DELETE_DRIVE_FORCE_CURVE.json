@@ -1,0 +1,13 @@
+{
+    "DELETE_DRIVE_FORCE_CURVE": {
+        "name": "DELETE_DRIVE_FORCE_CURVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "curveNameHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

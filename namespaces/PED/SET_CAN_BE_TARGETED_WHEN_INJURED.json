@@ -1,0 +1,17 @@
+{
+    "SET_CAN_BE_TARGETED_WHEN_INJURED": {
+        "name": "SET_CAN_BE_TARGETED_WHEN_INJURED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

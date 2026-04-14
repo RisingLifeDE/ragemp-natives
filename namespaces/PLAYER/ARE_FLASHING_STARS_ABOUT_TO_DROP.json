@@ -1,0 +1,8 @@
+{
+    "ARE_FLASHING_STARS_ABOUT_TO_DROP": {
+        "name": "ARE_FLASHING_STARS_ABOUT_TO_DROP",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

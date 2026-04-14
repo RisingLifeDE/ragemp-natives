@@ -1,0 +1,21 @@
+{
+    "GET_EVENT_DATA": {
+        "name": "GET_EVENT_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "eventGroup"
+            },
+            {
+                "type": "float",
+                "name": "eventIndex"
+            },
+            {
+                "type": "float",
+                "name": "eventDataSize"
+            }
+        ],
+        "return_type": "float"
+    }
+}

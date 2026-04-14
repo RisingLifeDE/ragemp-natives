@@ -1,0 +1,8 @@
+{
+    "IS_STORE_AVAILABLE_TO_USER": {
+        "name": "IS_STORE_AVAILABLE_TO_USER",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

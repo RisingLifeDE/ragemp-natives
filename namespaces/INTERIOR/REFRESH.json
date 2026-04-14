@@ -1,0 +1,13 @@
+{
+    "REFRESH": {
+        "name": "REFRESH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "void"
+    }
+}

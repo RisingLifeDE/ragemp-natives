@@ -1,0 +1,17 @@
+{
+    "SETUP_SHOP_PED_OUTFIT_QUERY": {
+        "name": "SETUP_SHOP_PED_OUTFIT_QUERY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "character"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

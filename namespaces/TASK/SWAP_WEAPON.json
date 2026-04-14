@@ -1,0 +1,17 @@
+{
+    "SWAP_WEAPON": {
+        "name": "SWAP_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

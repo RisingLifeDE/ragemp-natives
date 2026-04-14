@@ -1,0 +1,8 @@
+{
+    "GET_NORTH_RADAR_BLIP": {
+        "name": "GET_NORTH_RADAR_BLIP",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

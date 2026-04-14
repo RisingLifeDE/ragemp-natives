@@ -1,0 +1,17 @@
+{
+    "GET_RANDOM_INT_IN_RANGE2": {
+        "name": "GET_RANDOM_INT_IN_RANGE2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "startRange"
+            },
+            {
+                "type": "float",
+                "name": "endRange"
+            }
+        ],
+        "return_type": "float"
+    }
+}

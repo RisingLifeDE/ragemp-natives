@@ -1,0 +1,17 @@
+{
+    "IS_ENTITY_SET_ACTIVE": {
+        "name": "IS_ENTITY_SET_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            },
+            {
+                "type": "char*",
+                "name": "entitySetName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

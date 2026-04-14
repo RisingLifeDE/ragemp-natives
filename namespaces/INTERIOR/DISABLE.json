@@ -1,0 +1,17 @@
+{
+    "DISABLE": {
+        "name": "DISABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SEETHROUGH_SET_HI_LIGHT_NOISE": {
+        "name": "SEETHROUGH_SET_HI_LIGHT_NOISE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "noise"
+            }
+        ],
+        "return_type": "void"
+    }
+}

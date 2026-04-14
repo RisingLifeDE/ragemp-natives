@@ -1,0 +1,13 @@
+{
+    "DISPLAY_RADAR": {
+        "name": "DISPLAY_RADAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

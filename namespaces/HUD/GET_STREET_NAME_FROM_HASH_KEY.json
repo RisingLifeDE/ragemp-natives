@@ -1,0 +1,13 @@
+{
+    "GET_STREET_NAME_FROM_HASH_KEY": {
+        "name": "GET_STREET_NAME_FROM_HASH_KEY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

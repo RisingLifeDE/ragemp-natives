@@ -1,0 +1,8 @@
+{
+    "CLEAR_DYNAMIC_PAUSE_MENU_ERROR_MESSAGE": {
+        "name": "CLEAR_DYNAMIC_PAUSE_MENU_ERROR_MESSAGE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

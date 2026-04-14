@@ -1,0 +1,13 @@
+{
+    "IS_PRESENT": {
+        "name": "IS_PRESENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dlcHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

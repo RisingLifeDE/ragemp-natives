@@ -1,0 +1,13 @@
+{
+    "GET_STATE_OF_RAYFIRE_MAP": {
+        "name": "GET_STATE_OF_RAYFIRE_MAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "float"
+    }
+}

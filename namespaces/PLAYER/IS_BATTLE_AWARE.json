@@ -1,0 +1,8 @@
+{
+    "IS_BATTLE_AWARE": {
+        "name": "IS_BATTLE_AWARE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

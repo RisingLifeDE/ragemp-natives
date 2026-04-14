@@ -1,0 +1,21 @@
+{
+    "SPECIAL_ABILITY_CHARGE_LARGE": {
+        "name": "SPECIAL_ABILITY_CHARGE_LARGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

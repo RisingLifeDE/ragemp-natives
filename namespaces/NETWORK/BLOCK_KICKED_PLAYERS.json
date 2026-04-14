@@ -1,0 +1,13 @@
+{
+    "BLOCK_KICKED_PLAYERS": {
+        "name": "BLOCK_KICKED_PLAYERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "UGC_GET_CREATE_CONTENT_ID": {
+        "name": "UGC_GET_CREATE_CONTENT_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

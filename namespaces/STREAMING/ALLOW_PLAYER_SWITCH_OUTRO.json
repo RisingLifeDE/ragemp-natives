@@ -1,0 +1,8 @@
+{
+    "ALLOW_PLAYER_SWITCH_OUTRO": {
+        "name": "ALLOW_PLAYER_SWITCH_OUTRO",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "_0X_DAF80797FC534BEC": {
+        "name": "_0X_DAF80797FC534BEC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

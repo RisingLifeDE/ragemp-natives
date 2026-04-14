@@ -1,0 +1,13 @@
+{
+    "_0X_A78B8FA58200DA56": {
+        "name": "_0X_A78B8FA58200DA56",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

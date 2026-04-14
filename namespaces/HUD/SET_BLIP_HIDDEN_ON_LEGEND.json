@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_HIDDEN_ON_LEGEND": {
+        "name": "SET_BLIP_HIDDEN_ON_LEGEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

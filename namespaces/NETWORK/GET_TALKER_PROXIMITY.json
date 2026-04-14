@@ -1,0 +1,8 @@
+{
+    "GET_TALKER_PROXIMITY": {
+        "name": "GET_TALKER_PROXIMITY",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

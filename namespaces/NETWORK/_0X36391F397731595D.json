@@ -1,0 +1,13 @@
+{
+    "_0X36391F397731595D": {
+        "name": "_0X36391F397731595D",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

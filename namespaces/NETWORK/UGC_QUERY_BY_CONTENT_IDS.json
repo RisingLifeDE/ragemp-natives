@@ -1,0 +1,21 @@
+{
+    "UGC_QUERY_BY_CONTENT_IDS": {
+        "name": "UGC_QUERY_BY_CONTENT_IDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "count"
+            },
+            {
+                "type": "BOOL",
+                "name": "latestVersion"
+            },
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

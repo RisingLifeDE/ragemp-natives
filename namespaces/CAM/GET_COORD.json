@@ -1,0 +1,13 @@
+{
+    "GET_COORD": {
+        "name": "GET_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

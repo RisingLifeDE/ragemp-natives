@@ -1,0 +1,8 @@
+{
+    "IS_MINIMAP_IN_INTERIOR": {
+        "name": "IS_MINIMAP_IN_INTERIOR",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

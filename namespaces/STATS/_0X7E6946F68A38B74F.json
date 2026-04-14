@@ -1,0 +1,13 @@
+{
+    "_0X7E6946F68A38B74F": {
+        "name": "_0X7E6946F68A38B74F",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

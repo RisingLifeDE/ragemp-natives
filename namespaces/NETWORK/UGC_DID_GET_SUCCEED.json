@@ -1,0 +1,8 @@
+{
+    "UGC_DID_GET_SUCCEED": {
+        "name": "UGC_DID_GET_SUCCEED",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_DECORATIONS_STATE": {
+        "name": "GET_DECORATIONS_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

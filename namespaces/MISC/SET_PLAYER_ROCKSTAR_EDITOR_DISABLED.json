@@ -1,0 +1,13 @@
+{
+    "SET_PLAYER_ROCKSTAR_EDITOR_DISABLED": {
+        "name": "SET_PLAYER_ROCKSTAR_EDITOR_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

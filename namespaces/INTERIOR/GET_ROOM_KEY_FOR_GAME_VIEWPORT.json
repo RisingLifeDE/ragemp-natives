@@ -1,0 +1,8 @@
+{
+    "GET_ROOM_KEY_FOR_GAME_VIEWPORT": {
+        "name": "GET_ROOM_KEY_FOR_GAME_VIEWPORT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

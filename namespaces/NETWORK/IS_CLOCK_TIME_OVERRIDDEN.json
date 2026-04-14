@@ -1,0 +1,8 @@
+{
+    "IS_CLOCK_TIME_OVERRIDDEN": {
+        "name": "IS_CLOCK_TIME_OVERRIDDEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

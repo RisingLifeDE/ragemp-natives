@@ -1,0 +1,13 @@
+{
+    "HAS_COLLISION_LOADED_AROUND": {
+        "name": "HAS_COLLISION_LOADED_AROUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

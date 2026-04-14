@@ -1,0 +1,17 @@
+{
+    "SET_RAGDOLL_ON_COLLISION": {
+        "name": "SET_RAGDOLL_ON_COLLISION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

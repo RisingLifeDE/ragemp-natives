@@ -1,0 +1,13 @@
+{
+    "SET_CREATE_RANDOM_COPS_ON_SCENARIOS": {
+        "name": "SET_CREATE_RANDOM_COPS_ON_SCENARIOS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

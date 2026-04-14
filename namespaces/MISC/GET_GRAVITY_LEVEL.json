@@ -1,0 +1,8 @@
+{
+    "GET_GRAVITY_LEVEL": {
+        "name": "GET_GRAVITY_LEVEL",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

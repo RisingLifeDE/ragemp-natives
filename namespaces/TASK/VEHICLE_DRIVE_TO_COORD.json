@@ -1,0 +1,53 @@
+{
+    "VEHICLE_DRIVE_TO_COORD": {
+        "name": "VEHICLE_DRIVE_TO_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "vehicleModel"
+            },
+            {
+                "type": "float",
+                "name": "drivingMode"
+            },
+            {
+                "type": "float",
+                "name": "stopRange"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void"
+    }
+}

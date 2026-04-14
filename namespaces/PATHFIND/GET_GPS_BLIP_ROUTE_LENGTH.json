@@ -1,0 +1,8 @@
+{
+    "GET_GPS_BLIP_ROUTE_LENGTH": {
+        "name": "GET_GPS_BLIP_ROUTE_LENGTH",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

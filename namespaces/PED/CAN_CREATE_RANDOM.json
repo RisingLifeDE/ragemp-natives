@@ -1,0 +1,13 @@
+{
+    "CAN_CREATE_RANDOM": {
+        "name": "CAN_CREATE_RANDOM",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "unk"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "HAS_FOLLOW_INVITE": {
+        "name": "HAS_FOLLOW_INVITE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

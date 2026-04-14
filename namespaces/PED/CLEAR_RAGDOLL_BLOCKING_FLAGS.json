@@ -1,0 +1,17 @@
+{
+    "CLEAR_RAGDOLL_BLOCKING_FLAGS": {
+        "name": "CLEAR_RAGDOLL_BLOCKING_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

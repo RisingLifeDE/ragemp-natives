@@ -1,0 +1,17 @@
+{
+    "SET_INT": {
+        "name": "SET_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "property"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

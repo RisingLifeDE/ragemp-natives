@@ -1,0 +1,25 @@
+{
+    "SET_COORDS_KEEP_VEHICLE": {
+        "name": "SET_COORDS_KEEP_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_NAMED_RENDERTARGET_RENDER_ID": {
+        "name": "GET_NAMED_RENDERTARGET_RENDER_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "float"
+    }
+}

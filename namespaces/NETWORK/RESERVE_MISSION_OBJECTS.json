@@ -1,0 +1,13 @@
+{
+    "RESERVE_MISSION_OBJECTS": {
+        "name": "RESERVE_MISSION_OBJECTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "NETWORK_SET_SCRIPT_IS_SAFE_FOR_NETWORK_GAME": {
+        "name": "NETWORK_SET_SCRIPT_IS_SAFE_FOR_NETWORK_GAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLOSE_SOCIAL_CLUB_MENU": {
+        "name": "CLOSE_SOCIAL_CLUB_MENU",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

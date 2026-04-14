@@ -1,0 +1,25 @@
+{
+    "UPDATE_HEAD_BLEND_DATA": {
+        "name": "UPDATE_HEAD_BLEND_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "shapeMix"
+            },
+            {
+                "type": "float",
+                "name": "skinMix"
+            },
+            {
+                "type": "float",
+                "name": "thirdMix"
+            }
+        ],
+        "return_type": "void"
+    }
+}

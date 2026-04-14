@@ -1,0 +1,8 @@
+{
+    "PLAYER_IS_CHEATER": {
+        "name": "PLAYER_IS_CHEATER",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

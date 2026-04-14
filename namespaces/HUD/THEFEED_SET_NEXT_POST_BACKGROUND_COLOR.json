@@ -1,0 +1,13 @@
+{
+    "THEFEED_SET_NEXT_POST_BACKGROUND_COLOR": {
+        "name": "THEFEED_SET_NEXT_POST_BACKGROUND_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudColorIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

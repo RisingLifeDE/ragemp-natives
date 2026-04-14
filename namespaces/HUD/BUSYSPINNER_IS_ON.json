@@ -1,0 +1,8 @@
+{
+    "BUSYSPINNER_IS_ON": {
+        "name": "BUSYSPINNER_IS_ON",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

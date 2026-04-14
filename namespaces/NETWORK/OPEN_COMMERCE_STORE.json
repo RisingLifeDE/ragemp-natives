@@ -1,0 +1,21 @@
+{
+    "OPEN_COMMERCE_STORE": {
+        "name": "OPEN_COMMERCE_STORE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "USE_WAYPOINT_RECORDING_AS_ASSISTED_MOVEMENT_ROUTE": {
+        "name": "USE_WAYPOINT_RECORDING_AS_ASSISTED_MOVEMENT_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

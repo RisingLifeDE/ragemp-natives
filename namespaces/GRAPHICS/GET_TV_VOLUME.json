@@ -1,0 +1,8 @@
+{
+    "GET_TV_VOLUME": {
+        "name": "GET_TV_VOLUME",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

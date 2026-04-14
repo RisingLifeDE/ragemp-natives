@@ -1,0 +1,17 @@
+{
+    "_0X061CB768363D6424": {
+        "name": "_0X061CB768363D6424",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

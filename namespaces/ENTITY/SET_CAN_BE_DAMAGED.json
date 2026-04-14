@@ -1,0 +1,17 @@
+{
+    "SET_CAN_BE_DAMAGED": {
+        "name": "SET_CAN_BE_DAMAGED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

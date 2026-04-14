@@ -1,0 +1,8 @@
+{
+    "REMOVE_MULTIPLAYER_CASH": {
+        "name": "REMOVE_MULTIPLAYER_CASH",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

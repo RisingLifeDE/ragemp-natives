@@ -1,0 +1,13 @@
+{
+    "CUSTOM_MINIMAP_SET_ACTIVE": {
+        "name": "CUSTOM_MINIMAP_SET_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "lock"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "USE_STUNT_ERA_THIS_FRAME": {
+        "name": "USE_STUNT_ERA_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

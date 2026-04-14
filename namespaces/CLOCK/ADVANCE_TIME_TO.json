@@ -1,0 +1,21 @@
+{
+    "ADVANCE_TIME_TO": {
+        "name": "ADVANCE_TIME_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hour"
+            },
+            {
+                "type": "float",
+                "name": "minute"
+            },
+            {
+                "type": "float",
+                "name": "second"
+            }
+        ],
+        "return_type": "void"
+    }
+}

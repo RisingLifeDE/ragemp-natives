@@ -1,0 +1,8 @@
+{
+    "GET_NAME": {
+        "name": "GET_NAME",
+        "comment": "",
+        "params": [],
+        "return_type": "char*"
+    }
+}

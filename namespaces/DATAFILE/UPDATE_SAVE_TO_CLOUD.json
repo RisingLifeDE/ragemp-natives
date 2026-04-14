@@ -1,0 +1,8 @@
+{
+    "UPDATE_SAVE_TO_CLOUD": {
+        "name": "UPDATE_SAVE_TO_CLOUD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_BLOCKING_OF_NON_TEMPORARY_EVENTS": {
+        "name": "SET_BLOCKING_OF_NON_TEMPORARY_EVENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

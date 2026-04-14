@@ -1,0 +1,13 @@
+{
+    "SET_FADE_OUT_AFTER_ARREST": {
+        "name": "SET_FADE_OUT_AFTER_ARREST",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

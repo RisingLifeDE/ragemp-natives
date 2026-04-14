@@ -1,0 +1,25 @@
+{
+    "IS_ANY_AIR_DEFENSE_ZONE_INSIDE_SPHERE": {
+        "name": "IS_ANY_AIR_DEFENSE_ZONE_INSIDE_SPHERE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "float"
+    }
+}

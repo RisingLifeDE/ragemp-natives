@@ -1,0 +1,17 @@
+{
+    "SET_ANIMATION_OVERRIDE": {
+        "name": "SET_ANIMATION_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "animStyle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

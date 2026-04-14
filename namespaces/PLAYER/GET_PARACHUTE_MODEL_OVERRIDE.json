@@ -1,0 +1,13 @@
+{
+    "GET_PARACHUTE_MODEL_OVERRIDE": {
+        "name": "GET_PARACHUTE_MODEL_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "player"
+            }
+        ],
+        "return_type": "Hash"
+    }
+}

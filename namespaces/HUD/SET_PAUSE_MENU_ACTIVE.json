@@ -1,0 +1,13 @@
+{
+    "SET_PAUSE_MENU_ACTIVE": {
+        "name": "SET_PAUSE_MENU_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

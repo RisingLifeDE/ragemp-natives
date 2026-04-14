@@ -1,0 +1,13 @@
+{
+    "IS_NAMED_RENDERTARGET_REGISTERED": {
+        "name": "IS_NAMED_RENDERTARGET_REGISTERED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

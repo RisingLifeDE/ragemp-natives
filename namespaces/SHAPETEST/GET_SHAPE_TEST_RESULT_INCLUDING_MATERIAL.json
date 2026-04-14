@@ -1,0 +1,13 @@
+{
+    "GET_SHAPE_TEST_RESULT_INCLUDING_MATERIAL": {
+        "name": "GET_SHAPE_TEST_RESULT_INCLUDING_MATERIAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "shapeTestHandle"
+            }
+        ],
+        "return_type": "GetShapeTestResultIncludingMaterialResult"
+    }
+}

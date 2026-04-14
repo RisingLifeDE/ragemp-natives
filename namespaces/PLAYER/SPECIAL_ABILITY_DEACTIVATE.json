@@ -1,0 +1,13 @@
+{
+    "SPECIAL_ABILITY_DEACTIVATE": {
+        "name": "SPECIAL_ABILITY_DEACTIVATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

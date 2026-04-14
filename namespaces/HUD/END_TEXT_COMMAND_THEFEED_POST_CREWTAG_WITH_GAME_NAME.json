@@ -1,0 +1,49 @@
+{
+    "END_TEXT_COMMAND_THEFEED_POST_CREWTAG_WITH_GAME_NAME": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_CREWTAG_WITH_GAME_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "isLeader"
+            },
+            {
+                "type": "BOOL",
+                "name": "unk0"
+            },
+            {
+                "type": "float",
+                "name": "clanDesc"
+            },
+            {
+                "type": "char*",
+                "name": "playerName"
+            },
+            {
+                "type": "float",
+                "name": "R"
+            },
+            {
+                "type": "float",
+                "name": "G"
+            },
+            {
+                "type": "float",
+                "name": "B"
+            }
+        ],
+        "return_type": "EndTextCommandThefeedPostCrewtagWithGameNameResult"
+    }
+}

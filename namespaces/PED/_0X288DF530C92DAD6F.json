@@ -1,0 +1,17 @@
+{
+    "_0X288DF530C92DAD6F": {
+        "name": "_0X288DF530C92DAD6F",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

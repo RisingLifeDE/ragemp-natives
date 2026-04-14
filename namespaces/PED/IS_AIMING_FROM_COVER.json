@@ -1,0 +1,13 @@
+{
+    "IS_AIMING_FROM_COVER": {
+        "name": "IS_AIMING_FROM_COVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

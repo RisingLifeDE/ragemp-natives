@@ -1,0 +1,25 @@
+{
+    "SEND_TRANSITION_GAMER_INSTRUCTION": {
+        "name": "SEND_TRANSITION_GAMER_INSTRUCTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "float"
+    }
+}

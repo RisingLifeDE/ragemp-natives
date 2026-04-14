@@ -1,0 +1,8 @@
+{
+    "GET_WEATHER_TYPE_TRANSITION": {
+        "name": "GET_WEATHER_TYPE_TRANSITION",
+        "comment": "",
+        "params": [],
+        "return_type": "GetWeatherTypeTransitionResult"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "PLAY_HEIST_SAVE_CHEAT": {
+        "name": "PLAY_HEIST_SAVE_CHEAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

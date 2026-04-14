@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_CATEGORY": {
+        "name": "SET_BLIP_CATEGORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "index"
+            }
+        ],
+        "return_type": "void"
+    }
+}

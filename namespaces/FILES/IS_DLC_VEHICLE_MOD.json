@@ -1,0 +1,13 @@
+{
+    "IS_DLC_VEHICLE_MOD": {
+        "name": "IS_DLC_VEHICLE_MOD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

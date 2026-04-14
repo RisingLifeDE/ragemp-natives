@@ -1,0 +1,17 @@
+{
+    "IS_HEADTRACKING_PED": {
+        "name": "IS_HEADTRACKING_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped1"
+            },
+            {
+                "type": "float",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

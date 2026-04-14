@@ -1,0 +1,17 @@
+{
+    "GET_SPEED_VECTOR": {
+        "name": "GET_SPEED_VECTOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "relative"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

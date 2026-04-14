@@ -1,0 +1,65 @@
+{
+    "GO_TO_COORD_WHILE_AIMING_AT_ENTITY": {
+        "name": "GO_TO_COORD_WHILE_AIMING_AT_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            },
+            {
+                "type": "float",
+                "name": "p12"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void"
+    }
+}

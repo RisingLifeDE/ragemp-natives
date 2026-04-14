@@ -1,0 +1,21 @@
+{
+    "ENABLE_TENNIS_MODE": {
+        "name": "ENABLE_TENNIS_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

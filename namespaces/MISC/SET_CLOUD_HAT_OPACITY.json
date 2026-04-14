@@ -1,0 +1,13 @@
+{
+    "SET_CLOUD_HAT_OPACITY": {
+        "name": "SET_CLOUD_HAT_OPACITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "opacity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

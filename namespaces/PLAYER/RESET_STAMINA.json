@@ -1,0 +1,8 @@
+{
+    "RESET_STAMINA": {
+        "name": "RESET_STAMINA",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

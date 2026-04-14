@@ -1,0 +1,13 @@
+{
+    "HAS_FORCE_CLEANUP_OCCURRED": {
+        "name": "HAS_FORCE_CLEANUP_OCCURRED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cleanupFlags"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

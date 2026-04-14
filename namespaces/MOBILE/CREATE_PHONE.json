@@ -1,0 +1,13 @@
+{
+    "CREATE_PHONE": {
+        "name": "CREATE_PHONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "phoneType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

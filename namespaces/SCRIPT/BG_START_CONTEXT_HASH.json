@@ -1,0 +1,13 @@
+{
+    "BG_START_CONTEXT_HASH": {
+        "name": "BG_START_CONTEXT_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "contextHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

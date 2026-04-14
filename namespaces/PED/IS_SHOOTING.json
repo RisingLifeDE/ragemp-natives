@@ -1,0 +1,13 @@
+{
+    "IS_SHOOTING": {
+        "name": "IS_SHOOTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

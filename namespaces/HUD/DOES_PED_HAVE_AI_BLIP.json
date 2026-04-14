@@ -1,0 +1,13 @@
+{
+    "DOES_PED_HAVE_AI_BLIP": {
+        "name": "DOES_PED_HAVE_AI_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

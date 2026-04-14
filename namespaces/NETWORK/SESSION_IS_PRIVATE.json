@@ -1,0 +1,8 @@
+{
+    "SESSION_IS_PRIVATE": {
+        "name": "SESSION_IS_PRIVATE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_FINAL_RENDERED_COORD": {
+        "name": "GET_FINAL_RENDERED_COORD",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3"
+    }
+}

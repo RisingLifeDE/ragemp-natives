@@ -1,0 +1,13 @@
+{
+    "ADD_TEXT_COMPONENT_SUBSTRING_TEXT_LABEL_HASH_KEY": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_TEXT_LABEL_HASH_KEY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gxtEntryHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

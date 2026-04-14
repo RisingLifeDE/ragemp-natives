@@ -1,0 +1,13 @@
+{
+    "GET_ACTIVE_VEHICLE_MISSION_TYPE": {
+        "name": "GET_ACTIVE_VEHICLE_MISSION_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

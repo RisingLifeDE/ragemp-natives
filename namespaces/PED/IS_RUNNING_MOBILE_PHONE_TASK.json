@@ -1,0 +1,13 @@
+{
+    "IS_RUNNING_MOBILE_PHONE_TASK": {
+        "name": "IS_RUNNING_MOBILE_PHONE_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

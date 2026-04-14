@@ -1,0 +1,13 @@
+{
+    "SET_FIRST_PERSON_AIM_NEAR_CLIP_THIS_UPDATE": {
+        "name": "SET_FIRST_PERSON_AIM_NEAR_CLIP_THIS_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

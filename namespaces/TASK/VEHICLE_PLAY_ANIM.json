@@ -1,0 +1,21 @@
+{
+    "VEHICLE_PLAY_ANIM": {
+        "name": "VEHICLE_PLAY_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "char*",
+                "name": "animationSet"
+            },
+            {
+                "type": "char*",
+                "name": "animationName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_PLAYER_LOUDNESS": {
+        "name": "GET_PLAYER_LOUDNESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "float"
+    }
+}

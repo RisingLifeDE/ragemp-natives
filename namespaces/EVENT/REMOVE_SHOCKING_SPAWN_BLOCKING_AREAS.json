@@ -1,0 +1,8 @@
+{
+    "REMOVE_SHOCKING_SPAWN_BLOCKING_AREAS": {
+        "name": "REMOVE_SHOCKING_SPAWN_BLOCKING_AREAS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "GET_HASH_NAME_FOR_COMPONENT": {
+        "name": "GET_HASH_NAME_FOR_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "componentId"
+            },
+            {
+                "type": "float",
+                "name": "drawableVariant"
+            },
+            {
+                "type": "float",
+                "name": "textureVariant"
+            }
+        ],
+        "return_type": "float"
+    }
+}

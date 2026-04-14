@@ -1,0 +1,13 @@
+{
+    "IS_UPSIDEDOWN": {
+        "name": "IS_UPSIDEDOWN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_CLOTH_LOCK_COUNTER": {
+        "name": "SET_CLOTH_LOCK_COUNTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

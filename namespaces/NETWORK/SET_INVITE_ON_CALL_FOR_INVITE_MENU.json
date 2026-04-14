@@ -1,0 +1,8 @@
+{
+    "SET_INVITE_ON_CALL_FOR_INVITE_MENU": {
+        "name": "SET_INVITE_ON_CALL_FOR_INVITE_MENU",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

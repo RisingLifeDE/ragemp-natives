@@ -1,0 +1,13 @@
+{
+    "SET_AMBIENT_PEDS_DROP_MONEY": {
+        "name": "SET_AMBIENT_PEDS_DROP_MONEY",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "dropMoney"
+            }
+        ],
+        "return_type": "void"
+    }
+}

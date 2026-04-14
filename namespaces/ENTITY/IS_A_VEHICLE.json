@@ -1,0 +1,13 @@
+{
+    "IS_A_VEHICLE": {
+        "name": "IS_A_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

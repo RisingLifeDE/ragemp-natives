@@ -1,0 +1,13 @@
+{
+    "GET_TYPE_GROUP": {
+        "name": "GET_TYPE_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

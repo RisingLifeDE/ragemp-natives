@@ -1,0 +1,33 @@
+{
+    "CREATE_INSIDE_VEHICLE": {
+        "name": "CREATE_INSIDE_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "pedType"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "seat"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            },
+            {
+                "type": "BOOL",
+                "name": "bScriptHostPed"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "STAT_MIGRATE_SAVE": {
+        "name": "STAT_MIGRATE_SAVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "platformName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

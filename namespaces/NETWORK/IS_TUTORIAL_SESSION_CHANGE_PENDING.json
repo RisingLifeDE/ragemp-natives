@@ -1,0 +1,8 @@
+{
+    "IS_TUTORIAL_SESSION_CHANGE_PENDING": {
+        "name": "IS_TUTORIAL_SESSION_CHANGE_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

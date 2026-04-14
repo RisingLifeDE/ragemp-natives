@@ -1,0 +1,17 @@
+{
+    "GET_MOVE_NETWORK_EVENT": {
+        "name": "GET_MOVE_NETWORK_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "eventName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "CLEAR_DECISION_MAKER_RESPONSE": {
+        "name": "CLEAR_DECISION_MAKER_RESPONSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "eventType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

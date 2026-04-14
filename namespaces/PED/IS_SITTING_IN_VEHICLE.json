@@ -1,0 +1,17 @@
+{
+    "IS_SITTING_IN_VEHICLE": {
+        "name": "IS_SITTING_IN_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

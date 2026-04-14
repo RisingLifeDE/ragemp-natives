@@ -1,0 +1,21 @@
+{
+    "SET_HAIR_COLOR": {
+        "name": "SET_HAIR_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "colorID"
+            },
+            {
+                "type": "float",
+                "name": "highlightColorID"
+            }
+        ],
+        "return_type": "void"
+    }
+}

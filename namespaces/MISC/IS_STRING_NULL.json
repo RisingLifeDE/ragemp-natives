@@ -1,0 +1,13 @@
+{
+    "IS_STRING_NULL": {
+        "name": "IS_STRING_NULL",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

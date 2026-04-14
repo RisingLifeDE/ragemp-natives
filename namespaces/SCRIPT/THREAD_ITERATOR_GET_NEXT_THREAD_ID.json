@@ -1,0 +1,8 @@
+{
+    "THREAD_ITERATOR_GET_NEXT_THREAD_ID": {
+        "name": "THREAD_ITERATOR_GET_NEXT_THREAD_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_HINT_BASE_ORBIT_PITCH_OFFSET": {
+        "name": "SET_GAMEPLAY_HINT_BASE_ORBIT_PITCH_OFFSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

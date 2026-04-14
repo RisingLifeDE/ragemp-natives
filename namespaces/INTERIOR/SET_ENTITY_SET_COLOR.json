@@ -1,0 +1,21 @@
+{
+    "SET_ENTITY_SET_COLOR": {
+        "name": "SET_ENTITY_SET_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            },
+            {
+                "type": "char*",
+                "name": "entitySetName"
+            },
+            {
+                "type": "float",
+                "name": "color"
+            }
+        ],
+        "return_type": "void"
+    }
+}

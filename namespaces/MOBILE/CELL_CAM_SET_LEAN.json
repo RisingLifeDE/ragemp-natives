@@ -1,0 +1,13 @@
+{
+    "CELL_CAM_SET_LEAN": {
+        "name": "CELL_CAM_SET_LEAN",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

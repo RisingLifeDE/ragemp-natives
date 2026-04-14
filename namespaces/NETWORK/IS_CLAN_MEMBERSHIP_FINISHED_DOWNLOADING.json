@@ -1,0 +1,8 @@
+{
+    "IS_CLAN_MEMBERSHIP_FINISHED_DOWNLOADING": {
+        "name": "IS_CLAN_MEMBERSHIP_FINISHED_DOWNLOADING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

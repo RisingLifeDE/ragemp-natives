@@ -1,0 +1,17 @@
+{
+    "VEHICLE_CHASE": {
+        "name": "VEHICLE_CHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "targetEnt"
+            }
+        ],
+        "return_type": "void"
+    }
+}

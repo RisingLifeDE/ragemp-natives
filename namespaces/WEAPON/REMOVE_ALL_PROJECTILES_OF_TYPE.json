@@ -1,0 +1,17 @@
+{
+    "REMOVE_ALL_PROJECTILES_OF_TYPE": {
+        "name": "REMOVE_ALL_PROJECTILES_OF_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "explode"
+            }
+        ],
+        "return_type": "void"
+    }
+}

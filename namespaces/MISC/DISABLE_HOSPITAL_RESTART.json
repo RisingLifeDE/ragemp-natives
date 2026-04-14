@@ -1,0 +1,17 @@
+{
+    "DISABLE_HOSPITAL_RESTART": {
+        "name": "DISABLE_HOSPITAL_RESTART",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hospitalIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

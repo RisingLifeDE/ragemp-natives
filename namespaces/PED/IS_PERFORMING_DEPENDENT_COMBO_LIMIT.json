@@ -1,0 +1,13 @@
+{
+    "IS_PERFORMING_DEPENDENT_COMBO_LIMIT": {
+        "name": "IS_PERFORMING_DEPENDENT_COMBO_LIMIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

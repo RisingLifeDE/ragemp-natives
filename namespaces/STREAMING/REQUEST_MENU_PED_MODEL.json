@@ -1,0 +1,13 @@
+{
+    "REQUEST_MENU_PED_MODEL": {
+        "name": "REQUEST_MENU_PED_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "model"
+            }
+        ],
+        "return_type": "void"
+    }
+}

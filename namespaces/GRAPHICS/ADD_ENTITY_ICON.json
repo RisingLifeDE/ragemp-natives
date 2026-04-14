@@ -1,0 +1,17 @@
+{
+    "ADD_ENTITY_ICON": {
+        "name": "ADD_ENTITY_ICON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "icon"
+            }
+        ],
+        "return_type": "float"
+    }
+}

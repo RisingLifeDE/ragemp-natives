@@ -1,0 +1,17 @@
+{
+    "SET_DRIVE_MAX_CRUISE_SPEED": {
+        "name": "SET_DRIVE_MAX_CRUISE_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

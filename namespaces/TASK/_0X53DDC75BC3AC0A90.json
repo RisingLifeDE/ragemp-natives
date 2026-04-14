@@ -1,0 +1,13 @@
+{
+    "_0X53DDC75BC3AC0A90": {
+        "name": "_0X53DDC75BC3AC0A90",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

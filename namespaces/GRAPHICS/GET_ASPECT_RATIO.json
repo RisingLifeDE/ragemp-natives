@@ -1,0 +1,13 @@
+{
+    "GET_ASPECT_RATIO": {
+        "name": "GET_ASPECT_RATIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "b"
+            }
+        ],
+        "return_type": "float"
+    }
+}

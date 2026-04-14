@@ -1,0 +1,13 @@
+{
+    "CLEAR_PED_LAST_DAMAGE": {
+        "name": "CLEAR_PED_LAST_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

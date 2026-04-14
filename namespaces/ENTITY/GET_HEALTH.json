@@ -1,0 +1,13 @@
+{
+    "GET_HEALTH": {
+        "name": "GET_HEALTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

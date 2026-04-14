@@ -1,0 +1,17 @@
+{
+    "SET_FLASH_LIGHT_ENABLED": {
+        "name": "SET_FLASH_LIGHT_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

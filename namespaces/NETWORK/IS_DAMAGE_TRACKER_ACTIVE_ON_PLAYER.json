@@ -1,0 +1,13 @@
+{
+    "IS_DAMAGE_TRACKER_ACTIVE_ON_PLAYER": {
+        "name": "IS_DAMAGE_TRACKER_ACTIVE_ON_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

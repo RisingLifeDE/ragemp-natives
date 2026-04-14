@@ -1,0 +1,17 @@
+{
+    "CLEAR_ADDITIONAL_TEXT": {
+        "name": "CLEAR_ADDITIONAL_TEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "slotNumber"
+            },
+            {
+                "type": "BOOL",
+                "name": "clearPrevious"
+            }
+        ],
+        "return_type": "void"
+    }
+}

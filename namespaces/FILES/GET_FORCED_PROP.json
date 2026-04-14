@@ -1,0 +1,17 @@
+{
+    "GET_FORCED_PROP": {
+        "name": "GET_FORCED_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            },
+            {
+                "type": "float",
+                "name": "forcedPropIndex"
+            }
+        ],
+        "return_type": "GetForcedPropResult"
+    }
+}

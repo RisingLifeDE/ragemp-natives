@@ -1,0 +1,8 @@
+{
+    "GET_NUM_PARTICIPANTS": {
+        "name": "GET_NUM_PARTICIPANTS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SPECIAL_ABILITY_RESET": {
+        "name": "SPECIAL_ABILITY_RESET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

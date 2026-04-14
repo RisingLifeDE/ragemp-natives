@@ -1,0 +1,13 @@
+{
+    "IS_SPECIAL_ABILITY_UNLOCKED": {
+        "name": "IS_SPECIAL_ABILITY_UNLOCKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "playerModel"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

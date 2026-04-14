@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_OBJECTIVE": {
+        "name": "BEGIN_TEXT_COMMAND_OBJECTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

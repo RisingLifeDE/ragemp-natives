@@ -1,0 +1,17 @@
+{
+    "CLEAR_BLOOD_DAMAGE_BY_ZONE": {
+        "name": "CLEAR_BLOOD_DAMAGE_BY_ZONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

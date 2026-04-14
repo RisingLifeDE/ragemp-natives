@@ -1,0 +1,8 @@
+{
+    "GET_IS_AUTO_SAVE_OFF": {
+        "name": "GET_IS_AUTO_SAVE_OFF",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

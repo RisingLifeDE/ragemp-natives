@@ -1,0 +1,25 @@
+{
+    "PLAY_SYNCHRONIZED_ANIM": {
+        "name": "PLAY_SYNCHRONIZED_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            },
+            {
+                "type": "char*",
+                "name": "animDictionary"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

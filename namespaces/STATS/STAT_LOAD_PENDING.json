@@ -1,0 +1,13 @@
+{
+    "STAT_LOAD_PENDING": {
+        "name": "STAT_LOAD_PENDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

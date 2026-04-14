@@ -1,0 +1,13 @@
+{
+    "GET_COLOUR": {
+        "name": "GET_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudColorIndex"
+            }
+        ],
+        "return_type": "GetHudColourResult"
+    }
+}

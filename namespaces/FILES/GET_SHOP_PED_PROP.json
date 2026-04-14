@@ -1,0 +1,13 @@
+{
+    "GET_SHOP_PED_PROP": {
+        "name": "GET_SHOP_PED_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "IS_SHOCKING_IN_SPHERE": {
+        "name": "IS_SHOCKING_IN_SPHERE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "eventType"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

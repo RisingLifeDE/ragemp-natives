@@ -1,0 +1,21 @@
+{
+    "SET_MINIMAP_ALTITUDE_INDICATOR_LEVEL": {
+        "name": "SET_MINIMAP_ALTITUDE_INDICATOR_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "altitude"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

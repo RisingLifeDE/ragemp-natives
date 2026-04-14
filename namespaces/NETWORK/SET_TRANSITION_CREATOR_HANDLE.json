@@ -1,0 +1,8 @@
+{
+    "SET_TRANSITION_CREATOR_HANDLE": {
+        "name": "SET_TRANSITION_CREATOR_HANDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

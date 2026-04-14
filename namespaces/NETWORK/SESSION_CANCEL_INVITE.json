@@ -1,0 +1,8 @@
+{
+    "SESSION_CANCEL_INVITE": {
+        "name": "SESSION_CANCEL_INVITE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

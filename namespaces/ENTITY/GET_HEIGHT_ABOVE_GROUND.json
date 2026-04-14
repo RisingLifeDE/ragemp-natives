@@ -1,0 +1,13 @@
+{
+    "GET_HEIGHT_ABOVE_GROUND": {
+        "name": "GET_HEIGHT_ABOVE_GROUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

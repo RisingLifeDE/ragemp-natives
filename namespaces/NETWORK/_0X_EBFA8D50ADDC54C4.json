@@ -1,0 +1,13 @@
+{
+    "_0X_EBFA8D50ADDC54C4": {
+        "name": "_0X_EBFA8D50ADDC54C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

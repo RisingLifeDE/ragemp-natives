@@ -1,0 +1,13 @@
+{
+    "SET_GAME_PAUSED": {
+        "name": "SET_GAME_PAUSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_DISABLE_BREAKING": {
+        "name": "SET_DISABLE_BREAKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "SET_FLOATING_HELP_TEXT_STYLE": {
+        "name": "SET_FLOATING_HELP_TEXT_STYLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "helpIndex"
+            },
+            {
+                "type": "float",
+                "name": "style"
+            },
+            {
+                "type": "float",
+                "name": "color"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            },
+            {
+                "type": "RageEnums.Hud.ArrowDirection",
+                "name": "direction"
+            },
+            {
+                "type": "float",
+                "name": "offset"
+            }
+        ],
+        "return_type": "void"
+    }
+}

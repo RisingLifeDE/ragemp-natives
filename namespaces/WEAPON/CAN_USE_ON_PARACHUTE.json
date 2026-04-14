@@ -1,0 +1,13 @@
+{
+    "CAN_USE_ON_PARACHUTE": {
+        "name": "CAN_USE_ON_PARACHUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

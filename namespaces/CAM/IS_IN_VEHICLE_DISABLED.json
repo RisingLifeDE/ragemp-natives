@@ -1,0 +1,8 @@
+{
+    "IS_IN_VEHICLE_DISABLED": {
+        "name": "IS_IN_VEHICLE_DISABLED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

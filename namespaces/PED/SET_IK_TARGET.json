@@ -1,0 +1,49 @@
+{
+    "SET_IK_TARGET": {
+        "name": "SET_IK_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "ikIndex"
+            },
+            {
+                "type": "float",
+                "name": "entityLookAt"
+            },
+            {
+                "type": "float",
+                "name": "boneLookAt"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "ikflag"
+            },
+            {
+                "type": "float",
+                "name": "blendInDuration"
+            },
+            {
+                "type": "float",
+                "name": "blendOutDuration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

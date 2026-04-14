@@ -1,0 +1,13 @@
+{
+    "GET_COMPONENT_VARIANT_EXTRA_COMPONENT_COUNT": {
+        "name": "GET_COMPONENT_VARIANT_EXTRA_COMPONENT_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

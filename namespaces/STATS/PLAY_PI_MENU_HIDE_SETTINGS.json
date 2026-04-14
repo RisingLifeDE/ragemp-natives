@@ -1,0 +1,8 @@
+{
+    "PLAY_PI_MENU_HIDE_SETTINGS": {
+        "name": "PLAY_PI_MENU_HIDE_SETTINGS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

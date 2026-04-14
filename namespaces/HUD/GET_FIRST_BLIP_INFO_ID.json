@@ -1,0 +1,13 @@
+{
+    "GET_FIRST_BLIP_INFO_ID": {
+        "name": "GET_FIRST_BLIP_INFO_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blipSprite"
+            }
+        ],
+        "return_type": "float"
+    }
+}

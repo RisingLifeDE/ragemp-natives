@@ -1,0 +1,13 @@
+{
+    "HAS_TELEPORT_FINISHED": {
+        "name": "HAS_TELEPORT_FINISHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

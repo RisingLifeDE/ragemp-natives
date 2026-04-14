@@ -1,0 +1,8 @@
+{
+    "IS_REPORTUGC_MENU_OPEN": {
+        "name": "IS_REPORTUGC_MENU_OPEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

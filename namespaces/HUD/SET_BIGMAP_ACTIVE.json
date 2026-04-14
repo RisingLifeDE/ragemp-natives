@@ -1,0 +1,17 @@
+{
+    "SET_BIGMAP_ACTIVE": {
+        "name": "SET_BIGMAP_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggleBigMap"
+            },
+            {
+                "type": "BOOL",
+                "name": "showFullMap"
+            }
+        ],
+        "return_type": "void"
+    }
+}

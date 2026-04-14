@@ -1,0 +1,13 @@
+{
+    "SET_WEAPON_DEFENSE_MODIFIER2": {
+        "name": "SET_WEAPON_DEFENSE_MODIFIER2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

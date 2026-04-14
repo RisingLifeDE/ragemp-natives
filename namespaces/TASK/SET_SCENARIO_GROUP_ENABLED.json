@@ -1,0 +1,17 @@
+{
+    "SET_SCENARIO_GROUP_ENABLED": {
+        "name": "SET_SCENARIO_GROUP_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scenarioGroup"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

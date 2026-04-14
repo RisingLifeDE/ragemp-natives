@@ -1,0 +1,17 @@
+{
+    "SET_PED_PATH_MAY_ENTER_WATER": {
+        "name": "SET_PED_PATH_MAY_ENTER_WATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "mayEnterWater"
+            }
+        ],
+        "return_type": "void"
+    }
+}

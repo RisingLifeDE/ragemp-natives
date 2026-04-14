@@ -1,0 +1,13 @@
+{
+    "GET_MAX_HEALTH": {
+        "name": "GET_MAX_HEALTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

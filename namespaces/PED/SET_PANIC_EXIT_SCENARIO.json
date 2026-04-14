@@ -1,0 +1,25 @@
+{
+    "SET_PANIC_EXIT_SCENARIO": {
+        "name": "SET_PANIC_EXIT_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "float"
+    }
+}

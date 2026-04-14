@@ -1,0 +1,29 @@
+{
+    "DOES_PICKUP_OF_TYPE_EXIST_IN_AREA": {
+        "name": "DOES_PICKUP_OF_TYPE_EXIST_IN_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

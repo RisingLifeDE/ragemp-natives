@@ -1,0 +1,25 @@
+{
+    "GIVE_HELMET": {
+        "name": "GIVE_HELMET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "cannotRemove"
+            },
+            {
+                "type": "float",
+                "name": "helmetFlag"
+            },
+            {
+                "type": "float",
+                "name": "textureIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

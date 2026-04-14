@@ -1,0 +1,8 @@
+{
+    "GAMERTAG_FROM_HANDLE_SUCCEEDED": {
+        "name": "GAMERTAG_FROM_HANDLE_SUCCEEDED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

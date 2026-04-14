@@ -1,0 +1,13 @@
+{
+    "BG_END_CONTEXT": {
+        "name": "BG_END_CONTEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "contextName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

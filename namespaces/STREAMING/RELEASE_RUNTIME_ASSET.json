@@ -1,0 +1,13 @@
+{
+    "RELEASE_RUNTIME_ASSET": {
+        "name": "RELEASE_RUNTIME_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "string | number",
+                "name": "resourceName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

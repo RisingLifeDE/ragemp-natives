@@ -1,0 +1,17 @@
+{
+    "STOP_SHAKING": {
+        "name": "STOP_SHAKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

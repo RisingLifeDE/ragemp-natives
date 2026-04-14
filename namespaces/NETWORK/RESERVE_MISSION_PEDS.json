@@ -1,0 +1,13 @@
+{
+    "RESERVE_MISSION_PEDS": {
+        "name": "RESERVE_MISSION_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

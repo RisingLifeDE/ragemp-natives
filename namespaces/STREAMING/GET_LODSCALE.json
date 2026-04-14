@@ -1,0 +1,8 @@
+{
+    "GET_LODSCALE": {
+        "name": "GET_LODSCALE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

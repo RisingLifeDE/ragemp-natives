@@ -1,0 +1,17 @@
+{
+    "SET_MELEE_WEAPON_DAMAGE_MODIFIER": {
+        "name": "SET_MELEE_WEAPON_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modifier"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

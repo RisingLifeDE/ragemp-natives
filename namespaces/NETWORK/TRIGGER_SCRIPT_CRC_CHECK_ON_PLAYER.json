@@ -1,0 +1,21 @@
+{
+    "TRIGGER_SCRIPT_CRC_CHECK_ON_PLAYER": {
+        "name": "TRIGGER_SCRIPT_CRC_CHECK_ON_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

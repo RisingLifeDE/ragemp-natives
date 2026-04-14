@@ -1,0 +1,13 @@
+{
+    "GET_ENVEFF_SCALE": {
+        "name": "GET_ENVEFF_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

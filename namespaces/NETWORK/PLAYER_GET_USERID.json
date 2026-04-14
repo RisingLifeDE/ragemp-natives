@@ -1,0 +1,13 @@
+{
+    "PLAYER_GET_USERID": {
+        "name": "PLAYER_GET_USERID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "NetworkPlayerGetUseridResult"
+    }
+}

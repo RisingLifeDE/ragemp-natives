@@ -1,0 +1,13 @@
+{
+    "LEADERBOARDS_GET_CACHE_TIME": {
+        "name": "LEADERBOARDS_GET_CACHE_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

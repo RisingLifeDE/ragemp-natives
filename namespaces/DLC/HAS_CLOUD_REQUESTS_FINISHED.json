@@ -1,0 +1,13 @@
+{
+    "HAS_CLOUD_REQUESTS_FINISHED": {
+        "name": "HAS_CLOUD_REQUESTS_FINISHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "unused"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

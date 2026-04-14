@@ -1,0 +1,13 @@
+{
+    "SET_LOAD_FREEMODE_WITH_EVENT_NAME": {
+        "name": "SET_LOAD_FREEMODE_WITH_EVENT_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

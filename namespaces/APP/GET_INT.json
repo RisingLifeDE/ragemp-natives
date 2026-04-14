@@ -1,0 +1,13 @@
+{
+    "GET_INT": {
+        "name": "GET_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "property"
+            }
+        ],
+        "return_type": "float"
+    }
+}

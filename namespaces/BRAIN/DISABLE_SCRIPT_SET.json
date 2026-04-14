@@ -1,0 +1,13 @@
+{
+    "DISABLE_SCRIPT_SET": {
+        "name": "DISABLE_SCRIPT_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "brainSet"
+            }
+        ],
+        "return_type": "void"
+    }
+}

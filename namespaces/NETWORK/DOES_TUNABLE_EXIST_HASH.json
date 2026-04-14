@@ -1,0 +1,17 @@
+{
+    "DOES_TUNABLE_EXIST_HASH": {
+        "name": "DOES_TUNABLE_EXIST_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "tunableContext"
+            },
+            {
+                "type": "float",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

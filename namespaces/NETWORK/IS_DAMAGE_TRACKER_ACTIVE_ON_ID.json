@@ -1,0 +1,13 @@
+{
+    "IS_DAMAGE_TRACKER_ACTIVE_ON_ID": {
+        "name": "IS_DAMAGE_TRACKER_ACTIVE_ON_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netID"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

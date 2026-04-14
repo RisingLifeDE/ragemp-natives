@@ -1,0 +1,13 @@
+{
+    "STOP_POINTING": {
+        "name": "STOP_POINTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "void"
+    }
+}

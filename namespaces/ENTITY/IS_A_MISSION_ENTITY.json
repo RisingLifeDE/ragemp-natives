@@ -1,0 +1,13 @@
+{
+    "IS_A_MISSION_ENTITY": {
+        "name": "IS_A_MISSION_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

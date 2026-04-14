@@ -1,0 +1,13 @@
+{
+    "SET_DISABLE_AMBIENT_MELEE_MOVE": {
+        "name": "SET_DISABLE_AMBIENT_MELEE_MOVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

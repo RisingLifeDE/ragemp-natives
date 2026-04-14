@@ -1,0 +1,8 @@
+{
+    "ROPE_ARE_TEXTURES_LOADED": {
+        "name": "ROPE_ARE_TEXTURES_LOADED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

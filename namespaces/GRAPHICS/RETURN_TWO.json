@@ -1,0 +1,13 @@
+{
+    "RETURN_TWO": {
+        "name": "RETURN_TWO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

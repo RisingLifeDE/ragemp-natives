@@ -1,0 +1,8 @@
+{
+    "WEAPON_WHEEL_GET_SELECTED_HASH": {
+        "name": "WEAPON_WHEEL_GET_SELECTED_HASH",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

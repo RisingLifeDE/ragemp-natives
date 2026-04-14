@@ -1,0 +1,13 @@
+{
+    "LOG10": {
+        "name": "LOG10",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

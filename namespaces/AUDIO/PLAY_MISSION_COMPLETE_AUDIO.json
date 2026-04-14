@@ -1,0 +1,13 @@
+{
+    "PLAY_MISSION_COMPLETE_AUDIO": {
+        "name": "PLAY_MISSION_COMPLETE_AUDIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "audioName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

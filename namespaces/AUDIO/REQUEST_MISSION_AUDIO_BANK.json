@@ -1,0 +1,21 @@
+{
+    "REQUEST_MISSION_AUDIO_BANK": {
+        "name": "REQUEST_MISSION_AUDIO_BANK",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

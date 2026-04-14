@@ -1,0 +1,21 @@
+{
+    "SET_TV_CHANNEL_PLAYLIST_AT_HOUR": {
+        "name": "SET_TV_CHANNEL_PLAYLIST_AT_HOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "tvChannel"
+            },
+            {
+                "type": "char*",
+                "name": "playlistName"
+            },
+            {
+                "type": "float",
+                "name": "hour"
+            }
+        ],
+        "return_type": "void"
+    }
+}

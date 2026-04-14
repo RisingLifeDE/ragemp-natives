@@ -1,0 +1,13 @@
+{
+    "GET_MAX_RANGE_OF_CURRENT_PED": {
+        "name": "GET_MAX_RANGE_OF_CURRENT_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

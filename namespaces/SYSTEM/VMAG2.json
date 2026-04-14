@@ -1,0 +1,21 @@
+{
+    "VMAG2": {
+        "name": "VMAG2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "float"
+    }
+}

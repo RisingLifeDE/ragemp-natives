@@ -1,0 +1,13 @@
+{
+    "SET_VEHICLE_AS_NO_LONGER_NEEDED": {
+        "name": "SET_VEHICLE_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

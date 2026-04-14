@@ -1,0 +1,17 @@
+{
+    "CREATE_NM_MESSAGE": {
+        "name": "CREATE_NM_MESSAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "startImmediately"
+            },
+            {
+                "type": "float",
+                "name": "messageId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

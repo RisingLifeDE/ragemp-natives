@@ -1,0 +1,13 @@
+{
+    "PULSE_BLIP": {
+        "name": "PULSE_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_HEATSCALE_OVERRIDE": {
+        "name": "SET_HEATSCALE_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "heatScale"
+            }
+        ],
+        "return_type": "void"
+    }
+}

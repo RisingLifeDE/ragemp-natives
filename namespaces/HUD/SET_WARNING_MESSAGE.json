@@ -1,0 +1,45 @@
+{
+    "SET_WARNING_MESSAGE": {
+        "name": "SET_WARNING_MESSAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "titleMsg"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            },
+            {
+                "type": "char*",
+                "name": "promptMsg"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "char*",
+                "name": "p5"
+            },
+            {
+                "type": "char*",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "showBackground"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void"
+    }
+}

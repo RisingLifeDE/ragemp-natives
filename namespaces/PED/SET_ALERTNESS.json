@@ -1,0 +1,17 @@
+{
+    "SET_ALERTNESS": {
+        "name": "SET_ALERTNESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_ACHIEVEMENT_PROGRESS": {
+        "name": "GET_ACHIEVEMENT_PROGRESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "achievement"
+            }
+        ],
+        "return_type": "float"
+    }
+}

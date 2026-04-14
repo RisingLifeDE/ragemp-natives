@@ -1,0 +1,13 @@
+{
+    "SET_MODEL": {
+        "name": "SET_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "model"
+            }
+        ],
+        "return_type": "void"
+    }
+}

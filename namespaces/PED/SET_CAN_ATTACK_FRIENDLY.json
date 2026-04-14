@@ -1,0 +1,21 @@
+{
+    "SET_CAN_ATTACK_FRIENDLY": {
+        "name": "SET_CAN_ATTACK_FRIENDLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

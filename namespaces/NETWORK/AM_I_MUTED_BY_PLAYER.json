@@ -1,0 +1,13 @@
+{
+    "AM_I_MUTED_BY_PLAYER": {
+        "name": "AM_I_MUTED_BY_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME": {
+        "name": "ADD_TEXT_COMPONENT_SUBSTRING_PLAYER_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void"
+    }
+}

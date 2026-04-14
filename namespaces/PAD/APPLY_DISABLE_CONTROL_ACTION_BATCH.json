@@ -1,0 +1,8 @@
+{
+    "APPLY_DISABLE_CONTROL_ACTION_BATCH": {
+        "name": "APPLY_DISABLE_CONTROL_ACTION_BATCH",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "GET_PLAYERS_LAST_VEHICLE": {
+        "name": "GET_PLAYERS_LAST_VEHICLE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

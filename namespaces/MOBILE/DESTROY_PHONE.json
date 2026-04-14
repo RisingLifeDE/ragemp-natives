@@ -1,0 +1,8 @@
+{
+    "DESTROY_PHONE": {
+        "name": "DESTROY_PHONE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

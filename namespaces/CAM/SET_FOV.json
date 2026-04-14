@@ -1,0 +1,17 @@
+{
+    "SET_FOV": {
+        "name": "SET_FOV",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "fieldOfView"
+            }
+        ],
+        "return_type": "void"
+    }
+}

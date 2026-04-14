@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_HINT_FOLLOW_DISTANCE_SCALAR": {
+        "name": "SET_GAMEPLAY_HINT_FOLLOW_DISTANCE_SCALAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

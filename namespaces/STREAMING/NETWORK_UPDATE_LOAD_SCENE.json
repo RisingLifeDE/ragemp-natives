@@ -1,0 +1,8 @@
+{
+    "NETWORK_UPDATE_LOAD_SCENE": {
+        "name": "NETWORK_UPDATE_LOAD_SCENE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

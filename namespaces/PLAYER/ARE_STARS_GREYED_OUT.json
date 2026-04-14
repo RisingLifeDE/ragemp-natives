@@ -1,0 +1,8 @@
+{
+    "ARE_STARS_GREYED_OUT": {
+        "name": "ARE_STARS_GREYED_OUT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

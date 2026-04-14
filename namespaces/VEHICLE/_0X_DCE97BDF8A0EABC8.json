@@ -1,0 +1,17 @@
+{
+    "_0X_DCE97BDF8A0EABC8": {
+        "name": "_0X_DCE97BDF8A0EABC8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

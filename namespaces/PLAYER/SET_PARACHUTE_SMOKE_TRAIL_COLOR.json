@@ -1,0 +1,21 @@
+{
+    "SET_PARACHUTE_SMOKE_TRAIL_COLOR": {
+        "name": "SET_PARACHUTE_SMOKE_TRAIL_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            }
+        ],
+        "return_type": "void"
+    }
+}

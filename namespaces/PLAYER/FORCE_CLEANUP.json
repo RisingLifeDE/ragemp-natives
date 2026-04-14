@@ -1,0 +1,13 @@
+{
+    "FORCE_CLEANUP": {
+        "name": "FORCE_CLEANUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cleanupFlags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

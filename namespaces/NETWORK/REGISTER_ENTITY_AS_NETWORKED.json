@@ -1,0 +1,13 @@
+{
+    "REGISTER_ENTITY_AS_NETWORKED": {
+        "name": "REGISTER_ENTITY_AS_NETWORKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

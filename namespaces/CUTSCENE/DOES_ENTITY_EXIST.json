@@ -1,0 +1,17 @@
+{
+    "DOES_ENTITY_EXIST": {
+        "name": "DOES_ENTITY_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

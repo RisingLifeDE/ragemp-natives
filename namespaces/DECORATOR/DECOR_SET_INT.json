@@ -1,0 +1,21 @@
+{
+    "DECOR_SET_INT": {
+        "name": "DECOR_SET_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

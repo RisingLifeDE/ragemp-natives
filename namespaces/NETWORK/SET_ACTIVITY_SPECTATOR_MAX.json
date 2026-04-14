@@ -1,0 +1,13 @@
+{
+    "SET_ACTIVITY_SPECTATOR_MAX": {
+        "name": "SET_ACTIVITY_SPECTATOR_MAX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "maxSpectators"
+            }
+        ],
+        "return_type": "void"
+    }
+}

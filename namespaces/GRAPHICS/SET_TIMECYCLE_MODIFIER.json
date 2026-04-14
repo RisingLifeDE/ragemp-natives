@@ -1,0 +1,13 @@
+{
+    "SET_TIMECYCLE_MODIFIER": {
+        "name": "SET_TIMECYCLE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "modifierName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

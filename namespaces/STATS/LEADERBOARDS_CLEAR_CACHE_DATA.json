@@ -1,0 +1,8 @@
+{
+    "LEADERBOARDS_CLEAR_CACHE_DATA": {
+        "name": "LEADERBOARDS_CLEAR_CACHE_DATA",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

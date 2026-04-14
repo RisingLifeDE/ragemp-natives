@@ -1,0 +1,8 @@
+{
+    "GET_SAFE_ZONE_SIZE": {
+        "name": "GET_SAFE_ZONE_SIZE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_CINEMATIC_IDLE_RENDERING": {
+        "name": "IS_CINEMATIC_IDLE_RENDERING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

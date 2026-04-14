@@ -1,0 +1,13 @@
+{
+    "SET_GLOBAL_MIN_BIRD_FLIGHT_HEIGHT": {
+        "name": "SET_GLOBAL_MIN_BIRD_FLIGHT_HEIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "height"
+            }
+        ],
+        "return_type": "void"
+    }
+}

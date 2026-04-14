@@ -1,0 +1,8 @@
+{
+    "SET_PROFILE_SETTING_PROLOGUE_COMPLETE": {
+        "name": "SET_PROFILE_SETTING_PROLOGUE_COMPLETE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

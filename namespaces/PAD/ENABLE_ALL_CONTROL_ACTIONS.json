@@ -1,0 +1,13 @@
+{
+    "ENABLE_ALL_CONTROL_ACTIONS": {
+        "name": "ENABLE_ALL_CONTROL_ACTIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "padIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

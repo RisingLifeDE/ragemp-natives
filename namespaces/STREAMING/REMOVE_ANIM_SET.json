@@ -1,0 +1,13 @@
+{
+    "REMOVE_ANIM_SET": {
+        "name": "REMOVE_ANIM_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "animSet"
+            }
+        ],
+        "return_type": "void"
+    }
+}

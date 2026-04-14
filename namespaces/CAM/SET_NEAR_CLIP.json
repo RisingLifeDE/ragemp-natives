@@ -1,0 +1,17 @@
+{
+    "SET_NEAR_CLIP": {
+        "name": "SET_NEAR_CLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "nearClip"
+            }
+        ],
+        "return_type": "void"
+    }
+}

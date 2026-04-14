@@ -1,0 +1,13 @@
+{
+    "IS_DOOR_NETWORKED": {
+        "name": "IS_DOOR_NETWORKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_DIES_WHEN_INJURED": {
+        "name": "SET_DIES_WHEN_INJURED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

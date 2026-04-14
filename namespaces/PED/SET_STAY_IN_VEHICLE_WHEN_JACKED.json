@@ -1,0 +1,17 @@
+{
+    "SET_STAY_IN_VEHICLE_WHEN_JACKED": {
+        "name": "SET_STAY_IN_VEHICLE_WHEN_JACKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

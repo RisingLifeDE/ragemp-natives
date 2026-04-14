@@ -1,0 +1,8 @@
+{
+    "IS_DURANGO_VERSION": {
+        "name": "IS_DURANGO_VERSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

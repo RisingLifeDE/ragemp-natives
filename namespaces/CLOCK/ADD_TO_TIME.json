@@ -1,0 +1,21 @@
+{
+    "ADD_TO_TIME": {
+        "name": "ADD_TO_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hours"
+            },
+            {
+                "type": "float",
+                "name": "minutes"
+            },
+            {
+                "type": "float",
+                "name": "seconds"
+            }
+        ],
+        "return_type": "void"
+    }
+}

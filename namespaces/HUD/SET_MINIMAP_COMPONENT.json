@@ -1,0 +1,21 @@
+{
+    "SET_MINIMAP_COMPONENT": {
+        "name": "SET_MINIMAP_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "overrideColor"
+            }
+        ],
+        "return_type": "float"
+    }
+}

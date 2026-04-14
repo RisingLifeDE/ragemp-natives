@@ -1,0 +1,21 @@
+{
+    "END_TEXT_COMMAND_DISPLAY_TEXT": {
+        "name": "END_TEXT_COMMAND_DISPLAY_TEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

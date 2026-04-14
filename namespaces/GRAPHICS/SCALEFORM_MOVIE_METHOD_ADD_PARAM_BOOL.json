@@ -1,0 +1,13 @@
+{
+    "SCALEFORM_MOVIE_METHOD_ADD_PARAM_BOOL": {
+        "name": "SCALEFORM_MOVIE_METHOD_ADD_PARAM_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REMOVE_IPL": {
+        "name": "REMOVE_IPL",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "iplName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

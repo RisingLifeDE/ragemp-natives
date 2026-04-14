@@ -1,0 +1,17 @@
+{
+    "SET_MAX_SPEED": {
+        "name": "SET_MAX_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void"
+    }
+}

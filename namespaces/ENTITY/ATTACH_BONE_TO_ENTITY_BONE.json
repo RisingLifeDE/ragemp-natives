@@ -1,0 +1,33 @@
+{
+    "ATTACH_BONE_TO_ENTITY_BONE": {
+        "name": "ATTACH_BONE_TO_ENTITY_BONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity1"
+            },
+            {
+                "type": "float",
+                "name": "entity2"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex1"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void"
+    }
+}

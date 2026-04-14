@@ -1,0 +1,13 @@
+{
+    "REQUEST_CONTROL_OF_NETWORK_ID": {
+        "name": "REQUEST_CONTROL_OF_NETWORK_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

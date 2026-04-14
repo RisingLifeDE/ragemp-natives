@@ -1,0 +1,13 @@
+{
+    "IS_SHADER_EFFECT_VALID": {
+        "name": "IS_SHADER_EFFECT_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

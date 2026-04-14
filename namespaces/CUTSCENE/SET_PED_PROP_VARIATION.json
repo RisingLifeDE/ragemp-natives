@@ -1,0 +1,29 @@
+{
+    "SET_PED_PROP_VARIATION": {
+        "name": "SET_PED_PROP_VARIATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

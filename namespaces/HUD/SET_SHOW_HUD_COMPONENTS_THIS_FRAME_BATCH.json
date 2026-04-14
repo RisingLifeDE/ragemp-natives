@@ -1,0 +1,17 @@
+{
+    "SET_SHOW_HUD_COMPONENTS_THIS_FRAME_BATCH": {
+        "name": "SET_SHOW_HUD_COMPONENTS_THIS_FRAME_BATCH",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "show"
+            },
+            {
+                "type": "RageEnums.Hud.Component[]",
+                "name": "hudComponents"
+            }
+        ],
+        "return_type": "void"
+    }
+}

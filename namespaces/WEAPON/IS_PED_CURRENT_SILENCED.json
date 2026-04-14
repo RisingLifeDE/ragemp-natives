@@ -1,0 +1,13 @@
+{
+    "IS_PED_CURRENT_SILENCED": {
+        "name": "IS_PED_CURRENT_SILENCED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "HASH_FROM_GAMER_HANDLE": {
+        "name": "HASH_FROM_GAMER_HANDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "NetworkHashFromGamerHandleResult"
+    }
+}

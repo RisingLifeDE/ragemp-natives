@@ -1,0 +1,13 @@
+{
+    "CLEAR_SCUBA_GEAR_VARIATION": {
+        "name": "CLEAR_SCUBA_GEAR_VARIATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

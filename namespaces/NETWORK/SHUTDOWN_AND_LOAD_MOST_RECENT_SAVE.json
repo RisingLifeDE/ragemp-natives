@@ -1,0 +1,8 @@
+{
+    "SHUTDOWN_AND_LOAD_MOST_RECENT_SAVE": {
+        "name": "SHUTDOWN_AND_LOAD_MOST_RECENT_SAVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

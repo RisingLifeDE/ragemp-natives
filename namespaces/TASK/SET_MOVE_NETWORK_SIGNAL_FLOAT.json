@@ -1,0 +1,21 @@
+{
+    "SET_MOVE_NETWORK_SIGNAL_FLOAT": {
+        "name": "SET_MOVE_NETWORK_SIGNAL_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "signalName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

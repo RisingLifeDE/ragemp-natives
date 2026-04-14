@@ -1,0 +1,21 @@
+{
+    "DOES_SCRIPTED_COVER_POINT_EXIST_AT_COORDS": {
+        "name": "DOES_SCRIPTED_COVER_POINT_EXIST_AT_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

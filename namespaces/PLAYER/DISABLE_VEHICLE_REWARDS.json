@@ -1,0 +1,8 @@
+{
+    "DISABLE_VEHICLE_REWARDS": {
+        "name": "DISABLE_VEHICLE_REWARDS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

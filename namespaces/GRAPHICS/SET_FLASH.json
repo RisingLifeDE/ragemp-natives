@@ -1,0 +1,29 @@
+{
+    "SET_FLASH": {
+        "name": "SET_FLASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "minExposure"
+            },
+            {
+                "type": "float",
+                "name": "maxExposure"
+            },
+            {
+                "type": "float",
+                "name": "rampUpDuration"
+            },
+            {
+                "type": "float",
+                "name": "rampDownDuration"
+            },
+            {
+                "type": "float",
+                "name": "holdDuration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

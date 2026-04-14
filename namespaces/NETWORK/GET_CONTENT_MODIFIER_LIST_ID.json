@@ -1,0 +1,13 @@
+{
+    "GET_CONTENT_MODIFIER_LIST_ID": {
+        "name": "GET_CONTENT_MODIFIER_LIST_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "contentHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

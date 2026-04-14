@@ -1,0 +1,8 @@
+{
+    "DO_AUTO_SAVE": {
+        "name": "DO_AUTO_SAVE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

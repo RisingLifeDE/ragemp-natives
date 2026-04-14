@@ -1,0 +1,13 @@
+{
+    "IS_EVASIVE_DIVING": {
+        "name": "IS_EVASIVE_DIVING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

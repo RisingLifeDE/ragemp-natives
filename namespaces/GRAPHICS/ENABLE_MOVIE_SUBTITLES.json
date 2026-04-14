@@ -1,0 +1,13 @@
+{
+    "ENABLE_MOVIE_SUBTITLES": {
+        "name": "ENABLE_MOVIE_SUBTITLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

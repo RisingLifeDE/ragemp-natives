@@ -1,0 +1,13 @@
+{
+    "DOES_AIR_DEFENSE_ZONE_EXIST": {
+        "name": "DOES_AIR_DEFENSE_ZONE_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoneId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

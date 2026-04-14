@@ -1,0 +1,13 @@
+{
+    "_0X_ED3C76ADFA6D07C4": {
+        "name": "_0X_ED3C76ADFA6D07C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

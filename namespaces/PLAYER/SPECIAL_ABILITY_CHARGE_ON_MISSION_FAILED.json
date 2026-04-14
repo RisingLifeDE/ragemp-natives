@@ -1,0 +1,13 @@
+{
+    "SPECIAL_ABILITY_CHARGE_ON_MISSION_FAILED": {
+        "name": "SPECIAL_ABILITY_CHARGE_ON_MISSION_FAILED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

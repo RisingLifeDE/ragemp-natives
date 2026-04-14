@@ -1,0 +1,13 @@
+{
+    "IS_HANDLE_VALID": {
+        "name": "IS_HANDLE_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "bufferSize"
+            }
+        ],
+        "return_type": "float"
+    }
+}

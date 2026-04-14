@@ -1,0 +1,8 @@
+{
+    "GET_ID_OF_THIS_THREAD": {
+        "name": "GET_ID_OF_THIS_THREAD",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

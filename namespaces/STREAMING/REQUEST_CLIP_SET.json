@@ -1,0 +1,13 @@
+{
+    "REQUEST_CLIP_SET": {
+        "name": "REQUEST_CLIP_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "clipSet"
+            }
+        ],
+        "return_type": "void"
+    }
+}

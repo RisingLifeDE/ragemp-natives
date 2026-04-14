@@ -1,0 +1,13 @@
+{
+    "SET_FRONTEND_ACTIVE": {
+        "name": "SET_FRONTEND_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void"
+    }
+}

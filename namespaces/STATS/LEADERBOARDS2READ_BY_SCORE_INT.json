@@ -1,0 +1,17 @@
+{
+    "LEADERBOARDS2READ_BY_SCORE_INT": {
+        "name": "LEADERBOARDS2READ_BY_SCORE_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

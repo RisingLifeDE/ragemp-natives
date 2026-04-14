@@ -1,0 +1,37 @@
+{
+    "SWEEP_AIM_POSITION": {
+        "name": "SWEEP_AIM_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            }
+        ],
+        "return_type": "TaskSweepAimPositionResult"
+    }
+}

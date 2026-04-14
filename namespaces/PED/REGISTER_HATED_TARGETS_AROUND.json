@@ -1,0 +1,17 @@
+{
+    "REGISTER_HATED_TARGETS_AROUND": {
+        "name": "REGISTER_HATED_TARGETS_AROUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void"
+    }
+}

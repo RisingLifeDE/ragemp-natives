@@ -1,0 +1,17 @@
+{
+    "SET_RICH_PRESENCE_STRING": {
+        "name": "SET_RICH_PRESENCE_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "textLabel"
+            }
+        ],
+        "return_type": "void"
+    }
+}

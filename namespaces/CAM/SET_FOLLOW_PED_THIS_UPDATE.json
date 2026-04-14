@@ -1,0 +1,17 @@
+{
+    "SET_FOLLOW_PED_THIS_UPDATE": {
+        "name": "SET_FOLLOW_PED_THIS_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "camName"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_DISPLAY": {
+        "name": "SET_BLIP_DISPLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "displayId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

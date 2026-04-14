@@ -1,0 +1,13 @@
+{
+    "INT_TOINDEX": {
+        "name": "INT_TOINDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "args"
+            }
+        ],
+        "return_type": "Handle"
+    }
+}

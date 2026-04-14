@@ -1,0 +1,13 @@
+{
+    "IS_IN_ANY_TRAIN": {
+        "name": "IS_IN_ANY_TRAIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

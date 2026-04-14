@@ -1,0 +1,21 @@
+{
+    "ADD_SHOCKING_FOR_ENTITY": {
+        "name": "ADD_SHOCKING_FOR_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "eventType"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "float"
+    }
+}

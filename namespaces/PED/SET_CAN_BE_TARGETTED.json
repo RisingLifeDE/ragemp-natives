@@ -1,0 +1,17 @@
+{
+    "SET_CAN_BE_TARGETTED": {
+        "name": "SET_CAN_BE_TARGETTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

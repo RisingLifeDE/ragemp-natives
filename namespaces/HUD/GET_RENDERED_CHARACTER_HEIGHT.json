@@ -1,0 +1,17 @@
+{
+    "GET_RENDERED_CHARACTER_HEIGHT": {
+        "name": "GET_RENDERED_CHARACTER_HEIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "size"
+            },
+            {
+                "type": "float",
+                "name": "font"
+            }
+        ],
+        "return_type": "float"
+    }
+}

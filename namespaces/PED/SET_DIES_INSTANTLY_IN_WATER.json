@@ -1,0 +1,17 @@
+{
+    "SET_DIES_INSTANTLY_IN_WATER": {
+        "name": "SET_DIES_INSTANTLY_IN_WATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

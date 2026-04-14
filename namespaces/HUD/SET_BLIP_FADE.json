@@ -1,0 +1,21 @@
+{
+    "SET_BLIP_FADE": {
+        "name": "SET_BLIP_FADE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "opacity"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

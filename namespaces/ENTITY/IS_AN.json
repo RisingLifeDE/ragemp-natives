@@ -1,0 +1,13 @@
+{
+    "IS_AN": {
+        "name": "IS_AN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "handle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

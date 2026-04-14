@@ -1,0 +1,13 @@
+{
+    "REGISTER_SCRIPT_WITH_AUDIO": {
+        "name": "REGISTER_SCRIPT_WITH_AUDIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

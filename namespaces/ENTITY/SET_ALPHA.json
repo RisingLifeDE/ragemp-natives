@@ -1,0 +1,21 @@
+{
+    "SET_ALPHA": {
+        "name": "SET_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "alphaLevel"
+            },
+            {
+                "type": "BOOL",
+                "name": "skin"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_0X70A382ADEC069DD3": {
+        "name": "_0X70A382ADEC069DD3",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "coordX"
+            },
+            {
+                "type": "float",
+                "name": "coordY"
+            },
+            {
+                "type": "float",
+                "name": "coordZ"
+            }
+        ],
+        "return_type": "void"
+    }
+}

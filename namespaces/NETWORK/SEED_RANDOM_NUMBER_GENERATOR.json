@@ -1,0 +1,13 @@
+{
+    "SEED_RANDOM_NUMBER_GENERATOR": {
+        "name": "SEED_RANDOM_NUMBER_GENERATOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "seed"
+            }
+        ],
+        "return_type": "void"
+    }
+}

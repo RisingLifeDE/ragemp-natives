@@ -1,0 +1,25 @@
+{
+    "IS_SCRIPT_ACTIVE": {
+        "name": "IS_SCRIPT_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

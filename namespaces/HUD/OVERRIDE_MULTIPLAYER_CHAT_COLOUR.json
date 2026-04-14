@@ -1,0 +1,17 @@
+{
+    "OVERRIDE_MULTIPLAYER_CHAT_COLOUR": {
+        "name": "OVERRIDE_MULTIPLAYER_CHAT_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "hudColor"
+            }
+        ],
+        "return_type": "void"
+    }
+}

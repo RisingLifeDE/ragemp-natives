@@ -1,0 +1,8 @@
+{
+    "GET_RGB_COLOUR": {
+        "name": "GET_RGB_COLOUR",
+        "comment": "",
+        "params": [],
+        "return_type": "GetPlayerRgbColourResult"
+    }
+}

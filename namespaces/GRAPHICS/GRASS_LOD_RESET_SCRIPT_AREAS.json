@@ -1,0 +1,8 @@
+{
+    "GRASS_LOD_RESET_SCRIPT_AREAS": {
+        "name": "GRASS_LOD_RESET_SCRIPT_AREAS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

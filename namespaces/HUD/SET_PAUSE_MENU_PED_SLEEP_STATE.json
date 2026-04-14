@@ -1,0 +1,13 @@
+{
+    "SET_PAUSE_MENU_PED_SLEEP_STATE": {
+        "name": "SET_PAUSE_MENU_PED_SLEEP_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void"
+    }
+}

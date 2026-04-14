@@ -1,0 +1,21 @@
+{
+    "SET_PINNED_DOWN": {
+        "name": "SET_PINNED_DOWN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "pinned"
+            },
+            {
+                "type": "float",
+                "name": "i"
+            }
+        ],
+        "return_type": "float"
+    }
+}

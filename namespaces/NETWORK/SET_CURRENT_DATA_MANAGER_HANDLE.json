@@ -1,0 +1,8 @@
+{
+    "SET_CURRENT_DATA_MANAGER_HANDLE": {
+        "name": "SET_CURRENT_DATA_MANAGER_HANDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

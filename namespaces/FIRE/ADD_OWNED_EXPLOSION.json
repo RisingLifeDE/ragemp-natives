@@ -1,0 +1,45 @@
+{
+    "ADD_OWNED_EXPLOSION": {
+        "name": "ADD_OWNED_EXPLOSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "explosionType"
+            },
+            {
+                "type": "float",
+                "name": "damageScale"
+            },
+            {
+                "type": "BOOL",
+                "name": "isAudible"
+            },
+            {
+                "type": "BOOL",
+                "name": "isInvisible"
+            },
+            {
+                "type": "float",
+                "name": "cameraShake"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "ACTIVATE_ROCKSTAR_EDITOR": {
+        "name": "ACTIVATE_ROCKSTAR_EDITOR",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

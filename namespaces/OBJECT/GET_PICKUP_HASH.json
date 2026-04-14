@@ -1,0 +1,13 @@
+{
+    "GET_PICKUP_HASH": {
+        "name": "GET_PICKUP_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

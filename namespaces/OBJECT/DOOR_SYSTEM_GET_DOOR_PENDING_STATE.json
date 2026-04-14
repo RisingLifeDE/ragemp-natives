@@ -1,0 +1,13 @@
+{
+    "DOOR_SYSTEM_GET_DOOR_PENDING_STATE": {
+        "name": "DOOR_SYSTEM_GET_DOOR_PENDING_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

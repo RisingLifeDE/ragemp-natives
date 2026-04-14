@@ -1,0 +1,8 @@
+{
+    "GET_RAIN_LEVEL": {
+        "name": "GET_RAIN_LEVEL",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

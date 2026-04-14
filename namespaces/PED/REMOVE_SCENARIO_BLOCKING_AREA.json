@@ -1,0 +1,17 @@
+{
+    "REMOVE_SCENARIO_BLOCKING_AREA": {
+        "name": "REMOVE_SCENARIO_BLOCKING_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scenario"
+            },
+            {
+                "type": "BOOL",
+                "name": "network"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_MODEL_A_PED": {
+        "name": "IS_MODEL_A_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

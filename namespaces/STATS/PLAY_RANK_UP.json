@@ -1,0 +1,13 @@
+{
+    "PLAY_RANK_UP": {
+        "name": "PLAY_RANK_UP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "rank"
+            }
+        ],
+        "return_type": "void"
+    }
+}

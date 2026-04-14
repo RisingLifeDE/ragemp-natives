@@ -1,0 +1,13 @@
+{
+    "IS_ON_SCREEN": {
+        "name": "IS_ON_SCREEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

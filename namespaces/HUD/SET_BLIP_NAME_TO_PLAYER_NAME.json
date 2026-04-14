@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_NAME_TO_PLAYER_NAME": {
+        "name": "SET_BLIP_NAME_TO_PLAYER_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "void"
+    }
+}

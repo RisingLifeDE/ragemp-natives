@@ -1,0 +1,8 @@
+{
+    "WAS_SKIPPED": {
+        "name": "WAS_SKIPPED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

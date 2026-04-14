@@ -1,0 +1,21 @@
+{
+    "UGC_GET_GET_BY_CATEGORY": {
+        "name": "UGC_GET_GET_BY_CATEGORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "UgcGetGetByCategoryResult"
+    }
+}

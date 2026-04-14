@@ -1,0 +1,8 @@
+{
+    "IS_WORLD_POINT_WITHIN_ACTIVATION_RANGE": {
+        "name": "IS_WORLD_POINT_WITHIN_ACTIVATION_RANGE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

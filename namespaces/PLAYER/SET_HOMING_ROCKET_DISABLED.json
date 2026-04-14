@@ -1,0 +1,17 @@
+{
+    "SET_HOMING_ROCKET_DISABLED": {
+        "name": "SET_HOMING_ROCKET_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "disableHoming"
+            }
+        ],
+        "return_type": "void"
+    }
+}

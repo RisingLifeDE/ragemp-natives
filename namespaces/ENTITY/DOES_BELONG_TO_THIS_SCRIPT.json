@@ -1,0 +1,17 @@
+{
+    "DOES_BELONG_TO_THIS_SCRIPT": {
+        "name": "DOES_BELONG_TO_THIS_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

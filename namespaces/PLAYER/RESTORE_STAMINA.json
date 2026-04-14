@@ -1,0 +1,13 @@
+{
+    "RESTORE_STAMINA": {
+        "name": "RESTORE_STAMINA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

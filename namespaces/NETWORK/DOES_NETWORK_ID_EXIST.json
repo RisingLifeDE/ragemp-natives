@@ -1,0 +1,13 @@
+{
+    "DOES_NETWORK_ID_EXIST": {
+        "name": "DOES_NETWORK_ID_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "GET_IS_PED_GADGET_EQUIPPED": {
+        "name": "GET_IS_PED_GADGET_EQUIPPED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "gadgetHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

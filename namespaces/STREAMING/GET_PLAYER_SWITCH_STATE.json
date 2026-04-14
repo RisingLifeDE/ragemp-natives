@@ -1,0 +1,8 @@
+{
+    "GET_PLAYER_SWITCH_STATE": {
+        "name": "GET_PLAYER_SWITCH_STATE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

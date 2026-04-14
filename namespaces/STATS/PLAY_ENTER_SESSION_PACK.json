@@ -1,0 +1,8 @@
+{
+    "PLAY_ENTER_SESSION_PACK": {
+        "name": "PLAY_ENTER_SESSION_PACK",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_VEHICLE_CAMERA_NAME": {
+        "name": "SET_GAMEPLAY_VEHICLE_CAMERA_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicleModel"
+            }
+        ],
+        "return_type": "void"
+    }
+}

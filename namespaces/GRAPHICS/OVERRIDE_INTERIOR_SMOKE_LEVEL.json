@@ -1,0 +1,13 @@
+{
+    "OVERRIDE_INTERIOR_SMOKE_LEVEL": {
+        "name": "OVERRIDE_INTERIOR_SMOKE_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "level"
+            }
+        ],
+        "return_type": "void"
+    }
+}

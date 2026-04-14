@@ -1,0 +1,13 @@
+{
+    "IS_FLEEING": {
+        "name": "IS_FLEEING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "_0X33D47E85B476ABCD": {
+        "name": "_0X33D47E85B476ABCD",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

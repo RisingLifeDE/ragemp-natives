@@ -1,0 +1,25 @@
+{
+    "ARE_NODES_LOADED_FOR_AREA": {
+        "name": "ARE_NODES_LOADED_FOR_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

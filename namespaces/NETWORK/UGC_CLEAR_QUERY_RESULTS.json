@@ -1,0 +1,8 @@
+{
+    "UGC_CLEAR_QUERY_RESULTS": {
+        "name": "UGC_CLEAR_QUERY_RESULTS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "SET_ROADS_BACK_TO_ORIGINAL": {
+        "name": "SET_ROADS_BACK_TO_ORIGINAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "minx"
+            },
+            {
+                "type": "float",
+                "name": "miny"
+            },
+            {
+                "type": "float",
+                "name": "minz"
+            },
+            {
+                "type": "float",
+                "name": "maxx"
+            },
+            {
+                "type": "float",
+                "name": "maxy"
+            },
+            {
+                "type": "float",
+                "name": "maxz"
+            },
+            {
+                "type": "BOOL",
+                "name": "network"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "DISABLE_OCCLUSION_THIS_FRAME": {
+        "name": "DISABLE_OCCLUSION_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

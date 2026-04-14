@@ -1,0 +1,13 @@
+{
+    "IS_AUDIO_SCENE_ACTIVE": {
+        "name": "IS_AUDIO_SCENE_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scene"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

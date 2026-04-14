@@ -1,0 +1,29 @@
+{
+    "GET_NGSTAT_INT_HASH": {
+        "name": "GET_NGSTAT_INT_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "spStat"
+            },
+            {
+                "type": "BOOL",
+                "name": "charStat"
+            },
+            {
+                "type": "float",
+                "name": "character"
+            },
+            {
+                "type": "char*",
+                "name": "section"
+            }
+        ],
+        "return_type": "float"
+    }
+}

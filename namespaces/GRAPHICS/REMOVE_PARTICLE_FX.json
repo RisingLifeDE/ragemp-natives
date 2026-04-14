@@ -1,0 +1,17 @@
+{
+    "REMOVE_PARTICLE_FX": {
+        "name": "REMOVE_PARTICLE_FX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

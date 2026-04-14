@@ -1,0 +1,13 @@
+{
+    "SET_TEXT_FONT": {
+        "name": "SET_TEXT_FONT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "fontType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

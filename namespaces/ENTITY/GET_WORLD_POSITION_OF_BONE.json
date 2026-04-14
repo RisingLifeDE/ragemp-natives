@@ -1,0 +1,17 @@
+{
+    "GET_WORLD_POSITION_OF_BONE": {
+        "name": "GET_WORLD_POSITION_OF_BONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

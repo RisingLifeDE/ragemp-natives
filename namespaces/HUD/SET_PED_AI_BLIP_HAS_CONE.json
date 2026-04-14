@@ -1,0 +1,17 @@
+{
+    "SET_PED_AI_BLIP_HAS_CONE": {
+        "name": "SET_PED_AI_BLIP_HAS_CONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

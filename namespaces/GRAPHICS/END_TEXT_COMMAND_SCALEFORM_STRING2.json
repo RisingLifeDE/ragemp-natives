@@ -1,0 +1,8 @@
+{
+    "END_TEXT_COMMAND_SCALEFORM_STRING2": {
+        "name": "END_TEXT_COMMAND_SCALEFORM_STRING2",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

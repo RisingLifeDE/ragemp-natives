@@ -1,0 +1,13 @@
+{
+    "IS_HUMAN": {
+        "name": "IS_HUMAN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

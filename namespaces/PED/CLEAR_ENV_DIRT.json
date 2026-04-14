@@ -1,0 +1,13 @@
+{
+    "CLEAR_ENV_DIRT": {
+        "name": "CLEAR_ENV_DIRT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

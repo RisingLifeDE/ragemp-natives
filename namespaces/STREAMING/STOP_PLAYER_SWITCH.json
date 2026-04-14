@@ -1,0 +1,8 @@
+{
+    "STOP_PLAYER_SWITCH": {
+        "name": "STOP_PLAYER_SWITCH",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

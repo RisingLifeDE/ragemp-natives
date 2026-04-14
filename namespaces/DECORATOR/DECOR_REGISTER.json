@@ -1,0 +1,17 @@
+{
+    "DECOR_REGISTER": {
+        "name": "DECOR_REGISTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "float",
+                "name": "type"
+            }
+        ],
+        "return_type": "void"
+    }
+}

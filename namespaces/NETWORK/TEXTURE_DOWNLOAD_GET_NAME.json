@@ -1,0 +1,13 @@
+{
+    "TEXTURE_DOWNLOAD_GET_NAME": {
+        "name": "TEXTURE_DOWNLOAD_GET_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

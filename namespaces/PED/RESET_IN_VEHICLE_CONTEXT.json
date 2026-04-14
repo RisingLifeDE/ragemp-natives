@@ -1,0 +1,13 @@
+{
+    "RESET_IN_VEHICLE_CONTEXT": {
+        "name": "RESET_IN_VEHICLE_CONTEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

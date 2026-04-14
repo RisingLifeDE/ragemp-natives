@@ -1,0 +1,13 @@
+{
+    "STOP_SCRIPT_GLOBAL_SHAKING": {
+        "name": "STOP_SCRIPT_GLOBAL_SHAKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "THEFEED_SPS_EXTEND_WIDESCREEN_OFF": {
+        "name": "THEFEED_SPS_EXTEND_WIDESCREEN_OFF",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

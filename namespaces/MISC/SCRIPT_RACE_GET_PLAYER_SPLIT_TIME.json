@@ -1,0 +1,13 @@
+{
+    "SCRIPT_RACE_GET_PLAYER_SPLIT_TIME": {
+        "name": "SCRIPT_RACE_GET_PLAYER_SPLIT_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "ScriptRaceGetPlayerSplitTimeResult"
+    }
+}

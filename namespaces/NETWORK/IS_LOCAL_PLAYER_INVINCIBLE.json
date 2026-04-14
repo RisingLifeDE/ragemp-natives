@@ -1,0 +1,8 @@
+{
+    "IS_LOCAL_PLAYER_INVINCIBLE": {
+        "name": "IS_LOCAL_PLAYER_INVINCIBLE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

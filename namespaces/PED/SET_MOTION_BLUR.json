@@ -1,0 +1,17 @@
+{
+    "SET_MOTION_BLUR": {
+        "name": "SET_MOTION_BLUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

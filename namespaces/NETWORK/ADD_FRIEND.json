@@ -1,0 +1,13 @@
+{
+    "ADD_FRIEND": {
+        "name": "ADD_FRIEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "message"
+            }
+        ],
+        "return_type": "float"
+    }
+}

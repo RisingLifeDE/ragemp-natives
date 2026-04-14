@@ -1,0 +1,13 @@
+{
+    "IS_CONTENT_ITEM_LOCKED": {
+        "name": "IS_CONTENT_ITEM_LOCKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "itemHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_FLASH_LIGHT_FADE_DISTANCE": {
+        "name": "SET_FLASH_LIGHT_FADE_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "float"
+    }
+}

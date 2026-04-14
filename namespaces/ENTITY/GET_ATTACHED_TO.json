@@ -1,0 +1,13 @@
+{
+    "GET_ATTACHED_TO": {
+        "name": "GET_ATTACHED_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

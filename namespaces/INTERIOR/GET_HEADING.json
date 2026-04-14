@@ -1,0 +1,13 @@
+{
+    "GET_HEADING": {
+        "name": "GET_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "float"
+    }
+}

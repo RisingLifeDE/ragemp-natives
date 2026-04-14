@@ -1,0 +1,17 @@
+{
+    "GET_DOF_PARAM": {
+        "name": "GET_DOF_PARAM",
+        "comment": "To use the adaptive DOF, make sure to set setUseHiDof(false) and adjust FocusDistanceGridScaling to lower values, such as [0.001, 0.001]",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "paramHash"
+            }
+        ],
+        "return_type": "boolean | number | Array<any>"
+    }
+}

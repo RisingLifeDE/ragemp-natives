@@ -1,0 +1,13 @@
+{
+    "IS_POP_MULTIPLIER_AREA_UNK": {
+        "name": "IS_POP_MULTIPLIER_AREA_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

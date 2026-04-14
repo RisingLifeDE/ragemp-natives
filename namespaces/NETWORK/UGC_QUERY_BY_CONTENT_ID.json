@@ -1,0 +1,21 @@
+{
+    "UGC_QUERY_BY_CONTENT_ID": {
+        "name": "UGC_QUERY_BY_CONTENT_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "contentId"
+            },
+            {
+                "type": "BOOL",
+                "name": "latestVersion"
+            },
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

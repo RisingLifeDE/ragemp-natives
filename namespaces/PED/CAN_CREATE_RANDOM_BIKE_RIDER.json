@@ -1,0 +1,8 @@
+{
+    "CAN_CREATE_RANDOM_BIKE_RIDER": {
+        "name": "CAN_CREATE_RANDOM_BIKE_RIDER",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

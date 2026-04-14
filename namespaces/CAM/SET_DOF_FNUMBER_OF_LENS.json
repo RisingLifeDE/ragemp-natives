@@ -1,0 +1,17 @@
+{
+    "SET_DOF_FNUMBER_OF_LENS": {
+        "name": "SET_DOF_FNUMBER_OF_LENS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "camera"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

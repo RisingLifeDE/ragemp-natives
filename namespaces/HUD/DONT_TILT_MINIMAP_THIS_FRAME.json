@@ -1,0 +1,8 @@
+{
+    "DONT_TILT_MINIMAP_THIS_FRAME": {
+        "name": "DONT_TILT_MINIMAP_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

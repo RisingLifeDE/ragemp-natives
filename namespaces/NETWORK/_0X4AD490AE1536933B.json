@@ -1,0 +1,17 @@
+{
+    "_0X4AD490AE1536933B": {
+        "name": "_0X4AD490AE1536933B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

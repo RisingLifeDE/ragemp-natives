@@ -1,0 +1,49 @@
+{
+    "APPLY_DAMAGE_DECAL": {
+        "name": "APPLY_DAMAGE_DECAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "damageZone"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            },
+            {
+                "type": "float",
+                "name": "variation"
+            },
+            {
+                "type": "BOOL",
+                "name": "fadeIn"
+            },
+            {
+                "type": "char*",
+                "name": "decalName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

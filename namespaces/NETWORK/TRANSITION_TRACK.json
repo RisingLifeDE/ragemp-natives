@@ -1,0 +1,29 @@
+{
+    "TRANSITION_TRACK": {
+        "name": "TRANSITION_TRACK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "state"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

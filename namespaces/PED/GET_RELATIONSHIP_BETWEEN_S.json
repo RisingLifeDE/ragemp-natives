@@ -1,0 +1,17 @@
+{
+    "GET_RELATIONSHIP_BETWEEN_S": {
+        "name": "GET_RELATIONSHIP_BETWEEN_S",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped1"
+            },
+            {
+                "type": "float",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

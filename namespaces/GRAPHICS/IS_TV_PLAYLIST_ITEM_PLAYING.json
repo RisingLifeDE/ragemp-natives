@@ -1,0 +1,13 @@
+{
+    "IS_TV_PLAYLIST_ITEM_PLAYING": {
+        "name": "IS_TV_PLAYLIST_ITEM_PLAYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "videoCliphash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

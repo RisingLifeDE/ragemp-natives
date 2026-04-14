@@ -1,0 +1,13 @@
+{
+    "GET_MOVE_NETWORK_STATE": {
+        "name": "GET_MOVE_NETWORK_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

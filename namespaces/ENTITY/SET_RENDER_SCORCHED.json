@@ -1,0 +1,17 @@
+{
+    "SET_RENDER_SCORCHED": {
+        "name": "SET_RENDER_SCORCHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

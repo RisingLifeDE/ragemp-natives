@@ -1,0 +1,13 @@
+{
+    "GET_ENTITY_IS_LOCAL": {
+        "name": "GET_ENTITY_IS_LOCAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

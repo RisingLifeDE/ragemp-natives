@@ -1,0 +1,13 @@
+{
+    "SET_PLAYER_IS_IN_ANIMAL_FORM": {
+        "name": "SET_PLAYER_IS_IN_ANIMAL_FORM",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

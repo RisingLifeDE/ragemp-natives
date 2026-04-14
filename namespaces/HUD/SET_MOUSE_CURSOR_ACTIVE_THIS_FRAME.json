@@ -1,0 +1,8 @@
+{
+    "SET_MOUSE_CURSOR_ACTIVE_THIS_FRAME": {
+        "name": "SET_MOUSE_CURSOR_ACTIVE_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "RESET_EXCLUSIVE_SCENARIO_GROUP": {
+        "name": "RESET_EXCLUSIVE_SCENARIO_GROUP",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

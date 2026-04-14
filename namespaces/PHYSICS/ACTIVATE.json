@@ -1,0 +1,13 @@
+{
+    "ACTIVATE": {
+        "name": "ACTIVATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

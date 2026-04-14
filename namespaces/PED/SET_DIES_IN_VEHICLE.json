@@ -1,0 +1,17 @@
+{
+    "SET_DIES_IN_VEHICLE": {
+        "name": "SET_DIES_IN_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

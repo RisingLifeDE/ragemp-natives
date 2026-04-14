@@ -1,0 +1,21 @@
+{
+    "SET_ENTITY_VISIBLE_IN_CUTSCENE": {
+        "name": "SET_ENTITY_VISIBLE_IN_CUTSCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

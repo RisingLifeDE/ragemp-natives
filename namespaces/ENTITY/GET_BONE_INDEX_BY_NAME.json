@@ -1,0 +1,17 @@
+{
+    "GET_BONE_INDEX_BY_NAME": {
+        "name": "GET_BONE_INDEX_BY_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "boneName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

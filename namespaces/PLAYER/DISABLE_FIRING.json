@@ -1,0 +1,13 @@
+{
+    "DISABLE_FIRING": {
+        "name": "DISABLE_FIRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

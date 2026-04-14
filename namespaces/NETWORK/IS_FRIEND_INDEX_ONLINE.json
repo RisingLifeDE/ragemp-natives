@@ -1,0 +1,13 @@
+{
+    "IS_FRIEND_INDEX_ONLINE": {
+        "name": "IS_FRIEND_INDEX_ONLINE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "friendIndex"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

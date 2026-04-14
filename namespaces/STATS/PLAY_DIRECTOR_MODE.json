@@ -1,0 +1,8 @@
+{
+    "PLAY_DIRECTOR_MODE": {
+        "name": "PLAY_DIRECTOR_MODE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

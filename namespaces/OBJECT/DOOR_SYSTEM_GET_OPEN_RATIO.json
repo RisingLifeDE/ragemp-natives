@@ -1,0 +1,13 @@
+{
+    "DOOR_SYSTEM_GET_OPEN_RATIO": {
+        "name": "DOOR_SYSTEM_GET_OPEN_RATIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

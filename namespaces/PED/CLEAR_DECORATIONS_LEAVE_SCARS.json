@@ -1,0 +1,13 @@
+{
+    "CLEAR_DECORATIONS_LEAVE_SCARS": {
+        "name": "CLEAR_DECORATIONS_LEAVE_SCARS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

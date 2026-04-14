@@ -1,0 +1,25 @@
+{
+    "GET_OFFSET_FROM_GIVEN_WORLD_COORDS": {
+        "name": "GET_OFFSET_FROM_GIVEN_WORLD_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

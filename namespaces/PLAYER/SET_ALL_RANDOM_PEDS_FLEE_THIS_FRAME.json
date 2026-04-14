@@ -1,0 +1,8 @@
+{
+    "SET_ALL_RANDOM_PEDS_FLEE_THIS_FRAME": {
+        "name": "SET_ALL_RANDOM_PEDS_FLEE_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

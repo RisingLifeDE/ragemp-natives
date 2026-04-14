@@ -1,0 +1,17 @@
+{
+    "HANDLE_FROM_FRIEND": {
+        "name": "HANDLE_FROM_FRIEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "friendIndex"
+            },
+            {
+                "type": "float",
+                "name": "bufferSize"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "GENERATE_DIRECTIONS_TO_COORD": {
+        "name": "GENERATE_DIRECTIONS_TO_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "GenerateDirectionsToCoordResult"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "HAS_LEFT_THE_WORLD": {
+        "name": "HAS_LEFT_THE_WORLD",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

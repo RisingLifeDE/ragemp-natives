@@ -1,0 +1,17 @@
+{
+    "SET_INTERIOR_ACTIVE": {
+        "name": "SET_INTERIOR_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interiorID"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

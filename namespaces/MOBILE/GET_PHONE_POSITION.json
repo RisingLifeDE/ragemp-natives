@@ -1,0 +1,8 @@
+{
+    "GET_PHONE_POSITION": {
+        "name": "GET_PHONE_POSITION",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3"
+    }
+}

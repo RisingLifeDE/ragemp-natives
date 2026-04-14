@@ -1,0 +1,25 @@
+{
+    "CREATE_CINEMATIC_SHOT": {
+        "name": "CREATE_CINEMATIC_SHOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

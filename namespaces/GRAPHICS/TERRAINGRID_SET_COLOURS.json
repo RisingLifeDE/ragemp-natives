@@ -1,0 +1,57 @@
+{
+    "TERRAINGRID_SET_COLOURS": {
+        "name": "TERRAINGRID_SET_COLOURS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "lowR"
+            },
+            {
+                "type": "float",
+                "name": "lowG"
+            },
+            {
+                "type": "float",
+                "name": "lowB"
+            },
+            {
+                "type": "float",
+                "name": "lowAlpha"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            },
+            {
+                "type": "float",
+                "name": "highR"
+            },
+            {
+                "type": "float",
+                "name": "highG"
+            },
+            {
+                "type": "float",
+                "name": "highB"
+            },
+            {
+                "type": "float",
+                "name": "highAlpha"
+            }
+        ],
+        "return_type": "void"
+    }
+}

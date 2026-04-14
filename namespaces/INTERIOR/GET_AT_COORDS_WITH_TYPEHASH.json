@@ -1,0 +1,25 @@
+{
+    "GET_AT_COORDS_WITH_TYPEHASH": {
+        "name": "GET_AT_COORDS_WITH_TYPEHASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "typeHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "_0X3BD770D281982DB5": {
+        "name": "_0X3BD770D281982DB5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

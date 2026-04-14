@@ -1,0 +1,33 @@
+{
+    "END_TEXT_COMMAND_THEFEED_POST_UNLOCK_TU_WITH_COLOR": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_UNLOCK_TU_WITH_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "float"
+    }
+}

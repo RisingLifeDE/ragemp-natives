@@ -1,0 +1,21 @@
+{
+    "FORCE_LOCAL_USE_OF_SYNCED_SCENE_CAMERA": {
+        "name": "FORCE_LOCAL_USE_OF_SYNCED_SCENE_CAMERA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netScene"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

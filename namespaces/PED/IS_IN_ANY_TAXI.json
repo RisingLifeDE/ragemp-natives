@@ -1,0 +1,13 @@
+{
+    "IS_IN_ANY_TAXI": {
+        "name": "IS_IN_ANY_TAXI",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

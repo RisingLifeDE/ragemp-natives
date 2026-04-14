@@ -1,0 +1,8 @@
+{
+    "CREATE_PATROL_ROUTE": {
+        "name": "CREATE_PATROL_ROUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

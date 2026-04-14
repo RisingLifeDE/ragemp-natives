@@ -1,0 +1,13 @@
+{
+    "WAYPOINT_PLAYBACK_USE_DEFAULT_SPEED": {
+        "name": "WAYPOINT_PLAYBACK_USE_DEFAULT_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "CELL_CAM_DISABLE_THIS_FRAME": {
+        "name": "CELL_CAM_DISABLE_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

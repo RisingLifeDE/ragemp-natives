@@ -1,0 +1,8 @@
+{
+    "GET_SYSTEM_LANGUAGE": {
+        "name": "GET_SYSTEM_LANGUAGE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "SET_PRELOAD_PROP_DATA": {
+        "name": "SET_PRELOAD_PROP_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "componentId"
+            },
+            {
+                "type": "float",
+                "name": "drawableId"
+            },
+            {
+                "type": "float",
+                "name": "TextureId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_PED_AS_NO_LONGER_NEEDED": {
+        "name": "SET_PED_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

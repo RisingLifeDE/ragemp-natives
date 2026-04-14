@@ -1,0 +1,13 @@
+{
+    "CLAN_RELEASE_EMBLEM": {
+        "name": "CLAN_RELEASE_EMBLEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

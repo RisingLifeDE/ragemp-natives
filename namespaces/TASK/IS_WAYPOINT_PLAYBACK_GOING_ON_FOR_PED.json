@@ -1,0 +1,13 @@
+{
+    "IS_WAYPOINT_PLAYBACK_GOING_ON_FOR_PED": {
+        "name": "IS_WAYPOINT_PLAYBACK_GOING_ON_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

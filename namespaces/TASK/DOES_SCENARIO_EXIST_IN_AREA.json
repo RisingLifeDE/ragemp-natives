@@ -1,0 +1,29 @@
+{
+    "DOES_SCENARIO_EXIST_IN_AREA": {
+        "name": "DOES_SCENARIO_EXIST_IN_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "b"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_WEARING_HELMET": {
+        "name": "IS_WEARING_HELMET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_WEAPON_TYPE_FROM_PICKUP_TYPE": {
+        "name": "GET_WEAPON_TYPE_FROM_PICKUP_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickupHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

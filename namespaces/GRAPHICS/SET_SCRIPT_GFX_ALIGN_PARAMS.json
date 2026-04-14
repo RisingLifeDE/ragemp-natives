@@ -1,0 +1,25 @@
+{
+    "SET_SCRIPT_GFX_ALIGN_PARAMS": {
+        "name": "SET_SCRIPT_GFX_ALIGN_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "w"
+            },
+            {
+                "type": "float",
+                "name": "h"
+            }
+        ],
+        "return_type": "void"
+    }
+}

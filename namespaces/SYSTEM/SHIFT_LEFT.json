@@ -1,0 +1,17 @@
+{
+    "SHIFT_LEFT": {
+        "name": "SHIFT_LEFT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "float",
+                "name": "bitShift"
+            }
+        ],
+        "return_type": "float"
+    }
+}

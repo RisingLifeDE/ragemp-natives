@@ -1,0 +1,8 @@
+{
+    "GET_ENTITY_IS_FREE_AIMING_AT": {
+        "name": "GET_ENTITY_IS_FREE_AIMING_AT",
+        "comment": "",
+        "params": [],
+        "return_type": "EntityMp | number | undefined"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "HAS_ACHIEVEMENT_BEEN_PASSED": {
+        "name": "HAS_ACHIEVEMENT_BEEN_PASSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "achievement"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

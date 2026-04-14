@@ -1,0 +1,17 @@
+{
+    "DATADICT_SET_FLOAT": {
+        "name": "DATADICT_SET_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "key"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

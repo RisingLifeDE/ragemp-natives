@@ -1,0 +1,8 @@
+{
+    "RESET_INPUT_GAIT": {
+        "name": "RESET_INPUT_GAIT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

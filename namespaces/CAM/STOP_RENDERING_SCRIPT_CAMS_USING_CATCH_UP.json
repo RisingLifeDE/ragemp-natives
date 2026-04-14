@@ -1,0 +1,25 @@
+{
+    "STOP_RENDERING_SCRIPT_CAMS_USING_CATCH_UP": {
+        "name": "STOP_RENDERING_SCRIPT_CAMS_USING_CATCH_UP",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "render"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

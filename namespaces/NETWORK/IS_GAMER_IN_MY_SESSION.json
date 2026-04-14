@@ -1,0 +1,8 @@
+{
+    "IS_GAMER_IN_MY_SESSION": {
+        "name": "IS_GAMER_IN_MY_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

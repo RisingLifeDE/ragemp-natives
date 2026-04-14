@@ -1,0 +1,8 @@
+{
+    "GET_GPS_BLIP_ROUTE_FOUND": {
+        "name": "GET_GPS_BLIP_ROUTE_FOUND",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

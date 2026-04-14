@@ -1,0 +1,8 @@
+{
+    "DATAARRAY_ADD_DICT": {
+        "name": "DATAARRAY_ADD_DICT",
+        "comment": "",
+        "params": [],
+        "return_type": "DataarrayAddDictResult"
+    }
+}

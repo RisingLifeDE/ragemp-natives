@@ -1,0 +1,17 @@
+{
+    "ARREST_PED": {
+        "name": "ARREST_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "target"
+            }
+        ],
+        "return_type": "void"
+    }
+}

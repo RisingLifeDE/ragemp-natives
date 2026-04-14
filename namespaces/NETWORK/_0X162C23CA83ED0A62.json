@@ -1,0 +1,13 @@
+{
+    "_0X162C23CA83ED0A62": {
+        "name": "_0X162C23CA83ED0A62",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "HAS_THIS_ADDITIONAL_TEXT_LOADED": {
+        "name": "HAS_THIS_ADDITIONAL_TEXT_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "gxt"
+            },
+            {
+                "type": "float",
+                "name": "slot"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_CINEMATIC_BUTTON_ACTIVE": {
+        "name": "SET_CINEMATIC_BUTTON_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

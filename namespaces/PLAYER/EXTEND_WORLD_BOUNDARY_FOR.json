@@ -1,0 +1,21 @@
+{
+    "EXTEND_WORLD_BOUNDARY_FOR": {
+        "name": "EXTEND_WORLD_BOUNDARY_FOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

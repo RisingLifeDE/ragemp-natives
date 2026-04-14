@@ -1,0 +1,8 @@
+{
+    "CLAN_GET_MEMBERSHIP_COUNT": {
+        "name": "CLAN_GET_MEMBERSHIP_COUNT",
+        "comment": "",
+        "params": [],
+        "return_type": "NetworkClanGetMembershipCountResult"
+    }
+}

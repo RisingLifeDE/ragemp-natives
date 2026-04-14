@@ -1,0 +1,13 @@
+{
+    "IS_JUMPING_OUT_OF_VEHICLE": {
+        "name": "IS_JUMPING_OUT_OF_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

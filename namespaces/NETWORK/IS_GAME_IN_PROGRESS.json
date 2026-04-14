@@ -1,0 +1,8 @@
+{
+    "IS_GAME_IN_PROGRESS": {
+        "name": "IS_GAME_IN_PROGRESS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

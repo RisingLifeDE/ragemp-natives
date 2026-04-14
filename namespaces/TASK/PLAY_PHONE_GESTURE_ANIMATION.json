@@ -1,0 +1,41 @@
+{
+    "PLAY_PHONE_GESTURE_ANIMATION": {
+        "name": "PLAY_PHONE_GESTURE_ANIMATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            },
+            {
+                "type": "char*",
+                "name": "animation"
+            },
+            {
+                "type": "char*",
+                "name": "boneMaskType"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void"
+    }
+}

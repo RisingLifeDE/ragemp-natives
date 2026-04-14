@@ -1,0 +1,8 @@
+{
+    "REMOVE_TRANSITION_INVITE": {
+        "name": "REMOVE_TRANSITION_INVITE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SAVE_HIGH_QUALITY_PHOTO": {
+        "name": "SAVE_HIGH_QUALITY_PHOTO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "unused"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

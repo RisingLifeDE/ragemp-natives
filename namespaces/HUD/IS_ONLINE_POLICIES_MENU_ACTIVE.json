@@ -1,0 +1,8 @@
+{
+    "IS_ONLINE_POLICIES_MENU_ACTIVE": {
+        "name": "IS_ONLINE_POLICIES_MENU_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

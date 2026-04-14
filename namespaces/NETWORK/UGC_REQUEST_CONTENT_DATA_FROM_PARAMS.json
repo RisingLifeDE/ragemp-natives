@@ -1,0 +1,29 @@
+{
+    "UGC_REQUEST_CONTENT_DATA_FROM_PARAMS": {
+        "name": "UGC_REQUEST_CONTENT_DATA_FROM_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "char*",
+                "name": "contentId"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "float"
+    }
+}

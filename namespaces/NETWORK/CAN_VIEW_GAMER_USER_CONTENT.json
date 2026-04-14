@@ -1,0 +1,8 @@
+{
+    "CAN_VIEW_GAMER_USER_CONTENT": {
+        "name": "CAN_VIEW_GAMER_USER_CONTENT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

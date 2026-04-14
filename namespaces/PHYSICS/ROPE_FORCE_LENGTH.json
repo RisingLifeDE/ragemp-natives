@@ -1,0 +1,17 @@
+{
+    "ROPE_FORCE_LENGTH": {
+        "name": "ROPE_FORCE_LENGTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            }
+        ],
+        "return_type": "void"
+    }
+}

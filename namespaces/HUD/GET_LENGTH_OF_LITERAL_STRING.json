@@ -1,0 +1,13 @@
+{
+    "GET_LENGTH_OF_LITERAL_STRING": {
+        "name": "GET_LENGTH_OF_LITERAL_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "float"
+    }
+}

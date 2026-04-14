@@ -1,0 +1,17 @@
+{
+    "LEADERBOARDS2READ_BY_PLATFORM": {
+        "name": "LEADERBOARDS2READ_BY_PLATFORM",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "gamerHandleCsv"
+            },
+            {
+                "type": "char*",
+                "name": "platformName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

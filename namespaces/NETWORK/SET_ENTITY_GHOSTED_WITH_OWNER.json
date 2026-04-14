@@ -1,0 +1,17 @@
+{
+    "SET_ENTITY_GHOSTED_WITH_OWNER": {
+        "name": "SET_ENTITY_GHOSTED_WITH_OWNER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

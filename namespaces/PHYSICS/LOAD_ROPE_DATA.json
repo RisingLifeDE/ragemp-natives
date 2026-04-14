@@ -1,0 +1,17 @@
+{
+    "LOAD_ROPE_DATA": {
+        "name": "LOAD_ROPE_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            },
+            {
+                "type": "char*",
+                "name": "rope_preset"
+            }
+        ],
+        "return_type": "void"
+    }
+}

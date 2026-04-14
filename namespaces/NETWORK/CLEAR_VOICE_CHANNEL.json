@@ -1,0 +1,8 @@
+{
+    "CLEAR_VOICE_CHANNEL": {
+        "name": "CLEAR_VOICE_CHANNEL",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

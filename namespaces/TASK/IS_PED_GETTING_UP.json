@@ -1,0 +1,13 @@
+{
+    "IS_PED_GETTING_UP": {
+        "name": "IS_PED_GETTING_UP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

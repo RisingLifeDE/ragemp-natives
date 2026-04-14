@@ -1,0 +1,17 @@
+{
+    "DECOR_REMOVE": {
+        "name": "DECOR_REMOVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

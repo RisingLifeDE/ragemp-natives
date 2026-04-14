@@ -1,0 +1,21 @@
+{
+    "SET_FACIAL_IDLE_ANIM_OVERRIDE": {
+        "name": "SET_FACIAL_IDLE_ANIM_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "void"
+    }
+}

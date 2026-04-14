@@ -1,0 +1,8 @@
+{
+    "IS_SCREEN_FADING_IN": {
+        "name": "IS_SCREEN_FADING_IN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

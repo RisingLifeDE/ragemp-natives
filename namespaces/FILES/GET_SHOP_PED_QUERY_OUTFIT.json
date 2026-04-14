@@ -1,0 +1,13 @@
+{
+    "GET_SHOP_PED_QUERY_OUTFIT": {
+        "name": "GET_SHOP_PED_QUERY_OUTFIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "outfitIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

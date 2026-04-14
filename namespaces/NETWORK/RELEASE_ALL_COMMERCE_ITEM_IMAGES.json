@@ -1,0 +1,8 @@
+{
+    "RELEASE_ALL_COMMERCE_ITEM_IMAGES": {
+        "name": "RELEASE_ALL_COMMERCE_ITEM_IMAGES",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

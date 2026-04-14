@@ -1,0 +1,13 @@
+{
+    "GET_ALL_BY_HASH": {
+        "name": "GET_ALL_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hash"
+            }
+        ],
+        "return_type": "Vector3[]"
+    }
+}

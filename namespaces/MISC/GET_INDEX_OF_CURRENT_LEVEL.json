@@ -1,0 +1,8 @@
+{
+    "GET_INDEX_OF_CURRENT_LEVEL": {
+        "name": "GET_INDEX_OF_CURRENT_LEVEL",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

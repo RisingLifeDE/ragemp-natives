@@ -1,0 +1,13 @@
+{
+    "FORCE_TO_OPEN_PARACHUTE": {
+        "name": "FORCE_TO_OPEN_PARACHUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

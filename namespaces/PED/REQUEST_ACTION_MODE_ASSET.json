@@ -1,0 +1,13 @@
+{
+    "REQUEST_ACTION_MODE_ASSET": {
+        "name": "REQUEST_ACTION_MODE_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "asset"
+            }
+        ],
+        "return_type": "void"
+    }
+}

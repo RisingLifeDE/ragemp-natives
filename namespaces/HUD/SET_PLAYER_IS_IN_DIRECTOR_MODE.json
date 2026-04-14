@@ -1,0 +1,13 @@
+{
+    "SET_PLAYER_IS_IN_DIRECTOR_MODE": {
+        "name": "SET_PLAYER_IS_IN_DIRECTOR_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

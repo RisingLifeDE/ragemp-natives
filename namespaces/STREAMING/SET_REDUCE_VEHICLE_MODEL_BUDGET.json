@@ -1,0 +1,13 @@
+{
+    "SET_REDUCE_VEHICLE_MODEL_BUDGET": {
+        "name": "SET_REDUCE_VEHICLE_MODEL_BUDGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

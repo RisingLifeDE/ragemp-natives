@@ -1,0 +1,13 @@
+{
+    "REMOVE_DOOR_FROM_SYSTEM": {
+        "name": "REMOVE_DOOR_FROM_SYSTEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "void"
+    }
+}

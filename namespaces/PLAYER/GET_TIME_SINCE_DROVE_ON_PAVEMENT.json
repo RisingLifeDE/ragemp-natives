@@ -1,0 +1,8 @@
+{
+    "GET_TIME_SINCE_DROVE_ON_PAVEMENT": {
+        "name": "GET_TIME_SINCE_DROVE_ON_PAVEMENT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

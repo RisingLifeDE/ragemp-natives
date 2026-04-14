@@ -1,0 +1,8 @@
+{
+    "GET_RENDERING": {
+        "name": "GET_RENDERING",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "SESSION_GET_PRIVATE_SLOTS": {
+        "name": "SESSION_GET_PRIVATE_SLOTS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

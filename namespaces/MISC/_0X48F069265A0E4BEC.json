@@ -1,0 +1,13 @@
+{
+    "_0X48F069265A0E4BEC": {
+        "name": "_0X48F069265A0E4BEC",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "float"
+    }
+}

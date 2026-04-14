@@ -1,0 +1,17 @@
+{
+    "SET_ENTITY_ICON_VISIBILITY": {
+        "name": "SET_ENTITY_ICON_VISIBILITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

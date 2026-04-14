@@ -1,0 +1,25 @@
+{
+    "START_SCENARIO_IN_PLACE": {
+        "name": "START_SCENARIO_IN_PLACE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "scenarioName"
+            },
+            {
+                "type": "float",
+                "name": "unkDelay"
+            },
+            {
+                "type": "BOOL",
+                "name": "playEnterAnim"
+            }
+        ],
+        "return_type": "void"
+    }
+}

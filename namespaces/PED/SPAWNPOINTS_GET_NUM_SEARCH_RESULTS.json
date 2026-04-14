@@ -1,0 +1,8 @@
+{
+    "SPAWNPOINTS_GET_NUM_SEARCH_RESULTS": {
+        "name": "SPAWNPOINTS_GET_NUM_SEARCH_RESULTS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

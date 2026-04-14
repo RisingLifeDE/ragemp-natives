@@ -1,0 +1,13 @@
+{
+    "GET_ACTIVITY_PLAYER_NUM": {
+        "name": "GET_ACTIVITY_PLAYER_NUM",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

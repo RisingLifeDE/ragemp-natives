@@ -1,0 +1,8 @@
+{
+    "AM_I_BLOCKED_BY_GAMER": {
+        "name": "AM_I_BLOCKED_BY_GAMER",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "DOES_POP_MULTIPLIER_AREA_EXIST": {
+        "name": "DOES_POP_MULTIPLIER_AREA_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

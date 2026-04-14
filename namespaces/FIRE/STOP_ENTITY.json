@@ -1,0 +1,13 @@
+{
+    "STOP_ENTITY": {
+        "name": "STOP_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

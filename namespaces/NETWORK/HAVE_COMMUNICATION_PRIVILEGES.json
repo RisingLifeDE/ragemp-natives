@@ -1,0 +1,17 @@
+{
+    "HAVE_COMMUNICATION_PRIVILEGES": {
+        "name": "HAVE_COMMUNICATION_PRIVILEGES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

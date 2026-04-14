@@ -1,0 +1,8 @@
+{
+    "CAN_ENTER_MULTIPLAYER": {
+        "name": "CAN_ENTER_MULTIPLAYER",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CAN_REQUEST_ASSETS_FOR_ENTITY": {
+        "name": "CAN_REQUEST_ASSETS_FOR_ENTITY",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

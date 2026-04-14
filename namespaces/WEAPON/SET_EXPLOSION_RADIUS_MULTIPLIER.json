@@ -1,0 +1,17 @@
+{
+    "SET_EXPLOSION_RADIUS_MULTIPLIER": {
+        "name": "SET_EXPLOSION_RADIUS_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

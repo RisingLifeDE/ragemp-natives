@@ -1,0 +1,13 @@
+{
+    "START_ENTITY": {
+        "name": "START_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "REPORT_CRIME": {
+        "name": "REPORT_CRIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "crimeType"
+            },
+            {
+                "type": "float",
+                "name": "wantedLvlThresh"
+            }
+        ],
+        "return_type": "void"
+    }
+}

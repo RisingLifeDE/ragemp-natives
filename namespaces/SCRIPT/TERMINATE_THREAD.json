@@ -1,0 +1,13 @@
+{
+    "TERMINATE_THREAD": {
+        "name": "TERMINATE_THREAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

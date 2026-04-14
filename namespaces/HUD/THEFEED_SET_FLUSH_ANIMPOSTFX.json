@@ -1,0 +1,13 @@
+{
+    "THEFEED_SET_FLUSH_ANIMPOSTFX": {
+        "name": "THEFEED_SET_FLUSH_ANIMPOSTFX",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

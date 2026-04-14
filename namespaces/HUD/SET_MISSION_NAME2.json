@@ -1,0 +1,17 @@
+{
+    "SET_MISSION_NAME2": {
+        "name": "SET_MISSION_NAME2",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

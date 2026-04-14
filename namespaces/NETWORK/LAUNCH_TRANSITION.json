@@ -1,0 +1,8 @@
+{
+    "LAUNCH_TRANSITION": {
+        "name": "LAUNCH_TRANSITION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

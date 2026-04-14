@@ -1,0 +1,8 @@
+{
+    "OPEN_ONLINE_POLICIES_MENU": {
+        "name": "OPEN_ONLINE_POLICIES_MENU",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "OPEN_SEQUENCE": {
+        "name": "OPEN_SEQUENCE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "IS_RIDING_TRAIN": {
+        "name": "IS_RIDING_TRAIN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

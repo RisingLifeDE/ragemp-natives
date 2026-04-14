@@ -1,0 +1,25 @@
+{
+    "SET_PED_LIVERY_COLOR": {
+        "name": "SET_PED_LIVERY_COLOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "camoComponentHash"
+            },
+            {
+                "type": "float",
+                "name": "colorIndex"
+            }
+        ],
+        "return_type": "void"
+    }
+}

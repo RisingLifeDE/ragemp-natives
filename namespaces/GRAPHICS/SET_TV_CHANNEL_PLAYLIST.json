@@ -1,0 +1,21 @@
+{
+    "SET_TV_CHANNEL_PLAYLIST": {
+        "name": "SET_TV_CHANNEL_PLAYLIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "tvChannel"
+            },
+            {
+                "type": "char*",
+                "name": "playlistName"
+            },
+            {
+                "type": "BOOL",
+                "name": "restart"
+            }
+        ],
+        "return_type": "void"
+    }
+}

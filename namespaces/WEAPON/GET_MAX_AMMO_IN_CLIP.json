@@ -1,0 +1,21 @@
+{
+    "GET_MAX_AMMO_IN_CLIP": {
+        "name": "GET_MAX_AMMO_IN_CLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

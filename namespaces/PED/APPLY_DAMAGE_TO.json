@@ -1,0 +1,25 @@
+{
+    "APPLY_DAMAGE_TO": {
+        "name": "APPLY_DAMAGE_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "damageAmount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

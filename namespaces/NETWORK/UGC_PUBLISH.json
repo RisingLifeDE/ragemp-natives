@@ -1,0 +1,21 @@
+{
+    "UGC_PUBLISH": {
+        "name": "UGC_PUBLISH",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "contentId"
+            },
+            {
+                "type": "char*",
+                "name": "baseContentId"
+            },
+            {
+                "type": "char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

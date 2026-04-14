@@ -1,0 +1,13 @@
+{
+    "SET_MAIN_PLAYER_BLIP_COLOUR": {
+        "name": "SET_MAIN_PLAYER_BLIP_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "color"
+            }
+        ],
+        "return_type": "void"
+    }
+}

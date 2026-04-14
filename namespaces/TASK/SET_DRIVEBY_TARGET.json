@@ -1,0 +1,33 @@
+{
+    "SET_DRIVEBY_TARGET": {
+        "name": "SET_DRIVEBY_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "shootingPed"
+            },
+            {
+                "type": "float",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "DOOR_SYSTEM_GET_AUTOMATIC_DISTANCE": {
+        "name": "DOOR_SYSTEM_GET_AUTOMATIC_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

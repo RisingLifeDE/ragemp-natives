@@ -1,0 +1,13 @@
+{
+    "IS_SWAPPING_WEAPON": {
+        "name": "IS_SWAPPING_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "Ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

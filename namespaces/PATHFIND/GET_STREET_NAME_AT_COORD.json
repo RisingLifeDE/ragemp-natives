@@ -1,0 +1,21 @@
+{
+    "GET_STREET_NAME_AT_COORD": {
+        "name": "GET_STREET_NAME_AT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "GetStreetNameAtCoordResult"
+    }
+}

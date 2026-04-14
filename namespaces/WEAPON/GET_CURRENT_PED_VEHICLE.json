@@ -1,0 +1,13 @@
+{
+    "GET_CURRENT_PED_VEHICLE": {
+        "name": "GET_CURRENT_PED_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

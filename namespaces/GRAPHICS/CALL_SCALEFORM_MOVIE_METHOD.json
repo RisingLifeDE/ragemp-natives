@@ -1,0 +1,17 @@
+{
+    "CALL_SCALEFORM_MOVIE_METHOD": {
+        "name": "CALL_SCALEFORM_MOVIE_METHOD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleform"
+            },
+            {
+                "type": "char*",
+                "name": "method"
+            }
+        ],
+        "return_type": "void"
+    }
+}

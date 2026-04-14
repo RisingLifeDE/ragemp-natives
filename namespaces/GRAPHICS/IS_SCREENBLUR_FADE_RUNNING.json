@@ -1,0 +1,8 @@
+{
+    "IS_SCREENBLUR_FADE_RUNNING": {
+        "name": "IS_SCREENBLUR_FADE_RUNNING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

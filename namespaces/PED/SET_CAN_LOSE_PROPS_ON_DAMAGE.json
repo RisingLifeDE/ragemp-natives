@@ -1,0 +1,21 @@
+{
+    "SET_CAN_LOSE_PROPS_ON_DAMAGE": {
+        "name": "SET_CAN_LOSE_PROPS_ON_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            },
+            {
+                "type": "RageEnums.PropDamage",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void"
+    }
+}

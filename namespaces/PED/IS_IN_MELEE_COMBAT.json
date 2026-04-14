@@ -1,0 +1,13 @@
+{
+    "IS_IN_MELEE_COMBAT": {
+        "name": "IS_IN_MELEE_COMBAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

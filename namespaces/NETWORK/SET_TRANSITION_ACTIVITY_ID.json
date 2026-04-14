@@ -1,0 +1,13 @@
+{
+    "SET_TRANSITION_ACTIVITY_ID": {
+        "name": "SET_TRANSITION_ACTIVITY_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

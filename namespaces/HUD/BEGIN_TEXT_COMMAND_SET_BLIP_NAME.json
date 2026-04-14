@@ -1,0 +1,13 @@
+{
+    "BEGIN_TEXT_COMMAND_SET_BLIP_NAME": {
+        "name": "BEGIN_TEXT_COMMAND_SET_BLIP_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "textLabel"
+            }
+        ],
+        "return_type": "void"
+    }
+}

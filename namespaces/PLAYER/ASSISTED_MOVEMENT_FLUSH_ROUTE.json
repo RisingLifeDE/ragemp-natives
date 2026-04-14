@@ -1,0 +1,8 @@
+{
+    "ASSISTED_MOVEMENT_FLUSH_ROUTE": {
+        "name": "ASSISTED_MOVEMENT_FLUSH_ROUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

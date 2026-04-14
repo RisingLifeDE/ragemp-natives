@@ -1,0 +1,17 @@
+{
+    "SET_CAN_ARM_IK": {
+        "name": "SET_CAN_ARM_IK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

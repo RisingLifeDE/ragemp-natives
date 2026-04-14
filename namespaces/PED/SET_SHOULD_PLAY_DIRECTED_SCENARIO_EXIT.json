@@ -1,0 +1,25 @@
+{
+    "SET_SHOULD_PLAY_DIRECTED_SCENARIO_EXIT": {
+        "name": "SET_SHOULD_PLAY_DIRECTED_SCENARIO_EXIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

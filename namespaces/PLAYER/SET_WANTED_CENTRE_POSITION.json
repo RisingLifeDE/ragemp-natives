@@ -1,0 +1,17 @@
+{
+    "SET_WANTED_CENTRE_POSITION": {
+        "name": "SET_WANTED_CENTRE_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

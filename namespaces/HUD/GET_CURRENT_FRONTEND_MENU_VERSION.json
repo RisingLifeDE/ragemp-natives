@@ -1,0 +1,8 @@
+{
+    "GET_CURRENT_FRONTEND_MENU_VERSION": {
+        "name": "GET_CURRENT_FRONTEND_MENU_VERSION",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

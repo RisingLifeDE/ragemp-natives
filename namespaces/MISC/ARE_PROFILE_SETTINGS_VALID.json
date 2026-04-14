@@ -1,0 +1,8 @@
+{
+    "ARE_PROFILE_SETTINGS_VALID": {
+        "name": "ARE_PROFILE_SETTINGS_VALID",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

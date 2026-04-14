@@ -1,0 +1,8 @@
+{
+    "GET_HEALTH_RECHARGE_LIMIT": {
+        "name": "GET_HEALTH_RECHARGE_LIMIT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

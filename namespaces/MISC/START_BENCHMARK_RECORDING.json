@@ -1,0 +1,8 @@
+{
+    "START_BENCHMARK_RECORDING": {
+        "name": "START_BENCHMARK_RECORDING",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

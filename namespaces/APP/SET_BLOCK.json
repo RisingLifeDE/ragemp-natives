@@ -1,0 +1,13 @@
+{
+    "SET_BLOCK": {
+        "name": "SET_BLOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "blockName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

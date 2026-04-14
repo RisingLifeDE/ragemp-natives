@@ -1,0 +1,13 @@
+{
+    "GET_UPRIGHT_VALUE": {
+        "name": "GET_UPRIGHT_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float"
+    }
+}

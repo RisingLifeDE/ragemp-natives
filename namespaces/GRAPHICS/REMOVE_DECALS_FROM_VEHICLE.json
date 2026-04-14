@@ -1,0 +1,13 @@
+{
+    "REMOVE_DECALS_FROM_VEHICLE": {
+        "name": "REMOVE_DECALS_FROM_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

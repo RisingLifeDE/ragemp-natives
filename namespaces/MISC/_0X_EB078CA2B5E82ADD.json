@@ -1,0 +1,17 @@
+{
+    "_0X_EB078CA2B5E82ADD": {
+        "name": "_0X_EB078CA2B5E82ADD",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

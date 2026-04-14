@@ -1,0 +1,17 @@
+{
+    "END_TEXT_COMMAND_THEFEED_POST_TICKER_WITH_TOKENS": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_TICKER_WITH_TOKENS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "isImportant"
+            },
+            {
+                "type": "BOOL",
+                "name": "cacheMessage"
+            }
+        ],
+        "return_type": "float"
+    }
+}

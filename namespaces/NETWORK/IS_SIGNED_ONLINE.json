@@ -1,0 +1,8 @@
+{
+    "IS_SIGNED_ONLINE": {
+        "name": "IS_SIGNED_ONLINE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

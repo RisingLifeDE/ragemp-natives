@@ -1,0 +1,8 @@
+{
+    "SET_MAY_NOT_ENTER_ANY_VEHICLE": {
+        "name": "SET_MAY_NOT_ENTER_ANY_VEHICLE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

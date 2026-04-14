@@ -1,0 +1,17 @@
+{
+    "CREATE_ERA": {
+        "name": "CREATE_ERA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "camHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

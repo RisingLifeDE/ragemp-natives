@@ -1,0 +1,21 @@
+{
+    "ACTIVATE_FRONTEND_MENU": {
+        "name": "ACTIVATE_FRONTEND_MENU",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "menuhash"
+            },
+            {
+                "type": "BOOL",
+                "name": "togglePause"
+            },
+            {
+                "type": "float",
+                "name": "component"
+            }
+        ],
+        "return_type": "void"
+    }
+}

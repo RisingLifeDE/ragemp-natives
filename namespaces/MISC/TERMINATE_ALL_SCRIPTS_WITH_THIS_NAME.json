@@ -1,0 +1,13 @@
+{
+    "TERMINATE_ALL_SCRIPTS_WITH_THIS_NAME": {
+        "name": "TERMINATE_ALL_SCRIPTS_WITH_THIS_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

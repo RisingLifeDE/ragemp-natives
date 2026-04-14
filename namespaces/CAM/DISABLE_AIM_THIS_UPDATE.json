@@ -1,0 +1,8 @@
+{
+    "DISABLE_AIM_THIS_UPDATE": {
+        "name": "DISABLE_AIM_THIS_UPDATE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

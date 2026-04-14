@@ -1,0 +1,13 @@
+{
+    "DOES_HAVE_DRAWABLE": {
+        "name": "DOES_HAVE_DRAWABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

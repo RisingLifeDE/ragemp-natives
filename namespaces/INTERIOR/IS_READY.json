@@ -1,0 +1,13 @@
+{
+    "IS_READY": {
+        "name": "IS_READY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

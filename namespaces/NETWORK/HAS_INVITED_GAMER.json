@@ -1,0 +1,8 @@
+{
+    "HAS_INVITED_GAMER": {
+        "name": "HAS_INVITED_GAMER",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "HAS_ACTION_MODE_ASSET_LOADED": {
+        "name": "HAS_ACTION_MODE_ASSET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "asset"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

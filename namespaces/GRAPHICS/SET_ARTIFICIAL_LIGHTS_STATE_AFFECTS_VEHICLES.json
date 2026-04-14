@@ -1,0 +1,13 @@
+{
+    "SET_ARTIFICIAL_LIGHTS_STATE_AFFECTS_VEHICLES": {
+        "name": "SET_ARTIFICIAL_LIGHTS_STATE_AFFECTS_VEHICLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

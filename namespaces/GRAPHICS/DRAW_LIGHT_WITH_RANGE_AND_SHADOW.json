@@ -1,0 +1,45 @@
+{
+    "DRAW_LIGHT_WITH_RANGE_AND_SHADOW": {
+        "name": "DRAW_LIGHT_WITH_RANGE_AND_SHADOW",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            },
+            {
+                "type": "float",
+                "name": "shadow"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "SET_USE_HI_DOF": {
+        "name": "SET_USE_HI_DOF",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

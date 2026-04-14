@@ -1,0 +1,8 @@
+{
+    "IS_SNIPER_INVERTED": {
+        "name": "IS_SNIPER_INVERTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

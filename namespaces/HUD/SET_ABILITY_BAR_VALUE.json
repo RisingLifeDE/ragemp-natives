@@ -1,0 +1,17 @@
+{
+    "SET_ABILITY_BAR_VALUE": {
+        "name": "SET_ABILITY_BAR_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "percentage"
+            },
+            {
+                "type": "float",
+                "name": "maxPercentage"
+            }
+        ],
+        "return_type": "void"
+    }
+}

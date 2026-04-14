@@ -1,0 +1,13 @@
+{
+    "SHOW_SCRIPTED_COMPONENT_THIS_FRAME": {
+        "name": "SHOW_SCRIPTED_COMPONENT_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "void"
+    }
+}

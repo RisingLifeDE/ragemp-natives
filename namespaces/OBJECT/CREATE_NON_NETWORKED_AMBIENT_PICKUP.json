@@ -1,0 +1,45 @@
+{
+    "CREATE_NON_NETWORKED_AMBIENT_PICKUP": {
+        "name": "CREATE_NON_NETWORKED_AMBIENT_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "float",
+                "name": "customModel"
+            },
+            {
+                "type": "BOOL",
+                "name": "scriptedObject"
+            },
+            {
+                "type": "BOOL",
+                "name": "hostObject"
+            }
+        ],
+        "return_type": "Handle"
+    }
+}

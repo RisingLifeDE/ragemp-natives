@@ -1,0 +1,8 @@
+{
+    "REMOVE_PTFX_ASSET": {
+        "name": "REMOVE_PTFX_ASSET",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

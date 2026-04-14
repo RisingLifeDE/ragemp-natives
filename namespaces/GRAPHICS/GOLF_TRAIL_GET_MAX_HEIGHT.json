@@ -1,0 +1,8 @@
+{
+    "GOLF_TRAIL_GET_MAX_HEIGHT": {
+        "name": "GOLF_TRAIL_GET_MAX_HEIGHT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

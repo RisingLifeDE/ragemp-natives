@@ -1,0 +1,13 @@
+{
+    "GET_PROFILE_SETTING": {
+        "name": "GET_PROFILE_SETTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "profileSetting"
+            }
+        ],
+        "return_type": "float"
+    }
+}

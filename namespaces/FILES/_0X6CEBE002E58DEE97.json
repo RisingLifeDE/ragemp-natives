@@ -1,0 +1,13 @@
+{
+    "_0X6CEBE002E58DEE97": {
+        "name": "_0X6CEBE002E58DEE97",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLEAR_GPS_CUSTOM_ROUTE": {
+        "name": "CLEAR_GPS_CUSTOM_ROUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

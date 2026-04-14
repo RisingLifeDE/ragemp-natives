@@ -1,0 +1,17 @@
+{
+    "POW": {
+        "name": "POW",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "base"
+            },
+            {
+                "type": "float",
+                "name": "exponent"
+            }
+        ],
+        "return_type": "float"
+    }
+}

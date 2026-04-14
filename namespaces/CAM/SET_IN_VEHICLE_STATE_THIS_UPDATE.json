@@ -1,0 +1,17 @@
+{
+    "SET_IN_VEHICLE_STATE_THIS_UPDATE": {
+        "name": "SET_IN_VEHICLE_STATE_THIS_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

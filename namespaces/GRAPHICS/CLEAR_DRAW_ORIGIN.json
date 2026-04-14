@@ -1,0 +1,8 @@
+{
+    "CLEAR_DRAW_ORIGIN": {
+        "name": "CLEAR_DRAW_ORIGIN",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

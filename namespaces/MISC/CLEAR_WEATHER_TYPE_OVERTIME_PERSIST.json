@@ -1,0 +1,13 @@
+{
+    "CLEAR_WEATHER_TYPE_OVERTIME_PERSIST": {
+        "name": "CLEAR_WEATHER_TYPE_OVERTIME_PERSIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "transitionTime"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLAN_GET_EMBLEM_TXD_NAME": {
+        "name": "CLAN_GET_EMBLEM_TXD_NAME",
+        "comment": "",
+        "params": [],
+        "return_type": "NetworkClanGetEmblemTxdNameResult"
+    }
+}

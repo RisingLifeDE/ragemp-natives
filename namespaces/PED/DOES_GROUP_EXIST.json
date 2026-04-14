@@ -1,0 +1,13 @@
+{
+    "DOES_GROUP_EXIST": {
+        "name": "DOES_GROUP_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

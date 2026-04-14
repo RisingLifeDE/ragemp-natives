@@ -1,0 +1,17 @@
+{
+    "SESSION_HOST_CLOSED": {
+        "name": "SESSION_HOST_CLOSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "maxPlayers"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

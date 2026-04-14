@@ -1,0 +1,17 @@
+{
+    "IS_USING_SCENARIO": {
+        "name": "IS_USING_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

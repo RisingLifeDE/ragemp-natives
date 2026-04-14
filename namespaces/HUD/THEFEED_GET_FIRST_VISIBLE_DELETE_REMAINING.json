@@ -1,0 +1,8 @@
+{
+    "THEFEED_GET_FIRST_VISIBLE_DELETE_REMAINING": {
+        "name": "THEFEED_GET_FIRST_VISIBLE_DELETE_REMAINING",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

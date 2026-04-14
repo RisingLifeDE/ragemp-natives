@@ -1,0 +1,25 @@
+{
+    "GET_IS_PETROL_DECAL_IN_RANGE": {
+        "name": "GET_IS_PETROL_DECAL_IN_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xCoord"
+            },
+            {
+                "type": "float",
+                "name": "yCoord"
+            },
+            {
+                "type": "float",
+                "name": "zCoord"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

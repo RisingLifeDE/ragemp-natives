@@ -1,0 +1,25 @@
+{
+    "SET_PARACHUTE_VARIATION_OVERRIDE": {
+        "name": "SET_PARACHUTE_VARIATION_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

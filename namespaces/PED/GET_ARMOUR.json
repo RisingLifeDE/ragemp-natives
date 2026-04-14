@@ -1,0 +1,13 @@
+{
+    "GET_ARMOUR": {
+        "name": "GET_ARMOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

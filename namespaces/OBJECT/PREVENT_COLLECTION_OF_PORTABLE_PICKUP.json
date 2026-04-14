@@ -1,0 +1,21 @@
+{
+    "PREVENT_COLLECTION_OF_PORTABLE_PICKUP": {
+        "name": "PREVENT_COLLECTION_OF_PORTABLE_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

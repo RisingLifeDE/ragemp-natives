@@ -1,0 +1,8 @@
+{
+    "HAS_GAME_BEEN_ALTERED": {
+        "name": "HAS_GAME_BEEN_ALTERED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

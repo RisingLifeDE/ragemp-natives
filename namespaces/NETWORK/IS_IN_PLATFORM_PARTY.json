@@ -1,0 +1,8 @@
+{
+    "IS_IN_PLATFORM_PARTY": {
+        "name": "IS_IN_PLATFORM_PARTY",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

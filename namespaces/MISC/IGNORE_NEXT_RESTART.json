@@ -1,0 +1,13 @@
+{
+    "IGNORE_NEXT_RESTART": {
+        "name": "IGNORE_NEXT_RESTART",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

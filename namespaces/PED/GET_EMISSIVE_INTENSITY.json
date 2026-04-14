@@ -1,0 +1,13 @@
+{
+    "GET_EMISSIVE_INTENSITY": {
+        "name": "GET_EMISSIVE_INTENSITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

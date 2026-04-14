@@ -1,0 +1,17 @@
+{
+    "SET_CAN_BE_DRAGGED_OUT": {
+        "name": "SET_CAN_BE_DRAGGED_OUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

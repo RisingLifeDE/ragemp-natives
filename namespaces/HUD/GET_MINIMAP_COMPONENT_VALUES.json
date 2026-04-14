@@ -1,0 +1,13 @@
+{
+    "GET_MINIMAP_COMPONENT_VALUES": {
+        "name": "GET_MINIMAP_COMPONENT_VALUES",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "componentName"
+            }
+        ],
+        "return_type": "number | string"
+    }
+}

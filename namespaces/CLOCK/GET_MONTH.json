@@ -1,0 +1,8 @@
+{
+    "GET_MONTH": {
+        "name": "GET_MONTH",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

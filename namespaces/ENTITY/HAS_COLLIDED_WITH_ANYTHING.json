@@ -1,0 +1,13 @@
+{
+    "HAS_COLLIDED_WITH_ANYTHING": {
+        "name": "HAS_COLLIDED_WITH_ANYTHING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

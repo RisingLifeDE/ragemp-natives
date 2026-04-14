@@ -1,0 +1,13 @@
+{
+    "GET_NUM_DLC_WEAPON_COMPONENTS_SP": {
+        "name": "GET_NUM_DLC_WEAPON_COMPONENTS_SP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dlcWeaponIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

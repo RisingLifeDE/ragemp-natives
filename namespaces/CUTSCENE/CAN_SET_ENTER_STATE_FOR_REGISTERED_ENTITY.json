@@ -1,0 +1,17 @@
+{
+    "CAN_SET_ENTER_STATE_FOR_REGISTERED_ENTITY": {
+        "name": "CAN_SET_ENTER_STATE_FOR_REGISTERED_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

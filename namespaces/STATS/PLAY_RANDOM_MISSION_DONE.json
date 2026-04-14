@@ -1,0 +1,25 @@
+{
+    "PLAY_RANDOM_MISSION_DONE": {
+        "name": "PLAY_RANDOM_MISSION_DONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

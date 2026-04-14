@@ -1,0 +1,21 @@
+{
+    "SET_CAN_BE_DAMAGED_BY_RELATIONSHIP_GROUP": {
+        "name": "SET_CAN_BE_DAMAGED_BY_RELATIONSHIP_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "bCanBeDamaged"
+            },
+            {
+                "type": "float",
+                "name": "relGroup"
+            }
+        ],
+        "return_type": "void"
+    }
+}

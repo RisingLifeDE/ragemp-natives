@@ -1,0 +1,25 @@
+{
+    "GET_TEXT_SUBSTRING_SAFE": {
+        "name": "GET_TEXT_SUBSTRING_SAFE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "text"
+            },
+            {
+                "type": "float",
+                "name": "position"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            },
+            {
+                "type": "float",
+                "name": "maxLength"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

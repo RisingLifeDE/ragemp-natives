@@ -1,0 +1,13 @@
+{
+    "UGC_SET_DELETED": {
+        "name": "UGC_SET_DELETED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "UgcSetDeletedResult"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "IS_NEAR_POINT": {
+        "name": "IS_NEAR_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "objectHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_CAN_CLIMB_ON": {
+        "name": "SET_CAN_CLIMB_ON",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

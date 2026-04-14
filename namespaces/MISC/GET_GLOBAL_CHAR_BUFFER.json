@@ -1,0 +1,8 @@
+{
+    "GET_GLOBAL_CHAR_BUFFER": {
+        "name": "GET_GLOBAL_CHAR_BUFFER",
+        "comment": "",
+        "params": [],
+        "return_type": "char*"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "_0X_AF348AFCB575A441": {
+        "name": "_0X_AF348AFCB575A441",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "roomName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

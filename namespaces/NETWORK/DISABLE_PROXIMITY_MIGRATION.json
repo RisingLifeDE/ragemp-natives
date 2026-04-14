@@ -1,0 +1,13 @@
+{
+    "DISABLE_PROXIMITY_MIGRATION": {
+        "name": "DISABLE_PROXIMITY_MIGRATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netID"
+            }
+        ],
+        "return_type": "void"
+    }
+}

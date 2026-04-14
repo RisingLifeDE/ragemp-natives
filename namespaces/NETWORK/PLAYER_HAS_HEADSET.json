@@ -1,0 +1,13 @@
+{
+    "PLAYER_HAS_HEADSET": {
+        "name": "PLAYER_HAS_HEADSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

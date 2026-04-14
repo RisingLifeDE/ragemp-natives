@@ -1,0 +1,13 @@
+{
+    "IS_IN_GROUP": {
+        "name": "IS_IN_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

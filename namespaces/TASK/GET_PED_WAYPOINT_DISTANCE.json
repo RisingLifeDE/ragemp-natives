@@ -1,0 +1,13 @@
+{
+    "GET_PED_WAYPOINT_DISTANCE": {
+        "name": "GET_PED_WAYPOINT_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

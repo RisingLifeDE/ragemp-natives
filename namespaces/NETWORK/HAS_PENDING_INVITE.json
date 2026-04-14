@@ -1,0 +1,8 @@
+{
+    "HAS_PENDING_INVITE": {
+        "name": "HAS_PENDING_INVITE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

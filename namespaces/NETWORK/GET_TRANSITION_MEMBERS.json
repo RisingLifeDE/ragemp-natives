@@ -1,0 +1,13 @@
+{
+    "GET_TRANSITION_MEMBERS": {
+        "name": "GET_TRANSITION_MEMBERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dataCount"
+            }
+        ],
+        "return_type": "NetworkGetTransitionMembersResult"
+    }
+}

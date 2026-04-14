@@ -1,0 +1,8 @@
+{
+    "IS_PLAYING": {
+        "name": "IS_PLAYING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

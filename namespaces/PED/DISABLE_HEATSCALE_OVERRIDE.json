@@ -1,0 +1,13 @@
+{
+    "DISABLE_HEATSCALE_OVERRIDE": {
+        "name": "DISABLE_HEATSCALE_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

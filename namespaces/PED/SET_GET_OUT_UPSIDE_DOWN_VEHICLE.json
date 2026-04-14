@@ -1,0 +1,17 @@
+{
+    "SET_GET_OUT_UPSIDE_DOWN_VEHICLE": {
+        "name": "SET_GET_OUT_UPSIDE_DOWN_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

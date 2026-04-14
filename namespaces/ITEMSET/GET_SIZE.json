@@ -1,0 +1,13 @@
+{
+    "GET_SIZE": {
+        "name": "GET_SIZE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            }
+        ],
+        "return_type": "float"
+    }
+}

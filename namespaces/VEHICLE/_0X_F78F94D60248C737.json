@@ -1,0 +1,17 @@
+{
+    "_0X_F78F94D60248C737": {
+        "name": "_0X_F78F94D60248C737",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

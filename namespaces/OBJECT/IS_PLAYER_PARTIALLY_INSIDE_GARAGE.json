@@ -1,0 +1,21 @@
+{
+    "IS_PLAYER_PARTIALLY_INSIDE_GARAGE": {
+        "name": "IS_PLAYER_PARTIALLY_INSIDE_GARAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "garageHash"
+            },
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

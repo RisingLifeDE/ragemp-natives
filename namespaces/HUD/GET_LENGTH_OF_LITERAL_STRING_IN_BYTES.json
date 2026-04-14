@@ -1,0 +1,13 @@
+{
+    "GET_LENGTH_OF_LITERAL_STRING_IN_BYTES": {
+        "name": "GET_LENGTH_OF_LITERAL_STRING_IN_BYTES",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "float"
+    }
+}

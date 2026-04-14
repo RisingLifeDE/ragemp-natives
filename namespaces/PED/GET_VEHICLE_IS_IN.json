@@ -1,0 +1,17 @@
+{
+    "GET_VEHICLE_IS_IN": {
+        "name": "GET_VEHICLE_IS_IN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "includeLastVehicle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

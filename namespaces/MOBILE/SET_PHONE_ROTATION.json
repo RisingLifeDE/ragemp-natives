@@ -1,0 +1,25 @@
+{
+    "SET_PHONE_ROTATION": {
+        "name": "SET_PHONE_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}

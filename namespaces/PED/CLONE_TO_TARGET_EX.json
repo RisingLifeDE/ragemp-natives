@@ -1,0 +1,21 @@
+{
+    "CLONE_TO_TARGET_EX": {
+        "name": "CLONE_TO_TARGET_EX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

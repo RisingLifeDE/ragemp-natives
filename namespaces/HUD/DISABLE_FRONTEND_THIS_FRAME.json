@@ -1,0 +1,8 @@
+{
+    "DISABLE_FRONTEND_THIS_FRAME": {
+        "name": "DISABLE_FRONTEND_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

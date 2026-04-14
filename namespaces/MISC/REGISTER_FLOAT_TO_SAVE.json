@@ -1,0 +1,13 @@
+{
+    "REGISTER_FLOAT_TO_SAVE": {
+        "name": "REGISTER_FLOAT_TO_SAVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "float"
+    }
+}

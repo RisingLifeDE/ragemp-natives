@@ -1,0 +1,21 @@
+{
+    "PLAY_ANIM_ON_RUNNING_SCENARIO": {
+        "name": "PLAY_ANIM_ON_RUNNING_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "animDict"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

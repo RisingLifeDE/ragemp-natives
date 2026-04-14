@@ -1,0 +1,17 @@
+{
+    "SET_GRAVITY": {
+        "name": "SET_GRAVITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

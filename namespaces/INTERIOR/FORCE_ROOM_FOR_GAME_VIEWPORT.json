@@ -1,0 +1,17 @@
+{
+    "FORCE_ROOM_FOR_GAME_VIEWPORT": {
+        "name": "FORCE_ROOM_FOR_GAME_VIEWPORT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interiorID"
+            },
+            {
+                "type": "float",
+                "name": "roomHashKey"
+            }
+        ],
+        "return_type": "void"
+    }
+}

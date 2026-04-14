@@ -1,0 +1,13 @@
+{
+    "GET_PLATFORM_PARTY_MEMBERS": {
+        "name": "GET_PLATFORM_PARTY_MEMBERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dataSize"
+            }
+        ],
+        "return_type": "NetworkGetPlatformPartyMembersResult"
+    }
+}

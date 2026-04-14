@@ -1,0 +1,29 @@
+{
+    "CLEAR_OBJECTS_INSIDE_GARAGE": {
+        "name": "CLEAR_OBJECTS_INSIDE_GARAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "garage"
+            },
+            {
+                "type": "BOOL",
+                "name": "vehicles"
+            },
+            {
+                "type": "BOOL",
+                "name": "peds"
+            },
+            {
+                "type": "BOOL",
+                "name": "objects"
+            },
+            {
+                "type": "BOOL",
+                "name": "broadcast"
+            }
+        ],
+        "return_type": "void"
+    }
+}

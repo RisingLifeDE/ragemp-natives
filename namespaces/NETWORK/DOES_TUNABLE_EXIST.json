@@ -1,0 +1,17 @@
+{
+    "DOES_TUNABLE_EXIST": {
+        "name": "DOES_TUNABLE_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "tunableContext"
+            },
+            {
+                "type": "char*",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

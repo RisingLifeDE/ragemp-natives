@@ -1,0 +1,13 @@
+{
+    "_0X4CEBC1ED31E8925E": {
+        "name": "_0X4CEBC1ED31E8925E",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "cutsceneName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

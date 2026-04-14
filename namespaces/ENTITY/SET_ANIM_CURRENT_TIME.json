@@ -1,0 +1,25 @@
+{
+    "SET_ANIM_CURRENT_TIME": {
+        "name": "SET_ANIM_CURRENT_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "void"
+    }
+}

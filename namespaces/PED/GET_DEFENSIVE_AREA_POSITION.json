@@ -1,0 +1,17 @@
+{
+    "GET_DEFENSIVE_AREA_POSITION": {
+        "name": "GET_DEFENSIVE_AREA_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

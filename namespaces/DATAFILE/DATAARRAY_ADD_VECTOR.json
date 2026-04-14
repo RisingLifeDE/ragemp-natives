@@ -1,0 +1,21 @@
+{
+    "DATAARRAY_ADD_VECTOR": {
+        "name": "DATAARRAY_ADD_VECTOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "valueX"
+            },
+            {
+                "type": "float",
+                "name": "valueY"
+            },
+            {
+                "type": "float",
+                "name": "valueZ"
+            }
+        ],
+        "return_type": "float"
+    }
+}

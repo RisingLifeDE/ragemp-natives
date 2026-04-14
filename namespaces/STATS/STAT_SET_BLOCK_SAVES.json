@@ -1,0 +1,13 @@
+{
+    "STAT_SET_BLOCK_SAVES": {
+        "name": "STAT_SET_BLOCK_SAVES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

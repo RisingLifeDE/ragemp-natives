@@ -1,0 +1,13 @@
+{
+    "CLEAR_STORED_HAT_PROP": {
+        "name": "CLEAR_STORED_HAT_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

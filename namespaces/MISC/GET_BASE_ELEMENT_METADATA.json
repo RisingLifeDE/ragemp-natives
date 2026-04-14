@@ -1,0 +1,17 @@
+{
+    "GET_BASE_ELEMENT_METADATA": {
+        "name": "GET_BASE_ELEMENT_METADATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "GetBaseElementMetadataResult"
+    }
+}

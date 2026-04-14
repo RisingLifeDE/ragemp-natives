@@ -1,0 +1,17 @@
+{
+    "IS_DEAD": {
+        "name": "IS_DEAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

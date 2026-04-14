@@ -1,0 +1,13 @@
+{
+    "INVITE_GAMERS": {
+        "name": "INVITE_GAMERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "NetworkInviteGamersResult"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_PED_STRAFING": {
+        "name": "IS_PED_STRAFING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_ALLOW_VEHICLES_OVERRIDE": {
+        "name": "SET_ALLOW_VEHICLES_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

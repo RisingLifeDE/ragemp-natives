@@ -1,0 +1,25 @@
+{
+    "DOOR_SYSTEM_SET_OPEN_RATIO": {
+        "name": "DOOR_SYSTEM_SET_OPEN_RATIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            },
+            {
+                "type": "float",
+                "name": "ajar"
+            },
+            {
+                "type": "BOOL",
+                "name": "requestDoor"
+            },
+            {
+                "type": "BOOL",
+                "name": "forceUpdate"
+            }
+        ],
+        "return_type": "void"
+    }
+}

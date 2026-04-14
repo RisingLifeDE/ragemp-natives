@@ -1,0 +1,21 @@
+{
+    "CUSTOM_MINIMAP_CREATE_BLIP": {
+        "name": "CUSTOM_MINIMAP_CREATE_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "Handle"
+    }
+}

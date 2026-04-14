@@ -1,0 +1,13 @@
+{
+    "STAT_DELETE_SLOT": {
+        "name": "STAT_DELETE_SLOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

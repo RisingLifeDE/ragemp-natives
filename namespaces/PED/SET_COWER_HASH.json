@@ -1,0 +1,17 @@
+{
+    "SET_COWER_HASH": {
+        "name": "SET_COWER_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

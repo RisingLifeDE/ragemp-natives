@@ -1,0 +1,21 @@
+{
+    "SET_CAN_SMASH_GLASS": {
+        "name": "SET_CAN_SMASH_GLASS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

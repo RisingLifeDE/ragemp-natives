@@ -1,0 +1,13 @@
+{
+    "DISPLAY_PLAYER_NAME_TAGS_ON_BLIPS": {
+        "name": "DISPLAY_PLAYER_NAME_TAGS_ON_BLIPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

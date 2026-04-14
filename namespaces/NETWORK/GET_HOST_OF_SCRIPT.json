@@ -1,0 +1,21 @@
+{
+    "GET_HOST_OF_SCRIPT": {
+        "name": "GET_HOST_OF_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

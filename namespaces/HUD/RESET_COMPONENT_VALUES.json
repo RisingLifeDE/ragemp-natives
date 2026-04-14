@@ -1,0 +1,13 @@
+{
+    "RESET_COMPONENT_VALUES": {
+        "name": "RESET_COMPONENT_VALUES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "void"
+    }
+}

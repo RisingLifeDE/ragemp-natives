@@ -1,0 +1,13 @@
+{
+    "IS_IPL_ACTIVE": {
+        "name": "IS_IPL_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "iplName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

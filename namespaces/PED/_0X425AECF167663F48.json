@@ -1,0 +1,17 @@
+{
+    "_0X425AECF167663F48": {
+        "name": "_0X425AECF167663F48",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

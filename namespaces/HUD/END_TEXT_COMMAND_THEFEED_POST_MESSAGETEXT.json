@@ -1,0 +1,33 @@
+{
+    "END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT": {
+        "name": "END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "txdName"
+            },
+            {
+                "type": "char*",
+                "name": "textureName"
+            },
+            {
+                "type": "BOOL",
+                "name": "flash"
+            },
+            {
+                "type": "float",
+                "name": "iconType"
+            },
+            {
+                "type": "char*",
+                "name": "sender"
+            },
+            {
+                "type": "char*",
+                "name": "subject"
+            }
+        ],
+        "return_type": "float"
+    }
+}

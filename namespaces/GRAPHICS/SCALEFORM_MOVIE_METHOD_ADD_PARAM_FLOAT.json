@@ -1,0 +1,13 @@
+{
+    "SCALEFORM_MOVIE_METHOD_ADD_PARAM_FLOAT": {
+        "name": "SCALEFORM_MOVIE_METHOD_ADD_PARAM_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "ADD_VEHICLE_SUB_ATTACK_PED": {
+        "name": "ADD_VEHICLE_SUB_ATTACK_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

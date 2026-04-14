@@ -1,0 +1,8 @@
+{
+    "RESET_DISPATCH_IDEAL_SPAWN_DISTANCE": {
+        "name": "RESET_DISPATCH_IDEAL_SPAWN_DISTANCE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

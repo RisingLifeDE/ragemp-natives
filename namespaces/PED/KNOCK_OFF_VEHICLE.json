@@ -1,0 +1,13 @@
+{
+    "KNOCK_OFF_VEHICLE": {
+        "name": "KNOCK_OFF_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

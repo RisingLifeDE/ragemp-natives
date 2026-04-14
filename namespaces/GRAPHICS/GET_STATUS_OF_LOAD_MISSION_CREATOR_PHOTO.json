@@ -1,0 +1,8 @@
+{
+    "GET_STATUS_OF_LOAD_MISSION_CREATOR_PHOTO": {
+        "name": "GET_STATUS_OF_LOAD_MISSION_CREATOR_PHOTO",
+        "comment": "",
+        "params": [],
+        "return_type": "GetStatusOfLoadMissionCreatorPhotoResult"
+    }
+}

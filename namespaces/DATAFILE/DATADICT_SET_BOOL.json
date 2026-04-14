@@ -1,0 +1,17 @@
+{
+    "DATADICT_SET_BOOL": {
+        "name": "DATADICT_SET_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "key"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "float"
+    }
+}

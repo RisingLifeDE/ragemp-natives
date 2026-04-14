@@ -1,0 +1,17 @@
+{
+    "PREPARE_SYNCHRONIZED_AUDIO_EVENT": {
+        "name": "PREPARE_SYNCHRONIZED_AUDIO_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

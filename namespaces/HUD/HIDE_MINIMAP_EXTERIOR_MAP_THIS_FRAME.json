@@ -1,0 +1,8 @@
+{
+    "HIDE_MINIMAP_EXTERIOR_MAP_THIS_FRAME": {
+        "name": "HIDE_MINIMAP_EXTERIOR_MAP_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

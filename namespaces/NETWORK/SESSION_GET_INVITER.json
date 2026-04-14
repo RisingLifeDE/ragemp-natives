@@ -1,0 +1,8 @@
+{
+    "SESSION_GET_INVITER": {
+        "name": "SESSION_GET_INVITER",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

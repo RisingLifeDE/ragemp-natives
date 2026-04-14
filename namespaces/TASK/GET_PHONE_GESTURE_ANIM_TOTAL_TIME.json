@@ -1,0 +1,13 @@
+{
+    "GET_PHONE_GESTURE_ANIM_TOTAL_TIME": {
+        "name": "GET_PHONE_GESTURE_ANIM_TOTAL_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

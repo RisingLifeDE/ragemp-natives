@@ -1,0 +1,8 @@
+{
+    "IS_LOOK_INVERTED": {
+        "name": "IS_LOOK_INVERTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

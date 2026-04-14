@@ -1,0 +1,17 @@
+{
+    "SET_PREFERRED_COVER_SET": {
+        "name": "SET_PREFERRED_COVER_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "itemSet"
+            }
+        ],
+        "return_type": "void"
+    }
+}

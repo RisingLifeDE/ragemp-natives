@@ -1,0 +1,13 @@
+{
+    "HAS_CACHED_PLAYER_HEAD_BLEND_DATA": {
+        "name": "HAS_CACHED_PLAYER_HEAD_BLEND_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

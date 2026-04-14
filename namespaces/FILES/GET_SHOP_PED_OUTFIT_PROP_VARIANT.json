@@ -1,0 +1,17 @@
+{
+    "GET_SHOP_PED_OUTFIT_PROP_VARIANT": {
+        "name": "GET_SHOP_PED_OUTFIT_PROP_VARIANT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "outfitHash"
+            },
+            {
+                "type": "float",
+                "name": "variantIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

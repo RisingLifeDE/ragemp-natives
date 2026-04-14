@@ -1,0 +1,8 @@
+{
+    "LEAVE_TRANSITION": {
+        "name": "LEAVE_TRANSITION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

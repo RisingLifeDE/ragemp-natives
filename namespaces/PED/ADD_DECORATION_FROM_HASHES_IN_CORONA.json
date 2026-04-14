@@ -1,0 +1,21 @@
+{
+    "ADD_DECORATION_FROM_HASHES_IN_CORONA": {
+        "name": "ADD_DECORATION_FROM_HASHES_IN_CORONA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "collection"
+            },
+            {
+                "type": "float",
+                "name": "overlay"
+            }
+        ],
+        "return_type": "void"
+    }
+}

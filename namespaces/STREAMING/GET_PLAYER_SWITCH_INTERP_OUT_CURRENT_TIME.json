@@ -1,0 +1,8 @@
+{
+    "GET_PLAYER_SWITCH_INTERP_OUT_CURRENT_TIME": {
+        "name": "GET_PLAYER_SWITCH_INTERP_OUT_CURRENT_TIME",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

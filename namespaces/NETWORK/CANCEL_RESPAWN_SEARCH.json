@@ -1,0 +1,8 @@
+{
+    "CANCEL_RESPAWN_SEARCH": {
+        "name": "CANCEL_RESPAWN_SEARCH",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

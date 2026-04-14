@@ -1,0 +1,13 @@
+{
+    "DOES_BLIP_HAVE_GPS_ROUTE": {
+        "name": "DOES_BLIP_HAVE_GPS_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

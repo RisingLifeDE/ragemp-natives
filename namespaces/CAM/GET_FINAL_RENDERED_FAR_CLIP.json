@@ -1,0 +1,8 @@
+{
+    "GET_FINAL_RENDERED_FAR_CLIP": {
+        "name": "GET_FINAL_RENDERED_FAR_CLIP",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

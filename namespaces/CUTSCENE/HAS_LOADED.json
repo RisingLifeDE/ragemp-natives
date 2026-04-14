@@ -1,0 +1,8 @@
+{
+    "HAS_LOADED": {
+        "name": "HAS_LOADED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

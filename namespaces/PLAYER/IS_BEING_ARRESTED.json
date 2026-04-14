@@ -1,0 +1,13 @@
+{
+    "IS_BEING_ARRESTED": {
+        "name": "IS_BEING_ARRESTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "atArresting"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

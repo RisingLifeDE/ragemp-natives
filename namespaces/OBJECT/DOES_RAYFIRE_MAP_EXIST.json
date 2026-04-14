@@ -1,0 +1,13 @@
+{
+    "DOES_RAYFIRE_MAP_EXIST": {
+        "name": "DOES_RAYFIRE_MAP_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLEAR_PARACHUTE_VARIATION_OVERRIDE": {
+        "name": "CLEAR_PARACHUTE_VARIATION_OVERRIDE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

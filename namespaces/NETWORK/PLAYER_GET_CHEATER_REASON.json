@@ -1,0 +1,8 @@
+{
+    "PLAYER_GET_CHEATER_REASON": {
+        "name": "PLAYER_GET_CHEATER_REASON",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

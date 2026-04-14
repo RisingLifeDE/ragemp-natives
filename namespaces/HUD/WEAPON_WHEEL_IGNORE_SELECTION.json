@@ -1,0 +1,8 @@
+{
+    "WEAPON_WHEEL_IGNORE_SELECTION": {
+        "name": "WEAPON_WHEEL_IGNORE_SELECTION",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

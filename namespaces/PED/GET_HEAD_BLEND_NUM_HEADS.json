@@ -1,0 +1,13 @@
+{
+    "GET_HEAD_BLEND_NUM_HEADS": {
+        "name": "GET_HEAD_BLEND_NUM_HEADS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "headType"
+            }
+        ],
+        "return_type": "float"
+    }
+}

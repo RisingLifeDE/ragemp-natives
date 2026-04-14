@@ -1,0 +1,25 @@
+{
+    "GET_ROAD_SIDE_POINT_WITH_HEADING": {
+        "name": "GET_ROAD_SIDE_POINT_WITH_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

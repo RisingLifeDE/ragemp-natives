@@ -1,0 +1,53 @@
+{
+    "SET_HEAD_BLEND_DATA": {
+        "name": "SET_HEAD_BLEND_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "shapeFirstID"
+            },
+            {
+                "type": "float",
+                "name": "shapeSecondID"
+            },
+            {
+                "type": "float",
+                "name": "shapeThirdID"
+            },
+            {
+                "type": "float",
+                "name": "skinFirstID"
+            },
+            {
+                "type": "float",
+                "name": "skinSecondID"
+            },
+            {
+                "type": "float",
+                "name": "skinThirdID"
+            },
+            {
+                "type": "float",
+                "name": "shapeMix"
+            },
+            {
+                "type": "float",
+                "name": "skinMix"
+            },
+            {
+                "type": "float",
+                "name": "thirdMix"
+            },
+            {
+                "type": "BOOL",
+                "name": "isParent"
+            }
+        ],
+        "return_type": "void"
+    }
+}

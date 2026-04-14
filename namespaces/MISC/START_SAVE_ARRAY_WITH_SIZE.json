@@ -1,0 +1,17 @@
+{
+    "START_SAVE_ARRAY_WITH_SIZE": {
+        "name": "START_SAVE_ARRAY_WITH_SIZE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "size"
+            },
+            {
+                "type": "char*",
+                "name": "arrayName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

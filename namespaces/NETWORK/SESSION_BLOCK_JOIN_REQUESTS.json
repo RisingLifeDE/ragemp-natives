@@ -1,0 +1,13 @@
+{
+    "SESSION_BLOCK_JOIN_REQUESTS": {
+        "name": "SESSION_BLOCK_JOIN_REQUESTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

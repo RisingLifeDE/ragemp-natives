@@ -1,0 +1,49 @@
+{
+    "GO_TO_ENTITY_WHILE_AIMING_AT_ENTITY": {
+        "name": "GO_TO_ENTITY_WHILE_AIMING_AT_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "entityToWalkTo"
+            },
+            {
+                "type": "float",
+                "name": "entityToAimAt"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "BOOL",
+                "name": "shootatEntity"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "firingPattern"
+            }
+        ],
+        "return_type": "void"
+    }
+}

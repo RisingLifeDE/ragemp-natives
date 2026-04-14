@@ -1,0 +1,13 @@
+{
+    "SET_CLOTH_PIN_FRAMES": {
+        "name": "SET_CLOTH_PIN_FRAMES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

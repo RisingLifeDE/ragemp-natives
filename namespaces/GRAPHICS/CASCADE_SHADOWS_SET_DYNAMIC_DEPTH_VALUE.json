@@ -1,0 +1,13 @@
+{
+    "CASCADE_SHADOWS_SET_DYNAMIC_DEPTH_VALUE": {
+        "name": "CASCADE_SHADOWS_SET_DYNAMIC_DEPTH_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void"
+    }
+}

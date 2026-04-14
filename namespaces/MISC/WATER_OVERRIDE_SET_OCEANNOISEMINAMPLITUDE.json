@@ -1,0 +1,13 @@
+{
+    "WATER_OVERRIDE_SET_OCEANNOISEMINAMPLITUDE": {
+        "name": "WATER_OVERRIDE_SET_OCEANNOISEMINAMPLITUDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "minAmplitude"
+            }
+        ],
+        "return_type": "void"
+    }
+}

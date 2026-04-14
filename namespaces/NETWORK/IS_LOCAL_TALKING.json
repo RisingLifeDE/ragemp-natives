@@ -1,0 +1,8 @@
+{
+    "IS_LOCAL_TALKING": {
+        "name": "IS_LOCAL_TALKING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

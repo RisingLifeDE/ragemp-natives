@@ -1,0 +1,17 @@
+{
+    "_0X68B562E124CC0AEF": {
+        "name": "_0X68B562E124CC0AEF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pickup"
+            },
+            {
+                "type": "float",
+                "name": "pickup2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_MOBILE_PHONE_TO_EAR": {
+        "name": "IS_MOBILE_PHONE_TO_EAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

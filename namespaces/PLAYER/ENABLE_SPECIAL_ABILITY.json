@@ -1,0 +1,17 @@
+{
+    "ENABLE_SPECIAL_ABILITY": {
+        "name": "ENABLE_SPECIAL_ABILITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

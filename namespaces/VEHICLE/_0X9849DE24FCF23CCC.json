@@ -1,0 +1,17 @@
+{
+    "_0X9849DE24FCF23CCC": {
+        "name": "_0X9849DE24FCF23CCC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

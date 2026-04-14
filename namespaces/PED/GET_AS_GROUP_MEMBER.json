@@ -1,0 +1,17 @@
+{
+    "GET_AS_GROUP_MEMBER": {
+        "name": "GET_AS_GROUP_MEMBER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "groupID"
+            },
+            {
+                "type": "float",
+                "name": "memberNumber"
+            }
+        ],
+        "return_type": "float"
+    }
+}

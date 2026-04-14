@@ -1,0 +1,17 @@
+{
+    "ACCESS_TUNABLE_INT": {
+        "name": "ACCESS_TUNABLE_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "tunableContext"
+            },
+            {
+                "type": "char*",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

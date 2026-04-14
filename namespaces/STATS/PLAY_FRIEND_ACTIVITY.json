@@ -1,0 +1,17 @@
+{
+    "PLAY_FRIEND_ACTIVITY": {
+        "name": "PLAY_FRIEND_ACTIVITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_ACCURACY": {
+        "name": "SET_ACCURACY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "accuracy"
+            }
+        ],
+        "return_type": "void"
+    }
+}

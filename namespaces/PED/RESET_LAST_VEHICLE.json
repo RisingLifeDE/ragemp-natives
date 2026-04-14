@@ -1,0 +1,13 @@
+{
+    "RESET_LAST_VEHICLE": {
+        "name": "RESET_LAST_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

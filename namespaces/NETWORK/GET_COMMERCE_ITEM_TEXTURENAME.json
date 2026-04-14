@@ -1,0 +1,13 @@
+{
+    "GET_COMMERCE_ITEM_TEXTURENAME": {
+        "name": "GET_COMMERCE_ITEM_TEXTURENAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "index"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

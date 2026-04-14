@@ -1,0 +1,13 @@
+{
+    "OPEN_PATROL_ROUTE": {
+        "name": "OPEN_PATROL_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "patrolRoute"
+            }
+        ],
+        "return_type": "void"
+    }
+}

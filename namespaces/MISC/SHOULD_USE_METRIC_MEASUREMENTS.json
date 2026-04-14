@@ -1,0 +1,8 @@
+{
+    "SHOULD_USE_METRIC_MEASUREMENTS": {
+        "name": "SHOULD_USE_METRIC_MEASUREMENTS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

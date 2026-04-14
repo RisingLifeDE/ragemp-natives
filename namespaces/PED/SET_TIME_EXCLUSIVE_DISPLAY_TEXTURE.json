@@ -1,0 +1,17 @@
+{
+    "SET_TIME_EXCLUSIVE_DISPLAY_TEXTURE": {
+        "name": "SET_TIME_EXCLUSIVE_DISPLAY_TEXTURE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "tog"
+            }
+        ],
+        "return_type": "void"
+    }
+}

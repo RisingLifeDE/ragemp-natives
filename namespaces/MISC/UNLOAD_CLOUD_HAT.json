@@ -1,0 +1,17 @@
+{
+    "UNLOAD_CLOUD_HAT": {
+        "name": "UNLOAD_CLOUD_HAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

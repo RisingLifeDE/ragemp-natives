@@ -1,0 +1,77 @@
+{
+    "START_NETWORKED_PARTICLE_FX_LOOPED_ON_ENTITY_BONE": {
+        "name": "START_NETWORKED_PARTICLE_FX_LOOPED_ON_ENTITY_BONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "effectName"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "BOOL",
+                "name": "xAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "yAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "zAxis"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            },
+            {
+                "type": "float",
+                "name": "p14"
+            },
+            {
+                "type": "float",
+                "name": "p15"
+            },
+            {
+                "type": "float",
+                "name": "p16"
+            }
+        ],
+        "return_type": "float"
+    }
+}

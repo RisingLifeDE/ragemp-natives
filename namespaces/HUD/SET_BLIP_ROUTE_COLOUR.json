@@ -1,0 +1,17 @@
+{
+    "SET_BLIP_ROUTE_COLOUR": {
+        "name": "SET_BLIP_ROUTE_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            },
+            {
+                "type": "float",
+                "name": "colour"
+            }
+        ],
+        "return_type": "void"
+    }
+}

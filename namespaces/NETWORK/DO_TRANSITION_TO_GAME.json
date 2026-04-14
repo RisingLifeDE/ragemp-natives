@@ -1,0 +1,17 @@
+{
+    "DO_TRANSITION_TO_GAME": {
+        "name": "DO_TRANSITION_TO_GAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "maxPlayers"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

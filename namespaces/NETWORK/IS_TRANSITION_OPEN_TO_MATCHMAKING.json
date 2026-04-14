@@ -1,0 +1,8 @@
+{
+    "IS_TRANSITION_OPEN_TO_MATCHMAKING": {
+        "name": "IS_TRANSITION_OPEN_TO_MATCHMAKING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

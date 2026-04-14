@@ -1,0 +1,21 @@
+{
+    "SET_MP_GAMER_HEALTH_BAR_MAX": {
+        "name": "SET_MP_GAMER_HEALTH_BAR_MAX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "float",
+                "name": "maximumValue"
+            }
+        ],
+        "return_type": "void"
+    }
+}

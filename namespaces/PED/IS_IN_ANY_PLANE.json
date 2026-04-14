@@ -1,0 +1,13 @@
+{
+    "IS_IN_ANY_PLANE": {
+        "name": "IS_IN_ANY_PLANE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

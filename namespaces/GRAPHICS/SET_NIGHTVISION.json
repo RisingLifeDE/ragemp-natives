@@ -1,0 +1,13 @@
+{
+    "SET_NIGHTVISION": {
+        "name": "SET_NIGHTVISION",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

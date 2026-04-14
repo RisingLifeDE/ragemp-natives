@@ -1,0 +1,17 @@
+{
+    "PLAY_CASINO_STORY_MISSION_ENDED": {
+        "name": "PLAY_CASINO_STORY_MISSION_ENDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

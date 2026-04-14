@@ -1,0 +1,8 @@
+{
+    "SESSION_IS_IN_VOICE_SESSION": {
+        "name": "SESSION_IS_IN_VOICE_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

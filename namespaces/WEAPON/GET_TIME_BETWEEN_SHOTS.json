@@ -1,0 +1,13 @@
+{
+    "GET_TIME_BETWEEN_SHOTS": {
+        "name": "GET_TIME_BETWEEN_SHOTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

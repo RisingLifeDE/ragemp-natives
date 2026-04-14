@@ -1,0 +1,13 @@
+{
+    "PREPARE_SYNCHRONIZED_AUDIO_EVENT_FOR_SCENE": {
+        "name": "PREPARE_SYNCHRONIZED_AUDIO_EVENT_FOR_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

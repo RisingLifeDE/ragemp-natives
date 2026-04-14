@@ -1,0 +1,13 @@
+{
+    "CLEAR_PARACHUTE_PACK_VARIATION": {
+        "name": "CLEAR_PARACHUTE_PACK_VARIATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

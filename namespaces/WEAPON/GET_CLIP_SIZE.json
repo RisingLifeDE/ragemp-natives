@@ -1,0 +1,13 @@
+{
+    "GET_CLIP_SIZE": {
+        "name": "GET_CLIP_SIZE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

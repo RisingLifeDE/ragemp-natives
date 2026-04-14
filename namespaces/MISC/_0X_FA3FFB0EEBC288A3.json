@@ -1,0 +1,13 @@
+{
+    "_0X_FA3FFB0EEBC288A3": {
+        "name": "_0X_FA3FFB0EEBC288A3",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

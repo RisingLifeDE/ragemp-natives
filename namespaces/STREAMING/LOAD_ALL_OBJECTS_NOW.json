@@ -1,0 +1,8 @@
+{
+    "LOAD_ALL_OBJECTS_NOW": {
+        "name": "LOAD_ALL_OBJECTS_NOW",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

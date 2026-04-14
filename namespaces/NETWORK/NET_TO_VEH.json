@@ -1,0 +1,13 @@
+{
+    "NET_TO_VEH": {
+        "name": "NET_TO_VEH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netHandle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

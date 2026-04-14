@@ -1,0 +1,13 @@
+{
+    "SET_MOUSE_CURSOR_VISIBLE_IN_MENUS": {
+        "name": "SET_MOUSE_CURSOR_VISIBLE_IN_MENUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

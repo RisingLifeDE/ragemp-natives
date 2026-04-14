@@ -1,0 +1,17 @@
+{
+    "SET_TEXT_SCALE": {
+        "name": "SET_TEXT_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "float",
+                "name": "size"
+            }
+        ],
+        "return_type": "void"
+    }
+}

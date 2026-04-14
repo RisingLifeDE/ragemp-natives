@@ -1,0 +1,13 @@
+{
+    "UPDATE_LIGHTS_ON_ENTITY": {
+        "name": "UPDATE_LIGHTS_ON_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

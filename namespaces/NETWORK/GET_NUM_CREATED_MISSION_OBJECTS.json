@@ -1,0 +1,13 @@
+{
+    "GET_NUM_CREATED_MISSION_OBJECTS": {
+        "name": "GET_NUM_CREATED_MISSION_OBJECTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "SET_RENDER_HD_ONLY": {
+        "name": "SET_RENDER_HD_ONLY",
+        "comment": "Set the game to only render hd models",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enable",
+                "description": "true = enable, false = disable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

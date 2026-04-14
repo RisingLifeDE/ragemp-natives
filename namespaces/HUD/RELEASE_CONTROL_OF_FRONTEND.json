@@ -1,0 +1,8 @@
+{
+    "RELEASE_CONTROL_OF_FRONTEND": {
+        "name": "RELEASE_CONTROL_OF_FRONTEND",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

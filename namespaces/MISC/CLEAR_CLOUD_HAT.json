@@ -1,0 +1,8 @@
+{
+    "CLEAR_CLOUD_HAT": {
+        "name": "CLEAR_CLOUD_HAT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

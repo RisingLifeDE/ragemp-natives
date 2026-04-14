@@ -1,0 +1,8 @@
+{
+    "GET_MISSION_FLAG": {
+        "name": "GET_MISSION_FLAG",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

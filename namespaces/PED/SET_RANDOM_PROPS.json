@@ -1,0 +1,13 @@
+{
+    "SET_RANDOM_PROPS": {
+        "name": "SET_RANDOM_PROPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

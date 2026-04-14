@@ -1,0 +1,17 @@
+{
+    "_0X2016C603D6B8987C": {
+        "name": "_0X2016C603D6B8987C",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

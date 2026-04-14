@@ -1,0 +1,29 @@
+{
+    "LOOK_AT_ENTITY": {
+        "name": "LOOK_AT_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "lookAt"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "unknown1"
+            },
+            {
+                "type": "float",
+                "name": "unknown2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

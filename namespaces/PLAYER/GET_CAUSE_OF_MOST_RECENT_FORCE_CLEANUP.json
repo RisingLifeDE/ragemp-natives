@@ -1,0 +1,8 @@
+{
+    "GET_CAUSE_OF_MOST_RECENT_FORCE_CLEANUP": {
+        "name": "GET_CAUSE_OF_MOST_RECENT_FORCE_CLEANUP",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "GET_TEXT_SUBSTRING_SLICE": {
+        "name": "GET_TEXT_SUBSTRING_SLICE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "text"
+            },
+            {
+                "type": "float",
+                "name": "startPosition"
+            },
+            {
+                "type": "float",
+                "name": "endPosition"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

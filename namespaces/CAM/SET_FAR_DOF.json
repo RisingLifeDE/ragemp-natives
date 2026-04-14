@@ -1,0 +1,17 @@
+{
+    "SET_FAR_DOF": {
+        "name": "SET_FAR_DOF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "farDOF"
+            }
+        ],
+        "return_type": "void"
+    }
+}

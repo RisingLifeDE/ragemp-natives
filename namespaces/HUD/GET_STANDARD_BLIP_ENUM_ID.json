@@ -1,0 +1,8 @@
+{
+    "GET_STANDARD_BLIP_ENUM_ID": {
+        "name": "GET_STANDARD_BLIP_ENUM_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

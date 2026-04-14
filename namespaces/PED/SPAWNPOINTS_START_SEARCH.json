@@ -1,0 +1,41 @@
+{
+    "SPAWNPOINTS_START_SEARCH": {
+        "name": "SPAWNPOINTS_START_SEARCH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "zmax"
+            },
+            {
+                "type": "float",
+                "name": "interiorFlags"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "_0X1185A8087587322C": {
+        "name": "_0X1185A8087587322C",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

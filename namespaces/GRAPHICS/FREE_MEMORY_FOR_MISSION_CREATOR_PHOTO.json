@@ -1,0 +1,8 @@
+{
+    "FREE_MEMORY_FOR_MISSION_CREATOR_PHOTO": {
+        "name": "FREE_MEMORY_FOR_MISSION_CREATOR_PHOTO",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

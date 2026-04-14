@@ -1,0 +1,8 @@
+{
+    "UI_IS_SINGLEPLAYER_PAUSE_MENU_ACTIVE": {
+        "name": "UI_IS_SINGLEPLAYER_PAUSE_MENU_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

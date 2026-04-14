@@ -1,0 +1,8 @@
+{
+    "GET_TOGGLE_PAUSED_RENDERPHASES_STATUS": {
+        "name": "GET_TOGGLE_PAUSED_RENDERPHASES_STATUS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

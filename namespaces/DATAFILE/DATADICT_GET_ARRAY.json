@@ -1,0 +1,13 @@
+{
+    "DATADICT_GET_ARRAY": {
+        "name": "DATADICT_GET_ARRAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "DatadictGetArrayResult"
+    }
+}

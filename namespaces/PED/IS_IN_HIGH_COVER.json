@@ -1,0 +1,13 @@
+{
+    "IS_IN_HIGH_COVER": {
+        "name": "IS_IN_HIGH_COVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

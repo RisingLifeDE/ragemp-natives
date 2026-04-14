@@ -1,0 +1,29 @@
+{
+    "NEW_LOAD_SCENE_START_SPHERE": {
+        "name": "NEW_LOAD_SCENE_START_SPHERE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

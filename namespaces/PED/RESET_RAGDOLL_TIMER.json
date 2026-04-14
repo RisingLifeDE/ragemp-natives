@@ -1,0 +1,13 @@
+{
+    "RESET_RAGDOLL_TIMER": {
+        "name": "RESET_RAGDOLL_TIMER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

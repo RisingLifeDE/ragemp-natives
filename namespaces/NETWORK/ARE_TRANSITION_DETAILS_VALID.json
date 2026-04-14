@@ -1,0 +1,13 @@
+{
+    "ARE_TRANSITION_DETAILS_VALID": {
+        "name": "ARE_TRANSITION_DETAILS_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

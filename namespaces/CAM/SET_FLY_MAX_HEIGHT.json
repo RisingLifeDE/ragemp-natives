@@ -1,0 +1,17 @@
+{
+    "SET_FLY_MAX_HEIGHT": {
+        "name": "SET_FLY_MAX_HEIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            }
+        ],
+        "return_type": "void"
+    }
+}

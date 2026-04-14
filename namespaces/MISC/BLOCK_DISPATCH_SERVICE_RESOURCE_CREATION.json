@@ -1,0 +1,17 @@
+{
+    "BLOCK_DISPATCH_SERVICE_RESOURCE_CREATION": {
+        "name": "BLOCK_DISPATCH_SERVICE_RESOURCE_CREATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dispatchService"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

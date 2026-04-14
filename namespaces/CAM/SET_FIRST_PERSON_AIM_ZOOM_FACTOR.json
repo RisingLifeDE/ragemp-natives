@@ -1,0 +1,13 @@
+{
+    "SET_FIRST_PERSON_AIM_ZOOM_FACTOR": {
+        "name": "SET_FIRST_PERSON_AIM_ZOOM_FACTOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoomFactor"
+            }
+        ],
+        "return_type": "void"
+    }
+}

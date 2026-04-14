@@ -1,0 +1,13 @@
+{
+    "IS_HANGING_ON_TO_VEHICLE": {
+        "name": "IS_HANGING_ON_TO_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

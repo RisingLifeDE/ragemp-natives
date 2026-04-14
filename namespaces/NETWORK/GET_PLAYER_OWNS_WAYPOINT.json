@@ -1,0 +1,13 @@
+{
+    "GET_PLAYER_OWNS_WAYPOINT": {
+        "name": "GET_PLAYER_OWNS_WAYPOINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

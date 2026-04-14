@@ -1,0 +1,21 @@
+{
+    "HAS_PED_BEEN_DAMAGED_BY": {
+        "name": "HAS_PED_BEEN_DAMAGED_BY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "weaponType"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

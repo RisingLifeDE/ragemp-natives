@@ -1,0 +1,17 @@
+{
+    "GET_BEST_PED": {
+        "name": "GET_BEST_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float"
+    }
+}

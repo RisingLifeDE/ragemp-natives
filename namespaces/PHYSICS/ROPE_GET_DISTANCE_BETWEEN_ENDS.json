@@ -1,0 +1,13 @@
+{
+    "ROPE_GET_DISTANCE_BETWEEN_ENDS": {
+        "name": "ROPE_GET_DISTANCE_BETWEEN_ENDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

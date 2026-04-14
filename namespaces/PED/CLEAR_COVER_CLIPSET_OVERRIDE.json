@@ -1,0 +1,13 @@
+{
+    "CLEAR_COVER_CLIPSET_OVERRIDE": {
+        "name": "CLEAR_COVER_CLIPSET_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

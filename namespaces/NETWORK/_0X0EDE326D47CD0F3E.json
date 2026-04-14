@@ -1,0 +1,17 @@
+{
+    "_0X0EDE326D47CD0F3E": {
+        "name": "_0X0EDE326D47CD0F3E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

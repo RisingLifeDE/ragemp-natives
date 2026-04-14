@@ -1,0 +1,29 @@
+{
+    "REGISTER_ENTITY_FOR": {
+        "name": "REGISTER_ENTITY_FOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cutscenePed"
+            },
+            {
+                "type": "char*",
+                "name": "cutsceneEntName"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

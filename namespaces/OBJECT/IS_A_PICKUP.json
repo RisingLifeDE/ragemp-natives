@@ -1,0 +1,13 @@
+{
+    "IS_A_PICKUP": {
+        "name": "IS_A_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

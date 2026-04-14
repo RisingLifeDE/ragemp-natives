@@ -1,0 +1,8 @@
+{
+    "CASCADE_SHADOWS_INIT_SESSION": {
+        "name": "CASCADE_SHADOWS_INIT_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

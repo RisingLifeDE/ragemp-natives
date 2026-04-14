@@ -1,0 +1,21 @@
+{
+    "STOP_ANIM_PLAYBACK": {
+        "name": "STOP_ANIM_PLAYBACK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

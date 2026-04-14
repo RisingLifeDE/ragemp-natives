@@ -1,0 +1,13 @@
+{
+    "GET_TIME_AS_STRING": {
+        "name": "GET_TIME_AS_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "char*"
+    }
+}

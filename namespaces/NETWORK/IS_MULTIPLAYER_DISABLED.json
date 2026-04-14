@@ -1,0 +1,8 @@
+{
+    "IS_MULTIPLAYER_DISABLED": {
+        "name": "IS_MULTIPLAYER_DISABLED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

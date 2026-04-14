@@ -1,0 +1,17 @@
+{
+    "WAYPOINT_RECORDING_GET_COORD": {
+        "name": "WAYPOINT_RECORDING_GET_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "point"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

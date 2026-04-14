@@ -1,0 +1,8 @@
+{
+    "DOES_ROPE_EXIST": {
+        "name": "DOES_ROPE_EXIST",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "FIND_ANIM_EVENT_PHASE": {
+        "name": "FIND_ANIM_EVENT_PHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            },
+            {
+                "type": "char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "FindAnimEventPhaseResult"
+    }
+}

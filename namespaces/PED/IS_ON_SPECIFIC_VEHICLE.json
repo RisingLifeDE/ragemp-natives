@@ -1,0 +1,17 @@
+{
+    "IS_ON_SPECIFIC_VEHICLE": {
+        "name": "IS_ON_SPECIFIC_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

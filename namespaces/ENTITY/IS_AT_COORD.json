@@ -1,0 +1,49 @@
+{
+    "IS_AT_COORD": {
+        "name": "IS_AT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "xSize"
+            },
+            {
+                "type": "float",
+                "name": "ySize"
+            },
+            {
+                "type": "float",
+                "name": "zSize"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

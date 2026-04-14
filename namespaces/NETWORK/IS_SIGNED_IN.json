@@ -1,0 +1,8 @@
+{
+    "IS_SIGNED_IN": {
+        "name": "IS_SIGNED_IN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

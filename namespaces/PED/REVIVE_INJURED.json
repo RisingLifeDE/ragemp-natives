@@ -1,0 +1,13 @@
+{
+    "REVIVE_INJURED": {
+        "name": "REVIVE_INJURED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

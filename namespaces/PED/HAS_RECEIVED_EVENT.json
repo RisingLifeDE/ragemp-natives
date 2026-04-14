@@ -1,0 +1,17 @@
+{
+    "HAS_RECEIVED_EVENT": {
+        "name": "HAS_RECEIVED_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "eventId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

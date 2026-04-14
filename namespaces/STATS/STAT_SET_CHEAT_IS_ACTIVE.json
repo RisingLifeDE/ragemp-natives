@@ -1,0 +1,8 @@
+{
+    "STAT_SET_CHEAT_IS_ACTIVE": {
+        "name": "STAT_SET_CHEAT_IS_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

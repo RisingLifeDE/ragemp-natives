@@ -1,0 +1,29 @@
+{
+    "SET_SCENARIO_PEDS_SPAWN_IN_SPHERE_AREA": {
+        "name": "SET_SCENARIO_PEDS_SPAWN_IN_SPHERE_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void"
+    }
+}

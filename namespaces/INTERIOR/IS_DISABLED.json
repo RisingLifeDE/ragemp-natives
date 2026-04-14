@@ -1,0 +1,13 @@
+{
+    "IS_DISABLED": {
+        "name": "IS_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

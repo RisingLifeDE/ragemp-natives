@@ -1,0 +1,8 @@
+{
+    "START_USER_CONTENT_PERMISSIONS_CHECK": {
+        "name": "START_USER_CONTENT_PERMISSIONS_CHECK",
+        "comment": "",
+        "params": [],
+        "return_type": "NetworkStartUserContentPermissionsCheckResult"
+    }
+}

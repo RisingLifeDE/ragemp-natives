@@ -1,0 +1,17 @@
+{
+    "SET_SHOOT_RATE": {
+        "name": "SET_SHOOT_RATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "shootRate"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_PERFORMING_MELEE_ACTION": {
+        "name": "IS_PERFORMING_MELEE_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

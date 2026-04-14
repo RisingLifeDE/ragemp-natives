@@ -1,0 +1,13 @@
+{
+    "WAYPOINT_PLAYBACK_STOP_AIMING_OR_SHOOTING": {
+        "name": "WAYPOINT_PLAYBACK_STOP_AIMING_OR_SHOOTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

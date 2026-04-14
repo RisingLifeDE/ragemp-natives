@@ -1,0 +1,17 @@
+{
+    "IS_IN_ANY_VEHICLE": {
+        "name": "IS_IN_ANY_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "atGetIn"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

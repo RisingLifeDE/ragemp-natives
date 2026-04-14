@@ -1,0 +1,69 @@
+{
+    "ATTACH_TO_ENTITY": {
+        "name": "ATTACH_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity1"
+            },
+            {
+                "type": "float",
+                "name": "entity2"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "useSoftPinning"
+            },
+            {
+                "type": "BOOL",
+                "name": "collision"
+            },
+            {
+                "type": "BOOL",
+                "name": "isPed"
+            },
+            {
+                "type": "float",
+                "name": "vertexIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "fixedRot"
+            }
+        ],
+        "return_type": "void"
+    }
+}

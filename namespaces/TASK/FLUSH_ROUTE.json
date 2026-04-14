@@ -1,0 +1,8 @@
+{
+    "FLUSH_ROUTE": {
+        "name": "FLUSH_ROUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

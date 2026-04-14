@@ -1,0 +1,25 @@
+{
+    "GOTO_ENTITY_AIMING": {
+        "name": "GOTO_ENTITY_AIMING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "target"
+            },
+            {
+                "type": "float",
+                "name": "distanceToStopAt"
+            },
+            {
+                "type": "float",
+                "name": "StartAimingDist"
+            }
+        ],
+        "return_type": "void"
+    }
+}

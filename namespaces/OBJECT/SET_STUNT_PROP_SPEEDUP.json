@@ -1,0 +1,17 @@
+{
+    "SET_STUNT_PROP_SPEEDUP": {
+        "name": "SET_STUNT_PROP_SPEEDUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "SET_CHECKPOINT_CYLINDER_HEIGHT": {
+        "name": "SET_CHECKPOINT_CYLINDER_HEIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "checkpoint"
+            },
+            {
+                "type": "float",
+                "name": "nearHeight"
+            },
+            {
+                "type": "float",
+                "name": "farHeight"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void"
+    }
+}

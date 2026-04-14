@@ -1,0 +1,8 @@
+{
+    "GET_FINAL_RENDERED_MOTION_BLUR_STRENGTH": {
+        "name": "GET_FINAL_RENDERED_MOTION_BLUR_STRENGTH",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

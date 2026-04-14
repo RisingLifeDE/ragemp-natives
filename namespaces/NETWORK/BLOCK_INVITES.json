@@ -1,0 +1,13 @@
+{
+    "BLOCK_INVITES": {
+        "name": "BLOCK_INVITES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

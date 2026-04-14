@@ -1,0 +1,8 @@
+{
+    "SET_MULTIPLAYER_BANK_CASH": {
+        "name": "SET_MULTIPLAYER_BANK_CASH",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

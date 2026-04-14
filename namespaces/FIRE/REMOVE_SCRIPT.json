@@ -1,0 +1,13 @@
+{
+    "REMOVE_SCRIPT": {
+        "name": "REMOVE_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "fireHandle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

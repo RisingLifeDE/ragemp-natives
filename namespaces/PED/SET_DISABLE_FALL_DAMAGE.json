@@ -1,0 +1,17 @@
+{
+    "SET_DISABLE_FALL_DAMAGE": {
+        "name": "SET_DISABLE_FALL_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void"
+    }
+}

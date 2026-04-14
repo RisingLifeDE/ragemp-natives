@@ -1,0 +1,8 @@
+{
+    "IS_IN_TUTORIAL_SESSION": {
+        "name": "IS_IN_TUTORIAL_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

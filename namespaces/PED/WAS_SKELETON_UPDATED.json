@@ -1,0 +1,13 @@
+{
+    "WAS_SKELETON_UPDATED": {
+        "name": "WAS_SKELETON_UPDATED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

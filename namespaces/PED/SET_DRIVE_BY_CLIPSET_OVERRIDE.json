@@ -1,0 +1,17 @@
+{
+    "SET_DRIVE_BY_CLIPSET_OVERRIDE": {
+        "name": "SET_DRIVE_BY_CLIPSET_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "char*",
+                "name": "clipset"
+            }
+        ],
+        "return_type": "void"
+    }
+}

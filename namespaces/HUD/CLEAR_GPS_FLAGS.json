@@ -1,0 +1,8 @@
+{
+    "CLEAR_GPS_FLAGS": {
+        "name": "CLEAR_GPS_FLAGS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

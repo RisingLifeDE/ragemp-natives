@@ -1,0 +1,13 @@
+{
+    "SET_PLAYER_SWITCH_ESTABLISHING_SHOT": {
+        "name": "SET_PLAYER_SWITCH_ESTABLISHING_SHOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void"
+    }
+}

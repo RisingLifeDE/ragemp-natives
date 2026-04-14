@@ -1,0 +1,8 @@
+{
+    "THEFEED_DISABLE_LOADING_SCREEN_TIPS": {
+        "name": "THEFEED_DISABLE_LOADING_SCREEN_TIPS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

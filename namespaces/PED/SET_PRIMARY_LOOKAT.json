@@ -1,0 +1,17 @@
+{
+    "SET_PRIMARY_LOOKAT": {
+        "name": "SET_PRIMARY_LOOKAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "lookAt"
+            }
+        ],
+        "return_type": "void"
+    }
+}

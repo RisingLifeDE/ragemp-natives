@@ -1,0 +1,8 @@
+{
+    "ENABLE_SWITCH_PAUSE_BEFORE_DESCENT": {
+        "name": "ENABLE_SWITCH_PAUSE_BEFORE_DESCENT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

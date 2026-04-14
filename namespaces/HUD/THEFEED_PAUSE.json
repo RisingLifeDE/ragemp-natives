@@ -1,0 +1,8 @@
+{
+    "THEFEED_PAUSE": {
+        "name": "THEFEED_PAUSE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

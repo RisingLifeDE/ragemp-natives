@@ -1,0 +1,17 @@
+{
+    "FILLOUT_PM_PLAYER_LIST": {
+        "name": "FILLOUT_PM_PLAYER_LIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float"
+    }
+}

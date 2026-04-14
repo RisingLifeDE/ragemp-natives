@@ -1,0 +1,8 @@
+{
+    "CAN_SET_WAYPOINT": {
+        "name": "CAN_SET_WAYPOINT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

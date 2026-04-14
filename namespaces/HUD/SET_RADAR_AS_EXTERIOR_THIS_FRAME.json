@@ -1,0 +1,8 @@
+{
+    "SET_RADAR_AS_EXTERIOR_THIS_FRAME": {
+        "name": "SET_RADAR_AS_EXTERIOR_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

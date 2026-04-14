@@ -1,0 +1,13 @@
+{
+    "GET_DLC_VEHICLE_DATA": {
+        "name": "GET_DLC_VEHICLE_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "dlcVehicleIndex"
+            }
+        ],
+        "return_type": "float"
+    }
+}

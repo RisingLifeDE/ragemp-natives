@@ -1,0 +1,13 @@
+{
+    "_0X_B8B52E498014F5B0": {
+        "name": "_0X_B8B52E498014F5B0",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

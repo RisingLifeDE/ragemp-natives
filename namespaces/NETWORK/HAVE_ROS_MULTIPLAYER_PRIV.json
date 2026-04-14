@@ -1,0 +1,8 @@
+{
+    "HAVE_ROS_MULTIPLAYER_PRIV": {
+        "name": "HAVE_ROS_MULTIPLAYER_PRIV",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_SCRIPT_READY_FOR_EVENTS": {
+        "name": "SET_SCRIPT_READY_FOR_EVENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

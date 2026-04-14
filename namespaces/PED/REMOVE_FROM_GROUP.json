@@ -1,0 +1,13 @@
+{
+    "REMOVE_FROM_GROUP": {
+        "name": "REMOVE_FROM_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "RESET_DISPATCH_SPAWN_LOCATION": {
+        "name": "RESET_DISPATCH_SPAWN_LOCATION",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

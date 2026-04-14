@@ -1,0 +1,65 @@
+{
+    "PLANE_MISSION": {
+        "name": "PLANE_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "pilot"
+            },
+            {
+                "type": "float",
+                "name": "aircraft"
+            },
+            {
+                "type": "float",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "float",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "destinationX"
+            },
+            {
+                "type": "float",
+                "name": "destinationY"
+            },
+            {
+                "type": "float",
+                "name": "destinationZ"
+            },
+            {
+                "type": "float",
+                "name": "missionFlag"
+            },
+            {
+                "type": "float",
+                "name": "angularDrag"
+            },
+            {
+                "type": "float",
+                "name": "unk"
+            },
+            {
+                "type": "float",
+                "name": "targetHeading"
+            },
+            {
+                "type": "float",
+                "name": "maxZ"
+            },
+            {
+                "type": "float",
+                "name": "minZ"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void"
+    }
+}

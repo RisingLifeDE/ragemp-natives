@@ -1,0 +1,13 @@
+{
+    "REMOVE_AIR_DEFENSE_ZONE": {
+        "name": "REMOVE_AIR_DEFENSE_ZONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "zoneId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

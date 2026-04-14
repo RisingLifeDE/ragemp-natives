@@ -1,0 +1,8 @@
+{
+    "PARTICIPANT_ID": {
+        "name": "PARTICIPANT_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

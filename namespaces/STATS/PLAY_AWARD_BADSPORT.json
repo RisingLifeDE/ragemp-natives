@@ -1,0 +1,13 @@
+{
+    "PLAY_AWARD_BADSPORT": {
+        "name": "PLAY_AWARD_BADSPORT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "id"
+            }
+        ],
+        "return_type": "void"
+    }
+}

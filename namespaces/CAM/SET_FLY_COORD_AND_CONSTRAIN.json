@@ -1,0 +1,25 @@
+{
+    "SET_FLY_COORD_AND_CONSTRAIN": {
+        "name": "SET_FLY_COORD_AND_CONSTRAIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "SET_HEAD_OVERLAY": {
+        "name": "SET_HEAD_OVERLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "overlayID"
+            },
+            {
+                "type": "float",
+                "name": "index"
+            },
+            {
+                "type": "float",
+                "name": "opacity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

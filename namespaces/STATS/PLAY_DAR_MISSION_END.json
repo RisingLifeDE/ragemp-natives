@@ -1,0 +1,8 @@
+{
+    "PLAY_DAR_MISSION_END": {
+        "name": "PLAY_DAR_MISSION_END",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

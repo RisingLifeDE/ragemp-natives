@@ -1,0 +1,13 @@
+{
+    "GET_INFO": {
+        "name": "GET_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "GetInteriorInfoResult"
+    }
+}

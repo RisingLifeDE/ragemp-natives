@@ -1,0 +1,21 @@
+{
+    "GOLF_TRAIL_SET_RADIUS": {
+        "name": "GOLF_TRAIL_SET_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

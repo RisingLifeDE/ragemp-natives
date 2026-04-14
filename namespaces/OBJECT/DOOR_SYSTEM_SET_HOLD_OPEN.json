@@ -1,0 +1,17 @@
+{
+    "DOOR_SYSTEM_SET_HOLD_OPEN": {
+        "name": "DOOR_SYSTEM_SET_HOLD_OPEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "doorHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

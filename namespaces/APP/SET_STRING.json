@@ -1,0 +1,17 @@
+{
+    "SET_STRING": {
+        "name": "SET_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "property"
+            },
+            {
+                "type": "char*",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

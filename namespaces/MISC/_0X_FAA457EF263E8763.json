@@ -1,0 +1,13 @@
+{
+    "_0X_FAA457EF263E8763": {
+        "name": "_0X_FAA457EF263E8763",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "float"
+    }
+}

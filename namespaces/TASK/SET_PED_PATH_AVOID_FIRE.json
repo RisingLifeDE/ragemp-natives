@@ -1,0 +1,17 @@
+{
+    "SET_PED_PATH_AVOID_FIRE": {
+        "name": "SET_PED_PATH_AVOID_FIRE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "avoidFire"
+            }
+        ],
+        "return_type": "void"
+    }
+}

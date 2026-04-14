@@ -1,0 +1,13 @@
+{
+    "USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR": {
+        "name": "USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "_0X6A98C2ECF57FA5D4": {
+        "name": "_0X6A98C2ECF57FA5D4",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

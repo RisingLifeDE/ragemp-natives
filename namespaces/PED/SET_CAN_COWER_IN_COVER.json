@@ -1,0 +1,17 @@
+{
+    "SET_CAN_COWER_IN_COVER": {
+        "name": "SET_CAN_COWER_IN_COVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "SEETHROUGH_GET_MAX_THICKNESS": {
+        "name": "SEETHROUGH_GET_MAX_THICKNESS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

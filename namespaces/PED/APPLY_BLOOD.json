@@ -1,0 +1,33 @@
+{
+    "APPLY_BLOOD": {
+        "name": "APPLY_BLOOD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "char*",
+                "name": "woundType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

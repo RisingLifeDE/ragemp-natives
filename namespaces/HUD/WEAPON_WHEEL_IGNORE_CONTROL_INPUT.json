@@ -1,0 +1,13 @@
+{
+    "WEAPON_WHEEL_IGNORE_CONTROL_INPUT": {
+        "name": "WEAPON_WHEEL_IGNORE_CONTROL_INPUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

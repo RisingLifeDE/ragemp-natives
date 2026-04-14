@@ -1,0 +1,13 @@
+{
+    "GET_BLIP_INFO_ID_PICKUP_INDEX": {
+        "name": "GET_BLIP_INFO_ID_PICKUP_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "float"
+    }
+}

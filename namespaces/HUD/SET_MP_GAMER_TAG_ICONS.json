@@ -1,0 +1,17 @@
+{
+    "SET_MP_GAMER_TAG_ICONS": {
+        "name": "SET_MP_GAMER_TAG_ICONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

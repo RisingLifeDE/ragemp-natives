@@ -1,0 +1,8 @@
+{
+    "END_PETROL_TRAIL_DECALS": {
+        "name": "END_PETROL_TRAIL_DECALS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

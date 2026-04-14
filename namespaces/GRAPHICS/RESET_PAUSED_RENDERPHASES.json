@@ -1,0 +1,8 @@
+{
+    "RESET_PAUSED_RENDERPHASES": {
+        "name": "RESET_PAUSED_RENDERPHASES",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

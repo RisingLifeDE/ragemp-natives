@@ -1,0 +1,8 @@
+{
+    "GET_TRANSITION_HOST": {
+        "name": "GET_TRANSITION_HOST",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

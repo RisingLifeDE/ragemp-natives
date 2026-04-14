@@ -1,0 +1,17 @@
+{
+    "SET_CAN_BE_KNOCKED_OFF_VEHICLE": {
+        "name": "SET_CAN_BE_KNOCKED_OFF_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "state"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLEAR_SEQUENCE": {
+        "name": "CLEAR_SEQUENCE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

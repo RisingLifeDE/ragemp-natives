@@ -1,0 +1,13 @@
+{
+    "GET_FORWARD_VECTOR": {
+        "name": "GET_FORWARD_VECTOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3"
+    }
+}

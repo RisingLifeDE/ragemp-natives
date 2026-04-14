@@ -1,0 +1,8 @@
+{
+    "IS_NETWORK_LOADING_SCENE": {
+        "name": "IS_NETWORK_LOADING_SCENE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

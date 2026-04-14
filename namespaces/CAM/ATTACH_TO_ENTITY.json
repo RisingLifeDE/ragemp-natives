@@ -1,0 +1,33 @@
+{
+    "ATTACH_TO_ENTITY": {
+        "name": "ATTACH_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "BOOL",
+                "name": "isRelative"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "DELETE_APP_DATA": {
+        "name": "DELETE_APP_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "appName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

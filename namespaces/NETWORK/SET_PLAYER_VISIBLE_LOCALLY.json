@@ -1,0 +1,17 @@
+{
+    "SET_PLAYER_VISIBLE_LOCALLY": {
+        "name": "SET_PLAYER_VISIBLE_LOCALLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

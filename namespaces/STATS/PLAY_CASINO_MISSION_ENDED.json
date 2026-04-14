@@ -1,0 +1,8 @@
+{
+    "PLAY_CASINO_MISSION_ENDED": {
+        "name": "PLAY_CASINO_MISSION_ENDED",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

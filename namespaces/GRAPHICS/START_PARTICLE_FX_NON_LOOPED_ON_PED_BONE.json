@@ -1,0 +1,61 @@
+{
+    "START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE": {
+        "name": "START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "effectName"
+            },
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisX"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisY"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisZ"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

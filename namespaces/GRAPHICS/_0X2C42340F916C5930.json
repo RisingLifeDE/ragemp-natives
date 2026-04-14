@@ -1,0 +1,13 @@
+{
+    "_0X2C42340F916C5930": {
+        "name": "_0X2C42340F916C5930",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

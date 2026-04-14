@@ -1,0 +1,21 @@
+{
+    "SET_CAN_PED_EQUIP": {
+        "name": "SET_CAN_PED_EQUIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

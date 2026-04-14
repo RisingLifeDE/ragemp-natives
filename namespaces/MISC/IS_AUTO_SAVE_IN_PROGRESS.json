@@ -1,0 +1,8 @@
+{
+    "IS_AUTO_SAVE_IN_PROGRESS": {
+        "name": "IS_AUTO_SAVE_IN_PROGRESS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

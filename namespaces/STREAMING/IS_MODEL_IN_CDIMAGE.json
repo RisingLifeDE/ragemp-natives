@@ -1,0 +1,13 @@
+{
+    "IS_MODEL_IN_CDIMAGE": {
+        "name": "IS_MODEL_IN_CDIMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_UNK_GLOBAL_BOOL_RELATED_TO_DAMAGE": {
+        "name": "SET_UNK_GLOBAL_BOOL_RELATED_TO_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "CLAN_REQUEST_EMBLEM": {
+        "name": "CLAN_REQUEST_EMBLEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

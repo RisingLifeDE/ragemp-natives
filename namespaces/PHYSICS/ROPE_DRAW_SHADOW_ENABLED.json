@@ -1,0 +1,13 @@
+{
+    "ROPE_DRAW_SHADOW_ENABLED": {
+        "name": "ROPE_DRAW_SHADOW_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "float"
+    }
+}

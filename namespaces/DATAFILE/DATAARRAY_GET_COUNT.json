@@ -1,0 +1,8 @@
+{
+    "DATAARRAY_GET_COUNT": {
+        "name": "DATAARRAY_GET_COUNT",
+        "comment": "",
+        "params": [],
+        "return_type": "DataarrayGetCountResult"
+    }
+}

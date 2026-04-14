@@ -1,0 +1,21 @@
+{
+    "SET_DAMPING": {
+        "name": "SET_DAMPING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "vertex"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

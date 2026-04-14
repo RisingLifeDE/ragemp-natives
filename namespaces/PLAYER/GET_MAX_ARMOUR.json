@@ -1,0 +1,8 @@
+{
+    "GET_MAX_ARMOUR": {
+        "name": "GET_MAX_ARMOUR",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

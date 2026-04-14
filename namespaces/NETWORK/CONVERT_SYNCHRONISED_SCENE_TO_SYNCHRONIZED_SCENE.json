@@ -1,0 +1,13 @@
+{
+    "CONVERT_SYNCHRONISED_SCENE_TO_SYNCHRONIZED_SCENE": {
+        "name": "CONVERT_SYNCHRONISED_SCENE_TO_SYNCHRONIZED_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netScene"
+            }
+        ],
+        "return_type": "float"
+    }
+}

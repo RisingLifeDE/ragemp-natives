@@ -1,0 +1,17 @@
+{
+    "SET_ALLOW_LOW_LOD_BUOYANCY": {
+        "name": "SET_ALLOW_LOW_LOD_BUOYANCY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "TAKE_CONTROL_OF_FRONTEND": {
+        "name": "TAKE_CONTROL_OF_FRONTEND",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

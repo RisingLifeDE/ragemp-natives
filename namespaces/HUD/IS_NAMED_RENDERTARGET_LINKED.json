@@ -1,0 +1,13 @@
+{
+    "IS_NAMED_RENDERTARGET_LINKED": {
+        "name": "IS_NAMED_RENDERTARGET_LINKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

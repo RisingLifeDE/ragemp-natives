@@ -1,0 +1,13 @@
+{
+    "CLAN_IS_EMBLEM_READY": {
+        "name": "CLAN_IS_EMBLEM_READY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

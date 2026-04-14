@@ -1,0 +1,17 @@
+{
+    "SET_GROUP_SEPARATION_RANGE": {
+        "name": "SET_GROUP_SEPARATION_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "groupHandle"
+            },
+            {
+                "type": "float",
+                "name": "separationRange"
+            }
+        ],
+        "return_type": "void"
+    }
+}

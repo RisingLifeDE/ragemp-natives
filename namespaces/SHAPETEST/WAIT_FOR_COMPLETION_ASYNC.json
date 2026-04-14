@@ -1,0 +1,17 @@
+{
+    "WAIT_FOR_COMPLETION_ASYNC": {
+        "name": "WAIT_FOR_COMPLETION_ASYNC",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "raycastHandle"
+            },
+            {
+                "type": "float",
+                "name": "timeout"
+            }
+        ],
+        "return_type": "Promise<boolean>"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "CREATE": {
+        "name": "CREATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            },
+            {
+                "type": "BOOL",
+                "name": "bScriptHostObj"
+            },
+            {
+                "type": "BOOL",
+                "name": "dynamic"
+            }
+        ],
+        "return_type": "float"
+    }
+}

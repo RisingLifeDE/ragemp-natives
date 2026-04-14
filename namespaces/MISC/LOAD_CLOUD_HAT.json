@@ -1,0 +1,17 @@
+{
+    "LOAD_CLOUD_HAT": {
+        "name": "LOAD_CLOUD_HAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "transitionTime"
+            }
+        ],
+        "return_type": "void"
+    }
+}

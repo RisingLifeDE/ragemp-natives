@@ -1,0 +1,8 @@
+{
+    "REMOVE_NAVMESH_REQUIRED_REGIONS": {
+        "name": "REMOVE_NAVMESH_REQUIRED_REGIONS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

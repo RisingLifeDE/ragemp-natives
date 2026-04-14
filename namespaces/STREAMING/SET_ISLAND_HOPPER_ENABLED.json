@@ -1,0 +1,17 @@
+{
+    "SET_ISLAND_HOPPER_ENABLED": {
+        "name": "SET_ISLAND_HOPPER_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_ENTITY_KILLER_OF_PLAYER": {
+        "name": "GET_ENTITY_KILLER_OF_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            }
+        ],
+        "return_type": "NetworkGetEntityKillerOfPlayerResult"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "SET_TEXTURE_VARIATION": {
+        "name": "SET_TEXTURE_VARIATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "textureVariation"
+            }
+        ],
+        "return_type": "void"
+    }
+}

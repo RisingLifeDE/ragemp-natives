@@ -1,0 +1,13 @@
+{
+    "SESSION_SET_MATCHMAKING_GROUP": {
+        "name": "SESSION_SET_MATCHMAKING_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "matchmakingGroup"
+            }
+        ],
+        "return_type": "void"
+    }
+}

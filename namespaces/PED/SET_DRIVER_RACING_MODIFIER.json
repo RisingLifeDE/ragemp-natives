@@ -1,0 +1,17 @@
+{
+    "SET_DRIVER_RACING_MODIFIER": {
+        "name": "SET_DRIVER_RACING_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void"
+    }
+}

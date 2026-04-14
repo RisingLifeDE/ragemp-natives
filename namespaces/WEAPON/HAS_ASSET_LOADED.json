@@ -1,0 +1,13 @@
+{
+    "HAS_ASSET_LOADED": {
+        "name": "HAS_ASSET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

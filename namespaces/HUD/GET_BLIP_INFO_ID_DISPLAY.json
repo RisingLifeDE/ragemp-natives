@@ -1,0 +1,13 @@
+{
+    "GET_BLIP_INFO_ID_DISPLAY": {
+        "name": "GET_BLIP_INFO_ID_DISPLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "blip"
+            }
+        ],
+        "return_type": "float"
+    }
+}

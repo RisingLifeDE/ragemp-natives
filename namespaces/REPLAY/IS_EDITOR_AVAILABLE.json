@@ -1,0 +1,8 @@
+{
+    "IS_EDITOR_AVAILABLE": {
+        "name": "IS_EDITOR_AVAILABLE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

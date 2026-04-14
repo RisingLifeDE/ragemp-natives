@@ -1,0 +1,8 @@
+{
+    "CAN_PHONE_BE_SEEN_ON_SCREEN": {
+        "name": "CAN_PHONE_BE_SEEN_ON_SCREEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

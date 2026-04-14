@@ -1,0 +1,8 @@
+{
+    "CLEAR_OVERRIDE_WEATHER": {
+        "name": "CLEAR_OVERRIDE_WEATHER",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

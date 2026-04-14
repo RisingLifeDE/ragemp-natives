@@ -1,0 +1,29 @@
+{
+    "SET_COMPONENT_VARIATION": {
+        "name": "SET_COMPONENT_VARIATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "componentId"
+            },
+            {
+                "type": "float",
+                "name": "drawableId"
+            },
+            {
+                "type": "float",
+                "name": "textureId"
+            },
+            {
+                "type": "float",
+                "name": "paletteId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "_0X45F35C0EDC33B03B": {
+        "name": "_0X45F35C0EDC33B03B",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netScene"
+            },
+            {
+                "type": "float",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "char*",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void"
+    }
+}

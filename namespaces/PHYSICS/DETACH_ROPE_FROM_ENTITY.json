@@ -1,0 +1,17 @@
+{
+    "DETACH_ROPE_FROM_ENTITY": {
+        "name": "DETACH_ROPE_FROM_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

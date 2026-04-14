@@ -1,0 +1,17 @@
+{
+    "IS_BIT_SET": {
+        "name": "IS_BIT_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "address"
+            },
+            {
+                "type": "float",
+                "name": "offset"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

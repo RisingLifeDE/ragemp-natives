@@ -1,0 +1,17 @@
+{
+    "GET_ANIM_DURATION": {
+        "name": "GET_ANIM_DURATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "animDict"
+            },
+            {
+                "type": "char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REQUEST_SCALEFORM_MOVIE_INSTANCE": {
+        "name": "REQUEST_SCALEFORM_MOVIE_INSTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "scaleformName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

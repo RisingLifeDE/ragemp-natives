@@ -1,0 +1,17 @@
+{
+    "GET_IS_ACTIVE": {
+        "name": "GET_IS_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "taskIndex"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

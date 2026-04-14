@@ -1,0 +1,17 @@
+{
+    "STAND_STILL": {
+        "name": "STAND_STILL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "void"
+    }
+}

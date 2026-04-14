@@ -1,0 +1,8 @@
+{
+    "THREAD_ITERATOR_RESET": {
+        "name": "THREAD_ITERATOR_RESET",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "CLEAR_ALL_PROPS": {
+        "name": "CLEAR_ALL_PROPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

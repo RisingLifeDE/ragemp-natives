@@ -1,0 +1,25 @@
+{
+    "END_TEXT_COMMAND_DISPLAY_HELP": {
+        "name": "END_TEXT_COMMAND_DISPLAY_HELP",
+        "comment": "",
+        "params": [
+            {
+                "type": "RageEnums.Hud.DisplayHelpId",
+                "name": "helpid"
+            },
+            {
+                "type": "BOOL",
+                "name": "loop"
+            },
+            {
+                "type": "BOOL",
+                "name": "beep"
+            },
+            {
+                "type": "float",
+                "name": "shape"
+            }
+        ],
+        "return_type": "void"
+    }
+}

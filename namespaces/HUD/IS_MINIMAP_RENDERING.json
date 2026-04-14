@@ -1,0 +1,8 @@
+{
+    "IS_MINIMAP_RENDERING": {
+        "name": "IS_MINIMAP_RENDERING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "DESTROY_TRACKED_POINT": {
+        "name": "DESTROY_TRACKED_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "point"
+            }
+        ],
+        "return_type": "void"
+    }
+}

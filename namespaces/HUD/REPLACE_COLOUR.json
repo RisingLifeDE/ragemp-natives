@@ -1,0 +1,17 @@
+{
+    "REPLACE_COLOUR": {
+        "name": "REPLACE_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudColorIndex"
+            },
+            {
+                "type": "float",
+                "name": "hudColorIndex2"
+            }
+        ],
+        "return_type": "void"
+    }
+}

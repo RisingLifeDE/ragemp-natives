@@ -1,0 +1,21 @@
+{
+    "FOLLOW_POINT_ROUTE": {
+        "name": "FOLLOW_POINT_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "unknown"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "REMOVE_ANIM_DICT": {
+        "name": "REMOVE_ANIM_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "void"
+    }
+}

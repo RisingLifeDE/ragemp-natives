@@ -1,0 +1,8 @@
+{
+    "CLEAR_REMINDER_MESSAGE": {
+        "name": "CLEAR_REMINDER_MESSAGE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "LOAD_MOVIE_MESH_SET": {
+        "name": "LOAD_MOVIE_MESH_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "movieMeshSetName"
+            }
+        ],
+        "return_type": "float"
+    }
+}

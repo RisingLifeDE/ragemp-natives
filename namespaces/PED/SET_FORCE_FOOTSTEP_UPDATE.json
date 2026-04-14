@@ -1,0 +1,17 @@
+{
+    "SET_FORCE_FOOTSTEP_UPDATE": {
+        "name": "SET_FORCE_FOOTSTEP_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

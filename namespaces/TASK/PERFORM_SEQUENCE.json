@@ -1,0 +1,17 @@
+{
+    "PERFORM_SEQUENCE": {
+        "name": "PERFORM_SEQUENCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "taskSequenceId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

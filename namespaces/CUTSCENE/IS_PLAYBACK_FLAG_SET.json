@@ -1,0 +1,13 @@
+{
+    "IS_PLAYBACK_FLAG_SET": {
+        "name": "IS_PLAYBACK_FLAG_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "flag"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "TEXTURE_DOWNLOAD_HAS_FAILED": {
+        "name": "TEXTURE_DOWNLOAD_HAS_FAILED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

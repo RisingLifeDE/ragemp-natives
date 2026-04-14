@@ -1,0 +1,13 @@
+{
+    "UNPATCH_DECAL_DIFFUSE_MAP": {
+        "name": "UNPATCH_DECAL_DIFFUSE_MAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "decalType"
+            }
+        ],
+        "return_type": "void"
+    }
+}

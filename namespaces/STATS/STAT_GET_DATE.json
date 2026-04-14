@@ -1,0 +1,21 @@
+{
+    "STAT_GET_DATE": {
+        "name": "STAT_GET_DATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statHash"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "float"
+    }
+}

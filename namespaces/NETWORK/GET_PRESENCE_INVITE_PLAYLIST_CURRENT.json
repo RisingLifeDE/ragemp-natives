@@ -1,0 +1,13 @@
+{
+    "GET_PRESENCE_INVITE_PLAYLIST_CURRENT": {
+        "name": "GET_PRESENCE_INVITE_PLAYLIST_CURRENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

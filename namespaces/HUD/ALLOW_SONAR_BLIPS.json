@@ -1,0 +1,13 @@
+{
+    "ALLOW_SONAR_BLIPS": {
+        "name": "ALLOW_SONAR_BLIPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

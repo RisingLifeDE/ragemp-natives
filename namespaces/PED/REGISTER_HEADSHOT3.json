@@ -1,0 +1,13 @@
+{
+    "REGISTER_HEADSHOT3": {
+        "name": "REGISTER_HEADSHOT3",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float"
+    }
+}

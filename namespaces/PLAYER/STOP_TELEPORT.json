@@ -1,0 +1,8 @@
+{
+    "STOP_TELEPORT": {
+        "name": "STOP_TELEPORT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

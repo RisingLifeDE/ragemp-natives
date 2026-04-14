@@ -1,0 +1,13 @@
+{
+    "GET_SIZE_OF_SAVE_DATA": {
+        "name": "GET_SIZE_OF_SAVE_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

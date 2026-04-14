@@ -1,0 +1,17 @@
+{
+    "BEGIN_SCALEFORM_HUD_MOVIE_METHOD": {
+        "name": "BEGIN_SCALEFORM_HUD_MOVIE_METHOD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "hudComponent"
+            },
+            {
+                "type": "char*",
+                "name": "methodName"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

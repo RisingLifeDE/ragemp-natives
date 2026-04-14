@@ -1,0 +1,13 @@
+{
+    "RESERVE_LOCAL_OBJECTS": {
+        "name": "RESERVE_LOCAL_OBJECTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "DISPOSE_SYNCHRONIZED_SCENE": {
+        "name": "DISPOSE_SYNCHRONIZED_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scene"
+            }
+        ],
+        "return_type": "void"
+    }
+}

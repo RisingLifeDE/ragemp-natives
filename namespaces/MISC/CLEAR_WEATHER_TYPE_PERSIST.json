@@ -1,0 +1,8 @@
+{
+    "CLEAR_WEATHER_TYPE_PERSIST": {
+        "name": "CLEAR_WEATHER_TYPE_PERSIST",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

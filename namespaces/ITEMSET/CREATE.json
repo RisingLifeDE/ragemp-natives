@@ -1,0 +1,13 @@
+{
+    "CREATE": {
+        "name": "CREATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float"
+    }
+}

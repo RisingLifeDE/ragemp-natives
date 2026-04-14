@@ -1,0 +1,21 @@
+{
+    "DOES_SHOP_PED_APPAREL_HAVE_RESTRICTION_TAG": {
+        "name": "DOES_SHOP_PED_APPAREL_HAVE_RESTRICTION_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "componentHash"
+            },
+            {
+                "type": "float",
+                "name": "restrictionTagHash"
+            },
+            {
+                "type": "float",
+                "name": "componentId"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

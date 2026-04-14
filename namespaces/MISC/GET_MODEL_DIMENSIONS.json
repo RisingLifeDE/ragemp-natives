@@ -1,0 +1,13 @@
+{
+    "GET_MODEL_DIMENSIONS": {
+        "name": "GET_MODEL_DIMENSIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "GetModelDimensionsResult"
+    }
+}

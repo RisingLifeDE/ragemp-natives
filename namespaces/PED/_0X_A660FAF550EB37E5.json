@@ -1,0 +1,17 @@
+{
+    "_0X_A660FAF550EB37E5": {
+        "name": "_0X_A660FAF550EB37E5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

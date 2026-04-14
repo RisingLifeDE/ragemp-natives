@@ -1,0 +1,13 @@
+{
+    "USING_MISSION_CREATOR": {
+        "name": "USING_MISSION_CREATOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

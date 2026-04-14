@@ -1,0 +1,13 @@
+{
+    "SET_CAN_DO_DRIVE_BY": {
+        "name": "SET_CAN_DO_DRIVE_BY",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

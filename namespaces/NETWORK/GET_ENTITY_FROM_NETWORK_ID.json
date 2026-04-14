@@ -1,0 +1,13 @@
+{
+    "GET_ENTITY_FROM_NETWORK_ID": {
+        "name": "GET_ENTITY_FROM_NETWORK_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "netId"
+            }
+        ],
+        "return_type": "float"
+    }
+}

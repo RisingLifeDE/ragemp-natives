@@ -1,0 +1,13 @@
+{
+    "ENABLE_DEATHBLOOD_SEETHROUGH": {
+        "name": "ENABLE_DEATHBLOOD_SEETHROUGH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

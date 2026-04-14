@@ -1,0 +1,13 @@
+{
+    "HAS_ROS_PRIVILEGE_END_DATE": {
+        "name": "HAS_ROS_PRIVILEGE_END_DATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "privilege"
+            }
+        ],
+        "return_type": "NetworkHasRosPrivilegeEndDateResult"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "ALLOW_LOCAL_ENTITY_ATTACHMENT": {
+        "name": "ALLOW_LOCAL_ENTITY_ATTACHMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

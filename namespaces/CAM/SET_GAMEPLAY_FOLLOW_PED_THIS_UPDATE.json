@@ -1,0 +1,13 @@
+{
+    "SET_GAMEPLAY_FOLLOW_PED_THIS_UPDATE": {
+        "name": "SET_GAMEPLAY_FOLLOW_PED_THIS_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "IS_HELMET_UNK": {
+        "name": "IS_HELMET_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

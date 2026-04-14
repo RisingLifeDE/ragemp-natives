@@ -1,0 +1,13 @@
+{
+    "LOCK_MINIMAP_ANGLE": {
+        "name": "LOCK_MINIMAP_ANGLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

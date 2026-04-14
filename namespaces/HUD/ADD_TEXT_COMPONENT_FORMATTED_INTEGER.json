@@ -1,0 +1,17 @@
+{
+    "ADD_TEXT_COMPONENT_FORMATTED_INTEGER": {
+        "name": "ADD_TEXT_COMPONENT_FORMATTED_INTEGER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "commaSeparated"
+            }
+        ],
+        "return_type": "void"
+    }
+}

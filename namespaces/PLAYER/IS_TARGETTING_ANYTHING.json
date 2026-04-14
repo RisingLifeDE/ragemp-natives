@@ -1,0 +1,8 @@
+{
+    "IS_TARGETTING_ANYTHING": {
+        "name": "IS_TARGETTING_ANYTHING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "SET_INTERIOR_ZOOM_LEVEL_DECREASED": {
+        "name": "SET_INTERIOR_ZOOM_LEVEL_DECREASED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

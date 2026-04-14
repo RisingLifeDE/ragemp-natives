@@ -1,0 +1,13 @@
+{
+    "OVERRIDE_CLOCK_MILLISECONDS_PER_GAME_MINUTE": {
+        "name": "OVERRIDE_CLOCK_MILLISECONDS_PER_GAME_MINUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ms"
+            }
+        ],
+        "return_type": "void"
+    }
+}

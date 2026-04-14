@@ -1,0 +1,13 @@
+{
+    "CAN_REGISTER_MISSION_PICKUPS": {
+        "name": "CAN_REGISTER_MISSION_PICKUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

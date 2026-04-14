@@ -1,0 +1,13 @@
+{
+    "GET_NEAR_CLIP": {
+        "name": "GET_NEAR_CLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            }
+        ],
+        "return_type": "float"
+    }
+}

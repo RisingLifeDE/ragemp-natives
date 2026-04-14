@@ -1,0 +1,8 @@
+{
+    "GET_NUM_CONNECTED_PLAYERS": {
+        "name": "GET_NUM_CONNECTED_PLAYERS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

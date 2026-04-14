@@ -1,0 +1,13 @@
+{
+    "SET_AUTO_GIVE_SCUBA_GEAR_WHEN_EXIT_VEHICLE": {
+        "name": "SET_AUTO_GIVE_SCUBA_GEAR_WHEN_EXIT_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

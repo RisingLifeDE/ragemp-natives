@@ -1,0 +1,21 @@
+{
+    "TRY_ACCESS_TUNABLE_BOOL_HASH": {
+        "name": "TRY_ACCESS_TUNABLE_BOOL_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "tunableContext"
+            },
+            {
+                "type": "float",
+                "name": "tunableName"
+            },
+            {
+                "type": "BOOL",
+                "name": "defaultValue"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

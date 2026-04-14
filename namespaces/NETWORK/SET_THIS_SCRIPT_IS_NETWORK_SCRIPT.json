@@ -1,0 +1,21 @@
+{
+    "SET_THIS_SCRIPT_IS_NETWORK_SCRIPT": {
+        "name": "SET_THIS_SCRIPT_IS_NETWORK_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "lobbySize"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "playerId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

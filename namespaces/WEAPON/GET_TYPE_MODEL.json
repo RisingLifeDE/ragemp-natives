@@ -1,0 +1,13 @@
+{
+    "GET_TYPE_MODEL": {
+        "name": "GET_TYPE_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "float"
+    }
+}

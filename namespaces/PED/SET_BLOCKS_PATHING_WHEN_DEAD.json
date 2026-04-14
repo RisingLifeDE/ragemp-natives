@@ -1,0 +1,17 @@
+{
+    "SET_BLOCKS_PATHING_WHEN_DEAD": {
+        "name": "SET_BLOCKS_PATHING_WHEN_DEAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

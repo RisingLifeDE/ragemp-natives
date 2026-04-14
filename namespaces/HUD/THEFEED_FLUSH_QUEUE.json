@@ -1,0 +1,8 @@
+{
+    "THEFEED_FLUSH_QUEUE": {
+        "name": "THEFEED_FLUSH_QUEUE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

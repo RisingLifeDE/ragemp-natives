@@ -1,0 +1,21 @@
+{
+    "GET_HEIGHT_NO_WAVES": {
+        "name": "GET_HEIGHT_NO_WAVES",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "float"
+    }
+}

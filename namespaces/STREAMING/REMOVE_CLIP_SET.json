@@ -1,0 +1,13 @@
+{
+    "REMOVE_CLIP_SET": {
+        "name": "REMOVE_CLIP_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "clipSet"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "_0X_CD71A4ECAB22709E": {
+        "name": "_0X_CD71A4ECAB22709E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

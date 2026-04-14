@@ -1,0 +1,13 @@
+{
+    "FORCE_AI_AND_ANIMATION_UPDATE": {
+        "name": "FORCE_AI_AND_ANIMATION_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "LEADERBOARDS2READ_BY_ROW": {
+        "name": "LEADERBOARDS2READ_BY_ROW",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            }
+        ],
+        "return_type": "Leaderboards2ReadByRowResult"
+    }
+}

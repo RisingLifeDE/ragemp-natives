@@ -1,0 +1,8 @@
+{
+    "PARTICIPANT_ID_TO_INT": {
+        "name": "PARTICIPANT_ID_TO_INT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

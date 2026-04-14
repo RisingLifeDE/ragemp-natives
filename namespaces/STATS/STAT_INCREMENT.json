@@ -1,0 +1,17 @@
+{
+    "STAT_INCREMENT": {
+        "name": "STAT_INCREMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "statName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

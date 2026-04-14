@@ -1,0 +1,13 @@
+{
+    "_0X8D74E26F54B4E5C3": {
+        "name": "_0X8D74E26F54B4E5C3",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

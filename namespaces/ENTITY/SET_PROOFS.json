@@ -1,0 +1,45 @@
+{
+    "SET_PROOFS": {
+        "name": "SET_PROOFS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "bulletProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "fireProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "explosionProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "collisionProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "meleeProof"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "drownProof"
+            }
+        ],
+        "return_type": "void"
+    }
+}

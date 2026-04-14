@@ -1,0 +1,8 @@
+{
+    "IS_FRIEND_HANDLE_ONLINE": {
+        "name": "IS_FRIEND_HANDLE_ONLINE",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

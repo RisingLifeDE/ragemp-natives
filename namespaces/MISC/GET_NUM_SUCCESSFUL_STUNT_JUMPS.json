@@ -1,0 +1,8 @@
+{
+    "GET_NUM_SUCCESSFUL_STUNT_JUMPS": {
+        "name": "GET_NUM_SUCCESSFUL_STUNT_JUMPS",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

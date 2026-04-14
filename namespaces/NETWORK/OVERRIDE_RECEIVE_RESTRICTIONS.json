@@ -1,0 +1,17 @@
+{
+    "OVERRIDE_RECEIVE_RESTRICTIONS": {
+        "name": "OVERRIDE_RECEIVE_RESTRICTIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

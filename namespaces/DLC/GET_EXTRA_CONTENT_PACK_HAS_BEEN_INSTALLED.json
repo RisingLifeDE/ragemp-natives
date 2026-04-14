@@ -1,0 +1,8 @@
+{
+    "GET_EXTRA_CONTENT_PACK_HAS_BEEN_INSTALLED": {
+        "name": "GET_EXTRA_CONTENT_PACK_HAS_BEEN_INSTALLED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

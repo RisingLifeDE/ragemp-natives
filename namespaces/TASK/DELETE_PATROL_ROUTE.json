@@ -1,0 +1,13 @@
+{
+    "DELETE_PATROL_ROUTE": {
+        "name": "DELETE_PATROL_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "patrolRoute"
+            }
+        ],
+        "return_type": "void"
+    }
+}

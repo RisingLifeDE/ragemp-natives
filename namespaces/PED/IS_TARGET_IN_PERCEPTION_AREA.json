@@ -1,0 +1,33 @@
+{
+    "IS_TARGET_IN_PERCEPTION_AREA": {
+        "name": "IS_TARGET_IN_PERCEPTION_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Handle",
+                "name": "ped"
+            },
+            {
+                "type": "Handle",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "focusAngle"
+            },
+            {
+                "type": "float",
+                "name": "focusDistance"
+            },
+            {
+                "type": "float",
+                "name": "peripheralAngle"
+            },
+            {
+                "type": "float",
+                "name": "peripheralDistance"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

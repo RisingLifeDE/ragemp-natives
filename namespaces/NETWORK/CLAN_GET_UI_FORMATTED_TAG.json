@@ -1,0 +1,13 @@
+{
+    "CLAN_GET_UI_FORMATTED_TAG": {
+        "name": "CLAN_GET_UI_FORMATTED_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "bufferSize"
+            }
+        ],
+        "return_type": "NetworkClanGetUiFormattedTagResult"
+    }
+}

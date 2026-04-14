@@ -1,0 +1,21 @@
+{
+    "IS_PED_COMPONENT_ACTIVE": {
+        "name": "IS_PED_COMPONENT_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "componentHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

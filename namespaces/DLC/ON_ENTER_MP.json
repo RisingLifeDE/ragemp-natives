@@ -1,0 +1,8 @@
+{
+    "ON_ENTER_MP": {
+        "name": "ON_ENTER_MP",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

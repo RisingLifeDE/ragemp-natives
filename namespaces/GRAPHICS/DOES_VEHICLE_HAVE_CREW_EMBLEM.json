@@ -1,0 +1,17 @@
+{
+    "DOES_VEHICLE_HAVE_CREW_EMBLEM": {
+        "name": "DOES_VEHICLE_HAVE_CREW_EMBLEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

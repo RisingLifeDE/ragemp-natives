@@ -1,0 +1,17 @@
+{
+    "PLAY_QUICKFIX_TOOL": {
+        "name": "PLAY_QUICKFIX_TOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "element"
+            },
+            {
+                "type": "char*",
+                "name": "item"
+            }
+        ],
+        "return_type": "void"
+    }
+}

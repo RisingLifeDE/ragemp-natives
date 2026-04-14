@@ -1,0 +1,33 @@
+{
+    "STAND_GUARD": {
+        "name": "STAND_GUARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "char*",
+                "name": "scenarioName"
+            }
+        ],
+        "return_type": "void"
+    }
+}

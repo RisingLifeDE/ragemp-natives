@@ -1,0 +1,8 @@
+{
+    "UGC_CLEAR_MODIFY_RESULT": {
+        "name": "UGC_CLEAR_MODIFY_RESULT",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

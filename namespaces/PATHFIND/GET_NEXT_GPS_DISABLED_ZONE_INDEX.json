@@ -1,0 +1,8 @@
+{
+    "GET_NEXT_GPS_DISABLED_ZONE_INDEX": {
+        "name": "GET_NEXT_GPS_DISABLED_ZONE_INDEX",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

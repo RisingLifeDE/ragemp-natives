@@ -1,0 +1,13 @@
+{
+    "DONT_RENDER_IN_GAME_UI": {
+        "name": "DONT_RENDER_IN_GAME_UI",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "val"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "SET_DOF_PARAM": {
+        "name": "SET_DOF_PARAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "paramHash"
+            },
+            {
+                "type": "boolean | number | Array<any>",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

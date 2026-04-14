@@ -1,0 +1,13 @@
+{
+    "SET_GRAVITY_LEVEL": {
+        "name": "SET_GRAVITY_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "level"
+            }
+        ],
+        "return_type": "void"
+    }
+}

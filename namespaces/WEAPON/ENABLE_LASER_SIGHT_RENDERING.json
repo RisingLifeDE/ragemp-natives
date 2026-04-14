@@ -1,0 +1,13 @@
+{
+    "ENABLE_LASER_SIGHT_RENDERING": {
+        "name": "ENABLE_LASER_SIGHT_RENDERING",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

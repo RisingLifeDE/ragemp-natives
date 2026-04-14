@@ -1,0 +1,13 @@
+{
+    "GET_GROUP_ID": {
+        "name": "GET_GROUP_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "interior"
+            }
+        ],
+        "return_type": "float"
+    }
+}

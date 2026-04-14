@@ -1,0 +1,13 @@
+{
+    "FORCE_PICKUP_REGENERATE": {
+        "name": "FORCE_PICKUP_REGENERATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void"
+    }
+}

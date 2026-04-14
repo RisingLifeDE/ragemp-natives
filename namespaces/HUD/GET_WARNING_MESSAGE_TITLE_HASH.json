@@ -1,0 +1,8 @@
+{
+    "GET_WARNING_MESSAGE_TITLE_HASH": {
+        "name": "GET_WARNING_MESSAGE_TITLE_HASH",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

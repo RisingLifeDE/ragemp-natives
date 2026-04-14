@@ -1,0 +1,17 @@
+{
+    "SET_MP_GAMER_TAG_UNK": {
+        "name": "SET_MP_GAMER_TAG_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

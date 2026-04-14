@@ -1,0 +1,13 @@
+{
+    "PAUSE_MENU_IS_CONTEXT_ACTIVE": {
+        "name": "PAUSE_MENU_IS_CONTEXT_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "contextHash"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

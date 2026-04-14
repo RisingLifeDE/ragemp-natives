@@ -1,0 +1,8 @@
+{
+    "GET_PLATFORM_PARTY_UNK": {
+        "name": "GET_PLATFORM_PARTY_UNK",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

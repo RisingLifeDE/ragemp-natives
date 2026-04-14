@@ -1,0 +1,13 @@
+{
+    "SET_MINIMAP_BLOCK_WAYPOINT": {
+        "name": "SET_MINIMAP_BLOCK_WAYPOINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

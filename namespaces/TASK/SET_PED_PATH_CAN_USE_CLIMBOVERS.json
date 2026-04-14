@@ -1,0 +1,17 @@
+{
+    "SET_PED_PATH_CAN_USE_CLIMBOVERS": {
+        "name": "SET_PED_PATH_CAN_USE_CLIMBOVERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "Toggle"
+            }
+        ],
+        "return_type": "void"
+    }
+}

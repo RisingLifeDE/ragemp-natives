@@ -1,0 +1,8 @@
+{
+    "REQUEST_CLOUD_BACKGROUND_SCRIPTS": {
+        "name": "REQUEST_CLOUD_BACKGROUND_SCRIPTS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

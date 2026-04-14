@@ -1,0 +1,8 @@
+{
+    "GET_FINAL_RENDERED_FAR_DOF": {
+        "name": "GET_FINAL_RENDERED_FAR_DOF",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

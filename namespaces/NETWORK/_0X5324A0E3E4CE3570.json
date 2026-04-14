@@ -1,0 +1,17 @@
+{
+    "_0X5324A0E3E4CE3570": {
+        "name": "_0X5324A0E3E4CE3570",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "_0x5324A0E3E4CE3570Result"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "CLEAR_PARACHUTE_PACK_MODEL_OVERRIDE": {
+        "name": "CLEAR_PARACHUTE_PACK_MODEL_OVERRIDE",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "UGC_GET_CREATE_RESULT": {
+        "name": "UGC_GET_CREATE_RESULT",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

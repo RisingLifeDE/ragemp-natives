@@ -1,0 +1,13 @@
+{
+    "DELETE_INCIDENT": {
+        "name": "DELETE_INCIDENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "incidentId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "DISPLAY_LOADING_SCREEN_TIPS": {
+        "name": "DISPLAY_LOADING_SCREEN_TIPS",
+        "comment": "",
+        "params": [],
+        "return_type": "void"
+    }
+}

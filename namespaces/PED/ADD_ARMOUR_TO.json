@@ -1,0 +1,17 @@
+{
+    "ADD_ARMOUR_TO": {
+        "name": "ADD_ARMOUR_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void"
+    }
+}

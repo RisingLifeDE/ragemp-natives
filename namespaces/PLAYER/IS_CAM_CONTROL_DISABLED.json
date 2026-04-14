@@ -1,0 +1,8 @@
+{
+    "IS_CAM_CONTROL_DISABLED": {
+        "name": "IS_CAM_CONTROL_DISABLED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL"
+    }
+}

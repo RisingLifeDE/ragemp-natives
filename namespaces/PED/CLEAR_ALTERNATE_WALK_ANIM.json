@@ -1,0 +1,17 @@
+{
+    "CLEAR_ALTERNATE_WALK_ANIM": {
+        "name": "CLEAR_ALTERNATE_WALK_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void"
+    }
+}

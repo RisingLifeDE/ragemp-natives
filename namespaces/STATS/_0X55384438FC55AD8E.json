@@ -1,0 +1,13 @@
+{
+    "_0X55384438FC55AD8E": {
+        "name": "_0X55384438FC55AD8E",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GET_STEALTH_MOVEMENT": {
+        "name": "GET_STEALTH_MOVEMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL"
+    }
+}

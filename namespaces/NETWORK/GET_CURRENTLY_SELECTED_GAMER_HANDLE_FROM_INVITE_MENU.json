@@ -1,0 +1,8 @@
+{
+    "GET_CURRENTLY_SELECTED_GAMER_HANDLE_FROM_INVITE_MENU": {
+        "name": "GET_CURRENTLY_SELECTED_GAMER_HANDLE_FROM_INVITE_MENU",
+        "comment": "",
+        "params": [],
+        "return_type": "float"
+    }
+}

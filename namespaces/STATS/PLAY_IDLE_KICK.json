@@ -1,0 +1,13 @@
+{
+    "PLAY_IDLE_KICK": {
+        "name": "PLAY_IDLE_KICK",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "void"
+    }
+}

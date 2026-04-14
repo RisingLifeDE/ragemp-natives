@@ -1,0 +1,17 @@
+{
+    "PERFORM_SEQUENCE_LOCALLY": {
+        "name": "PERFORM_SEQUENCE_LOCALLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "taskSequenceId"
+            }
+        ],
+        "return_type": "void"
+    }
+}

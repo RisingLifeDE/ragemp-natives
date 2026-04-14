@@ -1,0 +1,25 @@
+{
+    "ADD_SPLINE_NODE_USING_CAMERA": {
+        "name": "ADD_SPLINE_NODE_USING_CAMERA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "cam2"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void"
+    }
+}
